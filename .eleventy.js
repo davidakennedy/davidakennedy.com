@@ -1,17 +1,24 @@
+// Requirements.
 const { DateTime } = require("luxon");
 const fs = require("fs");
 const pluginRss = require("@11ty/eleventy-plugin-rss");
 const pluginSyntaxHighlight = require("@11ty/eleventy-plugin-syntaxhighlight");
 
+// Configuration and plugins.
 module.exports = function(eleventyConfig) {
   eleventyConfig.addPlugin(pluginRss);
   eleventyConfig.addPlugin(pluginSyntaxHighlight);
   eleventyConfig.setDataDeepMerge(true);
 
+  // Our layouts.
+  eleventyConfig.addLayoutAlias("base", "layouts/base.njk");
+  eleventyConfig.addLayoutAlias("home", "layouts/home.njk");
+  eleventyConfig.addLayoutAlias("page", "layouts/page.njk");
   eleventyConfig.addLayoutAlias("post", "layouts/post.njk");
 
+  // Filters
   eleventyConfig.addFilter("readableDate", dateObj => {
-    return DateTime.fromJSDate(dateObj, {zone: 'utc'}).toFormat("dd LLL yyyy");
+    return DateTime.fromJSDate(dateObj, {zone: 'utc'}).toFormat("LLL dd yyyy");
   });
 
   // https://html.spec.whatwg.org/multipage/common-microsyntaxes.html#valid-date-string
@@ -28,28 +35,66 @@ module.exports = function(eleventyConfig) {
     return array.slice(0, n);
   });
 
+  // Development filters
+  const CleanCSS = require("clean-css");
+  eleventyConfig.addFilter("cssmin", function(code) {
+    return new CleanCSS({}).minify(code).styles;
+  });
+
+  const Terser = require("terser");
+  eleventyConfig.addFilter("jsmin", function(code) {
+    let minified = Terser.minify(code);
+    if( minified.error ) {
+      console.log("Terser error: ", minified.error);
+      return code;
+    }
+
+    return minified.code;
+  });
+
+  const htmlmin = require("html-minifier");
+  eleventyConfig.addTransform("htmlmin", function(content, outputPath) {
+    if( outputPath.endsWith(".html") ) {
+      let minified = htmlmin.minify(content, {
+        useShortDoctype: true,
+        removeComments: true,
+        collapseWhitespace: true
+      });
+      return minified;
+    }
+
+    return content;
+  });
+
+  // Get current year for copyright.
+  eleventyConfig.addShortcode("copyrightDates", (startYear) => {
+    return startYear + " - " + new Date().getFullYear();
+  });
+
+  // Our collections of content.
   eleventyConfig.addCollection("tagList", require("./_11ty/getTagList"));
 
-  eleventyConfig.addPassthroughCopy("img");
-  eleventyConfig.addPassthroughCopy("css");
+  eleventyConfig.addCollection('nav', function(collection) {
+    return collection.getFilteredByTag('nav').sort(function(a, b) {
+      return a.data.navorder - b.data.navorder
+    })
+  })
 
-  /* Markdown Plugins */
+  // Pass these directories through.
+  eleventyConfig.addPassthroughCopy("assets");
+
+  // Markdown plugins.
   let markdownIt = require("markdown-it");
-  let markdownItAnchor = require("markdown-it-anchor");
   let options = {
     html: true,
     breaks: true,
     linkify: true
   };
-  let opts = {
-    permalink: true,
-    permalinkClass: "direct-link",
-    permalinkSymbol: "#"
-  };
 
-  eleventyConfig.setLibrary("md", markdownIt(options)
-    .use(markdownItAnchor, opts)
-  );
+  // Process Markdown files with Nunchucks.
+  module.exports = {
+    markdownTemplateEngine: "njk"
+};
 
   eleventyConfig.setBrowserSyncConfig({
     callbacks: {
@@ -84,7 +129,7 @@ module.exports = function(eleventyConfig) {
     dataTemplateEngine: "njk",
     passthroughFileCopy: true,
     dir: {
-      input: ".",
+      input: "_src",
       includes: "_includes",
       data: "_data",
       output: "_site"

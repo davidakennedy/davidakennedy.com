@@ -1,0 +1,47 @@
+@font-face {
+  font-family: ButlerSubset;
+  font-display: swap;
+  src: url('/assets/fonts/butler-subset/butler_regular-webfont.woff2') format('woff2'),
+       url('/assets/fonts/butler-subset/butler_regular-webfont.woff') format('woff');
+  unicode-range: U+65-U+90, U+97-122;
+}
+@font-face {
+  font-family: ButlerBoldSubset;
+  font-display: swap;
+  src: url('/assets/fonts/butler-subset/butler_bold-webfont.woff2') format('woff2'),
+  url('/assets/fonts/butler-subset/butler_bold-webfont.woff') format('woff');
+  font-weight: 700;
+  unicode-range: U+65-U+90, U+97-122;
+}
+@font-face {
+  font-family: Butler;
+  font-display: swap;
+  src: url('/assets/fonts/butler/butler_regular-webfont.woff2') format('woff2'),
+  url('/assets/fonts/butler/butler_regular-webfont.woff') format('woff');
+}
+@font-face {
+  font-family: ButlerBold;
+  font-display: swap;
+  src: url('/assets/fonts/butler/butler_bold-webfont.woff2') format('woff2'),
+  url('/assets/fonts/butler/butler_bold-webfont.woff') format('woff');
+  font-weight: 700;
+}
+.fonts-stage-1 h1,
+.fonts-stage-1 h2,
+.fonts-stage-1 h3,
+.fonts-stage-1 h4,
+.fonts-stage-1 h5,
+.fonts-stage-1 h6 {
+  font-family: ButlerBoldSubset, "Palatino Linotype", Palatino, Palladio, "URW Palladio L", "Book Antiqua", Baskerville, "Bookman Old Style", "Bitstream Charter", "Nimbus Roman No9 L", Garamond, "Apple Garamond", "ITC Garamond Narrow", "New Century Schoolbook", "Century Schoolbook", "Century Schoolbook L", Georgia, serif;
+  font-weight: 700;
+}
+
+.fonts-stage-2 h1,
+.fonts-stage-2 h2,
+.fonts-stage-2 h3,
+.fonts-stage-2 h4,
+.fonts-stage-2 h5,
+.fonts-stage-2 h6 {
+  font-family: ButlerBold, "Palatino Linotype", Palatino, Palladio, "URW Palladio L", "Book Antiqua", Baskerville, "Bookman Old Style", "Bitstream Charter", "Nimbus Roman No9 L", Garamond, "Apple Garamond", "ITC Garamond Narrow", "New Century Schoolbook", "Century Schoolbook", "Century Schoolbook L", Georgia, serif;
+  font-weight: 700;
+}

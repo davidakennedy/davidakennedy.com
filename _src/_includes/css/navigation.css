@@ -1,0 +1,133 @@
+/* Navigation abstraction */
+.nav {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.nav li {
+  padding: 0 var(--s-3);
+}
+
+.nav li:first-of-type {
+  padding-left: 0;
+}
+
+.nav li:last-of-type {
+  padding-right: 0;
+}
+
+/* Site naigation */
+.site-navigation .nav {
+  justify-content: flex-end;
+}
+
+.site-navigation a {
+  font-weight: 700;
+  text-decoration: none;
+}
+
+.site-navigation a:hover {
+  text-decoration: underline;
+}
+
+.site-navigation a:visited {
+  text-decoration: none;
+}
+
+/* Post Navigation */
+.posts-pagination a {
+  font-size: var(--s-1);
+  font-weight: 700;
+  text-decoration: none;
+}
+
+.posts-pagination a:hover {
+  text-decoration: underline;
+}
+
+.posts-pagination svg,
+.posts-pagination a {
+  display: inline-block;
+  vertical-align: middle;
+}
+
+/* Links */
+ a {
+   color: var(--text);
+   position: relative;
+   text-decoration: underline;
+}
+
+a:hover {
+  outline: 0;
+  text-decoration: none;
+}
+
+a:focus {
+  outline: 2px solid;
+  outline-offset: 2px;
+  text-decoration: none;
+}
+
+a:active {
+  outline: 0;
+  top: 2px;
+}
+
+.skip-link {
+	background-color: var(--text);
+  color: var(--background);
+  font-size: var(--s-1);
+  font-weight: 700;
+  max-width: none;
+  padding: var(--s-5) var(--s-4);
+  text-align: center;
+}
+
+.skip-link:focus {
+  display: block;
+  outline-offset: -8px;
+}
+
+/* Only style visited links for main content container. */
+.post-content a:visited,
+.page-content a:visited,
+.post-list a:visited {
+  text-decoration: underline dashed;
+}
+
+.site-title a {
+  font-weight: 700;
+  text-decoration: none;
+}
+
+.site-title a:hover {
+	text-decoration: underline;
+}
+
+.meta a {
+  color: var(--light);
+}
+
+/* Social navigation */
+.social-navigation {
+  margin-bottom: var(--s3);
+}
+
+.social-navigation .nav {
+  justify-content: center;
+}
+
+.social-navigation a {
+  text-decoration: none;
+}
+
+.social-navigation a:hover {
+  outline: 2px solid;
+  outline-offset: 2px;
+}
+
+.social-navigation a:visited {
+  text-decoration: none;
+}

@@ -1,0 +1,21 @@
+{% extends 'layouts/base.njk' %}
+{% block content %}
+  <div class="page-header">
+    <h1 class="title p-name">{{ title or renderData.title }}</h1>
+  </div>
+
+  <div class="page-content">
+    <p class="h-card">
+      <img class="u-photo" src="http://example.org/photo.png" alt="" />
+      <p>Hi there! My name is <span class="p-name">David A. Kennedy</span>, but my friends call me <span class="p-nickname">DK</span>. I work as a Senior UX Designer at <a href="https://adhocteam.us/">Ad Hoc</a>, focusing on accessibility. You can reach me at <a class="u-email" href="mailto:me@davidakennedy.com">me@davidakennedy.com</a> and
+      find out more <a class="u-url" href="{{ '/about/' | url }}">about me</a>.</p>
+    </p>
+
+    {{ content | safe }}
+
+    <h2>Latest posts</h2>
+    {% set postlist = collections.posts | head(-5) %}
+    {% include "partials/recent-posts.njk" %}
+    <p>More posts can be found in <a href="{{ '/blog/' | url }}">the archive</a>.</p>
+  </div>
+{% endblock %}

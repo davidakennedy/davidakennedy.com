@@ -1,0 +1,15 @@
+---
+title: Tags
+permalink: /tags/
+layout: layouts/page.njk
+---
+{% block content %}
+  {% if collections.tagList %}
+    <ul>
+      {% for tag in collections.tagList %}
+      {% set tagUrl %}/tag/{{ tag | slug }}/{% endset %}
+        <li><a href="{{ tagUrl | url }}" class="tag">{{ tag }}</a></li>
+      {% endfor %}
+    </ul>
+  {% endif %}
+  {% endblock %}

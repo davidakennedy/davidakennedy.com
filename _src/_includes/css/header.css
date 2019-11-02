@@ -1,0 +1,20 @@
+/* Header */
+body {
+  border-top: var(--border-thick) solid var(--text);
+}
+
+.site-header {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  font-size: var(--s-1);
+  justify-content: space-between;
+  margin: 0 auto var(--s6);
+  max-width: 50rem;
+  padding: var(--s3) var(--s1) 0;
+  width: 100%;
+}
+
+.site-title {
+  margin-bottom: 0;
+}
