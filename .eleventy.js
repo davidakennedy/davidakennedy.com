@@ -93,11 +93,6 @@ module.exports = function(eleventyConfig) {
     linkify: true
   };
 
-  // Process Markdown files with Nunchucks.
-  module.exports = {
-    markdownTemplateEngine: "njk"
-  };
-
   eleventyConfig.setBrowserSyncConfig({
     callbacks: {
       ready: function(err, browserSync) {
