@@ -1,0 +1,302 @@
+/* Typography */
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  clear: both;
+  font-family: var(--font-serif);
+  hyphens: auto;
+  line-height: var(--line-height-small);
+	word-wrap: break-word;
+}
+
+h1,
+.h1 {
+  font-size: var(--s4);
+}
+
+h2,
+.h2 {
+  font-size: var(--s3);
+}
+
+h3,
+.h3 {
+  font-size: var(--s2);
+}
+
+h4,
+.h4 {
+  font-size: var(--s1);
+}
+
+h5,
+.h5 {
+  font-size: var(--s0);
+}
+
+h6,
+.h6 {
+  font-size: var(--s-1);
+}
+
+.page-header > * + *,
+.post-header > * + *,
+.page-content > * + *,
+.post-content > * + *,
+.page-header > *:first-of-type,
+.post-header > *:first-of-type,
+.page-content > *:first-of-type,
+.post-content > *:first-of-type {
+  margin-bottom: var(--s3);
+}
+
+dfn,
+cite,
+em,
+i {
+	font-style: italic;
+}
+
+blockquote {
+	border-left: var(--border-thin) solid var(--accent);
+  font-style: italic;
+  margin-left: var(--s1);
+  padding: 0 var(--s1);
+}
+
+address {
+  font-style: italic;
+  margin-top: 0;
+}
+
+pre {
+  background-color: var(--text);
+  color: var(--background);
+	font-family: Consolas, "Andale Mono WT", "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", "DejaVu Sans Mono", "Bitstream Vera Sans Mono", "Liberation Mono", "Nimbus Mono L", Monaco, "Courier New", Courier, monospace;
+  font-size: var(--s-1);
+  line-height: var(--line-height-small);
+	max-width: 100%;
+	overflow: auto;
+	padding: var(--s1) var(--s2);
+}
+
+code,
+kbd,
+var {
+	font-family: Consolas, "Andale Mono WT", "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", "DejaVu Sans Mono", "Bitstream Vera Sans Mono", "Liberation Mono", "Nimbus Mono L", Monaco, "Courier New", Courier, monospace;
+  font-size: var(s-1);
+}
+
+abbr {
+	border-bottom: 1px dotted var(--accent);
+	cursor: help;
+}
+
+mark,
+ins {
+  background: #ffff00;
+  color: var(--text);
+	text-decoration: none;
+}
+
+blockquote,
+q {
+	quotes: "" "";
+}
+
+blockquote:before,
+blockquote:after,
+q:before,
+q:after {
+	content: "";
+}
+
+small {
+	font-size: var(--s-1);
+}
+
+table,
+th,
+td {
+	border: 1px solid var(--accentlight);
+}
+
+table {
+	border-collapse: separate;
+	border-spacing: 0;
+	border-width: 1px 0 0 1px;
+  padding: 0 !important;
+	table-layout: fixed;
+	/* Prevents HTML tables from becoming too wide */
+	width: 100%;
+}
+
+caption,
+th,
+td {
+	font-weight: normal;
+	text-align: left;
+}
+
+th {
+	border-width: 0 1px 1px 0;
+	font-weight: 700;
+}
+
+td {
+	border-width: 0 1px 1px 0;
+}
+
+th,
+td {
+	padding: var(--s-2);
+}
+
+/* Forms */
+label {
+	font-weight: 600;
+}
+
+input[type="text"],
+input[type="email"],
+input[type="url"],
+input[type="password"],
+input[type="search"],
+input[type="number"],
+input[type="tel"],
+input[type="range"],
+input[type="date"],
+input[type="month"],
+input[type="week"],
+input[type="time"],
+input[type="datetime"],
+input[type="datetime-local"],
+input[type="color"],
+textarea {
+  background-color: #f6f6f6;
+  border: 1px solid var(--accent);
+  border-bottom-width: var(--border-thin);
+  border-radius: var(--border-thin);
+  padding: var(--s-7);
+	transition: all 0.2s;
+	-webkit-appearance: none;
+}
+input[type="text"]:focus,
+input[type="email"]:focus,
+input[type="url"]:focus,
+input[type="password"]:focus,
+input[type="search"]:focus,
+input[type="number"]:focus,
+input[type="tel"]:focus,
+input[type="range"]:focus,
+input[type="date"]:focus,
+input[type="month"]:focus,
+input[type="week"]:focus,
+input[type="time"]:focus,
+input[type="datetime"]:focus,
+input[type="datetime-local"]:focus,
+input[type="color"]:focus,
+textarea:focus {
+	border-color: var(--text);
+	outline: none;
+}
+
+select {
+	border: 1px solid var(--accent);
+}
+
+textarea {
+	padding-left: var(--s-7);
+	width: 100%;
+}
+
+button,
+input[type="button"],
+input[type="reset"],
+input[type="submit"] {
+  background-color: var(--text);
+  border: 1px solid var(--text);
+  border-bottom-width: var(--border-thin);
+  border-radius: var(--border-thin);
+	color: var(--background);
+	cursor: pointer;
+	font-weight: 600;
+  padding: var(--s-5) var(--s-4);
+  position: relative;
+	transition: color 0.2s;
+	-webkit-appearance: none;
+}
+
+button:hover,
+input[type="button"]:hover,
+input[type="reset"]:hover,
+input[type="submit"]:hover {
+  background-color: var(--white);
+	color: var(--black);
+}
+
+button:active,
+input[type="button"]:active,
+input[type="reset"]:active,
+input[type="submit"]:active {
+  background-color: var(--white);
+  color: var(--black);
+  top: 2px;
+}
+
+button:focus,
+input[type="button"]:focus,
+input[type="reset"]:focus,
+input[type="submit"]:focus {
+  background-color: var(--white);
+  color: var(--black);
+  outline: 2px solid;
+  outline-offset: 2px;
+}
+
+/* Formatting */
+hr {
+  background: var(--accentlight);
+	border: 0;
+  height: var(--border-thin);
+  margin-top: 0;
+}
+
+ul,
+ol {
+  margin-left: var(--s1);
+  margin-top: 0;
+}
+
+ul {
+	list-style: disc inside;
+}
+
+ol {
+	list-style: decimal inside;
+}
+
+li > ul,
+li > ol {
+	margin-bottom: 0;
+	margin-left: var(--s1);
+}
+
+dt {
+  border-bottom: 1px solid var(--text);
+  font-weight: 600;
+  margin-bottom: var(--s-1);
+}
+
+dd {
+  margin-bottom: var(--s1);
+  margin-left: var(--s1);
+  margin-top: 0;
+}
+
+table {
+	width: 100%;
+}

@@ -1,0 +1,36 @@
+{% extends 'layouts/base.njk' %}
+{% block content %}
+  <article class="post h-entry">
+    <header class="post-header">
+      <h1 class="title p-name">{{ title or renderData.title }}</h1>
+      {% if description %}<p class="excerpt p-summary">{{ description }}</p>{% endif %}
+    </header>
+
+    <div class="post-content e-content">
+      {{ content | safe }}
+    </div>
+
+    <footer class="post-meta">
+      <div class="meta">
+        <div class="b-d-line">
+          <span class="author p-author h-card">By {{ metadata.author.name }}</span>
+          <span class="date"> Published on <time class="dt-published" datetime="{{ page.date | htmlDateString }}">{{ page.date | readableDate }}</time></span>
+        </div>
+        {% if tags %}
+          {% set lastTag = tags | last %}
+          <div class="tags">
+            Tagged
+            <ul class="tag-list">
+              {% for tag in tags %}
+                {%- if tag != "posts" -%}
+                  {% set tagUrl %}/tag/{{ tag | slug }}/{% endset %}
+                  <li><a href="{{ tagUrl | url }}" class="tag">{{ tag }}</a>{% if tag != lastTag %},&nbsp;{% endif %}</li>
+                {%- endif -%}
+              {% endfor %}
+            </ul>
+          </div>
+        {% endif %}
+      </div>
+    </footer>
+  </article>
+{% endblock %}

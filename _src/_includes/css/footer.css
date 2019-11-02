@@ -1,0 +1,17 @@
+/* Footer */
+.site-footer {
+  margin: 0 auto;
+  max-width: 50rem;
+  padding: 0 var(--s1) var(--s3);
+  text-align: center;
+  width: 100%;
+}
+
+.site-footer::before {
+  border-top: var(--border-thick) dashed var(--text);
+  content: "";
+  display: block;
+  height: 0;
+  margin: 0 auto var(--s3);
+  width: 30%;
+}

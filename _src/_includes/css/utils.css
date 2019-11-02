@@ -1,0 +1,91 @@
+/* Variables */
+:root {
+  /* Colors */
+  --accentlight: #999;
+  --accent: #888;
+  --light: #666;
+  --text: #111;
+  --background: #eee;
+  /* Scale */
+  --ratio: 1.2;
+  --s-7: calc(var(--s-6) / var(--ratio));
+  --s-6: calc(var(--s-5) / var(--ratio));
+  --s-5: calc(var(--s-4) / var(--ratio));
+  --s-4: calc(var(--s-3) / var(--ratio));
+  --s-3: calc(var(--s-2) / var(--ratio));
+  --s-2: calc(var(--s-1) / var(--ratio));
+  --s-1: calc(var(--s0) / var(--ratio));
+  --s0: 1rem;
+  --s1: calc(var(--s0) * var(--ratio));
+  --s2: calc(var(--s1) * var(--ratio));
+  --s3: calc(var(--s2) * var(--ratio));
+  --s4: calc(var(--s3) * var(--ratio));
+  --s5: calc(var(--s4) * var(--ratio));
+  --s6: calc(var(--s5) * var(--ratio));
+  --s7: calc(var(--s6) * var(--ratio));
+  --line-height: 1.44;
+  --line-height-small: var(--ratio);
+  --measure: 60ch;
+  /* Other stuff */
+  --font-serif: ButlerBold, "Palatino Linotype", Palatino, Palladio, "URW Palladio L", "Book Antiqua", Baskerville, "Bookman Old Style", "Bitstream Charter", "Nimbus Roman No9 L", Garamond, "Apple Garamond", "ITC Garamond Narrow", "New Century Schoolbook", "Century Schoolbook", "Century Schoolbook L", Georgia, serif;
+  --font-sans-serif: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+  --border-thin: var(--s-7);
+  --border-thick: var(--s-4);
+  background-color: var(--background);
+	color: var(--text);
+	font-family: var(--font-sans-serif);
+  font-size: calc(0.65vw + 1em);
+  font-weight: 400;
+	line-height: var(--line-height);
+}
+
+/* Utilities */
+.sr-only {
+  border: 0;
+  clip: rect(0 0 0 0);
+  height: 1px;
+  margin: -1px;
+  overflow: hidden;
+  padding: 0;
+  position: absolute;
+  white-space: nowrap;
+  width: 1px;
+}
+
+.sr-only.focusable:active,
+.sr-only.focusable:focus {
+  clip: auto;
+  height: auto;
+  margin: 0;
+  overflow: visible;
+  position: static;
+  white-space: inherit;
+  width: auto;
+}
+
+/*  Hide visually and from screen readers, but maintain layout */
+.invisible {
+  visibility: hidden;
+}
+
+.clear:before,
+.clear:after {
+  content: "";
+	display: table;
+	table-layout: fixed;
+}
+
+.clear:after {
+  clear: both;
+}
+
+.callout {
+	border: var(--border-thin) solid var(--accent);
+  border-radius: var(--border-thin);
+  padding: var(--s-1);
+}
+
+.intro {
+  font-style: italic;
+	font-size: var(--s1);
+}

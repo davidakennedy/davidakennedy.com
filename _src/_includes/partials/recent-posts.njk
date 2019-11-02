@@ -1,0 +1,10 @@
+<ol class="post-list">
+{% for post in postlist | reverse %}
+  <li class="post h-entry{% if post.url == url %} postlist-item-active{% endif %}">
+    <a href="{{ post.url | url }}" class="post-link">
+      <h3 class="title p-name">{% if post.data.title %}{{ post.data.title }}{% else %}<code>{{ post.url }}</code>{% endif %}</h3>
+    </a>
+    <span class="sr-only">Published on </span><time class="date dt-published" datetime="{{ post.date | htmlDateString }}">{{ post.date | readableDate }}</time>
+  </li>
+{% endfor %}
+</ol>
