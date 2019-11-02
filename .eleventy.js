@@ -18,17 +18,19 @@ module.exports = function(eleventyConfig) {
 
   // Filters
   eleventyConfig.addFilter("readableDate", dateObj => {
-    return DateTime.fromJSDate(dateObj, {zone: 'utc'}).toFormat("LLL dd yyyy");
+    return DateTime.fromJSDate(dateObj, { zone: "utc" }).toFormat(
+      "LLL dd yyyy"
+    );
   });
 
   // https://html.spec.whatwg.org/multipage/common-microsyntaxes.html#valid-date-string
-  eleventyConfig.addFilter('htmlDateString', (dateObj) => {
-    return DateTime.fromJSDate(dateObj, {zone: 'utc'}).toFormat('yyyy-LL-dd');
+  eleventyConfig.addFilter("htmlDateString", dateObj => {
+    return DateTime.fromJSDate(dateObj, { zone: "utc" }).toFormat("yyyy-LL-dd");
   });
 
   // Get the first `n` elements of a collection.
   eleventyConfig.addFilter("head", (array, n) => {
-    if( n < 0 ) {
+    if (n < 0) {
       return array.slice(n);
     }
 
@@ -44,7 +46,7 @@ module.exports = function(eleventyConfig) {
   const Terser = require("terser");
   eleventyConfig.addFilter("jsmin", function(code) {
     let minified = Terser.minify(code);
-    if( minified.error ) {
+    if (minified.error) {
       console.log("Terser error: ", minified.error);
       return code;
     }
@@ -54,7 +56,7 @@ module.exports = function(eleventyConfig) {
 
   const htmlmin = require("html-minifier");
   eleventyConfig.addTransform("htmlmin", function(content, outputPath) {
-    if( outputPath.endsWith(".html") ) {
+    if (outputPath.endsWith(".html")) {
       let minified = htmlmin.minify(content, {
         useShortDoctype: true,
         removeComments: true,
@@ -67,18 +69,18 @@ module.exports = function(eleventyConfig) {
   });
 
   // Get current year for copyright.
-  eleventyConfig.addShortcode("copyrightDates", (startYear) => {
+  eleventyConfig.addShortcode("copyrightDates", startYear => {
     return startYear + " - " + new Date().getFullYear();
   });
 
   // Our collections of content.
   eleventyConfig.addCollection("tagList", require("./_11ty/getTagList"));
 
-  eleventyConfig.addCollection('nav', function(collection) {
-    return collection.getFilteredByTag('nav').sort(function(a, b) {
-      return a.data.navorder - b.data.navorder
-    })
-  })
+  eleventyConfig.addCollection("nav", function(collection) {
+    return collection.getFilteredByTag("nav").sort(function(a, b) {
+      return a.data.navorder - b.data.navorder;
+    });
+  });
 
   // Pass these directories through.
   eleventyConfig.addPassthroughCopy("assets");
@@ -94,12 +96,12 @@ module.exports = function(eleventyConfig) {
   // Process Markdown files with Nunchucks.
   module.exports = {
     markdownTemplateEngine: "njk"
-};
+  };
 
   eleventyConfig.setBrowserSyncConfig({
     callbacks: {
       ready: function(err, browserSync) {
-        const content_404 = fs.readFileSync('_site/404.html');
+        const content_404 = fs.readFileSync("_site/404.html");
 
         browserSync.addMiddleware("*", (req, res) => {
           // Provides the 404 content without redirect.
@@ -111,12 +113,7 @@ module.exports = function(eleventyConfig) {
   });
 
   return {
-    templateFormats: [
-      "md",
-      "njk",
-      "html",
-      "liquid"
-    ],
+    templateFormats: ["md", "njk", "html", "liquid"],
 
     // If your site lives in a different subdirectory, change this.
     // Leading or trailing slashes are all normalized away, so don’t worry about it.
@@ -124,7 +121,7 @@ module.exports = function(eleventyConfig) {
     // This is only used for URLs (it does not affect your file structure)
     pathPrefix: "/",
 
-    markdownTemplateEngine: "liquid",
+    markdownTemplateEngine: "njk",
     htmlTemplateEngine: "njk",
     dataTemplateEngine: "njk",
     passthroughFileCopy: true,
