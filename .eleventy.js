@@ -70,7 +70,7 @@ module.exports = function(eleventyConfig) {
 
   // Generate image markup.
   // A responsive image helper using Netlify Large Media - image transformation
-  eleventyConfig.addShortcode("img", (classname = "", url, alt = "") => {
+  eleventyConfig.addShortcode("img", (classname = "", url = "", alt = "") => {
     return `<img class="${classname}"
     srcset="/assets/img/${url}?nf_resize=fit&w=320 320w,
       /assets/img/${url}?nf_resize=fit&w=640 640w,
@@ -80,7 +80,7 @@ module.exports = function(eleventyConfig) {
       /assets/img/${url}?nf_resize=fit&w=1440 1440w,
       /assets/img/${url}?nf_resize=fit&w=1920 1920w"
     src="/assets/img/${url}?nf_resize=fit&w=600" alt="${alt}"
-    >`;
+    />`;
   });
 
   // Get current year for copyright.
