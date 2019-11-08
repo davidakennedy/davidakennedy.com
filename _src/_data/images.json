@@ -1,9 +1,15 @@
 {
-  "list": [
+  "list": [{}],
+  "dk": [
+    {
+      "url": "47028035001_00d8d35d24_o.jpg",
+      "caption": "David A. Kennedy",
+      "alt": "David A. Kennedy speaks on a stage in front of audience."
+    },
     {
       "url": "00100dPORTRAIT_00100_BURST20180923140303273_COVER.jpg",
-      "caption": "David Kennedy",
-      "alt": "David Kennedy"
+      "caption": "David A. Kennedy",
+      "alt": "David A. Kennedy."
     }
   ]
 }

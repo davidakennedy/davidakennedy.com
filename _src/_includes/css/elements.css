@@ -9,7 +9,7 @@ h6 {
   font-family: var(--font-serif);
   hyphens: auto;
   line-height: var(--line-height-small);
-	word-wrap: break-word;
+  word-wrap: break-word;
 }
 
 h1,
@@ -49,7 +49,9 @@ h6,
 .page-header > *:first-of-type,
 .post-header > *:first-of-type,
 .page-content > *:first-of-type,
-.post-content > *:first-of-type {
+.post-content > *:first-of-type,
+.page-content > * > *,
+.post-content > * > * {
   margin-bottom: var(--s3);
 }
 
@@ -57,11 +59,11 @@ dfn,
 cite,
 em,
 i {
-	font-style: italic;
+  font-style: italic;
 }
 
 blockquote {
-	border-left: var(--border-thin) solid var(--accent);
+  border-left: var(--border-thin) solid var(--accent);
   font-style: italic;
   margin-left: var(--s1);
   padding: 0 var(--s1);
@@ -75,89 +77,95 @@ address {
 pre {
   background-color: var(--text);
   color: var(--background);
-	font-family: Consolas, "Andale Mono WT", "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", "DejaVu Sans Mono", "Bitstream Vera Sans Mono", "Liberation Mono", "Nimbus Mono L", Monaco, "Courier New", Courier, monospace;
+  font-family: Consolas, "Andale Mono WT", "Andale Mono", "Lucida Console",
+    "Lucida Sans Typewriter", "DejaVu Sans Mono", "Bitstream Vera Sans Mono",
+    "Liberation Mono", "Nimbus Mono L", Monaco, "Courier New", Courier,
+    monospace;
   font-size: var(--s-1);
   line-height: var(--line-height-small);
-	max-width: 100%;
-	overflow: auto;
-	padding: var(--s1) var(--s2);
+  max-width: 100%;
+  overflow: auto;
+  padding: var(--s1) var(--s2);
 }
 
 code,
 kbd,
 var {
-	font-family: Consolas, "Andale Mono WT", "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", "DejaVu Sans Mono", "Bitstream Vera Sans Mono", "Liberation Mono", "Nimbus Mono L", Monaco, "Courier New", Courier, monospace;
+  font-family: Consolas, "Andale Mono WT", "Andale Mono", "Lucida Console",
+    "Lucida Sans Typewriter", "DejaVu Sans Mono", "Bitstream Vera Sans Mono",
+    "Liberation Mono", "Nimbus Mono L", Monaco, "Courier New", Courier,
+    monospace;
   font-size: var(s-1);
 }
 
 abbr {
-	border-bottom: 1px dotted var(--accent);
-	cursor: help;
+  border-bottom: 1px dotted var(--accent);
+  cursor: help;
 }
 
 mark,
 ins {
   background: #ffff00;
   color: var(--text);
-	text-decoration: none;
+  text-decoration: none;
 }
 
 blockquote,
 q {
-	quotes: "" "";
+  quotes: "" "";
 }
 
 blockquote:before,
 blockquote:after,
 q:before,
 q:after {
-	content: "";
+  content: "";
 }
 
 small {
-	font-size: var(--s-1);
+  font-size: var(--s-1);
 }
 
 table,
 th,
 td {
-	border: 1px solid var(--accentlight);
+  border: 1px solid var(--accentlight);
 }
 
 table {
-	border-collapse: separate;
-	border-spacing: 0;
-	border-width: 1px 0 0 1px;
+  border-collapse: separate;
+  border-spacing: 0;
+  border-width: 1px 0 0 1px;
   padding: 0 !important;
-	table-layout: fixed;
-	/* Prevents HTML tables from becoming too wide */
-	width: 100%;
+  table-layout: fixed;
+  /* Prevents HTML tables from becoming too wide */
+  width: 100%;
 }
 
 caption,
 th,
 td {
-	font-weight: normal;
-	text-align: left;
+  font-weight: normal;
+  text-align: left;
 }
 
 th {
-	border-width: 0 1px 1px 0;
-	font-weight: 700;
+  border-width: 0 1px 1px 0;
+  font-weight: 700;
 }
 
 td {
-	border-width: 0 1px 1px 0;
+  border-width: 0 1px 1px 0;
 }
 
 th,
 td {
-	padding: var(--s-2);
+  padding: var(--s-2);
 }
 
 /* Forms */
 label {
-	font-weight: 600;
+  font-weight: 600;
 }
 
 input[type="text"],
@@ -181,8 +189,8 @@ textarea {
   border-bottom-width: var(--border-thin);
   border-radius: var(--border-thin);
   padding: var(--s-7);
-	transition: all 0.2s;
-	-webkit-appearance: none;
+  transition: all 0.2s;
+  -webkit-appearance: none;
 }
 input[type="text"]:focus,
 input[type="email"]:focus,
@@ -200,17 +208,17 @@ input[type="datetime"]:focus,
 input[type="datetime-local"]:focus,
 input[type="color"]:focus,
 textarea:focus {
-	border-color: var(--text);
-	outline: none;
+  border-color: var(--text);
+  outline: none;
 }
 
 select {
-	border: 1px solid var(--accent);
+  border: 1px solid var(--accent);
 }
 
 textarea {
-	padding-left: var(--s-7);
-	width: 100%;
+  padding-left: var(--s-7);
+  width: 100%;
 }
 
 button,
@@ -221,13 +229,13 @@ input[type="submit"] {
   border: 1px solid var(--text);
   border-bottom-width: var(--border-thin);
   border-radius: var(--border-thin);
-	color: var(--background);
-	cursor: pointer;
-	font-weight: 600;
+  color: var(--background);
+  cursor: pointer;
+  font-weight: 600;
   padding: var(--s-5) var(--s-4);
   position: relative;
-	transition: color 0.2s;
-	-webkit-appearance: none;
+  transition: color 0.2s;
+  -webkit-appearance: none;
 }
 
 button:hover,
@@ -235,7 +243,7 @@ input[type="button"]:hover,
 input[type="reset"]:hover,
 input[type="submit"]:hover {
   background-color: var(--white);
-	color: var(--black);
+  color: var(--black);
 }
 
 button:active,
@@ -260,7 +268,7 @@ input[type="submit"]:focus {
 /* Formatting */
 hr {
   background: var(--accentlight);
-	border: 0;
+  border: 0;
   height: var(--border-thin);
   margin-top: 0;
 }
@@ -272,17 +280,17 @@ ol {
 }
 
 ul {
-	list-style: disc inside;
+  list-style: disc inside;
 }
 
 ol {
-	list-style: decimal inside;
+  list-style: decimal inside;
 }
 
 li > ul,
 li > ol {
-	margin-bottom: 0;
-	margin-left: var(--s1);
+  margin-bottom: 0;
+  margin-left: var(--s1);
 }
 
 dt {
@@ -298,5 +306,5 @@ dd {
 }
 
 table {
-	width: 100%;
+  width: 100%;
 }
