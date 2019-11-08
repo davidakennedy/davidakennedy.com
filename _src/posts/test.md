@@ -3,12 +3,12 @@ title: Test all the things
 description: Let's test some HTML.
 date: 2019-08-24
 tags:
-- test it long
-- Test it too
-- Read this
-- Loooooooong tag
-- New one
-- Test it some more
+  - test it long
+  - Test it too
+  - Read this
+  - Loooooooong tag
+  - New one
+  - Test it some more
 layout: layouts/post.njk
 ---
 
@@ -92,7 +92,7 @@ height: 80px;
 }
 </code></pre>
 
-``` js
+```js
 function myFunction() {
   return true;
 }
