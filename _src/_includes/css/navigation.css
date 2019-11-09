@@ -90,6 +90,10 @@ a:active {
   outline-offset: -8px;
 }
 
+.image-link {
+  display: block;
+}
+
 /* Only style visited links for main content container. */
 .post-content a:visited,
 .page-content a:visited,
