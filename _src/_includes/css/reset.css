@@ -57,15 +57,17 @@ a:not([class]) {
 
 /* Make images and embeds easier to work with */
 img {
+  display: block;
   height: auto;
   max-width: 100%;
-  display: block;
+  width: 100%;
 }
 
 embed,
 iframe,
 object {
-	max-width: 100%;
+  max-width: 100%;
+  width: 100%;
 }
 
 /* Natural flow and rhythm in articles by default */

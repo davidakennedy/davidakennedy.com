@@ -50,9 +50,16 @@ h6,
 .post-header > *:first-of-type,
 .page-content > *:first-of-type,
 .post-content > *:first-of-type,
-.page-content > * > *,
-.post-content > * > * {
+.page-content > div > *,
+.post-content > div > *,
+.page-content > p > *,
+.post-content > p > * {
   margin-bottom: var(--s3);
+}
+
+.page-content figure > figcaption,
+.post-content figure > figcaption {
+  margin-top: var(--s-3);
 }
 
 dfn,
@@ -307,4 +314,10 @@ dd {
 
 table {
   width: 100%;
+}
+
+figcaption {
+  font-size: var(--s-1);
+  font-style: italic;
+  text-align: center;
 }
