@@ -110,11 +110,20 @@ abbr {
   cursor: help;
 }
 
-mark,
-ins {
-  background: #ffff00;
+mark {
+  background: #fbf9c9;
   color: var(--text);
   text-decoration: none;
+}
+
+del {
+    background-color: #c4604f;
+    text-decoration: line-through;
+}
+
+ins {
+    background-color: #93C088;
+    text-decoration: none;
 }
 
 blockquote,

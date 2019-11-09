@@ -14,7 +14,7 @@ layout: layouts/page.njk
 templateClass: archive-template
 renderData:
   title: Tagged “{{ tag }}”
-permalink: /tag/{{ tag | slug }}/
+permalink: /tag/{{ tag | slug }}/index.html
 ---
 {% set postlist = collections[ tag ] %}
 {% include "partials/archive-post-list.njk" %}

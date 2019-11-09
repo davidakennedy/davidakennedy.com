@@ -6,6 +6,7 @@ tags:
   - nav
 navtitle: About
 navorder: 2
+permalink: about/index.html
 ---
 
 {% img "wide-width", "", "23469199744_ea3ba2216f_o-1024x683.jpg", "David Kennedy speaking at WordCamp US 2015.", "" %}
