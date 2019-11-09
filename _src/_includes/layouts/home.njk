@@ -6,8 +6,8 @@
 
   <div class="page-content">
     <div class="h-card">
-      {% img "u-photo", "47028035001_00d8d35d24_o.jpg", "David A. Kennedy speaks on a stage in front of audience." %}
-      <p class="intro">Hi there! My name is <span class="p-name">David A. Kennedy</span>, but my friends call me <span class="p-nickname">DK</span>. I work as a Senior UX Designer at <a href="https://adhocteam.us/">Ad Hoc</a>, focusing on accessibility. You can reach me at <a class="u-email" href="mailto:me@davidakennedy.com">me@davidakennedy.com</a> and
+      {% img "", "", "47028035001_00d8d35d24_o.jpg", "David A. Kennedy speaks on a stage in front of audience.", "DK on stage." %}
+      <p class="intro">Hi there! I'm <span class="p-name">David A. Kennedy</span>, but my friends call me <span class="p-nickname">DK</span>. I work as a Senior UX Designer at <a href="https://adhocteam.us/">Ad Hoc</a>, focusing on accessibility. You can reach me at <a class="u-email" href="mailto:me@davidakennedy.com">me@davidakennedy.com</a> and
       find out more <a class="u-url" href="{{ '/about/' | url }}">about me</a>.</p>
     </div>
 
@@ -16,6 +16,6 @@
     <h2>Latest posts</h2>
     {% set postlist = collections.posts | head(-5) %}
     {% include "partials/recent-posts.njk" %}
-    <p>More posts can be found in <a href="{{ '/blog/' | url }}">the archive</a>.</p>
+    <p>More posts can be found on <a href="{{ '/blog/' | url }}">the blog</a>.</p>
   </div>
 {% endblock %}
