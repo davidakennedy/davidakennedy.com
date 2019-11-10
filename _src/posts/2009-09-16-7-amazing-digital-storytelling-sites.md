@@ -1,6 +1,6 @@
 ---
 title: Seven Amazing Digital Storytelling Websites
-description: This is a post on My Blog about agile frameworks.
+description: Some of David A. Kennedy's favorite digital storytelling websites.
 date: 2009-09-16
 tags:
   - Journalism
