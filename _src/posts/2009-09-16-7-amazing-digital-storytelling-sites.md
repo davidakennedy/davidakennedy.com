@@ -1,12 +1,14 @@
 ---
-title: 7 Amazing Digital Storytelling Websites
+title: Seven Amazing Digital Storytelling Websites
 description: This is a post on My Blog about agile frameworks.
 date: 2009-09-16
 tags:
   - Journalism
   - Storytelling
 layout: layouts/post.njk
+permalink: blog/7-amazing-digital-storytelling-sites/index.html
 ---
+
 {% img "wide-width", "", "sergi-kabrera-2xU7rYxsTiM-unsplash.jpg", "White keyboard.", "" %}
 
 Stories. We love them.
@@ -29,7 +31,7 @@ An amazing collection of all things digital story by Martin Jorgensen. Links lea
 
 One of the premier resources for interactive media storytelling, run by the Online News Association. This site is chock full of incredible work waiting to be devoured.
 
-##  [10,000 Words](http://10000words.net/)
+## [10,000 Words](http://10000words.net/)
 
 A blog maintained by journalist Mark S. Luckie that concentrates on the intersection of technology and journalism. Written with real heart, and full of great advice, tools and tips.
 
