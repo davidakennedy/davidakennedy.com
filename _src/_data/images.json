@@ -1,6 +1,5 @@
 {
-  "listCollection": [{}],
-  "dkCollection": [
+  "dk-collection": [
     {
       "url": "47028035001_00d8d35d24_o.jpg",
       "caption": "David A. Kennedy speaks on a stage in front of audience.",
@@ -17,11 +16,18 @@
       "alt": "David Kennedy speaking at WordCamp US 2015."
     }
   ],
-  "accessibleZen": [
+  "accessible-zen": [
     {
       "url": "accessible-zen-screenshot.png",
       "caption": "",
       "alt": ""
+    }
+  ],
+  "7-amazing-digital-storytelling-websites": [
+    {
+      "url": "sergi-kabrera-2xU7rYxsTiM-unsplash.jpg",
+      "caption": "",
+      "alt": "White keyboard."
     }
   ]
 }

@@ -5,8 +5,6 @@
       <h1 class="title p-name">{{ title or renderData.title }}</h1>
     </div>
 
-    {% if description %}<p class="p-summary">{{ description }}</p>{% endif %}
-
     <div class="page-content">
       {{ content | safe }}
     </div>

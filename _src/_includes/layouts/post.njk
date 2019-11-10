@@ -3,7 +3,6 @@
   <article class="post h-entry">
     <header class="post-header">
       <h1 class="title p-name">{{ title or renderData.title }}</h1>
-      {% if description %}<p class="excerpt p-summary">{{ description }}</p>{% endif %}
     </header>
 
     <div class="post-content e-content">
@@ -19,7 +18,7 @@
         {% if tags %}
           {% set lastTag = tags | last %}
           <div class="tags">
-            Tagged
+            Tagged&nbsp;
             <ul class="tag-list">
               {% for tag in tags %}
                 {%- if tag != "posts" -%}
