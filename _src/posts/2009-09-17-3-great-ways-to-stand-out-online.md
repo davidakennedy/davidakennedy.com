@@ -1,6 +1,6 @@
 ---
 title: Mark Luckie on Three Great Ways to Stand Out Online
-description: This is a post on My Blog about leveraging agile frameworks.
+description: Journalist Mark Luckie shares three ways to stand out online.
 date: 2009-09-17
 tags:
   - Blogging
