@@ -7,6 +7,7 @@ tags:
   - Storytelling
 layout: layouts/post.njk
 permalink: blog/7-amazing-digital-storytelling-sites/index.html
+image: assets/img/sergi-kabrera-2xU7rYxsTiM-unsplash.jpg
 ---
 
 {% img "wide-width", "", "sergi-kabrera-2xU7rYxsTiM-unsplash.jpg", "White keyboard.", "" %}

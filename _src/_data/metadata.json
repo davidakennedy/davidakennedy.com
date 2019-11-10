@@ -2,6 +2,7 @@
   "title": "David A. Kennedy",
   "url": "https://davidakennedy.com/",
   "description": "David A. Kennedy's personal website amd blog about inclusive design, open source and life.",
+  "locale": "en_US",
   "feed": {
     "subtitle": "Inclusive Design, Open Source and Life.",
     "filename": "feed.xml",
@@ -11,6 +12,21 @@
   },
   "author": {
     "name": "David A. Kennedy",
-    "email": "me@davidakennedy.com"
+    "email": "me@davidakennedy.com",
+    "avatar": "/assets/img/avatar.jpg",
+    "social": {
+      "twitter": {
+        "name": "davidakennedy",
+        "url": "https://twitter.com/davidakennedy"
+      },
+      "github": {
+        "name": "davidakennedy",
+        "url": "https://github.com/davidakennedy"
+      },
+      "codepen": {
+        "name": "davidakennedy",
+        "url": "https://codepen.io/davidakennedy/"
+      }
+    }
   }
 }
