@@ -37,6 +37,7 @@
   font-size: calc(0.65vw + 1em);
   font-weight: 400;
 	line-height: var(--line-height);
+  scroll-behavior: smooth;
 }
 
 /* Utilities */
@@ -88,4 +89,24 @@
 .intro {
   font-style: italic;
 	font-size: var(--s1);
+}
+
+@supports not (scroll-snap-type) {
+  .gallery {
+    border: var(--border-thin) solid var(--text);
+    height: 37.5rem;
+    overflow-y: scroll;
+    padding: 0 !important;
+    scroll-snap-type: y mandatory;
+    
+  }
+    
+  .gallery figure {
+    scroll-snap-align: start;
+  }
+
+  .gallery img {
+    object-fit: contain;
+    object-position: 0 0;
+  }
 }
