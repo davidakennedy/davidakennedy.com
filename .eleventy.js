@@ -74,7 +74,11 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addShortcode(
     "img",
     (figclass = "", imgclass = "", url, alt = "", caption = "") => {
-      return `<figure ${figclass ? `class="${figclass}"` : ""}><img ${imgclass ? `class="${imgclass}"` : ""} srcset="/assets/img/${url}?nf_resize=fit&w=320 320w, /assets/img/${url}?nf_resize=fit&w=640 640w, /assets/img/${url}?nf_resize=fit&w=800 800w, /assets/img/${url}?nf_resize=fit&w=1024 1024w, /assets/img/${url}?nf_resize=fit&w=1280 1280w, /assets/img/${url}?nf_resize=fit&w=1440 1440w, /assets/img/${url}?nf_resize=fit&w=1920 1920w" src="/assets/img/${url}?nf_resize=fit&w=600" ${alt ? `alt="${alt}"` : alt === "" ? `alt="${alt}"` : ""} />${caption ? `<figcaption>${caption}</figcaption>` : ""}</figure>`;
+      return `<figure ${figclass ? `class="${figclass}"` : ""}><img ${
+        imgclass ? `class="${imgclass}"` : ""
+      } srcset="/assets/img/${url}?nf_resize=fit&w=320 320w, /assets/img/${url}?nf_resize=fit&w=640 640w, /assets/img/${url}?nf_resize=fit&w=800 800w, /assets/img/${url}?nf_resize=fit&w=1024 1024w, /assets/img/${url}?nf_resize=fit&w=1280 1280w, /assets/img/${url}?nf_resize=fit&w=1440 1440w, /assets/img/${url}?nf_resize=fit&w=1920 1920w" src="/assets/img/${url}?nf_resize=fit&w=600" ${
+        alt ? `alt="${alt}"` : alt === "" ? `alt="${alt}"` : ""
+      } />${caption ? `<figcaption>${caption}</figcaption>` : ""}</figure>`;
     }
   );
 
