@@ -21,13 +21,13 @@ body {
   margin-right: var(--s1);
 }
 
-@media (min-width: 355px) {
+@media (min-width: 22.1875em) {
   .site-title {
     margin-bottom: 0;
   }
 }
 
-@media (min-width: 400px) {
+@media (min-width: 25em) {
   .site-header {
     justify-content: space-between;
   }

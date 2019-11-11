@@ -47,10 +47,8 @@
   font-style: italic;
 }
 
-@media (min-width: 500px) {
-  .post-list .post-link {
-    margin-right: var(--s1);
-    }
+.post-list .post-link {
+  margin-right: var(--s1);
 }
 
 /* Post meta */
@@ -78,7 +76,7 @@
   display: block;
 }
 
-@media (min-width: 600px) {
+@media (min-width: 37.5em) {
   .tags {
     flex-basis: 60%;
   }
