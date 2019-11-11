@@ -41,10 +41,16 @@
   margin-bottom: var(--s3);
 }
 
-.post-list .date {
+.post-list .post-date {
   color: var(--light);
   font-size: var(--s-1);
   font-style: italic;
+}
+
+@media (min-width: 500px) {
+  .post-list .post-link {
+    margin-right: var(--s1);
+    }
 }
 
 /* Post meta */
@@ -62,13 +68,20 @@
   justify-content: space-between;
 }
 
+.b-d-line {
+  margin-bottom: var(--s3);
+  margin-right: var(--s1);
+}
+
 .author,
 .date {
   display: block;
 }
 
-.tags {
-  flex-basis: 60%;
+@media (min-width: 600px) {
+  .tags {
+    flex-basis: 60%;
+  }
 }
 
 .tag-list {
