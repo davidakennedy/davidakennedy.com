@@ -4,7 +4,10 @@
     <a href="{{ post.url | url }}" class="post-link">
       <h2 class="title p-name">{% if post.data.title %}{{ post.data.title }}{% else %}<code>{{ post.url }}</code>{% endif %}</h2>
     </a>
-    <span class="sr-only">Published on </span><time class="date dt-published" datetime="{{ post.date | htmlDateString }}">{{ post.date | readableDate }}</time>
+    <span class="post-date">
+      <span class="sr-only">Published on </span>
+      <time class="date dt-published" datetime="{{ post.date | htmlDateString }}">{{ post.date | readableDate }}</time>
+    </span>
   </li>
 {% endfor %}
 </ol>
