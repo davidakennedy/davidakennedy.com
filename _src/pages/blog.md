@@ -13,4 +13,4 @@ pagination:
 permalink: blog/{% if pagination.pageNumber > 0 %}{{ pagination.pageNumber }}/{% endif %}index.html
 ---
 
-I've penned {{ collections.posts.length }} posts on this blog. You can dive into more topics on the <a href="{{ '/tags/' | url }}">tags page</a>. Enjoy the blog!
+I've penned {{ collections.posts.length }} posts on this blog. You can dive into specific topics on the <a href="{{ '/tags/' | url }}">tags page</a>. Thanks for reading!
