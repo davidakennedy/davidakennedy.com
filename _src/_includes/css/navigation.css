@@ -101,8 +101,7 @@ a:active {
   text-decoration: underline dashed;
 }
 
-.site-title a {
-  font-weight: 700;
+a.site-title {
   text-decoration: none;
 }
 
