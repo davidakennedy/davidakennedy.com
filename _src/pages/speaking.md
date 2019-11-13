@@ -1,7 +1,8 @@
 ---
+title: Speaking
+description: A list of David A. Kennedy's past speaking engagements.
 layout: layouts/page.njk
 templateClass: page-template
-title: Speaking
 permalink: speaking/index.html
 ---
 
