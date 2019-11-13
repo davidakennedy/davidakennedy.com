@@ -1,13 +1,14 @@
 ---
-layout: layouts/page.njk
-templateClass: page-template
 title: About Me
+description: Find out more about David A. Kennedy's career in web design and accessibility.
+image: assets/img/23469199744_ea3ba2216f_o-1024x683.jpg
 tags:
   - nav
 navtitle: About
 navorder: 2
+layout: layouts/page.njk
+templateClass: page-template
 permalink: about/index.html
-image: assets/img/23469199744_ea3ba2216f_o-1024x683.jpg
 ---
 
 {% img "wide-width", "", "23469199744_ea3ba2216f_o-1024x683.jpg", "David Kennedy speaking at WordCamp US 2015.", "" %}

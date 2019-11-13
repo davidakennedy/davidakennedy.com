@@ -1,7 +1,5 @@
 ---
 title: Blog
-layout: layouts/blog.njk
-templateClass: archive-template
 tags:
   - nav
 navtitle: Blog
@@ -10,6 +8,8 @@ pagination:
   data: collections.posts
   size: 10
   reverse: true
+layout: layouts/blog.njk
+templateClass: archive-template
 permalink: blog/{% if pagination.pageNumber > 0 %}{{ pagination.pageNumber }}/{% endif %}index.html
 ---
 

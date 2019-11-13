@@ -10,10 +10,10 @@ pagination:
     - posts
     - tagList
   addAllPagesToCollections: true
-layout: layouts/page.njk
-templateClass: archive-template
 renderData:
   title: Tagged “{{ tag }}”
+layout: layouts/page.njk
+templateClass: archive-template
 permalink: /tag/{{ tag | slug }}/index.html
 ---
 {% set postlist = collections[ tag ] %}

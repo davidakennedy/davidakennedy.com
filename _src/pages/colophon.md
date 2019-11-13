@@ -1,7 +1,8 @@
 ---
+title: Colophon
+description: Details about how David A. Kennedy's personal website was made.
 layout: layouts/page.njk
 templateClass: page-template
-title: Colophon
 permalink: colophon/index.html
 ---
 

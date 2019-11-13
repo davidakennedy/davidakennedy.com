@@ -1,7 +1,8 @@
 ---
+title: Now
+description: What David A. Kennedy is up to right now.
 layout: layouts/page.njk
 templateClass: page-template
-title: Now
 permalink: now/index.html
 ---
 
