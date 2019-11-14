@@ -54,6 +54,10 @@ module.exports = function(eleventyConfig) {
     return minified.code;
   });
 
+  eleventyConfig.addFilter("imgPath", function(file) {
+    return `/assets/img/${file}`;
+  });
+
   const htmlmin = require("html-minifier");
   eleventyConfig.addTransform("htmlmin", function(content, outputPath) {
     if (outputPath.endsWith(".html")) {
