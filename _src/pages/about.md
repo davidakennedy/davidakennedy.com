@@ -1,7 +1,7 @@
 ---
 title: About Me
 description: Find out more about David A. Kennedy's career in web design and accessibility.
-image: assets/img/23469199744_ea3ba2216f_o-1024x683.jpg
+image: 23469199744_ea3ba2216f_o-1024x683.jpg
 tags:
   - nav
 navtitle: About
