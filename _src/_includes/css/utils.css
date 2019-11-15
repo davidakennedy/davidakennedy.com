@@ -98,9 +98,8 @@
     overflow-y: scroll;
     padding: 0 !important;
     scroll-snap-type: y mandatory;
-    
   }
-    
+
   .gallery figure {
     scroll-snap-align: start;
   }
