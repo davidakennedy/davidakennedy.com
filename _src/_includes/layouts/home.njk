@@ -1,7 +1,7 @@
 {% extends 'layouts/base.njk' %}
 {% block content %}
   <header class="page-header">
-    {%- if image and featuredimg -%}
+    {%- if featuredimg and image -%}
       {% img "wide-width", "", image, imagealt, "" %}
     {%- endif -%}
     <h1 class="title p-name">{{ title or renderData.title }}</h1>
