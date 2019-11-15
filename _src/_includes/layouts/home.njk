@@ -1,8 +1,11 @@
 {% extends 'layouts/base.njk' %}
 {% block content %}
-  <div class="page-header">
+  <header class="page-header">
+    {%- if image and featuredimg -%}
+      {% img "wide-width", "", image, imagealt, "" %}
+    {%- endif -%}
     <h1 class="title p-name">{{ title or renderData.title }}</h1>
-  </div>
+  </header>
 
   <div class="page-content">
     {% include "partials/h-card.njk" %}

@@ -2,6 +2,9 @@
 {% block content %}
   <article class="post h-entry">
     <header class="post-header">
+      {%- if image and featuredimg -%}
+        {% img "wide-width", "", image, imagealt, "" %}
+      {%- endif -%}
       <h1 class="title p-name">{{ title or renderData.title }}</h1>
     </header>
 
