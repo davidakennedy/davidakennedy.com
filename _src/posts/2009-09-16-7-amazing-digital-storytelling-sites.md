@@ -1,16 +1,16 @@
 ---
 title: Seven Amazing Digital Storytelling Websites
 description: Some of David A. Kennedy's favorite digital storytelling websites.
+featuredimg: true
+image: sergi-kabrera-2xU7rYxsTiM-unsplash.jpg
+imgalt: White keyboard.
 date: 2009-09-16
 tags:
   - Journalism
   - Storytelling
 layout: layouts/post.njk
 permalink: blog/7-amazing-digital-storytelling-sites/index.html
-image: sergi-kabrera-2xU7rYxsTiM-unsplash.jpg
 ---
-
-{% img "wide-width", "", "sergi-kabrera-2xU7rYxsTiM-unsplash.jpg", "White keyboard.", "" %}
 
 Stories. We love them.
 

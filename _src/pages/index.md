@@ -1,7 +1,9 @@
 ---
 title: Just Call Me DK
 description: The website for David A. Kennedy, a designer and accessibility advocate.
+featuredimg: true
 image: 47028035001_00d8d35d24_o.jpg
+imagealt: David A. Kennedy speaks on a stage in front of audience.
 tags:
   - nav
 navtitle: Home

@@ -1,7 +1,9 @@
 ---
 title: About Me
 description: Find out more about David A. Kennedy's career in web design and accessibility.
+featuredimg: false
 image: 23469199744_ea3ba2216f_o-1024x683.jpg
+imagealt: David Kennedy speaking at WordCamp US 2015.
 tags:
   - nav
 navtitle: About
@@ -10,8 +12,6 @@ layout: layouts/page.njk
 templateClass: page-template
 permalink: about/index.html
 ---
-
-{% img "wide-width", "", "23469199744_ea3ba2216f_o-1024x683.jpg", "David Kennedy speaking at WordCamp US 2015.", "" %}
 
 I work as a Senior UX Designer at [Ad Hoc](https://adhocteam.us/), focusing on accessibility.
 
