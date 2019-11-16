@@ -98,11 +98,16 @@ pre {
 code,
 kbd,
 var {
+  background-color: var(--lightbg);
   font-family: Consolas, "Andale Mono WT", "Andale Mono", "Lucida Console",
     "Lucida Sans Typewriter", "DejaVu Sans Mono", "Bitstream Vera Sans Mono",
     "Liberation Mono", "Nimbus Mono L", Monaco, "Courier New", Courier,
     monospace;
   font-size: var(s-1);
+}
+
+pre > code {
+  background-color: var(--text);
 }
 
 abbr {
