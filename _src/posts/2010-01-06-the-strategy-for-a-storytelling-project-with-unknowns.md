@@ -1,6 +1,9 @@
 ---
 title: The Strategy for a Storytelling Project with Unknowns
 description: Some of David A. Kennedy's favorite digital storytelling websites.
+featuredimg: true
+image: big-ben-1230998.jpg
+imgalt: Big Ben.
 date: 2010-01-06T10:57:43+00:00
 tags:
   - Elon iMedia
