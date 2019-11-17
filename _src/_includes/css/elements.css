@@ -116,7 +116,7 @@ abbr {
 }
 
 mark {
-  background: #fbf9c9;
+  background: var(--lightbg);
   color: var(--text);
   text-decoration: none;
 }

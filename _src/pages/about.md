@@ -23,9 +23,8 @@ You can learn more about my professional experience by visiting my [Linkedin pro
 
 ## Other Useful Links
 
-- [Now](https://davidakennedy.com/now/)
-- [Speaking](http://davidakennedy.com/speaking/)
-- [Selected Writing](http://davidakennedy.com/category/selected-writing/)
-- [Contact](https://davidakennedy.com/contact/)
+- [Now]({{ '/now/' | url }})
+- [Speaking]({{ '/speaking/' | url }})
+- [Selected Writing]({{ '/category/selected-writing/' | url }})
 
 <small>_Photo Credit: Casey Alexander, Creative Commons_</small>.
