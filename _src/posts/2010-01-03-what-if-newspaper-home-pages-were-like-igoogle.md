@@ -4,7 +4,7 @@ description: A prototype for the Knight News Challenge about newspapers and iGoo
 featuredimg: true
 image: roman-kraft-_Zua2hyvTBk-unsplash.jpg
 imgalt: Man sitting on bench reading newspaper.
-date: 2010-01-03
+date: 2010-01-03T09:44:11+00:00
 tags:
   - Journalism
 layout: layouts/post.njk

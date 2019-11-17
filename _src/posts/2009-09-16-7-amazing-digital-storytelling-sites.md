@@ -4,7 +4,7 @@ description: Some of David A. Kennedy's favorite digital storytelling websites.
 featuredimg: true
 image: sergi-kabrera-2xU7rYxsTiM-unsplash.jpg
 imgalt: White keyboard.
-date: 2009-09-16
+date: 2009-09-16T22:26:14+00:00
 tags:
   - Journalism
   - Storytelling

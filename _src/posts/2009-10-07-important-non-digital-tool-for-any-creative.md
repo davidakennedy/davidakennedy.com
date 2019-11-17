@@ -4,7 +4,7 @@ description: A simple notebook may be the thing that keeps you sane in a crowded
 featuredimg: true
 image: mike-tinnion-3ym6i13Y9LU-unsplash.jpg
 imgalt: Black and silver retractable pen on blank notebook.
-date: 2009-10-07
+date: 2009-10-07T22:14:29+00:00
 tags:
   - Creativity
 layout: layouts/post.njk
