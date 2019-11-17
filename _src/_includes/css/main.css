@@ -97,6 +97,14 @@
   justify-content: space-between;
 }
 
+.posts-pagination .older-posts {
+  margin-right: auto;
+}
+
+.posts-pagination .newer-posts {
+  margin-left: auto;
+}
+
 /* h-card */
 .h-card figure {
   float: left;
