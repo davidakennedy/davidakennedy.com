@@ -1,7 +1,7 @@
 ---
 title: Mark Luckie on Three Great Ways to Stand Out Online
 description: Journalist Mark Luckie shares three ways to stand out online.
-date: 2009-09-17
+date: 2009-09-17T15:45:56+00:00
 tags:
   - Blogging
 layout: layouts/post.njk
