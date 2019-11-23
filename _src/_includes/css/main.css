@@ -35,11 +35,6 @@
 
 /* Posts */
 .post-list .post {
-  display: flex;
-  flex-direction: row;
-  flex-wrap: wrap;
-  align-items: baseline;
-  justify-content: space-between;
   margin-bottom: var(--s3);
 }
 
@@ -50,7 +45,8 @@
 }
 
 .post-list .post-link {
-  margin-right: var(--s1);
+  display: inline-block;
+  margin-bottom: var(--s-6);
 }
 
 /* Post meta */
