@@ -258,7 +258,7 @@ input[type="submit"] {
   color: var(--background);
   cursor: pointer;
   font-weight: 600;
-  padding: var(--s-5) var(--s-4);
+  padding: var(--s-7) var(--s-4);
   position: relative;
   transition: color 0.2s;
   -webkit-appearance: none;
