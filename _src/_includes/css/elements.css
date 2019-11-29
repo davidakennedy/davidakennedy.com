@@ -237,6 +237,11 @@ select {
   border: 1px solid var(--accent);
 }
 
+select:focus {
+  border: 1px solid var(--text);
+  outline: 0 none;
+}
+
 textarea {
   padding-left: var(--s-7);
   width: 100%;
