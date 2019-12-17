@@ -6,6 +6,7 @@ h4,
 h5,
 h6 {
   clear: both;
+  color: var(--headline);
   font-family: var(--font-serif);
   hyphens: auto;
   line-height: var(--line-height-small);
@@ -70,7 +71,7 @@ i {
 }
 
 blockquote {
-  border-left: var(--border-thin) solid var(--accent);
+  border-left: var(--border-thin) solid var(--border);
   font-style: italic;
   margin-left: var(--s1);
   padding: 0 var(--s1);
@@ -82,8 +83,8 @@ address {
 }
 
 pre {
-  background-color: var(--text);
-  color: var(--background);
+  background-color: var(--secondary);
+  color: var(--text);
   font-family: Consolas, "Andale Mono WT", "Andale Mono", "Lucida Console",
     "Lucida Sans Typewriter", "DejaVu Sans Mono", "Bitstream Vera Sans Mono",
     "Liberation Mono", "Nimbus Mono L", Monaco, "Courier New", Courier,
@@ -98,25 +99,27 @@ pre {
 code,
 kbd,
 var {
-  background-color: var(--lightbg);
+  background-color: var(--secondary);
   font-family: Consolas, "Andale Mono WT", "Andale Mono", "Lucida Console",
     "Lucida Sans Typewriter", "DejaVu Sans Mono", "Bitstream Vera Sans Mono",
     "Liberation Mono", "Nimbus Mono L", Monaco, "Courier New", Courier,
     monospace;
-  font-size: var(s-1);
+  font-size: var(--s-1);
 }
 
-pre > code {
+code[class*="language-"],
+pre[class*="language-"] {
   background-color: var(--text);
+  color: var(--background);
 }
 
 abbr {
-  border-bottom: 1px dotted var(--accent);
+  border-bottom: 1px dotted var(--border);
   cursor: help;
 }
 
 mark {
-  background: var(--lightbg);
+  background: var(--secondary);
   color: var(--text);
   text-decoration: none;
 }
@@ -127,7 +130,7 @@ del {
 }
 
 ins {
-    background-color: #93C088;
+    background-color: #e27851;
     text-decoration: none;
 }
 
@@ -150,7 +153,7 @@ small {
 table,
 th,
 td {
-  border: 1px solid var(--accentlight);
+  border: 1px solid var(--border);
 }
 
 table {
@@ -206,10 +209,10 @@ input[type="datetime-local"],
 input[type="color"],
 textarea {
   background-color: #f6f6f6;
-  border: 1px solid var(--accent);
+  border: 1px solid var(--border);
   border-bottom-width: var(--border-thin);
   border-radius: var(--border-thin);
-  padding: var(--s-7);
+  padding: var(--s-8);
   transition: all 0.2s;
   -webkit-appearance: none;
 }
@@ -234,7 +237,7 @@ textarea:focus {
 }
 
 select {
-  border: 1px solid var(--accent);
+  border: 1px solid var(--border);
 }
 
 select:focus {
@@ -243,57 +246,68 @@ select:focus {
 }
 
 textarea {
-  padding-left: var(--s-7);
+  padding-left: var(--s-8);
   width: 100%;
 }
 
 button,
+.button,
 input[type="button"],
 input[type="reset"],
 input[type="submit"] {
-  background-color: var(--text);
-  border: 1px solid var(--text);
+  background-color: var(--primary);
+  border: 1px solid var(--primary);
   border-bottom-width: var(--border-thin);
   border-radius: var(--border-thin);
-  color: var(--background);
+  color: var(--text);
   cursor: pointer;
   font-weight: 600;
-  padding: var(--s-7) var(--s-4);
+  padding: var(--s-8) var(--s-4);
   position: relative;
   transition: color 0.2s;
   -webkit-appearance: none;
 }
 
 button:hover,
+.button:hover,
 input[type="button"]:hover,
 input[type="reset"]:hover,
 input[type="submit"]:hover {
-  background-color: var(--white);
-  color: var(--black);
+  border-color: var(--text);
 }
 
 button:active,
+.button:active,
 input[type="button"]:active,
 input[type="reset"]:active,
 input[type="submit"]:active {
-  background-color: var(--white);
-  color: var(--black);
   top: 2px;
 }
 
 button:focus,
+.button:focus,
 input[type="button"]:focus,
 input[type="reset"]:focus,
 input[type="submit"]:focus {
-  background-color: var(--white);
-  color: var(--black);
+  border-color: var(--text);
   outline: 2px solid;
   outline-offset: 2px;
 }
 
+.button.button-transparent {
+  background-color: transparent;
+  border-color: var(--text);
+}
+
+.button.button-transparent:hover,
+.button.button-transparent:focus {
+  background-color: var(--primary);
+  border-color: var(--primary);
+}
+
 /* Formatting */
 hr {
-  background: var(--accentlight);
+  background: var(--border);
   border: 0;
   height: var(--border-thin);
   margin-top: 0;
@@ -320,7 +334,7 @@ li > ol {
 }
 
 dt {
-  border-bottom: 1px solid var(--text);
+  border-bottom: 1px solid var(--border);
   font-weight: 600;
   margin-bottom: var(--s-1);
 }
@@ -342,5 +356,5 @@ figcaption {
 }
 
 img {
-  box-shadow: 0 0 10px var(--accent);
+  box-shadow: 0 0 10px var(--lighttext);
 }

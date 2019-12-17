@@ -39,7 +39,7 @@
 }
 
 .post-list .post-date {
-  color: var(--light);
+  color: var(--lighttext);
   font-size: var(--s-1);
   font-style: italic;
 }
@@ -55,7 +55,7 @@
 }
 
 .meta {
-  color: var(--light);
+  color: var(--lighttext);
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;

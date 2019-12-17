@@ -24,15 +24,6 @@
 
 .site-navigation a {
   font-weight: 700;
-  text-decoration: none;
-}
-
-.site-navigation a:hover {
-  text-decoration: underline;
-}
-
-.site-navigation a:visited {
-  text-decoration: none;
 }
 
 /* Post Navigation */
@@ -40,10 +31,6 @@
   font-size: var(--s-1);
   font-weight: 700;
   text-decoration: none;
-}
-
-.posts-pagination a:hover {
-  text-decoration: underline;
 }
 
 .posts-pagination svg,
@@ -60,13 +47,14 @@
 }
 
 a:hover {
+  background-color: var(--primary);
   outline: 0;
   text-decoration: none;
 }
 
 a:focus {
+  background-color: var(--primary);
   outline: 2px solid;
-  outline-offset: 2px;
   text-decoration: none;
 }
 
@@ -75,9 +63,22 @@ a:active {
   top: 2px;
 }
 
+h1 a,
+.h1,
+h2 a,
+.h2,
+h3 a,
+.h3,
+h4 a,
+.h4,
+h5 a,
+.h5,
+h6 a,
+.h6 {
+  color: var(--headline);
+}
+
 .skip-link {
-	background-color: var(--text);
-  color: var(--background);
   font-size: var(--s-1);
   font-weight: 700;
   max-width: none;
@@ -101,16 +102,21 @@ a:active {
   text-decoration: underline dashed;
 }
 
-a.site-title {
+.site-title {
   text-decoration: none;
 }
 
-.site-title a:hover {
-	text-decoration: underline;
+.site-title:hover {
+	background-color: transparent;
+}
+
+.site-title:focus {
+  background-color: transparent;
+  outline-offset: 2px;
 }
 
 .meta a {
-  color: var(--light);
+  color: var(--lighttext);
 }
 
 /* Social navigation */
@@ -124,11 +130,6 @@ a.site-title {
 
 .social-navigation a {
   text-decoration: none;
-}
-
-.social-navigation a:hover {
-  outline: 2px solid;
-  outline-offset: 2px;
 }
 
 .social-navigation a:visited {
