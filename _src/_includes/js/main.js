@@ -43,7 +43,7 @@
 	/**
 	 * Font loading js.
 	 *
-	 * Handles loading for Butler web font using a critical FOFT preload strategy.
+	 * Handles loading for web fonts using a critical FOFT preload strategy.
 	 *
 	 * See: https://github.com/zachleat/web-font-loading-recipes/blob/master/critical-foft-preload-polyfill.html
 	 */
@@ -64,22 +64,70 @@
 	f&&-1!=g||-1!=f&&-1!=h||-1!=g&&-1!=h)(b=f!=g&&f!=h&&g!=h)||(null===B&&(b=/AppleWebKit\/([0-9]+)(?:\.([0-9]+))/.exec(window.navigator.userAgent),B=!!b&&(536>parseInt(b[1],10)||536===parseInt(b[1],10)&&11>=parseInt(b[2],10))),b=B&&(f==v&&g==v&&h==v||f==w&&g==w&&h==w||f==x&&g==x&&h==x)),b=!b;b&&(d.parentNode&&d.parentNode.removeChild(d),clearTimeout(q),a(c))}function I(){if((new Date).getTime()-H>=D)d.parentNode&&d.parentNode.removeChild(d),b(c);else{var a=document.hidden;if(!0===a||void 0===a)f=e.a.offsetWidth,
 	g=n.a.offsetWidth,h=p.a.offsetWidth,u();q=setTimeout(I,50)}}var e=new r(k),n=new r(k),p=new r(k),f=-1,g=-1,h=-1,v=-1,w=-1,x=-1,d=document.createElement("div");d.dir="ltr";t(e,L(c,"sans-serif"));t(n,L(c,"serif"));t(p,L(c,"monospace"));d.appendChild(e.a);d.appendChild(n.a);d.appendChild(p.a);document.body.appendChild(d);v=e.a.offsetWidth;w=n.a.offsetWidth;x=p.a.offsetWidth;I();z(e,function(a){f=a;u()});t(e,L(c,'"'+c.family+'",sans-serif'));z(n,function(a){g=a;u()});t(n,L(c,'"'+c.family+'",serif'));
 	z(p,function(a){h=a;u()});t(p,L(c,'"'+c.family+'",monospace'))})})};"object"===typeof module?module.exports=A:(window.FontFaceObserver=A,window.FontFaceObserver.prototype.load=A.prototype.load);}());
-	var fontASubset = new FontFaceObserver('ButlerSubset');
-	var fontBSubset = new FontFaceObserver('ButlerBoldSubset', {
-		weight: 700
-	});
+	var fontASubset = new FontFaceObserver('IBM Plex Serif Subset');
+  var fontBSubset = new FontFaceObserver('IBM Plex Serif Italic Subset', {
+      style: 'italic'
+    });
+  var fontCSubset = new FontFaceObserver('IBM Plex Serif Bold Subset', {
+      weight: 700
+    });
+  var fontDSubset = new FontFaceObserver('IBM Plex Serif Bold Italic Subset', {
+      style: 'italic',
+      weight: 700
+    });
+  var fontESubset = new FontFaceObserver('IBM Plex Sans Subset');
+  var fontFSubset = new FontFaceObserver('IBM Plex Sans Italic Subset', {
+      style: 'italic'
+  });
+  var fontGSubset = new FontFaceObserver('IBM Plex Sans Bold Subset', {
+      weight: 700
+  });
+  var fontHSubset = new FontFaceObserver('IBM Plex Sans Bold Italic Subset', {
+      style: 'italic',
+      weight: 700
+  });
 	Promise.all([
 		fontASubset.load(null, 10000),
-		fontBSubset.load(null, 10000)
+    fontBSubset.load(null, 10000),
+    fontCSubset.load(null, 10000),
+    fontDSubset.load(null, 10000),
+    fontESubset.load(null, 10000),
+    fontFSubset.load(null, 10000),
+    fontGSubset.load(null, 10000),
+		fontHSubset.load(null, 10000)
 	]).then(function () {
 		document.documentElement.className += " fonts-stage-1";
-		var fontA = new FontFaceObserver('Butler');
-		var fontB = new FontFaceObserver('ButlerBold', {
-				weight: 700
-			});
+		var fontA = new FontFaceObserver('IBM Plex Serif');
+		var fontB = new FontFaceObserver('IBM Plex Serif Italic', {
+        style: 'italic'
+      });
+    var fontC = new FontFaceObserver('IBM Plex Serif Bold', {
+        weight: 700
+      });
+    var fontD = new FontFaceObserver('IBM Plex Serif Bold Italic', {
+        style: 'italic',
+        weight: 700
+      });
+    var fontE = new FontFaceObserver('IBM Plex Sans');
+    var fontF = new FontFaceObserver('IBM Plex Sans Italic', {
+        style: 'italic'
+    });
+    var fontG = new FontFaceObserver('IBM Plex Sans Bold', {
+        weight: 700
+    });
+    var fontH = new FontFaceObserver('IBM Plex Sans Bold Italic', {
+        style: 'italic',
+        weight: 700
+    });
 		Promise.all([
 			fontA.load(null, 10000),
-			fontB.load(null, 10000)
+      fontB.load(null, 10000),
+      fontC.load(null, 10000),
+      fontD.load(null, 10000),
+      fontE.load(null, 10000),
+      fontF.load(null, 10000),
+      fontG.load(null, 10000),
+			fontH.load(null, 10000)
 		]).then(function() {
 			document.documentElement.className += " fonts-stage-2";
 			// Optimization for Repeat Views
