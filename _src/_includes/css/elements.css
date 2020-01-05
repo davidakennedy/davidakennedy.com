@@ -1,4 +1,24 @@
 /* Typography */
+.font-stage-1 h1,
+.font-stage-1 h2,
+.font-stage-1 h3,
+.font-stage-1 h4,
+.font-stage-1 h5,
+.font-stage-1 h6 {
+  font-family: "IBM Plex Sans Subset Bold", Frutiger, "Frutiger Linotype", Univers, Calibri, "Gill Sans", "Gill Sans MT", "Myriad Pro", Myriad, "DejaVu Sans Condensed", "Liberation Sans", "Nimbus Sans L", Tahoma, Geneva, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: 700;
+}
+
+.font-stage-2 h1,
+.font-stage-2 h2,
+.font-stage-2 h3,
+.font-stage-2 h4,
+.font-stage-2 h5,
+.font-stage-2 h6 {
+  font-family: var(--font-sans-serif-bold);
+  font-weight: 700;
+}
+
 h1,
 h2,
 h3,
@@ -7,7 +27,8 @@ h5,
 h6 {
   clear: both;
   color: var(--headline);
-  font-family: var(--font-serif);
+  font-family: var(--font-sans-serif-bold);
+  font-weight: 700;
   hyphens: auto;
   line-height: var(--line-height-small);
   word-wrap: break-word;
@@ -63,23 +84,88 @@ h6,
   margin-top: var(--s-3);
 }
 
+.font-stage-1 dfn,
+.font-stage-1 cite,
+.font-stage-1 em,
+.font-stage-1 i,
+.font-stage-1 address,
+.font-stage-1 blockquote,
+.font-stage-1 figcaption {
+  font-family: "IBM Plex Serif Italic Subset", Constantia, "Lucida Bright", Lucidabright, "Lucida Serif", Lucida, "DejaVu Serif", "Bitstream Vera Serif", "Liberation Serif", Georgia, serif;
+  font-style: italic;
+}
+
+.font-stage-2 dfn,
+.font-stage-2 cite,
+.font-stage-2 em,
+.font-stage-2 i,
+.font-stage-2 address,
+.font-stage-2 blockquote,
+.font-stage-2 figcaption,
 dfn,
 cite,
 em,
-i {
+i,
+address,
+blockquote,
+figcaption {
+  font-family: var(--font-serif-italic);
   font-style: italic;
 }
 
 blockquote {
-  border-left: var(--border-thin) solid var(--border);
-  font-style: italic;
+  border-left: var(--border-thin) solid var(--lighttext);
   margin-left: var(--s1);
   padding: 0 var(--s1);
 }
 
+.font-stage-1 cite {
+  font-family: "IBM Plex Sans Subset Bold", Frutiger, "Frutiger Linotype", Univers, Calibri, "Gill Sans", "Gill Sans MT", "Myriad Pro", Myriad, "DejaVu Sans Condensed", "Liberation Sans", "Nimbus Sans L", Tahoma, Geneva, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: 700;
+}
+
+.font-stage-2 cite,
+cite {
+  font-family: var(--font-sans-serif-bold);
+  font-weight: 700;
+}
+
 address {
-  font-style: italic;
   margin-top: 0;
+}
+
+.font-stage-1 b,
+.font-stage-1 strong {
+  font-family: "IBM Plex Serif Bold Subset", Constantia, "Lucida Bright", Lucidabright, "Lucida Serif", Lucida, "DejaVu Serif", "Bitstream Vera Serif", "Liberation Serif", Georgia, serif;
+  font-weight: 700;
+}
+
+.font-stage-2 b,
+.font-stage-2 strong,
+b,
+strong {
+  font-family: var(--font-serif-bold);
+  font-weight: 700;
+}
+
+.font-stage-1 b i,
+.font-stage-1 strong em,
+.font-stage-1 i b,
+.font-stage-1 em strong {
+  font-family: "IBM Plex Serif Bold Italic Subset", Constantia, "Lucida Bright", Lucidabright, "Lucida Serif", Lucida, "DejaVu Serif", "Bitstream Vera Serif", "Liberation Serif", Georgia, serif;
+  font-style: italic;
+  font-weight: 700;
+}
+
+.font-stage-1 b i,
+.font-stage-1 strong em,
+.font-stage-1 i b,
+.font-stage-1 em strong,
+b,
+strong {
+  font-family: var(--font-serif-bold-italic);
+  font-style: italic;
+  font-weight: 700;
 }
 
 pre {
@@ -114,7 +200,7 @@ pre[class*="language-"] {
 }
 
 abbr {
-  border-bottom: 1px dotted var(--border);
+  border-bottom: 1px dotted var(--lighttext);
   cursor: help;
 }
 
@@ -153,7 +239,7 @@ small {
 table,
 th,
 td {
-  border: 1px solid var(--border);
+  border: 1px solid var(--lighttext);
 }
 
 table {
@@ -173,9 +259,19 @@ td {
   text-align: left;
 }
 
+.font-stage-1 th {
+  font-family: "IBM Plex Sans Subset Bold", Frutiger, "Frutiger Linotype", Univers, Calibri, "Gill Sans", "Gill Sans MT", "Myriad Pro", Myriad, "DejaVu Sans Condensed", "Liberation Sans", "Nimbus Sans L", Tahoma, Geneva, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: 700;
+}
+
+.font-stage-2 th,
+th {
+  font-family: var(--font-sans-serif-bold);
+  font-weight: 700;
+}
+
 th {
   border-width: 0 1px 1px 0;
-  font-weight: 700;
 }
 
 td {
@@ -188,8 +284,15 @@ td {
 }
 
 /* Forms */
+.font-stage-1 label {
+  font-family: "IBM Plex Sans Subset Bold", Frutiger, "Frutiger Linotype", Univers, Calibri, "Gill Sans", "Gill Sans MT", "Myriad Pro", Myriad, "DejaVu Sans Condensed", "Liberation Sans", "Nimbus Sans L", Tahoma, Geneva, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: 700;
+}
+
+.font-stage-2 label,
 label {
-  font-weight: 600;
+  font-family: var(--font-sans-serif-bold);
+  font-weight: 700;
 }
 
 input[type="text"],
@@ -209,7 +312,7 @@ input[type="datetime-local"],
 input[type="color"],
 textarea {
   background-color: #f6f6f6;
-  border: 1px solid var(--border);
+  border: 1px solid var(--lighttext);
   border-bottom-width: var(--border-thin);
   border-radius: var(--border-thin);
   padding: var(--s-8);
@@ -237,7 +340,7 @@ textarea:focus {
 }
 
 select {
-  border: 1px solid var(--border);
+  border: 1px solid var(--lighttext);
 }
 
 select:focus {
@@ -248,6 +351,24 @@ select:focus {
 textarea {
   padding-left: var(--s-8);
   width: 100%;
+}
+
+.font-stage-1 button,
+.font-stage-1 .button,
+.font-stage-1 input[type="button"],
+.font-stage-1 input[type="reset"],
+.font-stage-1 input[type="submit"] {
+  font-family: "IBM Plex Sans Subset Bold", Frutiger, "Frutiger Linotype", Univers, Calibri, "Gill Sans", "Gill Sans MT", "Myriad Pro", Myriad, "DejaVu Sans Condensed", "Liberation Sans", "Nimbus Sans L", Tahoma, Geneva, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: 700;
+}
+
+.font-stage-2 button,
+.font-stage-2 .button,
+.font-stage-2 input[type="button"],
+.font-stage-2 input[type="reset"],
+.font-stage-2 input[type="submit"] {
+  font-family: var(--font-sans-serif-bold);
+  font-weight: 700;
 }
 
 button,
@@ -261,7 +382,8 @@ input[type="submit"] {
   border-radius: var(--border-thin);
   color: var(--text);
   cursor: pointer;
-  font-weight: 600;
+  font-family: var(--font-sans-serif-bold);
+  font-weight: 700;
   padding: var(--s-8) var(--s-4);
   position: relative;
   transition: color 0.2s;
@@ -307,7 +429,7 @@ input[type="submit"]:focus {
 
 /* Formatting */
 hr {
-  background: var(--border);
+  background: var(--lighttext);
   border: 0;
   height: var(--border-thin);
   margin-top: 0;
@@ -333,9 +455,19 @@ li > ol {
   margin-left: var(--s1);
 }
 
+.font-stage-1 dt {
+  font-family: "IBM Plex Sans Subset Bold", Frutiger, "Frutiger Linotype", Univers, Calibri, "Gill Sans", "Gill Sans MT", "Myriad Pro", Myriad, "DejaVu Sans Condensed", "Liberation Sans", "Nimbus Sans L", Tahoma, Geneva, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: 700;
+}
+
+.font-stage-2 dt,
 dt {
-  border-bottom: 1px solid var(--border);
-  font-weight: 600;
+  font-family: var(--font-sans-serif-bold);
+  font-weight: 700;
+}
+
+dt {
+  border-bottom: 1px solid var(--lighttext);
   margin-bottom: var(--s-1);
 }
 
@@ -351,7 +483,6 @@ table {
 
 figcaption {
   font-size: var(--s-1);
-  font-style: italic;
   text-align: center;
 }
 

@@ -38,10 +38,20 @@
   margin-bottom: var(--s3);
 }
 
+.font-stage-1 .post-list .post-date {
+  font-family: "IBM Plex Serif Italic Subset", Constantia, "Lucida Bright", Lucidabright, "Lucida Serif", Lucida, "DejaVu Serif", "Bitstream Vera Serif", "Liberation Serif", Georgia, serif;
+  font-style: italic;
+}
+
+.font-stage-2 .post-list .post-date,
+.post-list .post-date {
+  font-family: var(--font-serif-italic);
+  font-style: italic;
+}
+
 .post-list .post-date {
   color: var(--lighttext);
   font-size: var(--s-1);
-  font-style: italic;
 }
 
 .post-list .post-link {
@@ -54,13 +64,23 @@
   padding-top: var(--s1);
 }
 
+.font-stage-1 .meta {
+  font-family: "IBM Plex Sans Italic Subset", Frutiger, "Frutiger Linotype", Univers, Calibri, "Gill Sans", "Gill Sans MT", "Myriad Pro", Myriad, "DejaVu Sans Condensed", "Liberation Sans", "Nimbus Sans L", Tahoma, Geneva, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-style: italic;
+}
+
+.font-stage-2 .meta,
+.meta {
+  font-family: var(--font-sans-serif);
+  font-style: italic;
+}
+
 .meta {
   color: var(--lighttext);
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
   font-size: var(--s-1);
-  font-style: italic;
   justify-content: space-between;
 }
 

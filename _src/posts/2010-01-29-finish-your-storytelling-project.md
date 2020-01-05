@@ -9,7 +9,7 @@ tags:
   - Project Management
   - Storytelling
 layout: layouts/post.njk
-permalink: /finish-your-storytelling-project/
+permalink: /blog/finish-your-storytelling-project/index.html
 ---
 
 If you're like me, you have a bad habit.
