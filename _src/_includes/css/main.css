@@ -52,6 +52,7 @@
 .post-list .post-date {
   color: var(--lighttext);
   font-size: var(--s-1);
+  margin-bottom: var(--s-3);
 }
 
 .post-list .post-link {
