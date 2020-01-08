@@ -122,13 +122,6 @@ h6 a,
   display: block;
 }
 
-/* Only style visited links for main content container. */
-.post-content a:visited,
-.page-content a:visited,
-.post-list a:visited {
-  text-decoration: underline dashed;
-}
-
 .site-title {
   text-decoration: none;
 }
