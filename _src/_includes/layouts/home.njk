@@ -11,10 +11,5 @@
     {% include "partials/h-card.njk" %}
 
     {{ content | safe }}
-
-    <h2>Latest posts</h2>
-    {% set postlist = collections.posts | head(-5) %}
-    {% include "partials/recent-posts.njk" %}
-    <p>More posts can be found on <a href="{{ '/blog/' | url }}">the blog</a>.</p>
   </div>
 {% endblock %}

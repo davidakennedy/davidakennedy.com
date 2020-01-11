@@ -8,7 +8,7 @@
 }
 
 .site-footer::before {
-  border-top: var(--border-thick) dashed var(--text);
+  border-top: var(--border-thick) solid var(--text);
   content: "";
   display: block;
   height: 0;
