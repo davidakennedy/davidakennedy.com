@@ -85,13 +85,7 @@
       });
 		Promise.all([
 			fontA.load(null, 10000),
-      fontB.load(null, 10000),
-      fontC.load(null, 10000),
-      fontD.load(null, 10000),
-      fontE.load(null, 10000),
-      fontF.load(null, 10000),
-      fontG.load(null, 10000),
-			fontH.load(null, 10000)
+      fontB.load(null, 10000)
 		]).then(function() {
 			document.documentElement.className += " fonts-stage-2";
 			// Optimization for Repeat Views
