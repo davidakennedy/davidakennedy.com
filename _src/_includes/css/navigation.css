@@ -23,7 +23,7 @@
 }
 
 .font-stage-1 .site-navigation a {
-  font-family: "IBM Plex Sans Subset Bold", Frutiger, "Frutiger Linotype", Univers, Calibri, "Gill Sans", "Gill Sans MT", "Myriad Pro", Myriad, "DejaVu Sans Condensed", "Liberation Sans", "Nimbus Sans L", Tahoma, Geneva, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: var(--font-sans-serif-bold-subset);
   font-weight: 700;
 }
 
@@ -35,7 +35,7 @@
 
 /* Post Navigation */
 .font-stage-1 .posts-pagination a {
-  font-family: "IBM Plex Sans Subset Bold", Frutiger, "Frutiger Linotype", Univers, Calibri, "Gill Sans", "Gill Sans MT", "Myriad Pro", Myriad, "DejaVu Sans Condensed", "Liberation Sans", "Nimbus Sans L", Tahoma, Geneva, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: var(--font-sans-serif-bold-subset);
   font-weight: 700;
 }
 
@@ -95,19 +95,10 @@ h6 a,
   color: var(--headline);
 }
 
-.font-stage-1 .skip-link {
-  font-family: "IBM Plex Sans Subset Bold", Frutiger, "Frutiger Linotype", Univers, Calibri, "Gill Sans", "Gill Sans MT", "Myriad Pro", Myriad, "DejaVu Sans Condensed", "Liberation Sans", "Nimbus Sans L", Tahoma, Geneva, "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-weight: 700;
-}
-
-.font-stage-2 .skip-link,
 .skip-link {
-  font-family: var(--font-serif-bold);
-  font-weight: 700;
-}
-
-.skip-link {
+  font-family: var(--font-serif);
   font-size: var(--s-1);
+  font-weight: 700;
   max-width: none;
   padding: var(--s-5) var(--s-4);
   text-align: center;

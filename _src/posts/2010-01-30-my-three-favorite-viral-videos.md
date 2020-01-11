@@ -1,6 +1,6 @@
 ---
 title: My Three Favorite Viral Videos
-description: A link post about David A. Kennedy's favorite viral videos.
+description: Some favorite viral videos.
 date: 2010-01-30T12:04:07+00:00
 tags:
   - Links

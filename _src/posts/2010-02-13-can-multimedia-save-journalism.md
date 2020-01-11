@@ -1,6 +1,6 @@
 ---
 title: Can Multimedia Save Journalism?
-description: A post about multimedia's role in journalism.
+description: What multimedia can offer journalism.
 featuredimg: true
 image: ales-nesetril-Im7lZjxeLhg-unsplash.jpg
 imgalt: Gray and black laptop computer on dark surface.

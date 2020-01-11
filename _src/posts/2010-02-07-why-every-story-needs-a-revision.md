@@ -1,6 +1,6 @@
 ---
 title: Why Every Story Needs a Revision
-description: A post about the importance of revising your work.
+description: Revise your work, then do it again.
 date: 2010-02-07T21:30:27+00:00
 tags:
   - Storytelling

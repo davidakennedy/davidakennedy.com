@@ -1,6 +1,6 @@
 ---
 title: Do People Really Care About Journalism's Struggles?
-description: Some of David A. Kennedy's favorite digital storytelling websites.
+description: No, not really and here's why.
 date: 2010-02-21T16:40:55+00:00
 permalink: /blog/do-people-care-about-journalisms-struggles/index.html
 tags:
@@ -27,13 +27,13 @@ But why don't they?
 
 There are three major reasons:
 
-1. **The structure of the media**. Media critic and scholar Robert McChesney states in his book, [The Political Economy of Media](http://www.thepoliticaleconomyofmedia.org/), three major reasons for a lack of debate over media structure. One of them is the fact that corporate media have successfully promoted the idea that the status quo is the &#8220;only rational media structure for a democratic and freedom-loving society. This holds true to some extent. People may think that with huge corporations controlling media organizations, there's no chance for change.
+1. **The structure of the media**. Media critic and scholar Robert McChesney states in his book, [The Political Economy of Media](http://www.thepoliticaleconomyofmedia.org/), three major reasons for a lack of debate over media structure. One of them is the fact that corporate media have successfully promoted the idea that the status quo is the "only rational media structure for a democratic and freedom-loving society." This holds true to some extent. People may think that with huge corporations controlling media organizations, there's no chance for change.
 
 2. **People like free**. Much of the debate about journalism centers on monetary issues. Yes, the industry has shed countless jobs, but according to a [recent study by the Inland Press Association, some newspapers have increased their operating profit over the last five years](http://inlandpress.org/articles/2009/07/07/knowledge/current_stories/doc4a53ce729fc97677262186.txt).
 
 According to an article about the report:
 
-Outgoing Inland Executive Director Ray Carlsen said the report compares the gains and losses at daily papers across the country. &#8220;It's encouraging to note that newspaper profitability can still achieve a double-digit percentage of gross revenue,&#8221; Carlsen said. &#8220;It means that newspapers are still a good business when compared to the results of other industries.&#8221;
+Outgoing Inland Executive Director Ray Carlsen said the report compares the gains and losses at daily papers across the country. "It's encouraging to note that newspaper profitability can still achieve a double-digit percentage of gross revenue," Carlsen said. "It means that newspapers are still a good business when compared to the results of other industries."
 
 [Many newspapers have seen huge declines in profit, but continue to see profits of 12 percent to 15 percent](http://techcrunch.com/2009/07/07/small-newspapers-may-be-able-to-prolong-death-longer-than-large-counterparts/). Perhaps free news isn't that bad? People like free, so if the news industry starts charging for everything, the prevailing attitude among people seems to be that the content can be found _somewhere_ for _free_.
 
