@@ -6,6 +6,11 @@
         {% img "wide-width", "", image, imagealt, "" %}
       {%- endif -%}
       <h1 class="title p-name">{{ title or renderData.title }}</h1>
+      <div class="meta">
+        <div class="b-d-line">
+          <span class="date"> Published on <time class="dt-published" datetime="{{ page.date | htmlDateString }}">{{ page.date | readableDate }}</time></span>
+        </div>
+      </div>
     </header>
 
     <div class="post-content e-content">
@@ -14,10 +19,6 @@
 
     <footer class="post-meta">
       <div class="meta">
-        <div class="b-d-line">
-          <span class="author p-author h-card">By {{ metadata.author.name }}</span>
-          <span class="date"> Published on <time class="dt-published" datetime="{{ page.date | htmlDateString }}">{{ page.date | readableDate }}</time></span>
-        </div>
         {% if tags %}
           {% set lastTag = tags | last %}
           <div class="tags">

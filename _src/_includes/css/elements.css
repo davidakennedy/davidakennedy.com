@@ -97,6 +97,10 @@ h6,
   margin-bottom: var(--s3);
 }
 
+.post-header .title {
+  margin-bottom: var(--s-6);
+}
+
 .page-content figure > figcaption,
 .post-content figure > figcaption {
   margin-top: var(--s-3);

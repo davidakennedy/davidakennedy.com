@@ -35,7 +35,7 @@
 
 /* Posts */
 .post-list .post {
-  margin-bottom: var(--s3);
+  margin-bottom: var(--s6);
 }
 
 .post-list .post-date {
@@ -57,28 +57,17 @@
 
 .meta {
   color: var(--lighttext);
-  display: flex;
-  flex-direction: row;
-  flex-wrap: wrap;
   font-family: var(--font-monospace);
   font-size: var(--s-1);
-  justify-content: space-between;
 }
 
 .b-d-line {
   margin-bottom: var(--s3);
-  margin-right: var(--s1);
 }
 
 .author,
 .date {
   display: block;
-}
-
-@media (min-width: 37.5em) {
-  .tags {
-    flex-basis: 60%;
-  }
 }
 
 .tag-list {
