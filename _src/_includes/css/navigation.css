@@ -5,16 +5,8 @@
   flex-wrap: wrap;
 }
 
-.nav li {
-  padding: 0 var(--s-3);
-}
-
-.nav li:first-of-type {
-  padding-left: 0;
-}
-
-.nav li:last-of-type {
-  padding-right: 0;
+.nav a {
+  padding: var(--s-3);
 }
 
 /* Site naigation */
