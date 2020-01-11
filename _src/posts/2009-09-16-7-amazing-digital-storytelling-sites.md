@@ -1,6 +1,6 @@
 ---
 title: Seven Amazing Digital Storytelling Websites
-description: Some of David A. Kennedy's favorite digital storytelling websites.
+description: Sharing some of my favorite digital storytelling websites.
 featuredimg: true
 image: sergi-kabrera-2xU7rYxsTiM-unsplash.jpg
 imgalt: White keyboard.

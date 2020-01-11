@@ -1,6 +1,6 @@
 ---
 title: Interactivity Defined
-description: A link post about defining interactivity.
+description: How would you define interactivity?
 date: 2010-01-19T20:20:47+00:00
 tags:
   - Links

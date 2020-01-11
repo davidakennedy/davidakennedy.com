@@ -1,6 +1,6 @@
 ---
 title: Can You Have Too Much Media in a Project?
-description: Some of David A. Kennedy's favorite digital storytelling websites.
+description: Here's why you can't have too much material when telling stories.
 featuredimg: true
 image: vincent-botta-wYD_wfifJVs-unsplash.jpg
 imgalt: Black and gray internal hard drive.

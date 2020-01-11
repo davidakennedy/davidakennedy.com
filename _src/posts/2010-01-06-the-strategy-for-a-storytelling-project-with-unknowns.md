@@ -1,6 +1,6 @@
 ---
 title: The Strategy for a Storytelling Project with Unknowns
-description: Some of David A. Kennedy's favorite digital storytelling websites.
+description: Sometimes the unknowns of a project can help you make it great.
 featuredimg: true
 image: big-ben-1230998.jpg
 imgalt: Big Ben.

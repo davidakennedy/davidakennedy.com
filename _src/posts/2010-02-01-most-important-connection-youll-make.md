@@ -1,6 +1,6 @@
 ---
 title: The Most Important Connection You'll Make
-description: A post about the importance of connecting with your audience when using digital media.
+description: Connect with your audience when using digital media, like it's the most important thing you'll do.
 featuredimg: true
 image: davide-ragusa-gcDwzUGuUoI-unsplash.jpg
 imgalt: A grayscale photo of many people sitting in chairs.

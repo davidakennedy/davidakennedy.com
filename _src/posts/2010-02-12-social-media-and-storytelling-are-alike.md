@@ -1,6 +1,6 @@
 ---
 title: Three Ways Social Media and Storytelling are Alike
-description: Some of David A. Kennedy's favorite digital storytelling websites.
+description: Social media and story telling have more in common than you might think.
 date: 2010-02-12T12:04:56+00:00
 tags:
   - Social Media
