@@ -5,11 +5,11 @@ featuredimg: true
 image: sergi-kabrera-2xU7rYxsTiM-unsplash.jpg
 imgalt: White keyboard.
 date: 2009-09-16T22:26:14+00:00
+permalink: blog/7-amazing-digital-storytelling-sites/index.html
 tags:
   - Journalism
   - Storytelling
 layout: layouts/post.njk
-permalink: blog/7-amazing-digital-storytelling-sites/index.html
 ---
 
 Stories. We love them.
