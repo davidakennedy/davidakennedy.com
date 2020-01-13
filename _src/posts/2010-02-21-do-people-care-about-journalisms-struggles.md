@@ -7,6 +7,7 @@ tags:
   - Journalism
 layout: layouts/post.njk
 ---
+
 Are they really seeing what has happened?
 
 "In a big news year, most media continued to see audiences shrink."

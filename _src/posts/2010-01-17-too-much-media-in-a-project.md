@@ -5,13 +5,13 @@ featuredimg: true
 image: vincent-botta-wYD_wfifJVs-unsplash.jpg
 imgalt: Black and gray internal hard drive.
 date: 2010-01-17T21:21:16+00:00
+permalink: blog/too-much-media-in-a-project/index.html
 tags:
   - Elon iMedia
   - London 2010
   - Project Management
   - Storytelling
 layout: layouts/post.njk
-permalink: blog/too-much-media-in-a-project/index.html
 ---
 
 After a first day of [beneficial chaos](http://davidakennedy.com/2010/01/11/why-chaos-can-make-a-storytelling-project-work/), my classmates and I dominated the second day of content gathering in London on one of [Elon iMedia's](http://www.elon.edu/e-web/academics/communications/interactive_media/) project for public good.

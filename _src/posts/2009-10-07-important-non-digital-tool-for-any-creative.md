@@ -5,6 +5,7 @@ featuredimg: true
 image: mike-tinnion-3ym6i13Y9LU-unsplash.jpg
 imgalt: Black and silver retractable pen on blank notebook.
 date: 2009-10-07T22:14:29+00:00
+permalink: blog/important-non-digital-tool-for-any-creative/index.html
 tags:
   - Creativity
 layout: layouts/post.njk

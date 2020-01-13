@@ -2,11 +2,13 @@
 title: My Three Favorite Viral Videos
 description: Some favorite viral videos.
 date: 2010-01-30T12:04:07+00:00
+permalink: /blog/my-three-favorite-viral-videos/index.html
 tags:
   - Links
   - Storytelling
 layout: layouts/post.njk
 ---
+
 Videos have become a bigger part of the world wide web.
 
 According to a recent report by the [Pew Internet and American Life Project](http://www.pewinternet.org/Reports/2009/13--The-Audience-for-Online-VideoSharing-Sites-Shoots-Up/1-Overview/The-share-of-online-adults-who-watch-videos-on-videosharing-sites-has-nearly-doubled-since-2006.aspx?r=1), online adults who view videos on video-sharing websites has nearly doubled since 2006. The report also states that more Internet users rely on online video for their television and movie viewing.

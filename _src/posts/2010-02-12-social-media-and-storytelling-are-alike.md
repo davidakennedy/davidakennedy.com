@@ -2,12 +2,13 @@
 title: Three Ways Social Media and Storytelling are Alike
 description: Social media and story telling have more in common than you might think.
 date: 2010-02-12T12:04:56+00:00
+permalink: blog/social-media-and-storytelling-are-alike/index.html
 tags:
   - Social Media
   - Storytelling
 layout: layouts/post.njk
-permalink: blog/social-media-and-storytelling-are-alike/index.html
 ---
+
 Stop tweeting and facebooking for a minute, will you? Yes, it's popular and the love of many.
 
 So much so that comedian Conan O'Brien predicts that in the year 3000, YouTube, Twitter and Facebook will merge to create the ultimate time-wasting website [called YouTwitFace](http://www.youtube.com/watch?v=Bmk9CjEha8A).

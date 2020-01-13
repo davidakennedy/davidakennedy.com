@@ -5,11 +5,11 @@ featuredimg: true
 image: kolleen-gladden-ij5_qCBpIVY-unsplash.jpg
 imgalt: The finish line at a running track.
 date: 2010-01-29T12:34:43+00:00
+permalink: /blog/finish-your-storytelling-project/index.html
 tags:
   - Project Management
   - Storytelling
 layout: layouts/post.njk
-permalink: /blog/finish-your-storytelling-project/index.html
 ---
 
 If you're like me, you have a bad habit.

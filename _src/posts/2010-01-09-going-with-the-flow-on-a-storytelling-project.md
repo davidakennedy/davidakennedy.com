@@ -5,6 +5,7 @@ featuredimg: true
 image: big-ben-1230998.jpg
 imgalt: Big Ben.
 date: 2010-01-09T18:02:13+00:00
+permalink: blog/going-with-the-flow-on-a-storytelling-project/index.html
 tags:
   - Elon iMedia
   - London 2010
