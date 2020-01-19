@@ -95,13 +95,13 @@
 }
 
 .callout {
-	border: var(--border-thin) solid var(--lighttext);
-  border-radius: var(--border-thin);
+	border: var(--border-thick) solid var(--lighttext);
+  border-radius: var(--border-thick);
   padding: var(--s-1);
 }
 
 .intro {
-	font-size: var(--s1);
+	font-size: var(--s2);
 }
 
 /* Horizontal navigation abstraction. */
