@@ -95,7 +95,7 @@
 }
 
 .callout {
-	border: var(--border-thick) solid var(--lighttext);
+	border: 2px solid var(--lighttext);
   border-radius: var(--border-thick);
   padding: var(--s-1);
 }
