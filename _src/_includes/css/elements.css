@@ -95,8 +95,8 @@ h6,
   margin-bottom: var(--s3);
 }
 
-.page-content *:not(figure):not(img):not(pre):not(hr),
-.post-content *:not(figure):not(img):not(pre):not(hr) {
+.page-content *:not(figure):not(img):not(pre):not(hr):not(.reel),
+.post-content *:not(figure):not(img):not(pre):not(hr):not(.reel) {
   max-width: var(--measure);
 }
 
