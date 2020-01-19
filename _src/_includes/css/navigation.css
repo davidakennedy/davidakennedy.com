@@ -64,7 +64,7 @@ a:hover {
 
 a:focus {
   background-color: var(--primary);
-  outline: var(--border-thick) dashed;
+  outline: 2px dashed;
   outline-offset: 2px;
   text-decoration: none;
 }
