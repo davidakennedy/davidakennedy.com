@@ -1,17 +1,8 @@
-/* Navigation abstraction */
-.nav {
-  display: flex;
-  flex-direction: row;
-  flex-wrap: wrap;
-}
-
-.nav a {
-  padding: var(--s-3);
-}
-
 /* Site naigation */
-.site-navigation .nav {
+.site-navigation .nav { 
+  font-size: var(--s-2);
   justify-content: flex-end;
+  margin-left: auto;
 }
 
 .font-stage-1 .site-navigation a {
@@ -23,6 +14,15 @@
 .site-navigation a {
   font-family: var(--font-sans-serif-bold);
   font-weight: 700;
+}
+
+.site-navigation a {
+  padding: var(--s-3);
+  text-decoration: none;
+}
+
+.site-navigation a:hover {
+  text-decoration: underline;
 }
 
 /* Post Navigation */
@@ -53,6 +53,7 @@
    color: var(--text);
    position: relative;
    text-decoration: underline;
+   text-decoration-color: var(--lighttext);
 }
 
 a:hover {
@@ -63,7 +64,7 @@ a:hover {
 
 a:focus {
   background-color: var(--primary);
-  outline: 2px solid;
+  outline: var(--border-thick) dashed;
   text-decoration: none;
 }
 
@@ -106,6 +107,7 @@ h6 a,
 }
 
 .site-title {
+  padding-top: 0 !important;
   text-decoration: none;
 }
 
@@ -129,7 +131,7 @@ h6 a,
 
 /* Social navigation */
 .social-navigation {
-  margin-bottom: var(--s3);
+  margin-bottom: var(--s-3);
 }
 
 .social-navigation .nav {
@@ -138,8 +140,5 @@ h6 a,
 
 .social-navigation a {
   text-decoration: none;
-}
-
-.social-navigation a:visited {
-  text-decoration: none;
+  padding: var(--s-3);
 }

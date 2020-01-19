@@ -97,6 +97,11 @@ h6,
   margin-bottom: var(--s3);
 }
 
+.page-content *:not(img):not(pre):not(hr),
+.post-content *:not(img):not(pre):not(hr) {
+  max-width: var(--measure);
+}
+
 .post-header .title {
   margin-bottom: var(--s-6);
 }
@@ -204,7 +209,7 @@ q:after {
 }
 
 small {
-  font-size: var(--s-1);
+  font-size: var(--s-2);
 }
 
 table,

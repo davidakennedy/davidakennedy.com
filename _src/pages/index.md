@@ -3,7 +3,7 @@ title: Just Call Me DK
 description: The website for David A. Kennedy, a designer and accessibility advocate.
 tags:
   - nav
-navtitle: Home
+navtitle: David A. Kennedy
 navorder: 1
 layout: layouts/home.njk
 templateClass: home-template
