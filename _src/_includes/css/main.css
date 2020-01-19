@@ -69,14 +69,8 @@
 }
 
 /* h-card */
-.h-card figure {
-  float: left;
-  margin-right: var(--s1);
-  max-width: 75px;
-  shape-outside: circle();
-}
-
 .h-card img {
-  border-radius: 50%;
-  max-width: 75px;
+  border-radius: 4px;
+  box-shadow: none;
+  max-width: 150px;
 }

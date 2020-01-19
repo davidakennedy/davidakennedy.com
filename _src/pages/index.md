@@ -1,5 +1,5 @@
 ---
-title: Just Call Me DK
+title: Hello there! Just Call Me DK
 description: The website for David A. Kennedy, a designer and accessibility advocate.
 tags:
   - nav

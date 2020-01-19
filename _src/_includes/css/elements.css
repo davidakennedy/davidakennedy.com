@@ -90,15 +90,13 @@ h6,
 .post-header > *:first-of-type,
 .page-content > *:first-of-type,
 .post-content > *:first-of-type,
-.page-content > div > *,
-.post-content > div > *,
 .page-content > p > *,
 .post-content > p > * {
   margin-bottom: var(--s3);
 }
 
-.page-content *:not(img):not(pre):not(hr),
-.post-content *:not(img):not(pre):not(hr) {
+.page-content *:not(figure):not(img):not(pre):not(hr),
+.post-content *:not(figure):not(img):not(pre):not(hr) {
   max-width: var(--measure);
 }
 
