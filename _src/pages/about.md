@@ -3,7 +3,7 @@ title: About Me
 description: Find out more about David A. Kennedy's career in web design and accessibility.
 featuredimg: true
 image: 47028035001_00d8d35d24_o.jpg
-imagealt: David A. Kennedy speaks on a stage in front of audience.
+imgalt: David A. Kennedy speaks on a stage in front of audience.
 tags:
   - nav
 navtitle: About
