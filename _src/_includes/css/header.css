@@ -1,34 +1,6 @@
 /* Header */
-body {
-  border-top: var(--border-thick) solid var(--text);
-}
-
 .site-header {
-  align-items: center;
-  display: flex;
-  flex-direction: row;
-  flex-wrap: wrap;
-  font-size: var(--s-1);
-  justify-content: center;
-  margin: 0 auto var(--s6);
   max-width: 50rem;
-  padding: var(--s3) var(--s1) 0;
-  width: 100%;
-}
-
-.site-title {
-  margin-bottom: var(--s-1);
-  margin-right: var(--s1);
-}
-
-@media (min-width: 22.1875em) {
-  .site-title {
-    margin-bottom: 0;
-  }
-}
-
-@media (min-width: 25em) {
-  .site-header {
-    justify-content: space-between;
-  }
+  margin-left: auto;
+  padding: var(--s3) var(--s3) var(--s6);
 }
