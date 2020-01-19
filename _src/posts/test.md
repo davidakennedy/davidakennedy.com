@@ -168,3 +168,7 @@ function myFunction() {
 <hr>
 
 <p class="intro">This is serious.</p>
+
+<div class="reel">
+{% img "", "", "davide-ragusa-gcDwzUGuUoI-unsplash.jpg", "A grayscale photo of many people sitting in chairs.", "" %}
+</div>
