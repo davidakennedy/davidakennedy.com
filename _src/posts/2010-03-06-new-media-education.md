@@ -1,6 +1,6 @@
 ---
 title: Could a New Media Education Mean Better Communication Online?
-description: Storytelling can fit into social media too. Here are three tips.
+description: On the Internet, anyone can express their voice to millions of potential users, readers and listeners. Or can they?
 featuredimg: true
 image: randy-fath-07dDz_PI05k-unsplash.jpg
 imgalt: Pink petaled flowers blooms near white, picket fence.

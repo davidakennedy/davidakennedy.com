@@ -91,7 +91,9 @@ h6,
 .page-content > *:first-of-type,
 .post-content > *:first-of-type,
 .page-content > p > *,
-.post-content > p > * {
+.post-content > p > *,
+blockquote > * + *,
+blockquote > *:first-of-type {
   margin-bottom: var(--s3);
 }
 
@@ -121,7 +123,6 @@ blockquote {
   border-left: var(--border-thin) solid var(--lighttext);
   font-family: var(--font-serif);
   font-style: italic;
-  margin-left: var(--s1);
   padding: 0 var(--s1);
 }
 
