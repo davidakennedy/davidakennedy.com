@@ -8,6 +8,7 @@ tags:
   - Web Design
 layout: layouts/post.njk
 ---
+
 You like interactive media.
 
 Are you left brained or right brained?
