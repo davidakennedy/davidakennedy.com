@@ -7,6 +7,7 @@ tags:
   - Journalism
 layout: layouts/post.njk
 ---
+
 Newspapers have dominated the news lately.
 
 And not for reporting the news, but for being the news. The industry continues to struggle amid declining ad revenues and dwindling audiences.
