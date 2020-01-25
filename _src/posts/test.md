@@ -9,7 +9,6 @@ tags:
   - Loooooooong tag
   - New one
   - Test it some more
-layout: layouts/post.njk
 ---
 
 <h2>Long paragraph</h2>

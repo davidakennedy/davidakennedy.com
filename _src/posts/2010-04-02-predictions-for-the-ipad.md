@@ -5,7 +5,6 @@ date: 2010-04-02T12:33:44+00:00
 permalink: /blog/predictions-for-the-ipad/
 tags:
   - Technology
-layout: layouts/post.njk
 ---
 
 The [blogosphere is lit up with talk of the iPad](http://blogsearch.google.com/blogsearch?hl=en&ie=UTF-8&q=iPad&btnG=Search+Blogs) a day before it comes out.

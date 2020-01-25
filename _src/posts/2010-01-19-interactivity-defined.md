@@ -6,7 +6,6 @@ permalink: /blog/interactivity-defined/
 tags:
   - Links
   - Journalism
-layout: layouts/post.njk
 ---
 
 Any time you tell a story online, especially when creating a Web site, building in interactivity will engage users in the site and the story it tells.

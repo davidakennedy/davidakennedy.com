@@ -5,7 +5,6 @@ date: 2009-09-17T15:45:56+00:00
 permalink: /blog/3-great-ways-to-stand-out-online/
 tags:
   - Blogging
-layout: layouts/post.njk
 ---
 
 New blogs, photos and videos clog today's web. The onslaught continues with no sign of slowing down, especially as individuals and companies embrace Web 2.0.

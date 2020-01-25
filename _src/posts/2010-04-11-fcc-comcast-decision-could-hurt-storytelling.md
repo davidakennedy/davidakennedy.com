@@ -8,7 +8,6 @@ date: 2010-04-11T14:49:03+00:00
 permalink: /blog/fcc-comcast-decision-could-hurt-storytelling/
 tags:
   - Network Neutrality
-layout: layouts/post.njk
 ---
 
 Last week, a federal appeals court declared that the Federal Communications Commission [lacked the authority to tell Comcast to not block certain uses of its Internet access services](http://www.nytimes.com/2010/04/07/technology/07net.html).

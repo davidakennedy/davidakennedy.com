@@ -9,7 +9,6 @@ permalink: /blog/finish-your-storytelling-project/
 tags:
   - Project Management
   - Storytelling
-layout: layouts/post.njk
 ---
 
 If you're like me, you have a bad habit.

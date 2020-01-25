@@ -8,7 +8,6 @@ date: 2010-02-01T21:43:28+00:00
 permalink: /blog/most-important-connection-youll-make/
 tags:
   - Storytelling
-layout: layouts/post.njk
 ---
 
 Websites have become a more important aspect of multimedia storytelling than ever before.

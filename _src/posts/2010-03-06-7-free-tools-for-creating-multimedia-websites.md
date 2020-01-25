@@ -8,7 +8,6 @@ date: 2010-03-06T01:16:46+00:00
 permalink: /blog/7-free-tools-for-creating-multimedia-websites/
 tags:
   - Journalism
-layout: layouts/post.njk
 ---
 
 We all like free. Love it even.

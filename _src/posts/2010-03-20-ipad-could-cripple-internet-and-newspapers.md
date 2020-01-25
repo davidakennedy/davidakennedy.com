@@ -5,7 +5,6 @@ date: 2010-03-20T23:57:47+00:00
 permalink: /blog/ipad-could-cripple-internet-and-newspapers/
 tags:
   - Journalism
-layout: layouts/post.njk
 ---
 
 Steve Jobs has been quoted as saying he [believes in old media companies, and that democracy depends on a free and professional press](http://www.guardian.co.uk/media/pda/2010/jan/28/can-apple-ipad-save-newspapers "Can the Apple iPad save newspapers?").

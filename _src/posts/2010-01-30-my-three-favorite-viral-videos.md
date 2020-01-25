@@ -6,7 +6,6 @@ permalink: /blog/my-three-favorite-viral-videos/
 tags:
   - Links
   - Storytelling
-layout: layouts/post.njk
 ---
 
 Videos have become a bigger part of the world wide web.

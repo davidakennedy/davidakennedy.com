@@ -11,7 +11,6 @@ tags:
   - London 2010
   - Project Management
   - Storytelling
-layout: layouts/post.njk
 ---
 
 [My classmates and I](http://www.elon.edu/e-web/academics/communications/interactive_media/imediaclass2009.xhtml) at Elon University have been huddled together planning some very exciting projects for public good.

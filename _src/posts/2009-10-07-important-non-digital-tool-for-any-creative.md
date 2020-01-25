@@ -8,7 +8,6 @@ date: 2009-10-07T22:14:29+00:00
 permalink: /blog/important-non-digital-tool-for-any-creative/
 tags:
   - Creativity
-layout: layouts/post.njk
 ---
 
 It's easy for us to become immersed in the digital world.

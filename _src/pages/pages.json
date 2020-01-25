@@ -1,0 +1,5 @@
+{
+  "templateClass": "page-template",
+  "permalink": "{% if slug %}{{ slug }}{% else %}{{ title | slug }}{% endif %}/",
+  "layout": "layouts/page.njk"
+}

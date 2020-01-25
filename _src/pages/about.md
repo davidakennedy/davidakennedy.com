@@ -1,5 +1,5 @@
 ---
-title: About Me
+title: About
 description: Find out more about David A. Kennedy's career in web design and accessibility.
 featuredimg: true
 image: 47028035001_00d8d35d24_o.jpg
@@ -8,9 +8,6 @@ tags:
   - nav
 navtitle: About
 navorder: 2
-layout: layouts/page.njk
-templateClass: page-template
-permalink: about/index.html
 ---
 
 I work as a Senior UX Designer at [Ad Hoc](https://adhocteam.us/), focusing on accessibility.

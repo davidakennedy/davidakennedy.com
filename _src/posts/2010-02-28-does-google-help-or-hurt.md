@@ -5,7 +5,6 @@ date: 2010-02-28T21:10:05+00:00
 permalink: /blog/does-google-help-or-hurt/
 tags:
   - Journalism
-layout: layouts/post.njk
 ---
 
 Few tech companies roll off the tongue as easy as Google these days.
