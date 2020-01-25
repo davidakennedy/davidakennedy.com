@@ -11,7 +11,6 @@ tags:
   - Elon iMedia
   - London 2010
   - Storytelling
-layout: layouts/post.njk
 ---
 
 Sometimes chaos can be the best thing for a big project.

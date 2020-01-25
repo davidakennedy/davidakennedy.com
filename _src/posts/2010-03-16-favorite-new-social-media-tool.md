@@ -5,7 +5,6 @@ date: 2010-03-16T23:00:48+00:00
 permalink: /blog/favorite-new-social-media-tool/
 tags:
   - Social Media
-layout: layouts/post.njk
 ---
 
 When I first jumped into the social media realm, the amount of tools available to access the different networks overwhelmed me.

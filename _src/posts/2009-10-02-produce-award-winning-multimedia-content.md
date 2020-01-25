@@ -6,7 +6,6 @@ permalink: /blog/produce-award-winning-multimedia-content/
 tags:
   - Journalism
   - Web Content
-layout: layouts/post.njk
 ---
 
 Michael Radutzky has presided over some of the biggest stories of our time.

@@ -6,7 +6,6 @@ tags:
   - Non-Profits
   - Search Engine Marketing
   - SEO
-layout: layouts/post.njk
 ---
 
 SEO has fast turned into one of the web's buzz words.

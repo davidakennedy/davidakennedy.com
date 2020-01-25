@@ -9,7 +9,6 @@ permalink: /blog/new-media-education/
 tags:
   - Education
   - Online Privacy
-layout: layouts/post.njk
 ---
 
 The common praise given to the Internet: anyone can express their voice to millions of potential users, readers and listeners.

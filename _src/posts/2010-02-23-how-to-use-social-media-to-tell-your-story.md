@@ -9,7 +9,6 @@ permalink: /blog/how-to-use-social-media-to-tell-your-story/
 tags:
   - Social Media
   - Storytelling
-layout: layouts/post.njk
 ---
 
 The term social media has found its way into the buzzword dictionary of late.

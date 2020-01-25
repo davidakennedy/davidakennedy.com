@@ -9,7 +9,6 @@ permalink: /blog/7-amazing-digital-storytelling-sites/
 tags:
   - Journalism
   - Storytelling
-layout: layouts/post.njk
 ---
 
 Stories. We love them.

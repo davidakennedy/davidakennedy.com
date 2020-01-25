@@ -8,7 +8,6 @@ date: 2010-01-03T09:44:11+00:00
 permalink: /blog/what-if-newspaper-home-pages-were-like-igoogle/
 tags:
   - Journalism
-layout: layouts/post.njk
 ---
 
 This year I almost entered the [Knight News Challenge](http://www.newschallenge.org/). I developed a first draft for an idea, but just didn't have to time to fully flesh it out.

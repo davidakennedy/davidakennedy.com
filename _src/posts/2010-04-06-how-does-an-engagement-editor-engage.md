@@ -9,7 +9,6 @@ permalink: /blog/how-does-an-engagement-editor-engage/
 tags:
   - Journalism
   - Social Media
-layout: layouts/post.njk
 ---
 
 Legacy media and other news organizations have begun to take social media more seriously, [creating positions that focus on the medium](http://www.ajr.org/Article.asp?id=4860).

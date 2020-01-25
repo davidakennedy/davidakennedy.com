@@ -11,7 +11,6 @@ tags:
   - London 2010
   - Project Management
   - Storytelling
-layout: layouts/post.njk
 ---
 
 Every project has its challenges.

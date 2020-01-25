@@ -5,7 +5,6 @@ date: 2010-01-04T09:04:45+00:00
 permalink: /blog/create-a-digital-story-a-flash-tutorial/
 tags:
   - Storytelling
-layout: layouts/post.njk
 ---
 
 Digital stories remain a mostly untapped resource in the classroom for students and teachers.

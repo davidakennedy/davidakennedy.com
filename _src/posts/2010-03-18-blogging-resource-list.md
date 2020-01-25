@@ -6,7 +6,6 @@ permalink: /blog/blogging-resource-list/
 tags:
   - Blogging
   - Web Content
-layout: layouts/post.njk
 ---
 
 You can never have enough resources when it comes to blogging.

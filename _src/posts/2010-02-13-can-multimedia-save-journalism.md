@@ -8,7 +8,6 @@ date: 2010-02-13T17:48:39+00:00
 permalink: /blog/can-multimedia-save-journalism/
 tags:
   - Journalism
-layout: layouts/post.njk
 ---
 
 In the late 1990s, when the Internet started catching on, many believed that traditional media, like print and broadcast media would make a transition to the online world.

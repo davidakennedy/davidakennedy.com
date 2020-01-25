@@ -7,7 +7,6 @@ tags:
   - Marketing
   - Storytelling
   - Web Design
-layout: layouts/post.njk
 ---
 
 Every website tells a story.

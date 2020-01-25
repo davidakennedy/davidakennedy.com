@@ -1,9 +1,6 @@
 ---
 title: Colophon
 description: Details about how David A. Kennedy's personal website was made.
-layout: layouts/page.njk
-templateClass: page-template
-permalink: colophon/index.html
 ---
 
 This site wouldn't be possible without the work of countless others.
