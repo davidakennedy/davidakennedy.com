@@ -2,7 +2,7 @@
 title: The Print vs. New Media Debate
 description: Maybe it's newspapers vs. cell phones.
 date: 2010-03-12T16:33:57+00:00
-permalink: blog/print-vs-new-media-debate/index.html
+permalink: /blog/print-vs-new-media-debate/
 tags:
   - Journalism
 layout: layouts/post.njk

@@ -5,7 +5,7 @@ featuredimg: true
 image: big-ben-1230998.jpg
 imgalt: Big Ben.
 date: 2010-01-11T18:53:49+00:00
-permalink: blog/why-chaos-can-make-a-storytelling-project-work/index.html
+permalink: /blog/why-chaos-can-make-a-storytelling-project-work/
 tags:
   - Creativity
   - Elon iMedia

@@ -2,7 +2,7 @@
 title: My Favorite New Social Media Tool
 description: Why I liked Hootsuite for managing social media.
 date: 2010-03-16T23:00:48+00:00
-permalink: blog/favorite-new-social-media-tool/index.html
+permalink: /blog/favorite-new-social-media-tool/
 tags:
   - Social Media
 layout: layouts/post.njk

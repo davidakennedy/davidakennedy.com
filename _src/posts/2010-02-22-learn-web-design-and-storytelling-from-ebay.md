@@ -2,7 +2,7 @@
 title: What You Can Learn About Web Design and Storytelling from eBay
 description: Every website tells a story, even eBay's site.
 date: 2010-02-22T08:55:33+00:00
-permalink: blog/learn-web-design-and-storytelling-from-ebay/index.html
+permalink: /blog/learn-web-design-and-storytelling-from-ebay/
 tags:
   - Marketing
   - Storytelling

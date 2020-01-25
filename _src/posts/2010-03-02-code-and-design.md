@@ -2,7 +2,7 @@
 title: Code and Design
 description: It's good to be a bit left brained and right brained.
 date: 2010-03-02T22:53:10+00:00
-permalink: blog/code-and-design/index.html
+permalink: /blog/code-and-design/
 tags:
   - Links
   - Web Design

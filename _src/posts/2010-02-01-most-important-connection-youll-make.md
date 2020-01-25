@@ -5,7 +5,7 @@ featuredimg: true
 image: davide-ragusa-gcDwzUGuUoI-unsplash.jpg
 imgalt: A grayscale photo of many people sitting in chairs.
 date: 2010-02-01T21:43:28+00:00
-permalink: blog/most-important-connection-youll-make/index.html
+permalink: /blog/most-important-connection-youll-make/
 tags:
   - Storytelling
 layout: layouts/post.njk

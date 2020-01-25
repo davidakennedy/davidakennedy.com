@@ -2,7 +2,7 @@
 title: The Ultimate Blogging Resource List
 description: A good, old-fashioned list of links to help you get going with blogging.
 date: 2010-03-18T08:02:24+00:00
-permalink: blog/blogging-resource-list/index.html
+permalink: /blog/blogging-resource-list/
 tags:
   - Blogging
   - Web Content

@@ -5,7 +5,7 @@ featuredimg: true
 image: ales-nesetril-Im7lZjxeLhg-unsplash.jpg
 imgalt: Gray and black laptop computer on dark surface.
 date: 2010-03-06T01:16:46+00:00
-permalink: blog/7-free-tools-for-creating-multimedia-websites/index.html
+permalink: /blog/7-free-tools-for-creating-multimedia-websites/
 tags:
   - Journalism
 layout: layouts/post.njk

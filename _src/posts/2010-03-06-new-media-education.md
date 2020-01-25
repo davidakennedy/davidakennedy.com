@@ -5,7 +5,7 @@ featuredimg: true
 image: randy-fath-07dDz_PI05k-unsplash.jpg
 imgalt: Pink petaled flowers blooms near white, picket fence.
 date: 2010-03-06T23:00:13+00:00
-permalink: blog/new-media-education/index.html
+permalink: /blog/new-media-education/
 tags:
   - Education
   - Online Privacy

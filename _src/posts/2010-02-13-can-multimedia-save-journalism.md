@@ -5,7 +5,7 @@ featuredimg: true
 image: ales-nesetril-Im7lZjxeLhg-unsplash.jpg
 imgalt: Gray and black laptop computer on dark surface.
 date: 2010-02-13T17:48:39+00:00
-permalink: blog/can-multimedia-save-journalism/index.html
+permalink: /blog/can-multimedia-save-journalism/
 tags:
   - Journalism
 layout: layouts/post.njk

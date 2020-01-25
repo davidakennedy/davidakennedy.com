@@ -5,7 +5,7 @@ featuredimg: true
 image: markus-spiske-w99fOHFYTjc-unsplash.jpg
 imgalt: Many Lego figures on a shelf.
 date: 2010-02-23T10:15:05+00:00
-permalink: blog/how-to-use-social-media-to-tell-your-story/index.html
+permalink: /blog/how-to-use-social-media-to-tell-your-story/
 tags:
   - Social Media
   - Storytelling

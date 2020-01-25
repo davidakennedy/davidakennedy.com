@@ -5,7 +5,7 @@ featuredimg: true
 image: anastasia-dulgier-OKOOGO578eo-unsplash.jpg
 imgalt: Lighted city at night via an aerial photo.
 date: 2010-04-06T09:00:02+00:00
-permalink: blog/how-does-an-engagement-editor-engage/index.html
+permalink: /blog/how-does-an-engagement-editor-engage/
 tags:
   - Journalism
   - Social Media
