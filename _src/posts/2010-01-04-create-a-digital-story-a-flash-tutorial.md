@@ -2,7 +2,7 @@
 title: Create a Digital Story – A Flash Tutorial
 description: A Flash project about creating a digital story.
 date: 2010-01-04T09:04:45+00:00
-permalink: blog/create-a-digital-story-a-flash-tutorial/index.html
+permalink: /blog/create-a-digital-story-a-flash-tutorial/
 tags:
   - Storytelling
 layout: layouts/post.njk

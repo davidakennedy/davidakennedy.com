@@ -2,7 +2,7 @@
 title: My Three Favorite Viral Videos
 description: Some favorite viral videos.
 date: 2010-01-30T12:04:07+00:00
-permalink: /blog/my-three-favorite-viral-videos/index.html
+permalink: /blog/my-three-favorite-viral-videos/
 tags:
   - Links
   - Storytelling

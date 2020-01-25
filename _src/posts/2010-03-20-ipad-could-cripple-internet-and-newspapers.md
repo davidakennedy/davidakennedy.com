@@ -2,7 +2,7 @@
 title: Why the iPad could Cripple the Internet and Newspapers
 description: If the iPad fosters a closed system, could that be bad for the Internet and publishers?
 date: 2010-03-20T23:57:47+00:00
-permalink: blog/ipad-could-cripple-internet-and-newspapers/index.html
+permalink: /blog/ipad-could-cripple-internet-and-newspapers/
 tags:
   - Journalism
 layout: layouts/post.njk

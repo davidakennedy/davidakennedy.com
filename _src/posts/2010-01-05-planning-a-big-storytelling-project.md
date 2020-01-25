@@ -5,7 +5,7 @@ featuredimg: true
 image: big-ben-1230998.jpg
 imgalt: Big Ben.
 date: 2010-01-05T07:45:40+00:00
-permalink: blog/planning-a-big-storytelling-project/index.html
+permalink: /blog/planning-a-big-storytelling-project/
 tags:
   - Elon iMedia
   - London 2010

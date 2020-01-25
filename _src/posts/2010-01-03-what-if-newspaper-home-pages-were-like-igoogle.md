@@ -5,7 +5,7 @@ featuredimg: true
 image: roman-kraft-_Zua2hyvTBk-unsplash.jpg
 imgalt: Man sitting on bench reading newspaper.
 date: 2010-01-03T09:44:11+00:00
-permalink: blog/what-if-newspaper-home-pages-were-like-igoogle/index.html
+permalink: /blog/what-if-newspaper-home-pages-were-like-igoogle/
 tags:
   - Journalism
 layout: layouts/post.njk

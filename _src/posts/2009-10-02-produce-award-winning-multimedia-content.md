@@ -2,7 +2,7 @@
 title: Five Tips on Producing Award-Winning Multimedia Content
 description: Michael Radutzky on five ways to produce award-winning content.
 date: 2009-10-02T20:31:42+00:00
-permalink: blog/produce-award-winning-multimedia-content/index.html
+permalink: /blog/produce-award-winning-multimedia-content/
 tags:
   - Journalism
   - Web Content

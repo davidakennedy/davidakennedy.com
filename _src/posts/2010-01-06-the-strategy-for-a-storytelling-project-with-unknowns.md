@@ -5,7 +5,7 @@ featuredimg: true
 image: big-ben-1230998.jpg
 imgalt: Big Ben.
 date: 2010-01-06T10:57:43+00:00
-permalink: blog/the-strategy-for-a-storytelling-project-with-unknowns/index.html
+permalink: /blog/the-strategy-for-a-storytelling-project-with-unknowns/
 tags:
   - Elon iMedia
   - London 2010

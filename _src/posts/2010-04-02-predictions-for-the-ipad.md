@@ -2,7 +2,7 @@
 title: A Few More Predictions for the iPad
 description: Some maybe, not-so-true predictions for the iPad.
 date: 2010-04-02T12:33:44+00:00
-permalink: blog/predictions-for-the-ipad/index.html
+permalink: /blog/predictions-for-the-ipad/
 tags:
   - Technology
 layout: layouts/post.njk

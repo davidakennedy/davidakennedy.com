@@ -2,7 +2,7 @@
 title: Do People Really Care About Journalism's Struggles?
 description: No, not really and here's why.
 date: 2010-02-21T16:40:55+00:00
-permalink: /blog/do-people-care-about-journalisms-struggles/index.html
+permalink: /blog/do-people-care-about-journalisms-struggles/
 tags:
   - Journalism
 layout: layouts/post.njk

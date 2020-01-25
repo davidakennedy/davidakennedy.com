@@ -2,7 +2,7 @@
 title: Does Google Help or Hurt Traditional Media?
 description: It's complicated, but Google will continue to push back on traditional media.
 date: 2010-02-28T21:10:05+00:00
-permalink: blog/does-google-help-or-hurt/index.html
+permalink: /blog/does-google-help-or-hurt/
 tags:
   - Journalism
 layout: layouts/post.njk

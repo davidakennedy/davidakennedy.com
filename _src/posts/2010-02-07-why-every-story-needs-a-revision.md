@@ -2,7 +2,7 @@
 title: Why Every Story Needs a Revision
 description: Revise your work, then do it again.
 date: 2010-02-07T21:30:27+00:00
-permalink: blog/why-every-story-needs-a-revision/index.html
+permalink: /blog/why-every-story-needs-a-revision/
 tags:
   - Storytelling
 layout: layouts/post.njk

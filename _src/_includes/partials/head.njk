@@ -5,15 +5,7 @@
   {% include "partials/meta.njk" %}
   {% include "partials/seo.njk" %}
   {% set css %}
-    {% include "css/fonts.css" %}
-    {% include "css/reset.css" %}
-    {% include "css/utils.css" %}
-    {% include "css/elements.css" %}
-    {% include "css/navigation.css" %}
-    {% include "css/header.css" %}
-    {% include "css/main.css" %}
-    {% include "css/footer.css" %}
-    {% include "css/syntax.css" %}
+    {% include "css/style.css" %}
   {% endset %}
   <style rel="stylesheet">
     {{ css | cssmin | safe }}
