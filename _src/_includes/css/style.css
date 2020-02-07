@@ -755,11 +755,11 @@ ol {
 }
 
 ul {
-  list-style: disc inside;
+  list-style: disc;
 }
 
 ol {
-  list-style: decimal inside;
+  list-style: decimal;
 }
 
 li > ul,
@@ -805,7 +805,7 @@ img {
 
 /* Navigation */
 /* Site naigation */
-.site-navigation .nav { 
+.site-navigation .nav {
   font-size: var(--s-2);
   justify-content: flex-end;
   margin-left: auto;
