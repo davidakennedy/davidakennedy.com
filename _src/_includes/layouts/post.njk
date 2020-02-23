@@ -3,7 +3,7 @@
   <article class="post h-entry">
     <header class="post-header">
       {%- if featuredimg and image -%}
-        {% img "", "", image, imgalt, "" %}
+        {% heroimg "", "", image, imgalt, "" %}
       {%- endif -%}
       <h1 class="title p-name">{{ title or renderData.title }}</h1>
       <div class="meta">
