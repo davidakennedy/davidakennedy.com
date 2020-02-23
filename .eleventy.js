@@ -55,7 +55,7 @@ module.exports = function(eleventyConfig) {
   });
 
   eleventyConfig.addFilter("imgPath", function(file) {
-    return `/assets/img/${file}`;
+    return `/assets/img/uploads/${file}`;
   });
 
   const htmlmin = require("html-minifier");
@@ -72,6 +72,20 @@ module.exports = function(eleventyConfig) {
     return content;
   });
 
+  // Generate hero image markup.
+  // A responsive image helper using Netlify Large Media - image transformation
+  // Also not indented because: https://www.11ty.io/docs/languages/markdown/#there-are-extra-and-in-my-output
+  eleventyConfig.addShortcode(
+    "heroimg",
+    (figclass = "", imgclass = "", url, alt = "", caption = "") => {
+      return `<figure ${figclass ? `class="${figclass}"` : ""}><img ${
+        imgclass ? `class="${imgclass}"` : ""
+      } srcset="/assets/img/uploads/${url}?nf_resize=fit&w=320 320w, /assets/img/uploads/${url}?nf_resize=fit&w=640 640w, /assets/img/uploads/${url}?nf_resize=fit&w=800 800w, /assets/img/uploads/${url}?nf_resize=fit&w=1024 1024w, /assets/img/uploads/${url}?nf_resize=fit&w=1280 1280w, /assets/img/uploads/${url}?nf_resize=fit&w=1440 1440w, /assets/img/uploads/${url}?nf_resize=fit&w=1920 1920w" src="/assets/img/uploads/${url}?nf_resize=fit&w=600" ${
+        alt ? `alt="${alt}"` : alt === "" ? `alt="${alt}"` : ""
+      } />${caption ? `<figcaption>${caption}</figcaption>` : ""}</figure>`;
+    }
+  );
+
   // Generate image markup.
   // A responsive image helper using Netlify Large Media - image transformation
   // Also not indented because: https://www.11ty.io/docs/languages/markdown/#there-are-extra-and-in-my-output
@@ -80,7 +94,7 @@ module.exports = function(eleventyConfig) {
     (figclass = "", imgclass = "", url, alt = "", caption = "") => {
       return `<figure ${figclass ? `class="${figclass}"` : ""}><img ${
         imgclass ? `class="${imgclass}"` : ""
-      } srcset="/assets/img/${url}?nf_resize=fit&w=320 320w, /assets/img/${url}?nf_resize=fit&w=640 640w, /assets/img/${url}?nf_resize=fit&w=800 800w, /assets/img/${url}?nf_resize=fit&w=1024 1024w, /assets/img/${url}?nf_resize=fit&w=1280 1280w, /assets/img/${url}?nf_resize=fit&w=1440 1440w, /assets/img/${url}?nf_resize=fit&w=1920 1920w" src="/assets/img/${url}?nf_resize=fit&w=600" ${
+      } srcset="/assets/img/uploads/${url}?nf_resize=fit&w=320 320w, /assets/img/uploads/${url}?nf_resize=fit&w=640 640w, src="/assets/img/uploads/${url}?nf_resize=fit&w=600" ${
         alt ? `alt="${alt}"` : alt === "" ? `alt="${alt}"` : ""
       } />${caption ? `<figcaption>${caption}</figcaption>` : ""}</figure>`;
     }
