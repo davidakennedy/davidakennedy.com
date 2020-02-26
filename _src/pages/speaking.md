@@ -14,16 +14,16 @@ I love talking about the web and have spoken at a number of events and conferenc
 
 ## 2017
 
-  * **Picking the Right Theme**: Triad WordPress Meetup Group; October 11, 2017; Greensboro, NC. [Presentation slides](http://davidakennedy.local/wp-content/uploads/2017/10/pickingtherighttheme.pdf).
-  * **What I Learned from Premium Themes**: WordCamp Raleigh; April 22, 2017; Raleigh, NC. [Presentation slides](http://davidakennedy.local/wp-content/uploads/2017/04/wcral2017.pdf); [View the talk](https://wordpress.tv/2017/06/22/david-a-kennedy-what-ive-learned-from-premium-themes/).
+  * **Picking the Right Theme**: Triad WordPress Meetup Group; October 11, 2017; Greensboro, NC. [Presentation slides](/assets/talks/pickingtherighttheme.pdf).
+  * **What I Learned from Premium Themes**: WordCamp Raleigh; April 22, 2017; Raleigh, NC. [Presentation slides](/assets/talks/2017/04/wcral2017.pdf); [View the talk](https://wordpress.tv/2017/06/22/david-a-kennedy-what-ive-learned-from-premium-themes/).
 
 ## 2016
 
-  * **Themes are for Users**: [WordPress D.C.](http://www.meetup.com/wordpressdc/events/228263492/); February 16, 2016; Washington, D.C. [Presentation slides](http://davidakennedy.local/wp-content/uploads/2015/12/themesareforusersv3.pdf); [Related blog post](/blog/themes-are-for-users/); [View the talk](https://www.youtube.com/watch?v=55TIKZhFD2Y).
+  * **Themes are for Users**: [WordPress D.C.](http://www.meetup.com/wordpressdc/events/228263492/); February 16, 2016; Washington, D.C. [Presentation slides](/assets/talks/themesareforusersv3.pdf); [Related blog post](/blog/themes-are-for-users/); [View the talk](https://www.youtube.com/watch?v=55TIKZhFD2Y).
 
 ## 2015
 
-  * **Themes are for Users**: WordCamp U.S.; December 4, 2015; Philadelphia, PA. [Presentation slides](http://davidakennedy.local/wp-content/uploads/2015/12/themesareforusersv3.pdf); [Related blog post](/blog/themes-are-for-users/); [View the talk](http://wordpress.tv/2015/12/09/david-kennedy-themes-are-for-users/).
+  * **Themes are for Users**: WordCamp U.S.; December 4, 2015; Philadelphia, PA. [Presentation slides](/assets/talks/themesareforusersv3.pdf); [Related blog post](/blog/themes-are-for-users/); [View the talk](http://wordpress.tv/2015/12/09/david-kennedy-themes-are-for-users/).
 
 ## 2014
 
@@ -42,9 +42,9 @@ No speaking engagements.
 
 ## 2011
 
-  * **Creating Content: Finding it Around Every Corner**: WordPress DC Meetup Group; April 4, 2011; Washington, DC. [Presentation slides](http://davidakennedy.local/wp-content/uploads/2018/03/Creating-Content-Finding-It-Around-Every-Corner.pptx); [Related blog post](/blog/creating-content-finding-it-around-every-corner/).
-  * **Accessibility: Why it Matters**: The Arc&#8217;s National Convention; September 16-19, 2011; Denver, Colorado. [Presentation slides](http://davidakennedy.local/wp-content/uploads/2018/03/the-arc-accessibility-convention2011-presentation_.pptx).
+  * **Creating Content: Finding it Around Every Corner**: WordPress DC Meetup Group; April 4, 2011; Washington, DC. [Presentation slides](/assets/talks/Creating-Content-Finding-It-Around-Every-Corner.pptx); [Related blog post](/blog/creating-content-finding-it-around-every-corner/).
+  * **Accessibility: Why it Matters**: The Arc&#8217;s National Convention; September 16-19, 2011; Denver, Colorado. [Presentation slides](/assets/talks/the-arc-accessibility-convention2011-presentation_.pptx).
 
 ## 2010
 
-  * **Social Media: What&#8217;s on the Menu**: Association of University Centers on Disabilities Annual Meeting and Conference; October 31 &#8211; November 3, 2010; Washington, DC. [Presentation slides](http://davidakennedy.local/wp-content/uploads/2018/03/Social-Media-What-s-on-the-Menu.pptx); [Related blog post](/blog/social-media-whats-on-the-menu/).
+  * **Social Media: What&#8217;s on the Menu**: Association of University Centers on Disabilities Annual Meeting and Conference; October 31 &#8211; November 3, 2010; Washington, DC. [Presentation slides](/assets/talks/Social-Media-Whats-on-the-Menu.pptx); [Related blog post](/blog/social-media-whats-on-the-menu/).
