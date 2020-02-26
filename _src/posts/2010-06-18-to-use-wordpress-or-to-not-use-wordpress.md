@@ -59,6 +59,6 @@ I am generally against premium WordPress themes unless it's **EXACTLY** what you
 
 Start with these two questions if you want to use WordPress to build your website. Begin browsing themes, and pick some favorites. Then, be sure to remember these two questions: why do I like this theme and does it allow me to do what I want with my site design-wise?
 
-The next part in the series will be a [gigantic resource list for using WordPress to build your website](http://davidakennedy.com/2010/31-resources-for-powering-a-website-with-wordpress/).
+The next part in the series will be a [gigantic resource list for using WordPress to build your website](/blog/31-resources-for-powering-a-website-with-wordpress/).
 
-_This is the first part of a two part series on Building Websites with WordPress. The_ [_second installment_](http://davidakennedy.com/2010/31-resources-for-powering-a-website-with-wordpress/) _covers resources you can use for building your site with WordPress._
+_This is the first part of a two part series on Building Websites with WordPress. The_ [_second installment_](/blog/31-resources-for-powering-a-website-with-wordpress/) _covers resources you can use for building your site with WordPress._

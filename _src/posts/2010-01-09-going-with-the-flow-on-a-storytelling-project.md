@@ -15,7 +15,7 @@ tags:
 
 Every project has its challenges.
 
-The winter term project I'm working on with my classmates at Elon University in London is no different. [We knew that it would throw challenges our way](http://davidakennedy.com/2010/01/09/going-with-the-flow-on-a-storytelling-project/), but the project hasn't even begun and we've faced a major one.
+The winter term project I'm working on with my classmates at Elon University in London is no different. [We knew that it would throw challenges our way](/blog/going-with-the-flow-on-a-storytelling-project/), but the project hasn't even begun and we've faced a major one.
 
 It snowed in London a few days before we arrived and the school where we plan to shoot shut down for the week. It snowed again today, so we're hoping the same thing doesn't happen Monday.
 
@@ -33,4 +33,4 @@ Go with this strategy:
 
 It's a simple strategy, but one that can help you accomplish anything.
 
-To follow my journey in London, and the creative project my classmates and I produce, be sure to check this blog regularly. You can explore all the [posts about London 2010 here](http://davidakennedy.com/tag/london-2010/). Also, please follow me on [Twitter](http://twitter.com/DavidAKennedy).
+To follow my journey in London, and the creative project my classmates and I produce, be sure to check this blog regularly. You can explore all the [posts about London 2010 here](/tag/london-2010/). Also, please follow me on [Twitter](http://twitter.com/DavidAKennedy).

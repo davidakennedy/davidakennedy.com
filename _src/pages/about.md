@@ -20,8 +20,8 @@ You can learn more about my professional experience by visiting my [Linkedin pro
 
 ## Other Useful Links
 
-- [Now]({{ '/now/' | url }})
-- [Speaking]({{ '/speaking/' | url }})
-- [Selected Writing]({{ '/category/selected-writing/' | url }})
+- [Now](/now/)
+- [Speaking](/speaking/)
+- [Selected Writing](/tag/selected-writing/)
 
 <small>[_Photo courtesy of Fluxx Studios_](https://www.flickr.com/gp/fluxxstudios/8a31AC).</small>

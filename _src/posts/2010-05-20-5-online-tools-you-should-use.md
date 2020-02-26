@@ -13,7 +13,7 @@ tags:
 
 Today is a big day. In 12 short hours, I'll have walked across the stage at [Elon University](http://www.elon.edu/) and received my master's degree in interactive media with 35 talented and creative people.
 
-I've learned an incredible amount in the program. Just take a look at my [multimedia portfolio](http://davidakennedy.com/projects/). I couldn't create any of that media-rich web content before I entered the program.
+I've learned an incredible amount in the program. Just take a look at my [multimedia portfolio](/projects/). I couldn't create any of that media-rich web content before I entered the program.
 
 I've also tried out hundreds of online tools over the past 10 months of my graduate program. Here are my five favorite tools that are easy to use and give you the most traction in the interactive media world.
 

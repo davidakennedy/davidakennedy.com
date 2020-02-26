@@ -13,7 +13,7 @@ tags:
   - Storytelling
 ---
 
-After a first day of [beneficial chaos](http://davidakennedy.com/2010/01/11/why-chaos-can-make-a-storytelling-project-work/), my classmates and I dominated the second day of content gathering in London on one of [Elon iMedia's](http://www.elon.edu/e-web/academics/communications/interactive_media/) project for public good.
+After a first day of [beneficial chaos](/blog/why-chaos-can-make-a-storytelling-project-work/), my classmates and I dominated the second day of content gathering in London on one of [Elon iMedia's](http://www.elon.edu/e-web/academics/communications/interactive_media/) project for public good.
 
 Our faculty adviser, Ray Johnson, called it "the most productive day by a group I've ever seen."
 
@@ -40,6 +40,6 @@ Here's the strategy we're taking on our London project:
 
 These three simple steps have helped guide us and keep the amount of media we have from overwhelming us. That lets us concentrate on the important part of the project – the story.
 
-To follow my journey in London, and the creative project my classmates and I produce, be sure to check this blog regularly. You can explore all the [posts about London 2010 here](http://davidakennedy.com/tag/london-2010/). Also, please follow me on [Twitter](http://twitter.com/DavidAKennedy).
+To follow my journey in London, and the creative project my classmates and I produce, be sure to check this blog regularly. You can explore all the [posts about London 2010 here](/tag/london-2010/). Also, please follow me on [Twitter](http://twitter.com/DavidAKennedy).
 
 _Image by [Vincent Botta](https://unsplash.com/photos/wYD_wfifJVs)._

@@ -38,7 +38,7 @@ Segmented content.
 
 Multimedia lends itself to short bursts of stories, whether it is a photo gallery, video clip, podcast, interactive map or a text article. These pieces can make for perfect bonus content, in addition to certain levels of free content.
 
-The CBS news show 60 Minutes has leaned toward this approach, [according to one of its senior producers](http://davidakennedy.com/2009/10/02/produce-award-winning-multimedia-content/). Producing quality content will attract viewers and visitors, and may lead them to want to pay for certain additional or premium content.
+The CBS news show 60 Minutes has leaned toward this approach, [according to one of its senior producers](/blog/produce-award-winning-multimedia-content/). Producing quality content will attract viewers and visitors, and may lead them to want to pay for certain additional or premium content.
 
 The next question becomes how to monetize that content.
 

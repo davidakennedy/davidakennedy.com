@@ -15,7 +15,7 @@ tags:
 
 [My classmates and I](http://www.elon.edu/e-web/academics/communications/interactive_media/imediaclass2009.xhtml) at Elon University have been huddled together planning some very exciting projects for public good.
 
-[My group heads to London tomorrow](http://davidakennedy.com/2010/01/05/planning-a-big-storytelling-project/). We've brainstormed and brainstormed and discovered that many of our decisions about our project will have to wait until we get on the ground.
+[My group heads to London tomorrow](/blog/planning-a-big-storytelling-project/). We've brainstormed and brainstormed and discovered that many of our decisions about our project will have to wait until we get on the ground.
 
 We will be creating a multimedia Web site for an elementary school in London – a digital prospectus, so to speak. We'd love to have more knowns than unknowns, but I think we're learning that's part of the excitement of this project.
 
@@ -29,4 +29,4 @@ I like that approach – for any big storytelling project.
 
 You'll never know all the details. So plan all that is possible and be ready to be flexible.
 
-To follow my journey in London, and the creative project my classmates and I produce, be sure to check this blog regularly. You can explore all the [posts about London 2010 here](http://davidakennedy.com/tag/london-2010/). Also, please follow me on [Twitter](http://twitter.com/DavidAKennedy).
+To follow my journey in London, and the creative project my classmates and I produce, be sure to check this blog regularly. You can explore all the [posts about London 2010 here](/tag/london-2010/). Also, please follow me on [Twitter](http://twitter.com/DavidAKennedy).
