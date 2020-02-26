@@ -19,16 +19,16 @@ I love talking about the web and have spoken at a number of events and conferenc
 
 ## 2016
 
-  * **Themes are for Users**: [WordPress D.C.](http://www.meetup.com/wordpressdc/events/228263492/); February 16, 2016; Washington, D.C. [Presentation slides](http://davidakennedy.local/wp-content/uploads/2015/12/themesareforusersv3.pdf); [Related blog post](http://davidakennedy.com/2015/12/04/themes-are-for-users/); [View the talk](https://www.youtube.com/watch?v=55TIKZhFD2Y).
+  * **Themes are for Users**: [WordPress D.C.](http://www.meetup.com/wordpressdc/events/228263492/); February 16, 2016; Washington, D.C. [Presentation slides](http://davidakennedy.local/wp-content/uploads/2015/12/themesareforusersv3.pdf); [Related blog post](/blog/themes-are-for-users/); [View the talk](https://www.youtube.com/watch?v=55TIKZhFD2Y).
 
 ## 2015
 
-  * **Themes are for Users**: WordCamp U.S.; December 4, 2015; Philadelphia, PA. [Presentation slides](http://davidakennedy.local/wp-content/uploads/2015/12/themesareforusersv3.pdf); [Related blog post](http://davidakennedy.com/2015/12/04/themes-are-for-users/); [View the talk](http://wordpress.tv/2015/12/09/david-kennedy-themes-are-for-users/).
+  * **Themes are for Users**: WordCamp U.S.; December 4, 2015; Philadelphia, PA. [Presentation slides](http://davidakennedy.local/wp-content/uploads/2015/12/themesareforusersv3.pdf); [Related blog post](/blog/themes-are-for-users/); [View the talk](http://wordpress.tv/2015/12/09/david-kennedy-themes-are-for-users/).
 
 ## 2014
 
   * **Lessons from Building an Accessible WordPress Theme**: WordCamp Lancaster; March 1, 2014; Lancaster, PA. [Presentation slides](http://davidakennedy.github.io/wclc2014/).
-  * **Testing for Web Accessibility with Free Tools**: Code(Her) Conference; September 13, 2014; Washington, D.C. [Presentation slides](http://davidakennedy.github.io/codeher2014/); [Related blog post](http://davidakennedy.com/2014/09/12/a-workflow-for-testing-web-accessibility-with-free-tools/); [Related resource](http://a11y.me/).
+  * **Testing for Web Accessibility with Free Tools**: Code(Her) Conference; September 13, 2014; Washington, D.C. [Presentation slides](http://davidakennedy.github.io/codeher2014/); [Related blog post](/blog/a-workflow-for-testing-web-accessibility-with-free-tools/); [Related resource](http://a11y.me/).
 
 ## 2013
 
@@ -42,9 +42,9 @@ No speaking engagements.
 
 ## 2011
 
-  * **Creating Content: Finding it Around Every Corner**: WordPress DC Meetup Group; April 4, 2011; Washington, DC. [Presentation slides](http://davidakennedy.local/wp-content/uploads/2018/03/Creating-Content-Finding-It-Around-Every-Corner.pptx); [Related blog post](http://davidakennedy.com/2011/04/17/creating-content-finding-it-around-every-corner/).
+  * **Creating Content: Finding it Around Every Corner**: WordPress DC Meetup Group; April 4, 2011; Washington, DC. [Presentation slides](http://davidakennedy.local/wp-content/uploads/2018/03/Creating-Content-Finding-It-Around-Every-Corner.pptx); [Related blog post](/blog/creating-content-finding-it-around-every-corner/).
   * **Accessibility: Why it Matters**: The Arc&#8217;s National Convention; September 16-19, 2011; Denver, Colorado. [Presentation slides](http://davidakennedy.local/wp-content/uploads/2018/03/the-arc-accessibility-convention2011-presentation_.pptx).
 
 ## 2010
 
-  * **Social Media: What&#8217;s on the Menu**: Association of University Centers on Disabilities Annual Meeting and Conference; October 31 &#8211; November 3, 2010; Washington, DC. [Presentation slides](http://davidakennedy.local/wp-content/uploads/2018/03/Social-Media-What-s-on-the-Menu.pptx); [Related blog post](http://davidakennedy.com/2010/10/31/social-media-whats-on-the-menu/).
+  * **Social Media: What&#8217;s on the Menu**: Association of University Centers on Disabilities Annual Meeting and Conference; October 31 &#8211; November 3, 2010; Washington, DC. [Presentation slides](http://davidakennedy.local/wp-content/uploads/2018/03/Social-Media-What-s-on-the-Menu.pptx); [Related blog post](/blog/social-media-whats-on-the-menu/).

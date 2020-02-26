@@ -12,7 +12,7 @@ permalink: projects/index.html
 
 ## Accessible Zen
 
-Accessible Zen is an accessible, minimalistic, readable, and fully responsive WordPress theme. [Read more about Accessible Zen](http://davidakennedy.com/projects/accessible-zen/) or [view the project on GitHub](https://github.com/davidakennedy/accessible-zen).
+Accessible Zen is an accessible, minimalistic, readable, and fully responsive WordPress theme. [Read more about Accessible Zen](/projects/accessible-zen/) or [view the project on GitHub](https://github.com/davidakennedy/accessible-zen).
 
 ---
 
