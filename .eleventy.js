@@ -94,7 +94,7 @@ module.exports = function(eleventyConfig) {
     (figclass = "", imgclass = "", url, alt = "", caption = "") => {
       return `<figure ${figclass ? `class="${figclass}"` : ""}><img ${
         imgclass ? `class="${imgclass}"` : ""
-      } srcset="/assets/img/uploads/${url}?nf_resize=fit&w=320 320w, /assets/img/uploads/${url}?nf_resize=fit&w=640 640w, src="/assets/img/uploads/${url}?nf_resize=fit&w=600" ${
+      } srcset="/assets/img/uploads/${url}?nf_resize=fit&w=320 320w, /assets/img/uploads/${url}?nf_resize=fit&w=640 640w" src="/assets/img/uploads/${url}?nf_resize=fit&w=600" ${
         alt ? `alt="${alt}"` : alt === "" ? `alt="${alt}"` : ""
       } />${caption ? `<figcaption>${caption}</figcaption>` : ""}</figure>`;
     }
