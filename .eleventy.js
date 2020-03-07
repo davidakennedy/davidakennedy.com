@@ -91,12 +91,12 @@ module.exports = function(eleventyConfig) {
   // Also not indented because: https://www.11ty.io/docs/languages/markdown/#there-are-extra-and-in-my-output
   eleventyConfig.addShortcode(
     "img",
-    (figclass = "", imgclass = "", url, alt = "", caption = "") => {
+    (figclass = "", imgclass = "", url, alt = "", caption = "", width = "", height = "") => {
       return `<figure ${figclass ? `class="${figclass}"` : ""}><img ${
         imgclass ? `class="${imgclass}"` : ""
-      } srcset="/assets/img/uploads/${url}?nf_resize=fit&w=320 320w, /assets/img/uploads/${url}?nf_resize=fit&w=640 640w" src="/assets/img/uploads/${url}?nf_resize=fit&w=600" ${
+      } src="/assets/img/uploads/${url}?nf_resize=smartcrop&w=${width}&h=${height}" ${
         alt ? `alt="${alt}"` : alt === "" ? `alt="${alt}"` : ""
-      } />${caption ? `<figcaption>${caption}</figcaption>` : ""}</figure>`;
+      } width="${width}" height="${height}" />${caption ? `<figcaption>${caption}</figcaption>` : ""}</figure>`;
     }
   );
 
