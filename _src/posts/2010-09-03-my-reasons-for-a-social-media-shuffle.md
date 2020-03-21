@@ -7,6 +7,7 @@ imgalt: Assorted cars parked during daytime.
 date: 2010-09-03T08:27:48+00:00
 permalink: /blog/my-reasons-for-a-social-media-shuffle/
 tags:
+  - Personal
   - Social Media
 ---
 

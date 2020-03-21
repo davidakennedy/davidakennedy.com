@@ -3,6 +3,8 @@ title: Feedback Anyone?
 description: Some students critiqued my website. Feedback is awesome.
 date: 2010-11-18T00:22:28+00:00
 permalink: /blog/website-feedback-anyone/
+tags:
+  - Personal
 ---
 
 When I launched my website, I never did any sort of usability testing, user personas or focus groups. After all, why would I? This was just my personal/professional website.
