@@ -10,6 +10,7 @@ tags:
   - Media
   - Movies
   - Music
+  - Personal
   - Reading
 ---
 We know that media consumption habits have changed and evolved tremendously.
