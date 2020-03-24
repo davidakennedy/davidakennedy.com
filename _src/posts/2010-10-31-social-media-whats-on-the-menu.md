@@ -17,4 +17,4 @@ Casey Golden, Bethany Stevens and I tried to answer some of those questions toda
 
 Our [presentations](http://www.aucd.org/conference/detail/session_event.cfm?session_event_id=151&showday=0) were a part of the [2010 Association of University Centers on Disabilities Annual Meeting and Conference](http://www.aucd.org/conference/index.cfm/home2010). Casey focused on a broad overview of social media, how it works and why it's powerful. I centered my presentation on forming a process for creating social media content, and Bethany talked about Facebook and the best practices for that space.
 
-We had a great audience, and lots of participation. See my talking points by [viewing the presentation on Google Docs](https://docs.google.com/open?id=0B7sxizr7YLygSzQ0cWRGT0puQ00). You might find some of the information helpful as you and/or your organization dives into social media.
+We had a great audience, and lots of participation. See my talking points by [viewing the PowerPoint presentation here](/assets/talks/Social-Media-Whats-on-the-Menu.pptx). You might find some of the information helpful as you and/or your organization dives into social media.

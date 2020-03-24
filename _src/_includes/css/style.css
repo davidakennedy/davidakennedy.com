@@ -469,6 +469,11 @@ blockquote {
   padding: 0 var(--s1);
 }
 
+blockquote cite {
+  display: block;
+  margin-top: var(--s3);
+}
+
 .font-stage-1 cite {
   font-family: var(--font-sans-serif-bold-subset);
   font-weight: 700;
@@ -796,7 +801,6 @@ table {
 
 figcaption {
   font-size: var(--s-1);
-  text-align: center;
 }
 
 img {
