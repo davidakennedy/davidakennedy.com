@@ -83,13 +83,15 @@ commodo consequat.</dd>
 
 <h4>Header Level 4</h4>
 
-<pre><code>
+<pre>
+  <code>
 #header h1 a {
-display: block;
-width: 300px;
-height: 80px;
+  display: block;
+  width: 300px;
+  height: 80px;
 }
-</code></pre>
+  </code>
+</pre>
 
 ```js
 function myFunction() {
