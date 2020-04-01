@@ -21,5 +21,5 @@ The new year has me thinking about what goals to set for this year.
   1. Blog more, and better (yep, going to have to improve over last year).
   2. Learn more about [HTML5 Boilerplate](http://html5boilerplate.com/) (and possibly add or create a new theme for my site that integrates it).
   3. Launch an Elon iMedia Community website, based on [BuddyPress](http://buddypress.org/) – something I've stated in 2011.
-  4. Read more books on tech (first up is [Designing with Progressive Enhancement](http://filamentgroup.com/dwpe/) then some of the books by [Chip and Dan Heath](http://www.amazon.com/Chip-Heath/e/B000APJJZC/ref=sr_ntt_srch_lnk_1?qid=1325460129&sr=1-1)).
+  4. Read more books on tech (first up is [Designing with Progressive Enhancement](http://filamentgroup.com/dwpe/) then some of the books by [Chip and Dan Heath](http://www.amazon.com/Chip-Heath/e/B000APJJZC/)).
   5. Become more proficient in project management (I know the basic principles, but want to grow my skills).
