@@ -1,0 +1,10 @@
+---
+title: WordCamp Lancaster 2014
+description: WordCamp No. 1.
+date: 2014-03-01T09:05:20+00:00
+permalink: /blog/wordcamp-lancaster-2014/
+tags:
+  - Conferences
+---
+
+{% img "", "intrinsic", "IMG_1004.jpg", "WordCamp Lancaster 2014 conference badge.", "", 325, 400 %}
