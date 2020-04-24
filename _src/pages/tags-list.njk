@@ -7,9 +7,9 @@ permalink: /tags/index.html
 {% block content %}
   {% if collections.tagList %}
     <ul>
-      {% for tag in collections.tagList %}
+      {% for tag in collections.tagList | alpha %}
       {% set tagUrl %}/tag/{{ tag | slug }}/{% endset %}
-        <li><a href="{{ tagUrl | url }}" class="tag">{{ tag }}</a></li>
+        <li><a href="{{ tagUrl | url }}" class="tag">{{ tag }}</a> ({{ collections[tag].length }} posts)</li>
       {% endfor %}
     </ul>
   {% endif %}

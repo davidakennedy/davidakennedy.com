@@ -7,4 +7,4 @@ tags:
   - Conferences
 ---
 
-{% img "", "intrinsic", "IMG_1004.jpg", "WordCamp Lancaster 2014 conference badge.", "", 325, 400 %}
+{% img "", "intrinsic", "IMG_1004.jpg", "WordCamp Lancaster 2014 conference badge.", "", 625, 700 %}

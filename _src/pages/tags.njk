@@ -16,7 +16,7 @@ layout: layouts/page.njk
 templateClass: archive-template
 permalink: /tag/{{ tag | slug }}/index.html
 ---
-{% set postlist = collections[ tag ] %}
+{% set postlist = collections[ tag ] | reverse %}
 {% include "partials/archive-post-list.njk" %}
 
 <p>See <a href="{{ '/tags/' | url }}">all tags</a>.</p>

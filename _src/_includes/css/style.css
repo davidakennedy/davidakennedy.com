@@ -43,7 +43,7 @@
 
 /* CSS Reset */
 /* https://github.com/hankchizljaw/modern-css-reset
-   v1.0.4
+   v1.1.0
    License: MIT
    Copyright (c) 2019 Andy Bell and other contributors
 */
@@ -66,25 +66,26 @@ h1,
 h2,
 h3,
 h4,
-h5,
-h6,
 p,
 ul[class],
 ol[class],
-li,
 figure,
-figcaption,
 blockquote,
 dl,
 dd {
   margin: 0;
 }
 
+/* Set core root defaults */
+html {
+  scroll-behavior: smooth;
+}
+
 /* Set core body defaults */
 body {
   min-height: 100vh;
-  scroll-behavior: smooth;
   text-rendering: optimizeSpeed;
+  line-height: 1.5;
 }
 
 /* Remove list styles on ul, ol elements with a class attribute */
@@ -98,24 +99,15 @@ a:not([class]) {
   text-decoration-skip-ink: auto;
 }
 
-/* Make images and embeds easier to work with */
+/* Make images easier to work with */
 img {
+  max-width: 100%;
   display: block;
-  height: auto;
-  max-width: 100%;
-  width: 100%;
-}
-
-embed,
-iframe,
-object {
-  max-width: 100%;
-  width: 100%;
 }
 
 /* Natural flow and rhythm in articles by default */
 article > * + * {
-  margin-bottom: var(--s3);
+  margin-top: 1em;
 }
 
 /* Inherit fonts for inputs and buttons */
@@ -124,6 +116,11 @@ button,
 textarea,
 select {
   font: inherit;
+}
+
+/* Blur images when they have no alt attribute */
+img:not([alt]) {
+  filter: blur(10px);
 }
 
 /* Remove all animations and transitions for people that prefer not to see them */
