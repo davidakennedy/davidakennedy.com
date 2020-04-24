@@ -37,6 +37,11 @@ module.exports = function(eleventyConfig) {
     return array.slice(0, n);
   });
 
+  // Sort an array alphabetically.
+  eleventyConfig.addFilter("alpha", (array) => {
+    return array.sort();
+  });
+
   // Development filters
   const CleanCSS = require("clean-css");
   eleventyConfig.addFilter("cssmin", function(code) {
@@ -70,33 +75,33 @@ module.exports = function(eleventyConfig) {
     }
 
     return content;
-  });
-
-  // Generate hero image markup.
-  // A responsive image helper using Netlify Large Media - image transformation
-  // Also not indented because: https://www.11ty.io/docs/languages/markdown/#there-are-extra-and-in-my-output
-  eleventyConfig.addShortcode(
-    "heroimg",
-    (figclass = "", imgclass = "", url, alt = "", caption = "") => {
-      return `<figure ${figclass ? `class="${figclass}"` : ""}><img ${
-        imgclass ? `class="${imgclass}"` : ""
-      } srcset="/assets/img/uploads/${url}?nf_resize=fit&w=320 320w, /assets/img/uploads/${url}?nf_resize=fit&w=640 640w, /assets/img/uploads/${url}?nf_resize=fit&w=800 800w, /assets/img/uploads/${url}?nf_resize=fit&w=1024 1024w, /assets/img/uploads/${url}?nf_resize=fit&w=1280 1280w, /assets/img/uploads/${url}?nf_resize=fit&w=1440 1440w, /assets/img/uploads/${url}?nf_resize=fit&w=1920 1920w" src="/assets/img/uploads/${url}?nf_resize=fit&w=600" ${
-        alt ? `alt="${alt}"` : alt === "" ? `alt="${alt}"` : ""
-      } />${caption ? `<figcaption>${caption}</figcaption>` : ""}</figure>`;
-    }
-  );
+  });  
 
   // Generate image markup.
   // A responsive image helper using Netlify Large Media - image transformation
   // Also not indented because: https://www.11ty.io/docs/languages/markdown/#there-are-extra-and-in-my-output
   eleventyConfig.addShortcode(
     "img",
-    (figclass = "", imgclass = "", url, alt = "", caption = "", width = "", height = "") => {
+    (figclass, imgclass, url, alt, caption, width, height) => {
       return `<figure ${figclass ? `class="${figclass}"` : ""}><img ${
         imgclass ? `class="${imgclass}"` : ""
-      } src="/assets/img/uploads/${url}?nf_resize=smartcrop&w=${width}&h=${height}" ${
-        alt ? `alt="${alt}"` : alt === "" ? `alt="${alt}"` : ""
-      } width="${width}" height="${height}" />${caption ? `<figcaption>${caption}</figcaption>` : ""}</figure>`;
+      } src="/assets/img/uploads/${url}?nf_resize=smartcrop&w=${width}&h=${height}" alt="${alt ? alt : ""}" width="${width}" height="${height}" />${caption ? `<figcaption>${caption}</figcaption>` : ""}</figure>`;
+    }
+  );
+
+  // Generate hero image markup.
+  // A responsive image helper using Netlify Large Media - image transformation
+  // Also not indented because: https://www.11ty.io/docs/languages/markdown/#there-are-extra-and-in-my-output
+  eleventyConfig.addShortcode(
+    "respimg",
+    (figclass, imgclass, url, alt, caption, width, height, srcsetWidths, fallbackWidth) => {
+      const fetchBase = `/assets/img/uploads/`;
+      const src = `${fetchBase}${url}?nf_resize=fit&w=${fallbackWidth}`;
+      const srcset = srcsetWidths.map(width => {
+        return `${fetchBase}${url}?nf_resize=fit&w=${width} ${width}w`;
+      }).join(', ');
+
+      return `<figure ${figclass ? `class="${figclass}"` : ""}><img ${imgclass ? `class="${imgclass}"` : ""} srcset="${srcset}" src="${src}" alt="${alt ? alt : ""}" width="${width}" height="${height}">${caption ? `<figcaption>${caption}</figcaption>` : ""}</figure>`;
     }
   );
 
