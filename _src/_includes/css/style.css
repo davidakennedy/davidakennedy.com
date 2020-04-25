@@ -904,14 +904,14 @@ h6 a,
   font-family: var(--font-serif);
   font-size: var(--s-1);
   font-weight: 700;
+  left: var(--s3);
   max-width: none;
-  padding: var(--s-5) var(--s-4);
-  text-align: center;
+  padding: var(--s-3);
+  position: absolute;
 }
 
-.skip-link:focus {
-  display: block;
-  outline-offset: -8px;
+.skip-link.focusable:focus {
+  position: absolute;
 }
 
 .image-link {
