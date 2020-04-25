@@ -3,6 +3,7 @@ const { DateTime } = require("luxon");
 const fs = require("fs");
 const pluginRss = require("@11ty/eleventy-plugin-rss");
 const pluginSyntaxHighlight = require("@11ty/eleventy-plugin-syntaxhighlight");
+const markdownIt = require("markdown-it");
 
 // Configuration and plugins.
 module.exports = function(eleventyConfig) {
@@ -73,9 +74,8 @@ module.exports = function(eleventyConfig) {
       });
       return minified;
     }
-
     return content;
-  });  
+  });
 
   // Generate image markup.
   // A responsive image helper using Netlify Large Media - image transformation
@@ -125,26 +125,31 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy("_src/humans.txt");
   eleventyConfig.addPassthroughCopy("_src/site.webmanifest");
 
-  // Markdown plugins.
-  let markdownIt = require("markdown-it");
-  let options = {
+  /* Markdown Overrides */
+  let markdownLibrary = markdownIt({
     html: true,
     breaks: true,
-    linkify: true
-  };
+    linkify: true,
+    typographer: true,
+    quotes: '“”‘’'
+  });
+  eleventyConfig.setLibrary("md", markdownLibrary);
 
+  // Browsersync Overrides
   eleventyConfig.setBrowserSyncConfig({
     callbacks: {
       ready: function(err, browserSync) {
-        const content_404 = fs.readFileSync("_site/404.html");
+        const content_404 = fs.readFileSync('_site/404.html');
 
         browserSync.addMiddleware("*", (req, res) => {
           // Provides the 404 content without redirect.
           res.write(content_404);
           res.end();
         });
-      }
-    }
+      },
+    },
+    ui: false,
+    ghostMode: false
   });
 
   return {

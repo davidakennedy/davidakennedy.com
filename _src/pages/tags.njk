@@ -16,7 +16,13 @@ layout: layouts/page.njk
 templateClass: archive-template
 permalink: /tag/{{ tag | slug }}/index.html
 ---
+
 {% set postlist = collections[ tag ] | reverse %}
+{% if (collections[ tag ].length) > 1  %}
+<p>There are {{ collections[ tag ].length }} posts tagged with {{ tag }}.</p>
+{% else %}
+<p>There is {{ collections[ tag ].length }} posts tagged with {{ tag }}.</p>
+{% endif %}
 {% include "partials/archive-post-list.njk" %}
 
 <p>See <a href="{{ '/tags/' | url }}">all tags</a>.</p>
