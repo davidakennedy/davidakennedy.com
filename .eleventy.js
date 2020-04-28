@@ -94,14 +94,14 @@ module.exports = function(eleventyConfig) {
   // Also not indented because: https://www.11ty.io/docs/languages/markdown/#there-are-extra-and-in-my-output
   eleventyConfig.addShortcode(
     "respimg",
-    (figclass, imgclass, url, alt, caption, width, height, srcsetWidths, fallbackWidth) => {
+    (figclass, imgclass, url, alt, caption, width, height, srcsetWidths, fallbackWidth, sizes) => {
       const fetchBase = `/assets/img/uploads/`;
       const src = `${fetchBase}${url}?nf_resize=fit&w=${fallbackWidth}`;
       const srcset = srcsetWidths.map(width => {
         return `${fetchBase}${url}?nf_resize=fit&w=${width} ${width}w`;
       }).join(', ');
 
-      return `<figure ${figclass ? `class="${figclass}"` : ""}><img ${imgclass ? `class="${imgclass}"` : ""} srcset="${srcset}" src="${src}" alt="${alt ? alt : ""}" width="${width}" height="${height}">${caption ? `<figcaption>${caption}</figcaption>` : ""}</figure>`;
+      return `<figure ${figclass ? `class="${figclass}"` : ""}><img ${imgclass ? `class="${imgclass}"` : ""} srcset="${srcset}" sizes="${sizes ? sizes : '100vw'}" src="${src}" alt="${alt ? alt : ""}" width="${width}" height="${height}">${caption ? `<figcaption>${caption}</figcaption>` : ""}</figure>`;
     }
   );
 
