@@ -7,4 +7,4 @@ tags:
   - Conferences
 ---
 
-{% img "", "intrinsic", "IMG_1012.jpg", "Automattic Grand Meetup 2014", "", 625, 700 %}
+{% img "", "intrinsic", "grandmeetup2014-14jpg", "Automattic Grand Meetup 2014", "", 625, 700 %}

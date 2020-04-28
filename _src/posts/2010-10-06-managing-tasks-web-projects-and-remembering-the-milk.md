@@ -6,7 +6,7 @@ permalink: /blog/managing-tasks-web-projects-and-remembering-the-milk/
 tags:
   - Productivity
 ---
-{% img "", "intrinsic", "to-do-list.jpg", "Remember the Milk interface, showing to-do list on the left and a sidebar on the right.", "", 600, 329 %}
+{% img "", "intrinsic", "rtm-to-do-list-1.jpg", "Remember the Milk interface, showing to-do list on the left and a sidebar on the right.", "", 600, 329 %}
 
 I can't remember the last time I forgot the milk, but I do remember the last time I neglected to attend to something on my to-do list.
 
