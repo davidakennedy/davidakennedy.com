@@ -43,6 +43,19 @@ module.exports = function(eleventyConfig) {
     return array.sort();
   });
 
+  // Process content in markdown-it.
+  const markdownIt = require("markdown-it");
+  const markdownItRenderer = new markdownIt({
+    html: true,
+    breaks: true,
+    linkify: true,
+    typographer: true,
+    quotes: '“”‘’'
+  });
+  eleventyConfig.addFilter("markdownify", (str) => {
+    return markdownItRenderer.renderInline(str);
+  });
+
   // Development filters
   const CleanCSS = require("clean-css");
   eleventyConfig.addFilter("cssmin", function(code) {
@@ -153,7 +166,7 @@ module.exports = function(eleventyConfig) {
   });
 
   return {
-    templateFormats: ["md", "njk", "html", "liquid"],
+    templateFormats: ["md", "njk", "html"],
 
     // If your site lives in a different subdirectory, change this.
     // Leading or trailing slashes are all normalized away, so don’t worry about it.
