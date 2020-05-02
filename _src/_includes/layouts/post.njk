@@ -5,7 +5,8 @@
       {%- if featuredimg and image -%}
         {% respimg "", "", image, imgalt, "", 1280, 1080, [320,480,640,800,960,1120,1280,1440,1600], 800, "" %}
       {%- endif -%}
-      <h1 class="title p-name">{{ title or renderData.title }}</h1>
+      {% set posttitle = title or renderData.title %}
+      <h1 class="title p-name">{{ posttitle | markdownify }}</h1>
       <div class="meta">
         <div class="b-d-line">
           <span class="date"> Published on <time class="dt-published" datetime="{{ page.date | htmlDateString }}">{{ page.date | readableDate }}</time></span>

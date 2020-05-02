@@ -6,7 +6,6 @@ image: keyboard-old-technology-2318.jpg
 imgalt: Antique typewriter.
 date: 2014-12-16T23:23:10+00:00
 permalink: /blog/blogging-34-straight-days/
-layout: layouts/post.njk
 tags:
   - Blogging
   - Personal
