@@ -1,7 +1,7 @@
 {% extends 'layouts/base.njk' %}
 {% block content %}
   <article class="post h-entry">
-    <header class="post-header">
+    <div class="post-header">
       {%- if featuredimg and image -%}
         {% respimg "", "", image, imgalt, "", 1280, 1080, [320,480,640,800,960,1120,1280,1440,1600], 800, "" %}
       {%- endif -%}
@@ -12,13 +12,13 @@
           <span class="date"> Published on <time class="dt-published" datetime="{{ page.date | htmlDateString }}">{{ page.date | readableDate }}</time></span>
         </div>
       </div>
-    </header>
+    </div>
 
     <div class="post-content e-content">
       {{ content | safe }}
     </div>
 
-    <footer class="post-meta">
+    <div class="post-meta">
       <div class="meta">
         {% if tags %}
           {% set lastTag = tags | last %}
@@ -35,6 +35,6 @@
           </div>
         {% endif %}
       </div>
-    </footer>
+    </div>
   </article>
 {% endblock %}

@@ -317,25 +317,48 @@ img:not([alt]) {
 }
 
 body::before {
-  border-left: var(--s-1) solid transparent;
-  border-right: var(--s-1) solid transparent;
-  border-top: var(--s-2) solid var(--text);
+  background-image: radial-gradient(currentColor 0.5px, transparent 0.5px);
+  background-size: calc(10 * 0.5px) calc(10 * 0.5px);
   content: "";
   display: block;
-  height: 0;
+  height: var(--s1);
   margin: 0 auto;
-  width: 0;
+  width: 100%;
 }
 
 body::after {
-  border-left: var(--s-1) solid transparent;
-  border-right: var(--s-1) solid transparent;
-  border-bottom: var(--s-2) solid var(--text);
+  background-image: radial-gradient(currentColor 0.5px, transparent 0.5px);
+  background-size: calc(10 * 0.5px) calc(10 * 0.5px);
   content: "";
   display: block;
-  height: 0;
+  height: var(--s1);
   margin: 0 auto;
-  width: 0;
+  width: 100%;
+}
+
+.page-header .title,
+.post-header .title {
+  max-width: var(--measure);
+}
+
+.page-header,
+.post-header {
+  position: relative;
+}
+
+.page-header::after,
+.post-header::after {
+  background-image: radial-gradient(currentColor 0.5px, transparent 0.5px);
+  background-size: calc(10 * 0.5px) calc(10 * 0.5px);
+  content: "";
+  display: block;
+  height: 100%;
+  left: 0;
+  margin: 0 auto;
+  position: absolute;
+  top: 0;
+  width: 100%;
+  z-index: -1;
 }
 
 /* Elements */
@@ -504,6 +527,7 @@ pre {
   max-width: 100%;
   overflow: auto;
   padding: var(--s1) var(--s2);
+  white-space: pre-wrap;
 }
 
 code,
@@ -744,9 +768,10 @@ input[type="submit"]:focus {
 
 /* Formatting */
 hr {
-  background: var(--text);
+  background-image: radial-gradient(currentColor 0.5px, transparent 0.5px);
+  background-size: calc(10 * 0.5px) calc(10 * 0.5px);
   border: 0;
-  height: 2px;
+  height: 15px;
   margin-top: 0;
 }
 
@@ -1074,7 +1099,7 @@ code[class*="language-"] {
   tab-size: 4;
   text-shadow: none;
   text-align: left;
-  white-space: pre;
+  white-space: pre-wrap;
   word-spacing: normal;
   word-break: normal;
 }
