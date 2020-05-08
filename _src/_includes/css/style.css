@@ -332,15 +332,24 @@ body::after {
   content: "";
   display: block;
   height: var(--s1);
-  margin: 0 auto;
   width: 100%;
 }
 
 .page-header .title,
 .post-header .title {
+  display: inline-block;
+  max-width: var(--measure);
+  position: relative;
+}
+
+.page-header .title::after,
+.post-header .title::after {
   background-image: radial-gradient(currentColor 0.5px, transparent 0.5px);
   background-size: calc(10 * 0.5px) calc(10 * 0.5px);
-  max-width: var(--measure);
+  content: "";
+  display: block;
+  height: var(--s1);
+  width: 100%;
 }
 
 /* Elements */
@@ -967,7 +976,7 @@ h6 a,
 .site-header {
   max-width: 50rem;
   margin-left: auto;
-  padding: var(--s3) var(--s3) var(--s6);
+  padding: var(--s6) var(--s3);
 }
 
 /* Main */
@@ -1051,7 +1060,7 @@ h6 a,
 .site-footer {
   margin: 0 auto;
   max-width: 50rem;
-  padding: var(--s6) var(--s3) var(--s3);
+  padding: var(--s6) var(--s3);
   text-align: center;
   width: 100%;
 }
