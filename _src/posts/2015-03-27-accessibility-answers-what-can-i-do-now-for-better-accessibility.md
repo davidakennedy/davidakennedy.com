@@ -30,4 +30,4 @@ Further reading: [Accessible Form Controls](http://webaim.org/techniques/forms/c
 
 Follow the series [Accessibility Answers](http://davidakennedy.com/tag/accessibility-answers/). Ask me a question via my [contact form](http://davidakennedy.com/contact/) or [Twiter](https://twitter.com/DavidAKennedy).
 
-_Image by _[_rawpixel_](https://unsplash.com/photos/Gx_o9dbqf34t).
+_Image by [rawpixel](https://unsplash.com/photos/Gx_o9dbqf34t)_.
