@@ -17,24 +17,23 @@
     <div class="post-content e-content">
       {{ content | safe }}
     </div>
-
-    <div class="post-meta">
-      <div class="meta">
-        {% if tags %}
-          {% set lastTag = tags | last %}
-          <div class="tags">
-            Tagged&nbsp;
-            <ul class="tag-list">
-              {% for tag in tags %}
-                {%- if tag != "posts" -%}
-                  {% set tagUrl %}/tag/{{ tag | slug }}/{% endset %}
-                  <li><a href="{{ tagUrl | url }}" class="tag">{{ tag }}</a>{% if tag != lastTag %},&nbsp;{% endif %}</li>
-                {%- endif -%}
-              {% endfor %}
-            </ul>
+    {% if tag in tags %}
+      {% set lastTag = tags | last %}
+        <div class="post-meta">
+          <div class="meta">
+            <div class="tags">
+              Tagged&nbsp;
+              <ul class="tag-list">
+                {% for tag in tags %}
+                  {% if tag != "posts" %}
+                    {% set tagUrl %}/tag/{{ tag | slug }}/{% endset %}
+                    <li><a href="{{ tagUrl | url }}" class="tag">{{ tag }}</a>{% if tag != lastTag %},&nbsp;{% endif %}</li>
+                  {%- endif -%}
+                {% endfor %}
+              </ul>
+            </div>
           </div>
-        {% endif %}
-      </div>
-    </div>
+        </div>
+    {% endif %}
   </article>
 {% endblock %}
