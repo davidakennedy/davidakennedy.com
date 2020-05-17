@@ -21,7 +21,7 @@ permalink: /tag/{{ tag | slug }}/index.html
 {% if (collections[ tag ].length) > 1  %}
 <p>There are {{ collections[ tag ].length }} posts tagged with {{ tag }}.</p>
 {% else %}
-<p>There is {{ collections[ tag ].length }} posts tagged with {{ tag }}.</p>
+<p>There is {{ collections[ tag ].length }} post tagged with {{ tag }}.</p>
 {% endif %}
 {% include "partials/archive-post-list.njk" %}
 
