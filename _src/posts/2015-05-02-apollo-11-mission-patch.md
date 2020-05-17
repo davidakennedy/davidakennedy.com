@@ -3,8 +3,8 @@ title: Apollo 11 Mission Patch
 description: A cool fact about the Apollo 11 mission.
 date: 2015-05-02T23:08:12+00:00
 permalink: /blog/apollo-11-mission-patch/
-tags: History
-
+tags:
+  - History
 ---
 
 Today, I watched [Rocket Men](http://pbsamerica.co.uk/rocket-men), a documentary about the United States' journey to the moon. I'm a space history junkie, and I learned something new about the Apollo 11 mission patch.
