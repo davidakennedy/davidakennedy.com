@@ -17,4 +17,4 @@ tags:
 
 [View the page](http://www.microsoft.com/en-us/discover/1994/) or the [readme explaining it](http://www.microsoft.com/en-us/discover/1994/readme.html). It's neat to read. Neater is what Christian points out later in his post:
 
-> One thing, however, is very cool: this page is **20 years old**, the technology it is recreated in is the same age. Yet **I can consume the page right now** on the newest technology, in browsers Microsoft never dreamed of existing...
+> One thing, however, is very cool: this page is **20 years old**, the technology it is recreated in is the same age. Yet **I can consume the page right now** on the newest technology, in browsers Microsoft never dreamed of existing…

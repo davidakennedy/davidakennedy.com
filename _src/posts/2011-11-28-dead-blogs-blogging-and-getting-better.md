@@ -40,4 +40,4 @@ I hate leaving blogs and domains behind, but I also believe in trying new things
 
 This post was inspired by Om Malik's [My 10 years of blogging: Reflections, Lessons & Some Stats Too](http://gigaom.com/2011/11/26/10-years-gigaom/).
 
-I haven't blogged as long as some of the pros, but I learning, moving forward... What about you? How have your blogs evolved over time, and what have you learned?
+I haven't blogged as long as some of the pros, but I learning, moving forward… What about you? How have your blogs evolved over time, and what have you learned?

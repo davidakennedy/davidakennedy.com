@@ -1,6 +1,6 @@
 ---
 title: "Blue Chips: The Orlando Magic's Lost Dynasty"
-description: Shaq, Penny and 3D, if only...
+description: Shaq, Penny and 3D, if only…
 date: 2015-05-13T11:30:00+00:00
 permalink: /blog/blue-chips-the-orlando-magics-lost-dynasty/
 tags:

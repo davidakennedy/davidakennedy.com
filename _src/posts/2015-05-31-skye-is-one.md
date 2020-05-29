@@ -14,4 +14,4 @@ When you have a child, you know they'll change you. But you don't really know. I
 
 You gain a clearer, tighter perspective as a parent. If you don't, the lessons, values and practices you wish to impart on your child won't have as much influence. I know I will be far from perfect, but I want to do the best I can.
 
-I heard a parent recently describe his job as a father as "...the most important work I do every day." Of course! I knew that before, but after a year, I really know it. I see that work, feel it, and touch it every day. And soon, it will start talking! 🙂
+I heard a parent recently describe his job as a father as "…the most important work I do every day." Of course! I knew that before, but after a year, I really know it. I see that work, feel it, and touch it every day. And soon, it will start talking! 🙂

@@ -51,7 +51,7 @@ The hard part comes when you have to decide which service to use. They're all si
 
   * **Weaker Community**: Posterous does not have as strong of a community as Tumblr or WordPress. It's newer so that may change.
   * **No way to export content**: Posterous, like Tumblr, offers no way to export your content. Again, this should be seen by platforms as a basic feature to offer users ultimate flexibility.
-  * **Very much like Google Plus**: The one thing that I noticed when I first checked out Posterous Spaces was how similar it was to Google Plus in overall goals... It will be interesting to see how Posterous and the two other platforms distinguish themselves among all of the competition in the social media space.
+  * **Very much like Google Plus**: The one thing that I noticed when I first checked out Posterous Spaces was how similar it was to Google Plus in overall goals… It will be interesting to see how Posterous and the two other platforms distinguish themselves among all of the competition in the social media space.
 
 ### Final Thoughts
 

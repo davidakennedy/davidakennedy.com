@@ -1,6 +1,6 @@
 ---
 title: Feature Misuse
-description: Markup in the wild is... bad.
+description: Markup in the wild is… bad.
 date: 2014-08-25T10:30:23+00:00
 permalink: /blog/feature-misuse/
 tags:
