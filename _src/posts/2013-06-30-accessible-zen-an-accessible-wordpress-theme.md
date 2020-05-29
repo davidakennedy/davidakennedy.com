@@ -30,7 +30,7 @@ And of course, I wanted to create the theme with accessibility in mind from the 
 
 ###  An Alpha Release
 
-**Just so you know...** This is an Alpha release. That means it's early in the game. I'm still developing the theme and I really don’t recommend that you run it on a production site — set up a test site just to play with it.
+**Just so you know…** This is an Alpha release. That means it's early in the game. I'm still developing the theme and I really don’t recommend that you run it on a production site — set up a test site just to play with it.
 
 _I may change the theme significantly before its official release_.
 

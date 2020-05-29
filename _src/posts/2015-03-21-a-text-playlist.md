@@ -10,7 +10,7 @@ tags:
 
 I stumbled across a Frank Chimero post from 2010 [called &"Text Playlist"](http://frankchimero.com/blog/text-playlist/) recently. He says:
 
-> ... I keep what I perceive to be a more valuable, important morgue file: one made of the best writing on the web I come across. I take this list and revisit and reread it every 4 to 8 weeks. You could almost consider it a playlist of text: it’s very select (I artificially limit it to 10–15 articles), I typically read them all in one sitting, and the order and pacing is very purposeful.
+> … I keep what I perceive to be a more valuable, important morgue file: one made of the best writing on the web I come across. I take this list and revisit and reread it every 4 to 8 weeks. You could almost consider it a playlist of text: it’s very select (I artificially limit it to 10–15 articles), I typically read them all in one sitting, and the order and pacing is very purposeful.
 
 I love this idea, so I compiled my own. I have both books and web articles on my list, so I cheated a bit.
 

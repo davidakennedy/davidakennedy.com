@@ -65,7 +65,7 @@ Because it can make a big difference.
   * Skip nav links = awesome
   * Keep the underline on links and define focus styles
   * Relative units on fonts = also awesome
-  * Keep titles with 'Read more..." links
+  * Keep titles with 'Read more…" links
 
 ## 5. Wait a Minute!
 

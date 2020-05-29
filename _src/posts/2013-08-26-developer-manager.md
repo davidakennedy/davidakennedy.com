@@ -8,7 +8,7 @@ tags:
   - Links
 ---
 
-> "...I knew then that I had to stop being a developer."
+> "…I knew then that I had to stop being a developer."
 > <cite>Daniel Ryan</cite>, Web Developer and Consultant. Formerly Director of Front-end Development for @[BarackObama](http://twitter.com/BarackObama/).
 
 From the article on Medium called, [Transitioning from Developer to Manager: Making the change from coder to coordinator](https://medium.com/on-management/9a4e4fd8e402).

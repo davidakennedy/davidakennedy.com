@@ -8,4 +8,4 @@ tags:
   - Open Web
 ---
 
-Apps are [all about hype...](http://www.youtube.com/watch?v=CrcAPan028Y) The single best talk about the open web I've listened to in awhile.
+Apps are [all about hype…](http://www.youtube.com/watch?v=CrcAPan028Y) The single best talk about the open web I've listened to in awhile.

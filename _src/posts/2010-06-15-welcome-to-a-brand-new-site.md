@@ -8,7 +8,7 @@ tags:
   - WordPress
 ---
 
-Things have been kind of quiet around here. Man, I hate it when blog posts start that way. However, there's good reason for the silence...
+Things have been kind of quiet around here. Man, I hate it when blog posts start that way. However, there's good reason for the silence…
 
 ## New Look
 

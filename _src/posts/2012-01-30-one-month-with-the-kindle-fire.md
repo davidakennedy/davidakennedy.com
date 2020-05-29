@@ -19,13 +19,13 @@ But I never considered an iPad. Two days after Christmas, I let go of my Apple b
 
 The Kindle Fire does one thing well – help you browse and consume content. The other thing it does better – direct you to buying that content from Amazon.
 
-### Liking This...
+### Liking This…
 
   * Easy to set up, and get going with access to your Amazon content.
   * Changing the appearance of type while reading books is nice.
   * The size is perfect.
 
-### Not a Fan of...
+### Not a Fan of…
 
   * Silk: It's slow, very slow. I turned the acceleration off and it sped things up.
   * App Store: Not even a Twitter or Facebook app, but glorified links to mobile sites. That's ridiculous. Updates come to the Amazon App Store much slower than normal. Sometimes, it wants me to update an app, but won't let me update the app – probably because the Amazon-approved version isn't available.

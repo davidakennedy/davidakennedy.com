@@ -10,7 +10,7 @@ tags:
 
 Nonprofits have a lot of choices when it comes to content management systems.
 
-There's [Blackbaud NetCommunity](http://www.blackbaud.com/products/internet/netcommunity.aspx), [Convio](http://www.convio.com/our-products/cms.html), (the first two are not open source) [Drupal](http://drupal.org/), [Joomla](http://www.joomla.org/), [WordPress](http://wordpress.org/) and more... It's easy to become overwhelmed by those choices. Many of these systems have similarities, and often the right choice comes down to the individual needs of each specific nonprofit, and its technical capacity. All that aside, let's take a look at why WordPress stands alone as **THE** open-source CMS choice for nonprofits:
+There's [Blackbaud NetCommunity](http://www.blackbaud.com/products/internet/netcommunity.aspx), [Convio](http://www.convio.com/our-products/cms.html), (the first two are not open source) [Drupal](http://drupal.org/), [Joomla](http://www.joomla.org/), [WordPress](http://wordpress.org/) and more… It's easy to become overwhelmed by those choices. Many of these systems have similarities, and often the right choice comes down to the individual needs of each specific nonprofit, and its technical capacity. All that aside, let's take a look at why WordPress stands alone as **THE** open-source CMS choice for nonprofits:
 
 ## The WordPress Difference
 
