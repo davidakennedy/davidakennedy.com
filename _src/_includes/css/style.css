@@ -949,12 +949,12 @@ h6 a,
   outline-offset: 2px;
 }
 
-.meta a {
+.post-meta a {
   color: var(--lighttext);
 }
 
-.meta a:hover,
-.meta a:focus {
+.post-meta a:hover,
+.post-meta a:focus {
   color: var(--text);
 }
 
@@ -1009,13 +1009,10 @@ h6 a,
 
 /* Post meta */
 .post-meta {
-  padding-top: var(--s3);
-}
-
-.meta {
   color: var(--lighttext);
   font-family: var(--font-monospace);
   font-size: var(--s-1);
+  padding-top: var(--s3);
 }
 
 .b-d-line {
