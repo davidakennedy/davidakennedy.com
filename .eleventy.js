@@ -48,7 +48,6 @@ module.exports = function(eleventyConfig) {
   const markdownItRenderer = new markdownIt({
     html: true,
     breaks: true,
-    linkify: true,
     typographer: true,
     quotes: '“”‘’'
   });
