@@ -7,9 +7,16 @@ permalink: /tags/index.html
 {% block content %}
   {% if collections.tagList %}
     <ul>
-      {% for tag in collections.tagList | alpha %}
+      {% for tag in collections.tagList | sort( false, false) %}
       {% set tagUrl %}/tag/{{ tag | slug }}/{% endset %}
-        <li><a href="{{ tagUrl | url }}" class="tag">{{ tag }}</a> ({{ collections[tag].length }} posts)</li>
+        <li>
+          <a href="{{ tagUrl | url }}" class="tag">{{ tag }}</a>
+          {% if (collections[ tag ].length) > 1  %}
+          ({{ collections[tag].length }} posts)
+          {% else %}
+          ({{ collections[tag].length }} post)
+          {% endif %}
+        </li>
       {% endfor %}
     </ul>
   {% endif %}
