@@ -38,11 +38,6 @@ module.exports = function(eleventyConfig) {
     return array.slice(0, n);
   });
 
-  // Sort an array alphabetically.
-  eleventyConfig.addFilter("alpha", (array) => {
-    return array.sort();
-  });
-
   // Process content in markdown-it.
   const markdownIt = require("markdown-it");
   const markdownItRenderer = new markdownIt({
