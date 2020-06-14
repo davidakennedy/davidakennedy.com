@@ -7,7 +7,9 @@
   {% set css %}
     {% include "css/style.css" %}
   {% endset %}
-  <style rel="stylesheet">
-    {{ css | cssmin | safe }}
-  </style>
+  {% if myProject.environment == "prod" %}
+  <style>{{ css | cssmin | safe }}</style>
+  {% else %}
+  <style>{{ css | safe }}</style>
+  {% endif %}
 </head>

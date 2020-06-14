@@ -17,7 +17,9 @@
   {% set js %}
     {% include "js/main.js" %}
   {% endset %}
-  <script>
-    {{ js | jsmin | safe }}
-  </script>
+  {% if myProject.environment == "prod" %}
+  <script>{{ js | jsmin | safe }}</script>
+  {% else %}
+  <script>{{ js | safe }}</script>
+  {% endif %}
 </html>
