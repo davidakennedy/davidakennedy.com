@@ -5,6 +5,7 @@ date: 2017-01-15T18:37:58+00:00
 permalink: /blog/theme-team-in-barcelona-2016/
 tags:
   - Automattic
+  - Work
 ---
 
 So I'm posting these photos late. 🙂 Last November the Theme Team, my team at Automattic, spent the week in Barcelona. We worked on [Components](http://components.underscores.me) and saw a few sites: La Sagrada Familia and Parc Güell.
