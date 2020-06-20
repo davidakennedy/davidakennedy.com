@@ -21,13 +21,11 @@ Between all the work, I had a bit of fun too. A few nice hikes, plus a ride up a
 
 <div class="reel">
   {% respimg "", "", "grandmeetup2017-4.jpg", "", "The fog sets in on the mountain, on one of the peaks.", 800, 600, [320,480,640,800,960,1120,1280,1440,1600], 800, "" %}
-  {% respimg "", "", "grandmeetup2017-5.jpg", "", "A view of a gondola on the Peak to Peak experience in Whistler, B.C.", 800, 600, [320,480,640,800,960,1120,1280,1440,1600], 800, "" %}
-  {% respimg "", "", "grandmeetup2017-6.jpg", "", "A view at the mountains from inside our gondola.", 800, 600, [320,480,640,800,960,1120,1280,1440,1600], 800, "" %}
-  {% respimg "", "", "grandmeetup2017-7.jpg", "A few themers on a podium.", 640, 800, [320,480,640,800,960,1120,1280,1440,1600], 640, "" %}
+  {% respimg "", "", "grandmeetup2017-7.jpg", "", "A few themers on a podium.", 640, 800, [320,480,640,800,960,1120,1280,1440,1600], 640, "" %}
   {% respimg "", "", "grandmeetup2017-8.jpg", "", "An overlook near Brandywine Falls.", 800, 600, [320,480,640,800,960,1120,1280,1440,1600], 800, "" %}
-  {% respimg "", "", "grandmeetup2017-9.jpg", "Daisy Lake.", 800, 600, [320,480,640,800,960,1120,1280,1440,1600], 800, "" %}
+  {% respimg "", "", "grandmeetup2017-9.jpg", "", "Daisy Lake.", 800, 600, [320,480,640,800,960,1120,1280,1440,1600], 800, "" %}
   {% respimg "", "", "grandmeetup2017-10.jpg", "", "Brandywine Falls.", 800, 600, [320,480,640,800,960,1120,1280,1440,1600], 800, "" %}
-  {% respimg "", "", "grandmeetup2017-11.jpg", "Daisy Lake.", 640, 800, [320,480,640,800,960,1120,1280,1440,1600], 640, "" %}
+  {% respimg "", "", "grandmeetup2017-11.jpg", "", "Daisy Lake.", 640, 800, [320,480,640,800,960,1120,1280,1440,1600], 640, "" %}
   {% respimg "", "", "grandmeetup2017-12.jpg", "", "Brandywine Falls.", 800, 600, [320,480,640,800,960,1120,1280,1440,1600], 800, "" %}
 </div>
 
