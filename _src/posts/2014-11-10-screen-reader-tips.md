@@ -2,6 +2,7 @@
 title: Screen Reader Tips for Web Designers and Developers
 description: Get started with a screen reader now.
 date: 2014-11-10T13:00:44+00:00
+permalink: /blog/screen-reader-tips/
 tags:
   - Accessibility
   - Front End Development
