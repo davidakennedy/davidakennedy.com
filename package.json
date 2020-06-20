@@ -1,7 +1,7 @@
 {
-  "name": "eleventy-base-blog",
-  "version": "5.0.0",
-  "description": "A starter repository for a blog web site using the Eleventy static site generator.",
+  "name": "davidakennedy.com",
+  "version": "1.0.0",
+  "description": "David A. Kennedy's personal website.",
   "scripts": {
     "build": "ELEVENTY_ENV=prod npx @11ty/eleventy",
     "serve": "ELEVENTY_ENV=dev npx @11ty/eleventy --serve",
@@ -9,18 +9,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/11ty/eleventy-base-blog.git"
+    "url": "git://github.com/davidakennedy/davidakennedy.com.git"
   },
   "author": {
-    "name": "Zach Leatherman",
-    "email": "zachleatherman@gmail.com",
-    "url": "https://zachleat.com/"
+    "name": "David A Kennedy",
+    "email": "me@davidakennedy.com",
+    "url": "https://davidakennedy.com/"
   },
-  "license": "MIT",
+  "license": "GPL-3.0",
   "bugs": {
-    "url": "https://github.com/11ty/eleventy-base-blog/issues"
+    "url": "https://github.com/davidakennedy/davidakennedy.com/issues"
   },
-  "homepage": "https://github.com/11ty/eleventy-base-blog#readme",
+  "homepage": "https://github.com/davidakennedy/davidakennedy.com#readme",
   "devDependencies": {
     "@11ty/eleventy": "^0.11.0",
     "@11ty/eleventy-plugin-rss": "^1.0.7",
