@@ -16,7 +16,7 @@ Granted, that may have been a requirement given it was a major tool of the trade
 
 So a day might look something like this:
 
-```text
+```
 MIT (Most important task)
 - Finish accessibility review for new interface.
 
@@ -29,8 +29,6 @@ Other
 - Reply to thread on theme work.
 - Look over data on customer sites.
 ```
-
-todo-list-iterations-1.jpg
 
 {% img "", "intrinsic", "todo-list-iterations-1.jpg", "Handwritten to do list showing most important task, meetings and other items.", "", 600, 800 %}
 
