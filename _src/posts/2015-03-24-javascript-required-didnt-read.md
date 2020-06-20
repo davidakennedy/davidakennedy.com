@@ -2,6 +2,7 @@
 title: JavaScript Required; Didn’t Read.
 description: So much JS.
 date: 2015-03-24T23:10:54+00:00
+permalink: /blog/javascript-required-didnt-read/
 tags:
   - Front End Development
   - JavaScript
