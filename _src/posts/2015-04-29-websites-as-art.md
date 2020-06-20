@@ -2,6 +2,7 @@
 title: Websites as Art
 description: How do websites really last?
 date: 2015-04-29T22:41:34+00:00
+permalink: /blog/websites-as-art/
 tags:
   - Open Web
   - Web Design

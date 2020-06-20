@@ -2,6 +2,7 @@
 title: Blogging Every Day
 description: Taking on a writing challenge.
 date: 2014-10-30T11:00:00+00:00
+permalink: /blog/blogging-every-day/
 tags:
   - Blogging
   - Personal
