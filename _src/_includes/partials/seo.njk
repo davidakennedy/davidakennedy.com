@@ -1,4 +1,4 @@
-{%- set absolutePageUrl -%}{{ page.url | url | absoluteUrl(site.url) }}{%- endset -%}
+{%- set absolutePageUrl -%}{{ page.url | url | absoluteUrl(metadata.url) }}{%- endset -%}
 {%- set isPost = layout == 'post' -%}
 
 {# Page-Specific #}
@@ -34,7 +34,7 @@
             "name":"{{ metadata.author.name }}"
         },
         "@type":"WebSite",
-        "url":"{{ site.url }}",
+        "url":"{{ metadata.url }}",
         "image":"{{ metadata.url }}assets/img/logo/logo.jpg",
         "headline":"{{ metadata.title }}",
         "sameAs":[
