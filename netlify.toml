@@ -4,6 +4,6 @@
 
 # Better blog urls
 [[redirects]]
-  from = "/blog/:year/:month/:day/:slug"
+  from = "/:year/:month/:day/:slug"
   to = "/blog/:slug"
   status = 301
