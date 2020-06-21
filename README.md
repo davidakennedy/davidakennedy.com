@@ -47,5 +47,5 @@ npm run debug
 
 ## Built with
 
-* [Elventy](https://www.11ty.dev/)
-* [Elventy Base Blog](https://github.com/11ty/eleventy-base-blog)
+* [Elventy, Copyright (c) 2020 Zach Leatherman @zachleat](https://www.11ty.dev/)
+* [Elventy Base Blog, Copyright (c) 2018 Zach Leatherman @zachleat](https://github.com/11ty/eleventy-base-blog)
