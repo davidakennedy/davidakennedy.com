@@ -7,3 +7,52 @@
   from = "/:year/:month/:day/:slug"
   to = "/blog/:slug"
   status = 301
+
+# Redirect some old subdomains
+[[redirects]]
+  from = "https://wpthemes.davidakennedy.com/*"
+  to = "https://davidakennedy.com/projects/accessible-zen"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "http://wpthemes.davidakennedy.com/*"
+  to = "https://davidakennedy.com/projects/accessible-zen"
+  status = 301
+  force = true
+
+  [[redirects]]
+  from = "https://www.wpthemes.davidakennedy.com/*"
+  to = "https://davidakennedy.com/projects/accessible-zen"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "http://www.wpthemes.davidakennedy.com/*"
+  to = "https://davidakennedy.com/projects/accessible-zen"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "https://accessiblezen.davidakennedy.com/*"
+  to = "https://davidakennedy.com/projects/accessible-zen"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "http://accessiblezen.davidakennedy.com/*"
+  to = "https://davidakennedy.com/projects/accessible-zen"
+  status = 301
+  force = true
+
+  [[redirects]]
+  from = "https://www.accessiblezen.davidakennedy.com/*"
+  to = "https://davidakennedy.com/projects/accessible-zen"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "http://www.accessiblezen.davidakennedy.com/*"
+  to = "https://davidakennedy.com/projects/accessible-zen"
+  status = 301
+  force = true
