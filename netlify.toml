@@ -7,4 +7,3 @@
   from = "/blog/:year/:month/:day/:slug"
   to = "/blog/:slug"
   status = 301
-  force = true
