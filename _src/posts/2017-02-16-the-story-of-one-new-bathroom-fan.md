@@ -28,6 +28,6 @@ At this point I nearly gave up. I'd fought with trying to install this new fan f
 
 I believed her. And decided to replace the existing duct work for an easier fit, thanks to more advice from my dad and family. The old stuff turned out to be flume pipe, not flexible and not great for connecting to the fan. I had the old duct work out and the new stuff in in less than an hour. I finished that same day! Better yet, it worked perfectly!
 
-{% img "", "intrinsic", "bathroom-fan-1.jpg", "", "The new fan – installed and working!", 850, 650 %}
+{% img "", "intrinsic", "bathroom-fan-2.jpg", "", "The new fan – installed and working!", 600, 800 %}
 
 Now, I'm plotting my next home improvement project with more experience and confidence.
