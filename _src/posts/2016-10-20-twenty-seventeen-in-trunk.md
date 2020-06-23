@@ -10,9 +10,9 @@ tags:
   - Work
 ---
 
-{% img "", "intrinsic", "twentyseventeen-commit.png", "Screenshot showing the initial commit of Twenty Seventeen.", "", 850, 650 %}
+{% img "", "intrinsic", "twentyseventeen-commit.png", "Screenshot showing the initial commit of Twenty Seventeen.", "", 800, 328 %}
 
-Last night, I made my [first commit to WordPress](https://core.trac.wordpress.org/changeset/38833/)!<figure class="wp-block-embed-twitter wp-block-embed is-type-rich is-provider-twitter">
+Last night, I made my [first commit to WordPress](https://core.trac.wordpress.org/changeset/38833/)!
 
 [It's exciting](https://twitter.com/helenhousandi/status/788957937054130176)!
 
