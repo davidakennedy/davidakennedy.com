@@ -33,6 +33,7 @@ https://davidakennedy.com
 
 - Libraries
   - Feather Icons (https://feathericons.com/)
+  - Cooper Hewitt font (https://www.cooperhewitt.org/open-source-at-cooper-hewitt/cooper-hewitt-the-typeface-by-chester-jenkins/)
 
 - Browsers
   - Chrome (https://www.google.com/chrome/)
