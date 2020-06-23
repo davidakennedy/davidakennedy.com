@@ -7,7 +7,7 @@ tags:
   - Accessibility
 ---
 
-{% img "", "intrinsic", "web-accessibility-word-cloud.jpg", "Web accessibility word cloud with accessibility, web, content and disabilities as the biggest wods.", "", 640, 501 %}
+{% img "", "intrinsic", "web-accessibility-word-cloud.jpg", "Web accessibility word cloud with accessibility, web, content and disabilities as the biggest words.", "", 600, 470 %}
 
 Last week, I was lucky enough to attend [John Slatin Access U 2011](http://www.knowbility.org/v/accessu/). It was my first foray into learning more about accessibility beyond regular web standards.
 
