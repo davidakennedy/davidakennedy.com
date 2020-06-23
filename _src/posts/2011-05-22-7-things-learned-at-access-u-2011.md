@@ -22,5 +22,3 @@ It turned out to be one of the best professional experiences I've had. Here's wh
 ## Did You Attend?
 
 If so, let's collect the great resources that were shared at Access U. I started this [list of bookmarks on Pinboard](https://pinboard.in/u:davidakennedy/t:AccessU) that anyone can add to, so fee free to add stuff there.
-
-_[Image by Jill Wright](http://www.flickr.com/photos/sunraven0/5451897212/in/photostream/)._
