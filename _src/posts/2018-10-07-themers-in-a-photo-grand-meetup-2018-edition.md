@@ -8,4 +8,4 @@ tags:
   - Automattic
 ---
 
-{% img "", "intrinsic", "grandmeetup2018-1.jpg", "A set of three photos, grouped together with people making funny faces and wearing funny hats.", "", 800, 600 %}
+{% img "", "intrinsic", "grandmeetup2018-1.jpg", "A set of three photos, grouped together with people making funny faces and wearing funny hats.", "", 800, 539 %}
