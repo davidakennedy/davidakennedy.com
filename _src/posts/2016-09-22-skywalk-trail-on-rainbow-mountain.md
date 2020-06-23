@@ -32,7 +32,7 @@ tags:
 
 This past week, while at Automattic's annual Grand Meetup, I completed the most difficult hike I've ever done. Myself and a small group of Automattician's hiked up [Skywalk Trail on Rainbow Mountain](http://localwhistler.com/news/2015/08/17/skywalk-trail/) – a challenging hike full of amazing views. It's near Whistler, British Columbia in Canada.
 
-{% img "", "intrinsic", "grandmeetup2016-20.jpg", "A screenshot of Fitbit, showing 34,033 steps.", "", 600, 800 %}
+{% img "", "intrinsic", "grandmeetup2016-20.jpg", "A screenshot of Fitbit, showing 34,033 steps.", "", 600, 718 %}
 
 I say difficult because about an hour into the hike, I wasn't sure I would make it. I huffed and puffed up a few steep hills and had to take a lot of short breaks. But I pushed through and enjoyed the best payoff – the views (see the photos!). I felt it the next few days with sore calves and quads.
 
