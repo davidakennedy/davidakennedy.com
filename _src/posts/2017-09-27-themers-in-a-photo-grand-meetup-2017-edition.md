@@ -11,11 +11,11 @@ tags:
 
 A few weeks ago, Automattic held its annual Grand Meetup. That's where the company I work for gathers together in one place for a week to strategize, work and bond. Every year, we throw a party at the end of the week, complete with a photo booth. Piling into the photo booth (or in this case, photo area) has turned into one of my favorite things.
 
-{% img "", "intrinsic", "grandmeetup2017-2.gif", "Many themers posting in a photo both, holding signs, silly props and wearing funny masks and faces.", "", 600, 398 %}
+![Many themers posting in a photo both, holding signs, silly props and wearing funny masks and faces.](/assets/img/uploads/grandmeetup2017-2.gif)
 
 Of course, we also took a serious one.
 
-{% img "", "intrinsic", "grandmeetup2017-3.jpg", "Group photo of the Automatic Theme Team.", "", 800, 600 %}
+{% img "", "intrinsic", "grandmeetup2017-3.jpg", "Group photo of the Automatic Theme Team.", "", 800, 512 %}
 
 Between all the work, I had a bit of fun too. A few nice hikes, plus a ride up a mountain in a gondola. We saw a bear! Although, I didn't snap a great picture of it. One of these days I'm just going to move to the mountains because I love it so much. 🙂
 
