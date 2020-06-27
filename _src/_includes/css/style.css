@@ -181,7 +181,7 @@ img:not([alt]) {
   "Liberation Mono", "Nimbus Mono L", Monaco, "Courier New", Courier,
   monospace;
   --border-thin: var(--s-9);
-  --border-thick: var(--s-8)
+  --border-thick: var(--s-8);
   background-color: var(--background);
 	color: var(--text);
 	font-family: var(--font-serif);
