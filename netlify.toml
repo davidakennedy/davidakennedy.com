@@ -56,3 +56,28 @@
   to = "https://davidakennedy.com/projects/accessible-zen"
   status = 301
   force = true
+
+# Redirect Netlify subdomain
+[[redirects]]
+  from = "https://davidakennedy.netlify.app/*"
+  to = "https://davidakennedy.com"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "http://davidakennedy.netlify.app/*"
+  to = "https://davidakennedy.com"
+  status = 301
+  force = true
+
+  [[redirects]]
+  from = "https://www.davidakennedy.netlify.app/*"
+  to = "https://davidakennedy.com"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "http://www.davidakennedy.netlify.app/*"
+  to = "https://davidakennedy.com"
+  status = 301
+  force = true
