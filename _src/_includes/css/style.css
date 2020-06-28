@@ -251,6 +251,17 @@ img:not([alt]) {
   display: inline-block;
 }
 
+/* Stack abstraction.
+ every-layout.dev */
+.stack > * + * {
+  margin-top: var(--s3);
+}
+
+.stack + .stack,
+.stack > .stack {
+  margin-top: var(--s3);
+}
+
 /* Sidebar abstraction.
  every-layout.dev */
 .with-sidebar {
@@ -437,28 +448,9 @@ h6,
   font-size: var(--s-1);
 }
 
-.page-header > * + *,
-.post-header > * + *,
-.page-content > * + *,
-.post-content > * + *,
-.page-header > *:first-of-type,
-.post-header > *:first-of-type,
-.page-content > *:first-of-type,
-.post-content > *:first-of-type,
-.page-content > p > *,
-.post-content > p > *,
-blockquote > * + *,
-blockquote > *:first-of-type {
-  margin-bottom: var(--s3);
-}
-
 .page-content *:not(figure):not(img):not(pre):not(hr):not(.reel),
 .post-content *:not(figure):not(img):not(pre):not(hr):not(.reel) {
   max-width: var(--measure);
-}
-
-.post-header .title {
-  margin-bottom: var(--s-6);
 }
 
 .page-content figure > figcaption,
@@ -800,11 +792,9 @@ dt {
 
 dt {
   border-bottom: 1px solid var(--lighttext);
-  margin-bottom: var(--s-1);
 }
 
 dd {
-  margin-bottom: var(--s1);
   margin-left: var(--s1);
   margin-top: 0;
 }
@@ -959,10 +949,6 @@ h6 a,
 }
 
 /* Social navigation */
-.social-navigation {
-  margin-bottom: var(--s-3);
-}
-
 .social-navigation .nav {
   justify-content: center;
 }
@@ -986,25 +972,16 @@ h6 a,
   max-width: var(--measure-wide);
 }
 
-.post-template .post-content {
-  margin-bottom: var(--s3);
-}
-
 /* Posts */
-.post-list .post {
-  margin-bottom: var(--s6);
-}
-
 .post-list .post-date {
   color: var(--lighttext);
   font-family: var(--font-monospace);
   font-size: var(--s-1);
-  margin-bottom: var(--s-3);
+  margin-top: var(--s-6);
 }
 
 .post-list .post-link {
   display: inline-block;
-  margin-bottom: var(--s-6);
 }
 
 /* Post meta */
@@ -1012,16 +989,10 @@ h6 a,
   color: var(--lighttext);
   font-family: var(--font-monospace);
   font-size: var(--s-1);
-  padding-top: var(--s3);
 }
 
-.b-d-line {
-  margin-bottom: var(--s3);
-}
-
-.author,
-.date {
-  display: block;
+.post-content .post-meta {
+  margin-top: var(--s6);
 }
 
 .tag-list {
@@ -1035,7 +1006,6 @@ h6 a,
   flex-direction: row;
   flex-wrap: wrap;
   justify-content: space-between;
-  margin-bottom: var(--s3);
 }
 
 .posts-pagination .older-posts {

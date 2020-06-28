@@ -1,16 +1,14 @@
 {% extends 'layouts/base.njk' %}
 {% block content %}
-  <div class="page-header">
+  <div class="page-header stack">
     {%- if featuredimg and image -%}
       {% respimg "", "", image, imgalt, "", 1280, 1080, [320,480,640,800,960,1120,1280,1440,1600], 800, "" %}
     {%- endif -%}
     {% set pagetitle = title or renderData.title %}
     <h1 class="title p-name">{{ pagetitle | markdownify }}</h1>
   </div>
-
-  <div class="page-content">
+  <div class="page-content stack">
     {% include "partials/h-card.njk" %}
-
     {{ content | safe }}
   </div>
 {% endblock %}
