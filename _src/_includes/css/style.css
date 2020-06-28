@@ -973,6 +973,11 @@ h6 a,
 }
 
 /* Posts */
+.post-list .stack + .stack,
+.post-list .stack > .stack {
+  margin-top: var(--s6);
+}
+
 .post-list .post-date {
   color: var(--lighttext);
   font-family: var(--font-monospace);
@@ -982,6 +987,10 @@ h6 a,
 
 .post-list .post-link {
   display: inline-block;
+}
+
+.post-list .post-excerpt {
+  margin-top: var(--s-6);
 }
 
 /* Post meta */
@@ -1006,6 +1015,7 @@ h6 a,
   flex-direction: row;
   flex-wrap: wrap;
   justify-content: space-between;
+  margin-top: var(--s6);
 }
 
 .posts-pagination .older-posts {
