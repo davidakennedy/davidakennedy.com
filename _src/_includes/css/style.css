@@ -333,7 +333,6 @@ body::before {
   content: "";
   display: block;
   height: var(--s1);
-  margin: 0 auto;
   width: 100%;
 }
 
