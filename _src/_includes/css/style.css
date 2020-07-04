@@ -961,12 +961,12 @@ h6 a,
 .site-header {
   max-width: 50rem;
   margin-left: auto;
-  padding: var(--s6) var(--s3);
+  padding: var(--s6) var(--s1);
 }
 
 /* Main */
 .site-content {
-  padding: var(--s6) var(--s3);
+  padding: var(--s6) var(--s1);
   margin: 0 auto;
   max-width: var(--measure-wide);
 }
@@ -1036,7 +1036,7 @@ h6 a,
 .site-footer {
   margin: 0 auto;
   max-width: 50rem;
-  padding: var(--s6) var(--s3);
+  padding: var(--s6) var(--s1);
   text-align: center;
   width: 100%;
 }
@@ -1093,7 +1093,7 @@ pre[class*="language-"] {
   background: #e3f6f5;
   border-radius: .3em;
   color: #b44e3c;
-  padding: .1em .3em;
+  padding: 0.1em 0.3em;
 }
 /*********************************************************
 * Tokens
