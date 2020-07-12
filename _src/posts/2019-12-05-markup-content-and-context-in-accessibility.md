@@ -1,5 +1,5 @@
 ---
-title: The intersection of markup, content and context in accessibility
+title: The Intersection of Markup, Content and Context in Accessibility
 description: I wrote a post for 24 A11y about context in accessibility.
 date: 2019-12-05T12:33:30+00:00
 permalink: /blog/markup-content-and-context-in-accessibility/
