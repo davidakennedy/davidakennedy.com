@@ -81,3 +81,9 @@
   to = "https://davidakennedy.com"
   status = 301
   force = true
+
+[[redirects]]
+  from = "/feed"
+  to = "/feed/index.xml"
+  status = 200
+  force = true
