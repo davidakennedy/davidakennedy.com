@@ -8,7 +8,7 @@
       {% set posttitle = title or renderData.title %}
       <h1 class="title p-name">{{ posttitle | markdownify }}</h1>
       <div class="post-meta">
-        <span class="date"> Published on <time class="dt-published" datetime="{{ page.date | htmlDateString }}">{{ page.date | readableDate }}</time> <span class="author sr-only p-author">by {{ metadata.author.name }}</span></span>
+        <span class="date"> Published on <time class="dt-published" datetime="{{ page.date | htmlDateString }}">{{ page.date | readableDate }}</time> <span class="author sr-only h-card p-author">by {{ metadata.author.name }}</span></span>
       </div>
     </div>
     <div class="post-content e-content stack">
@@ -23,7 +23,7 @@
               {% for tag in tags %}
                 {% if tag != "posts" %}
                   {% set tagUrl %}/tag/{{ tag | slug }}/{% endset %}
-                  <li><a href="{{ tagUrl | url }}" class="tag">{{ tag }}</a>{% if tag != lastTag %},&nbsp;{% endif %}</li>
+                  <li><a href="{{ tagUrl | url }}" class="tag p-category">{{ tag }}</a>{% if tag != lastTag %},&nbsp;{% endif %}</li>
                 {%- endif -%}
               {% endfor %}
             </ul>
