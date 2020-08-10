@@ -10,23 +10,17 @@ templateClass: page-template
 permalink: projects/index.html
 ---
 
-## Accessible Zen
+## A11y Weekly
 
-Accessible Zen is an accessible, minimalistic, readable, and fully responsive WordPress theme. [Read more about Accessible Zen](/projects/accessible-zen/) or [view the project on GitHub](https://github.com/davidakennedy/accessible-zen).
+Accessibility Weekly is a weekly dose of web accessibility to help you bring it into your every day work.
+
+[View the Accessibility Weekly site](http://a11yweekly.com).
 
 ---
 
 ## Accessibility and Me
 
 A11y.me is an evolving list of the best resources in web accessibility. View the [Accessibility and Me site](http://a11y.me) or [view the project on GitHub](https://github.com/davidakennedy/a11y.me).
-
----
-
-## A11y Weekly
-
-Accessibility Weekly is a weekly dose of web accessibility to help you bring it into your every day work.
-
-[View the Accessibility Weekly site](http://a11yweekly.com).
 
 ---
 

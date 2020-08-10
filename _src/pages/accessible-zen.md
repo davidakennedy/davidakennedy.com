@@ -11,6 +11,10 @@ permalink: /projects/accessible-zen/
 
 ## Intro
 
+<p class="callout">
+  <strong>Heads up!</strong> Accessible Zen isn't in active development any longer. I <a href="/blog/goodbye-accessible-zen/">learned a lot from the project</a>. Thanks for your interest!
+</p>
+
 Accessible Zen is an accessible, minimalistic, readable, and fully responsive WordPress theme by [David A. Kennedy](http://davidakennedy.com). Inspired by Leo Babauta's [Zen Habits theme](http://zenhabits.net/theme/), Accessible Zen puts the focus on your content and nothing else, plus it has plenty of WordPress goodness built right in.
 
 <p class="callout">
