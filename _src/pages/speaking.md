@@ -8,6 +8,10 @@ permalink: speaking/index.html
 
 I love talking about the web and have spoken at a number of events and conferences. My primary topics include WordPress and accessibility. See the listing below for past engagements and slides.
 
+## 2019
+
+* **Inclusive Design: Whose Opportunity Is It?**: Change Forum 2019; February 5, 2019; London, UK. [Related blog post summarizing the talk](https://automattic.design/2019/02/03/inclusive-design-whose-opportunity-is-it/)
+
 ## 2018
 
   * **Gutenberg: The Future is Almost Here**: Triad WordPress Meetup Group; March 14, 2018; Greensboro, NC. [Presentation slides](https://davidakennedy.github.io/gutenberg-the-future-is-almost-here/).
