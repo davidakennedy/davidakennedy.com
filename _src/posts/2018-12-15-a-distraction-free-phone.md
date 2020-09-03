@@ -37,4 +37,4 @@ So far:
 
 This isn't my first foray into a more distracted-free lifestyle. I started [reducing the number of apps I use on my phone](/blog/less-apps-one-week-in/) two years ago, and have mostly stuck to that.
 
-_Image by _[_Robin Worrall_](https://unsplash.com/photos/FPt10LXK0cg).
+_Image by [Robin Worrall](https://unsplash.com/photos/FPt10LXK0cg)_.
