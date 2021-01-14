@@ -748,6 +748,11 @@ input[type="submit"]:focus {
   border-color: var(--primary);
 }
 
+.email-signup svg {
+  display: inline-block;
+  vertical-align: middle;
+}
+
 /* Formatting */
 hr {
   background-image: radial-gradient(currentColor 0.5px, transparent 0.5px);
