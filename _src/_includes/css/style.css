@@ -143,6 +143,8 @@ img:not([alt]) {
   --primary: #ffd803;
   --secondary: #e3f6f5;
   --text: #2d334a;
+  --error: #fbb;
+  --success: #c7f0bd;
 
   /* Scale */
   --ratio: 1.2;
@@ -230,6 +232,7 @@ img:not([alt]) {
   clear: both;
 }
 
+.alert,
 .callout {
 	border: 2px solid var(--lighttext);
   border-radius: var(--border-thick);
@@ -748,9 +751,43 @@ input[type="submit"]:focus {
   border-color: var(--primary);
 }
 
-.email-signup svg {
-  display: inline-block;
-  vertical-align: middle;
+.signup-alert {
+  margin-top: var(--s-8);
+}
+
+.alert {
+  align-items: flex-start;
+  display: flex;
+  animation: slide-up 250ms ease;
+}
+
+.alert[data-state='error'] {
+  background-color: var(--error);
+}
+
+.alert[data-state='success'] {
+  background-color: var(--success);
+}
+
+.alert svg {
+  position: relative;
+  margin-right: var(--s-4);
+  top: 4px;
+}
+
+label + .inline-field-control {
+  margin-top: var(--s-8);
+}
+
+@keyframes slide-up {
+  0% {
+    opacity: 0;
+    transform: translateY(0.4rem);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+  }
 }
 
 /* Formatting */
