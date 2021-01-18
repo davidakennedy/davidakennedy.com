@@ -8,6 +8,7 @@
   <div class="page-content stack">
     {{ content | safe }}
     {% set postlist = pagination.items %}
+    {% include "partials/signup-form.njk" %}
     {% include "partials/archive-post-list.njk" %}
   </div>
   {% include "partials/pagination.njk" %}
