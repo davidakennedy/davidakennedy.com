@@ -1,0 +1,42 @@
+<div id="#signup" class="email-signup">
+  <form action="https://buttondown.email/api/emails/embed-subscribe/davidakennedy" onsubmit="window.open('https://buttondown.email/davidakennedy', 'popupwindow')" method="post" id="signup-form" target="_self">
+    <label for="email">
+      Email address
+      <div class="signup-alert" role="alert"></div>
+    </label>
+    <div class="inline-field-control">
+      <input
+        type="email"
+        name="email"
+        id="email"
+        autocapitalize="none"
+        autocorrect="off"
+        required
+        pattern="[^@]+@[^\.]+\..+"
+      />
+      <input
+        type="hidden"
+        value="1"
+        name="embed">
+      </input>
+      <button type="submit" class="button" onclick="handleFormSubmit(event)">
+        <span>Subscribe</span>
+        <svg xmlns="http://www.w3.org/2000/svg"
+          width="1em"
+          height="1em"
+          aria-hidden="true"
+          focusable="false"
+          viewBox="0 0 24 24"
+          fill="none"
+          stroke="currentColor"
+          stroke-width="2"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+          class="feather feather-send">
+          <line x1="22" y1="2" x2="11" y2="13"></line>
+          <polygon points="22 2 15 22 11 13 2 9 22 2"></polygon>
+        </svg>
+      </button>
+    </div>
+  </form>
+</div>
