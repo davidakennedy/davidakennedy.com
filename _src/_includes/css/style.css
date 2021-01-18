@@ -535,13 +535,13 @@ mark {
 }
 
 del {
-    background-color: #c4604f;
-    text-decoration: line-through;
+  background-color: var(--error);
+  text-decoration: line-through;
 }
 
 ins {
-    background-color: #e27851;
-    text-decoration: none;
+  background-color: var(--success);
+  text-decoration: none;
 }
 
 blockquote,
