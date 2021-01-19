@@ -5,6 +5,7 @@ date: 2017-06-06T13:32:14+00:00
 permalink: /blog/the-future-of-accessibility-weekly/
 tags:
   - Accessibility
+  - Accessibility Weekly
   - Work
 ---
 

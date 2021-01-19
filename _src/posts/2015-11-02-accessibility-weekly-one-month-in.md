@@ -5,6 +5,7 @@ date: 2015-11-02T22:47:55+00:00
 permalink: /blog/accessibility-weekly-one-month-in/
 tags:
   - Accessibility
+  - Accessibility Weekly
   - Work
 ---
 
