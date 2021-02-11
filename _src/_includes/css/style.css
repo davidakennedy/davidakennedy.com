@@ -779,6 +779,10 @@ label + .inline-field-control {
   margin-top: var(--s-8);
 }
 
+.email-signup button > svg {
+  vertical-align: middle;
+}
+
 @keyframes slide-up {
   0% {
     opacity: 0;
