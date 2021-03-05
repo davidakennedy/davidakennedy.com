@@ -169,6 +169,7 @@ img:not([alt]) {
   --s9: calc(var(--s8) * var(--ratio));
   --line-height: 1.44;
   --line-height-small: var(--ratio);
+  --measure-narrow: 25ch;
   --measure: 60ch;
   --measure-wide: 90ch;
   /* Other stuff */
@@ -351,7 +352,7 @@ body::after {
 .page-header .title,
 .post-header .title {
   display: inline-block;
-  max-width: var(--measure);
+  max-width: var(--measure-narrow);
   position: relative;
 }
 
