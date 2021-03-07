@@ -52,7 +52,7 @@ var renderAlert = function renderAlert() {
   var messages = {
     error: "<strong>Please use a valid email.</strong> Like: name@example.com."
   };
-  return '\n\t\t<figure id="alert" class="alert" data-state="'
+  return '\n\t\t<figure id="alert" class="alert callout" data-state="'
     .concat(
       state,
       '">\n\t\t<svg class="alert-icon feather" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false" width="1em" height="1em" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">\n\t\t\t'
