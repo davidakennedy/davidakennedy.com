@@ -56,7 +56,6 @@ html {
   --text: #2d334a;
   --error: #fbb;
   --success: #c7f0bd;
-
   /* Scale */
   --ratio: 1.2;
   --s-9: calc(var(--s-8) / var(--ratio));
@@ -882,7 +881,11 @@ label + .inline-field-control {
 .page-content p,
 .post-content p,
 .page-content li,
-.post-content li {
+.post-content li,
+.page-content dt,
+.post-content dt,
+.page-content dd,
+.post-content dd {
   max-width: var(--measure);
 }
 
@@ -908,7 +911,9 @@ label + .inline-field-control {
 .page-content > h5 + *,
 .post-content > h5 + *,
 .page-content > h6 + *,
-.post-content > h6 + * {
+.post-content > h6 + *,
+.page-content > dt + *,
+.post-content > dt + * {
   --stack-space: var(--s-3);
 }
 
