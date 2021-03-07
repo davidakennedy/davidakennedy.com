@@ -1,6 +1,6 @@
 ---
 title: New and Improved Accessibility Weekly, 2021 Edition
-description:
+description: All the accessibility links that are fit to curate.
 date: 2021-01-19T16:59:47+00:00
 permalink: /blog/accessibility-weekly-2021-refresh/
 tags:
