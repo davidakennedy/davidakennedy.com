@@ -12,7 +12,7 @@ This one turned out to be my favorite meetup so far. Why? Because of the way the
 
 Here are a few photos from a June, 2018 meetup in Warsaw, Poland.
 
-<div class="reel">
+<div class="reel" role="region" aria-label="Theme Team in Warsaw, 2018 image gallery" tabindex="0">
   {% respimg "", "", "theam-poland2018-1.jpg", "Several people sitting at tables and couches looking at a TV.", "", 800, 600, [320,480,640,800,960,1120,1280,1440,1600], 800, "" %}
   {% respimg "", "", "theam-poland2018-2.jpg", "Several people sitting at tables and couches working on computers.", "", 800, 600, [320,480,640,800,960,1120,1280,1440,1600], 800, "" %}
   {% respimg "", "", "theam-poland2018-3.jpg", "Several people sitting at tables working on computers.", "", 800, 600, [320,480,640,800,960,1120,1280,1440,1600], 800, "" %}

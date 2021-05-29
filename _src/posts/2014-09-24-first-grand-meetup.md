@@ -14,7 +14,7 @@ I had a blast and met a lot of Automatticians, something that's extra special in
 
 I did make one rookie mistake though: I forgot my DSLR camera, a Canon 20D. So the gallery below is a few shots from my iPhone 5 camera.
 
-<div class="reel">
+<div class="reel" role="region" aria-label="First Grand Meetup image gallery" tabindex="0">
   {% respimg "", "", "grandmeetup2014-1.jpg", "", "A view of the shops and restaurants inside Canyons Resort.", 800, 600, [320,480,640,800,960,1120,1280,1440,1600], 800, "" %}
   {% respimg "", "", "grandmeetup2014-2.jpg", "", "Trying to line up for the company photo.", 800, 600, [320,480,640,800,960,1120,1280,1440,1600], 800, "" %}
   {% respimg "", "", "grandmeetup2014-3.jpg", "", "Team 14 working late on a project.", 800, 600, [320,480,640,800,960,1120,1280,1440,1600], 800, "" %}

@@ -8,7 +8,7 @@ tags:
   - Work
 ---
 
-<div class="reel">
+<div class="reel role="region" aria-label="Theme Wranglers in Lisbon image gallery" tabindex="0"">
   {% respimg "", "", "theam-lisbon2015-1.jpg", "", "A bridge in Lisbon.", 640, 800, [320,480,640,800,960,1120,1280,1440,1600], 640, "" %}
   {% respimg "", "", "theam-lisbon2015-2.jpg", "", "Downtown Lisbon at night.", 800, 600, [320,480,640,800,960,1120,1280,1440,1600], 800, "" %}
   {% respimg "", "", "theam-lisbon2015-3.jpg", "", "Santa Justa Lift in Lisbon.", 640, 800, [320,480,640,800,960,1120,1280,1440,1600], 640, "" %}

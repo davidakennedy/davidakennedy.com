@@ -8,7 +8,7 @@ tags:
   - Work
 ---
 
-<div class="reel">
+<div class="reel" role="region" aria-label="Theme Team in Vancouver 2016 image gallery" tabindex="0">
   {% respimg "", "", "theam-vancouver2016-1.jpg", "", "The Theme Team in a frame, in Capilano Suspension Bridge Park.", 800, 600, [320,480,640,800,960,1120,1280,1440,1600], 800, "" %}
   {% respimg "", "", "theam-vancouver2016-2.jpg", "", "A view of people walking across the Capitano Suspension Bridge.", 640, 800, [320,480,640,800,960,1120,1280,1440,1600], 640, "" %}
   {% respimg "", "", "theam-vancouver2016-3.jpg", "", "A view from from the bridge, showing a Capilano River, in Capilano Suspension Bridge Park.", 640, 800, [320,480,640,800,960,1120,1280,1440,1600], 640, "" %}

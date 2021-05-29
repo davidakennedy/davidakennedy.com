@@ -9,7 +9,7 @@ tags:
   - Work
 ---
 
-<div class="reel">
+<div class="reel role="region" aria-label="A bunch of themers in one photo gallery" tabindex="0">
   {% img "", "intrinsic", "grandmeetup2015-10.jpg", "Several WordPress themers with holding crazy props and wearing wild hats in a photo booth but they're also smiling.", "", 850, 650 %}
   {% img "", "intrinsic", "grandmeetup2015-11.jpg", "Several WordPress themers with holding crazy props and wearing wild hats in a photo booth.", "", 850, 650 %}
   {% img "", "intrinsic", "grandmeetup2015-12.jpg", "Several WordPress themers with holding crazy props and wearing wild hats in a photo booth.", "", 850, 650 %}

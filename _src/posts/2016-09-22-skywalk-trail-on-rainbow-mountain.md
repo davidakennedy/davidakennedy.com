@@ -9,7 +9,7 @@ tags:
   - Work
 ---
 
-<div class="reel">
+<div class="reel" role="region" aria-label="Skywalk Trail on Rainbow Mountain image gallery" tabindex="0">
   {% respimg "", "", "grandmeetup2016-2.jpg", "", "A lookout, overlooking a lake, on Skywalk Trail.", 800, 600, [320,480,640,800,960,1120,1280,1440,1600], 800, "" %}
   {% respimg "", "", "grandmeetup2016-3.jpg", "", "Standing on a bridge on Skywalk Trail.", 800, 600, [320,480,640,800,960,1120,1280,1440,1600], 800, "" %}
   {% respimg "", "", "grandmeetup2016-4.jpg", "", "A waterfall, near a lookout on Skywalk Trail.", 600, 800, [320,480,640,800,960,1120,1280,1440,1600], 600, "" %}
