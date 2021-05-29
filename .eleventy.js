@@ -94,7 +94,7 @@ module.exports = function (eleventyConfig) {
         imgclass ? `class="${imgclass}"` : ""
       } src="/assets/img/uploads/${url}?nf_resize=smartcrop&w=${width}&h=${height}" alt="${
         alt ? alt : ""
-      }" width="${width}" height="${height}" />${
+      }" width="${width}" height="${height}" loading="lazy" />${
         caption ? `<figcaption>${caption}</figcaption>` : ""
       }</figure>`;
     }
@@ -131,7 +131,7 @@ module.exports = function (eleventyConfig) {
         sizes ? sizes : "100vw"
       }" src="${src}" alt="${
         alt ? alt : ""
-      }" width="${width}" height="${height}">${
+      }" width="${width}" height="${height}" loading="lazy">${
         caption ? `<figcaption>${caption}</figcaption>` : ""
       }</figure>`;
     }
