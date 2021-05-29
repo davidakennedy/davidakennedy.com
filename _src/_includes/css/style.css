@@ -790,7 +790,7 @@ label + .inline-field-control {
 
 /* Post Navigation */
 .posts-pagination {
-  --stack-space: var(--s6);
+  margin-top: var(--s6);
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;

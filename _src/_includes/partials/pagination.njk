@@ -1,5 +1,5 @@
 {% if pagination.pageLinks.length > 1 %}
-<nav class="posts-pagination stack" aria-label="Posts">
+<nav class="posts-pagination" aria-label="Posts">
   {% if pagination.nextPageLink %}
     <span class="older-posts">
       <a class="posts-link button button-transparent" href="{{ pagination.nextPageHref | url }}">
