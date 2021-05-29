@@ -10,7 +10,7 @@ tags:
 
 So I'm posting these photos late. 🙂 Last November the Theme Team, my team at Automattic, spent the week in Barcelona. We worked on [Components](http://components.underscores.me) and saw a few sites: La Sagrada Familia and Parc Güell.
 
-<div class="reel">
+<div class="reel" role="region" aria-label="Theme Team in Barcelona 2016 image gallery" tabindex="0">
   {% respimg "", "", "theam-barcelona2016-1.jpg", "", "La Sagrada Familia from the street", 640, 840, [320,480,640,800,960,1120,1280,1440,1600], 640, "" %}
   {% respimg "", "", "theam-barcelona2016-2.jpg", "", "A blue door on La Sagrada Familia", 640, 840, [320,480,640,800,960,1120,1280,1440,1600], 640, "" %}
   {% respimg "", "", "theam-barcelona2016-3.jpg", "", "A stained glass window of blue and red in La Sagrada Familia.", 640, 840, [320,480,640,800,960,1120,1280,1440,1600], 640, "" %}
