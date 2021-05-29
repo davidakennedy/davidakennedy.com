@@ -739,6 +739,11 @@ label + .inline-field-control {
   padding-bottom: 1rem;
 }
 
+.reel:focus {
+  outline: 2px dashed;
+  outline-offset: 2px;
+}
+
 /* Horizontal navigation */
 .nav {
   display: flex;
