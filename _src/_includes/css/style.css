@@ -57,7 +57,7 @@ html {
   --error: #ffbbbb;
   --success: #c7f0bd;
   /* Scale */
-  --ratio: 1.2;
+  --ratio: 1.067;
   --s-9: calc(var(--s-8) / var(--ratio));
   --s-8: calc(var(--s-7) / var(--ratio));
   --s-7: calc(var(--s-6) / var(--ratio));
@@ -77,9 +77,9 @@ html {
   --s7: calc(var(--s6) * var(--ratio));
   --s8: calc(var(--s7) * var(--ratio));
   --s9: calc(var(--s8) * var(--ratio));
-  --line-height: 1.44;
-  --line-height-small: var(--ratio);
-  --measure-narrow: 25ch;
+  --line-height: 1.5;
+  --line-height-small: 1.2;
+  --measure-narrow: 30ch;
   --measure: 60ch;
   --measure-wide: 90ch;
   /* Other stuff */
@@ -93,18 +93,21 @@ html {
     "Lucida Sans Typewriter", "DejaVu Sans Mono", "Bitstream Vera Sans Mono",
     "Liberation Mono", "Nimbus Mono L", Monaco, "Courier New", Courier,
     monospace;
-  --border-thin: var(--s-9);
-  --border-thick: var(--s-8);
+  --border-thin: 0.12em;
+  --border-thick: 0.125em;
   --stack-space: var(--s3);
   background-color: var(--background);
   color: var(--text);
   font-family: var(--font-serif);
-  font-size: calc(0.65vw + 1em);
   font-weight: 400;
   line-height: var(--line-height);
 }
 
 /* Global */
+body {
+  font-size: 1.25em;
+}
+
 /* Decoractive stuff */
 body::before {
   background-image: radial-gradient(currentColor 0.5px, transparent 0.5px);
@@ -192,7 +195,7 @@ body::after {
 
 /* Big 'ol text */
 .intro {
-  font-size: var(--s2);
+  font-size: 1.334em;
 }
 
 /* Stack utility
@@ -200,7 +203,7 @@ body::after {
 .stack > * + *,
 .stack + .stack,
 .stack > .stack {
-  margin-top: var(--stack-space, 1em);
+  margin-top: var(--stack-space, 1.5em);
 }
 
 /* Sidebar utility
@@ -256,32 +259,32 @@ h6,
 
 h1,
 .h1 {
-  font-size: var(--s4);
+  font-size: 1.476em;
 }
 
 h2,
 .h2 {
-  font-size: var(--s3);
+  font-size: 1.383em;
 }
 
 h3,
 .h3 {
-  font-size: var(--s2);
+  font-size: 1.296em;
 }
 
 h4,
 .h4 {
-  font-size: var(--s1);
+  font-size: 1.215em;
 }
 
 h5,
 .h5 {
-  font-size: var(--s0);
+  font-size: 1.138em;
 }
 
 h6,
 .h6 {
-  font-size: var(--s-1);
+  font-size: 1.067em;
 }
 
 dfn,
@@ -324,7 +327,7 @@ pre {
   background-color: var(--secondary);
   color: var(--text);
   font-family: var(--font-monospace);
-  font-size: var(--s-1);
+  font-size: 1em;
   line-height: var(--line-height-small);
   max-width: 100%;
   overflow: auto;
@@ -337,7 +340,7 @@ kbd,
 var {
   background-color: var(--secondary);
   font-family: var(--font-monospace);
-  font-size: var(--s-1);
+  font-size: 1em;
 }
 
 abbr {
@@ -374,7 +377,7 @@ q:after {
 }
 
 small {
-  font-size: var(--s-2);
+  font-size: 0.937em;
 }
 
 table,
@@ -452,7 +455,7 @@ dd {
 }
 
 figcaption {
-  font-size: var(--s-1);
+  font-size: 0.937em;
 }
 
 img {
@@ -510,7 +513,7 @@ h6 a,
 
 .skip-link {
   font-family: var(--font-serif);
-  font-size: var(--s-1);
+  font-size: 0.937em;
   font-weight: 700;
   left: var(--s3);
   max-width: none;
@@ -759,7 +762,7 @@ label + .inline-field-control {
 
 /* Site naigation */
 .site-navigation .nav {
-  font-size: var(--s-2);
+  font-size: 0.937em;
   justify-content: flex-end;
   margin-left: auto;
 }
@@ -811,7 +814,7 @@ label + .inline-field-control {
 }
 
 .posts-pagination a {
-  font-size: var(--s-1);
+  font-size: 0.937em;
   text-decoration: none;
 }
 
@@ -842,7 +845,7 @@ label + .inline-field-control {
   --stack-space: var(--s-6);
   color: var(--lighttext);
   font-family: var(--font-monospace);
-  font-size: var(--s-1);
+  font-size: 0.937em;
 }
 
 .post-list .post-link {
@@ -858,7 +861,7 @@ label + .inline-field-control {
   --stack-space: var(--s-3);
   color: var(--lighttext);
   font-family: var(--font-monospace);
-  font-size: var(--s-1);
+  font-size: 0.937em;
 }
 
 .post-content .post-meta {
