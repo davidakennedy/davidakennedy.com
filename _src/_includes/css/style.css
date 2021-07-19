@@ -56,12 +56,9 @@ html {
   --text: #2d334a;
   --error: #ffbbbb;
   --success: #c7f0bd;
-  --line-height: 1.5;
-  --line-height-small: 1.2;
-  --measure-narrow: 30ch;
-  --measure: 60ch;
-  --measure-wide: 90ch;
   /* Other stuff */
+  --border-thin: 0.12em;
+  --border-thick: 0.125em;
   --font-serif: Georgia, serif;
   --font-sans-serif: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
     Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
@@ -72,8 +69,11 @@ html {
     "Lucida Sans Typewriter", "DejaVu Sans Mono", "Bitstream Vera Sans Mono",
     "Liberation Mono", "Nimbus Mono L", Monaco, "Courier New", Courier,
     monospace;
-  --border-thin: 0.12em;
-  --border-thick: 0.125em;
+  --line-height: 1.5;
+  --line-height-small: 1.2;
+  --measure-narrow: 30ch;
+  --measure: 60ch;
+  --measure-wide: 90ch;
   background-color: var(--background);
   color: var(--text);
   font-family: var(--font-serif);
