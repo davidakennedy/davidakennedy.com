@@ -642,10 +642,9 @@ input[type="submit"]:focus {
 }
 
 .alert svg {
-  position: relative;
+  align-self: center;
   margin-right: 0.444444444445em;
   margin-right: var(--s-2);
-  top: 4px;
 }
 
 label + .inline-field-control {
@@ -768,6 +767,10 @@ label + .inline-field-control {
   padding: var(--s-2);
 }
 
+.social-navigation svg {
+  vertical-align: text-bottom;
+}
+
 /* Post Navigation */
 .posts-pagination {
   margin-top: 2.25em;
@@ -796,9 +799,11 @@ label + .inline-field-control {
   text-decoration: none;
 }
 
-.posts-pagination svg,
 .posts-pagination a {
   display: inline-block;
+}
+
+.posts-pagination svg {
   vertical-align: middle;
 }
 
