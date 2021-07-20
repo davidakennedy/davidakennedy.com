@@ -1,14 +1,15 @@
 /* Fonts */
-/* cooper hewitt bold - latin */
+/* fira-sans-700 - latin */
 @font-face {
+  font-family: "Fira Sans Bold";
   font-display: swap;
-  font-family: CooperHewittBold;
   font-style: normal;
   font-weight: 700;
-  src: url("/assets/fonts/cooper-hewitt/CooperHewitt-Bold.woff2")
-      format("woff2"),
-    /* Super Modern Browsers */
-      url("/assets/fonts/cooper-hewitt/CooperHewitt-Bold.woff") format("woff"); /* Modern Browsers */
+  src: local("Fira Sans Bold"), local("FiraSans-Bold"),
+    url("/assets/fonts/fira-sans-v10-latin-700.woff2") format("woff2"),
+    /* Chrome 26+, Opera 23+, Firefox 39+ */
+      url("/assets/fonts/fira-sans-v10-latin-700.woff") format("woff");
+  /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 
 /* CSS Reset 
@@ -75,7 +76,7 @@ html {
   --font-serif: Georgia, serif;
   --font-sans-serif: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
     Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
-  --font-headline: CooperHewittBold, -apple-system, BlinkMacSystemFont,
+  --font-headline: "Fira Sans Bold", -apple-system, BlinkMacSystemFont,
     "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue",
     sans-serif;
   --font-monospace: Consolas, "Andale Mono WT", "Andale Mono", "Lucida Console",
