@@ -88,10 +88,14 @@ html {
   --measure-narrow: 30ch;
   --measure: 60ch;
   --measure-wide: 90ch;
+  background-color: #fffffe;
   background-color: var(--background);
+  color: #2d334a;
   color: var(--text);
+  font-family: Georgia, serif;
   font-family: var(--font-serif);
   font-weight: 400;
+  line-height: 1.5;
   line-height: var(--line-height);
 }
 
@@ -122,6 +126,7 @@ body::after {
 .page-header .title,
 .post-header .title {
   display: inline-block;
+  max-width: 30ch;
   max-width: var(--measure-narrow);
   position: relative;
 }
@@ -180,7 +185,9 @@ body::after {
 
 /* Make something stand out */
 .callout {
+  border: 2px solid #767676;
   border: 2px solid var(--lighttext);
+  border-radius: 0.125em;
   border-radius: var(--border-thick);
   padding: 0.444444444445em;
   padding: var(--s-2);
@@ -196,6 +203,7 @@ body::after {
 .stack > * + *,
 .stack + .stack,
 .stack > .stack {
+  margin-top: 1.5em;
   margin-top: var(--stack-space, 1.5em);
 }
 
@@ -243,10 +251,14 @@ h5,
 h6,
 .h6 {
   clear: both;
+  color: #272343;
   color: var(--headline);
+  font-family: "Fira Sans Bold", -apple-system, BlinkMacSystemFont, "Segoe UI",
+    Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
   font-family: var(--font-headline);
   font-weight: 700;
   hyphens: auto;
+  line-height: 1.2;
   line-height: var(--line-height-small);
   word-wrap: break-word;
 }
@@ -285,13 +297,12 @@ dfn,
 em,
 i,
 figcaption {
-  font-family: var(--font-serif);
   font-style: italic;
 }
 
 blockquote {
+  border-left: 0.12em solid #767676;
   border-left: var(--border-thin) solid var(--lighttext);
-  font-family: var(--font-serif);
   font-style: italic;
   padding: 0 0.444444444445em;
   padding: 0 var(--s-2);
@@ -302,12 +313,13 @@ blockquote cite {
 }
 
 cite {
+  font-family: "Fira Sans Bold", -apple-system, BlinkMacSystemFont, "Segoe UI",
+    Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
   font-family: var(--font-headline);
   font-weight: 700;
 }
 
 address {
-  font-family: var(--font-serif);
   font-style: italic;
   margin-top: 0;
 }
@@ -318,10 +330,17 @@ strong {
 }
 
 pre {
+  background-color: #e3f6f5;
   background-color: var(--secondary);
+  color: #2d334a;
   color: var(--text);
+  font-family: Consolas, "Andale Mono WT", "Andale Mono", "Lucida Console",
+    "Lucida Sans Typewriter", "DejaVu Sans Mono", "Bitstream Vera Sans Mono",
+    "Liberation Mono", "Nimbus Mono L", Monaco, "Courier New", Courier,
+    monospace;
   font-family: var(--font-monospace);
   font-size: 1.172rem;
+  line-height: 1.2;
   line-height: var(--line-height-small);
   max-width: 100%;
   overflow: auto;
@@ -333,28 +352,38 @@ pre {
 code,
 kbd,
 var {
+  background-color: #e3f6f5;
   background-color: var(--secondary);
+  font-family: Consolas, "Andale Mono WT", "Andale Mono", "Lucida Console",
+    "Lucida Sans Typewriter", "DejaVu Sans Mono", "Bitstream Vera Sans Mono",
+    "Liberation Mono", "Nimbus Mono L", Monaco, "Courier New", Courier,
+    monospace;
   font-family: var(--font-monospace);
   font-size: 1.172rem;
 }
 
 abbr {
+  border-bottom: 1px dotted #767676;
   border-bottom: 1px dotted var(--lighttext);
   cursor: help;
 }
 
 mark {
+  background: #e3f6f5;
   background: var(--secondary);
+  color: #2d334a;
   color: var(--text);
   text-decoration: none;
 }
 
 del {
+  background-color: #ffbbbb;
   background-color: var(--error);
   text-decoration: line-through;
 }
 
 ins {
+  background-color: #c7f0bd;
   background-color: var(--success);
   text-decoration: none;
 }
@@ -378,6 +407,7 @@ small {
 table,
 th,
 td {
+  border: 1px solid #767676;
   border: 1px solid var(--lighttext);
 }
 
@@ -399,6 +429,8 @@ td {
 }
 
 th {
+  font-family: "Fira Sans Bold", -apple-system, BlinkMacSystemFont, "Segoe UI",
+    Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
   font-family: var(--font-headline);
   font-weight: 700;
 }
@@ -442,7 +474,10 @@ li > ol {
 }
 
 dt {
+  border: 1px solid #767676;
   border-bottom: 1px solid var(--lighttext);
+  font-family: "Fira Sans Bold", -apple-system, BlinkMacSystemFont, "Segoe UI",
+    Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
   font-family: var(--font-headline);
   font-weight: 700;
 }
@@ -460,6 +495,7 @@ figcaption {
 }
 
 img {
+  box-shadow: 0 0 10px #767676;
   box-shadow: 0 0 10px var(--lighttext);
   display: block;
   max-width: 100%;
@@ -472,20 +508,24 @@ img.intrinsic {
 
 /* Links */
 a {
+  color: #2d334a;
   color: var(--text);
   position: relative;
   text-decoration: underline;
+  text-decoration-color: #767676;
   text-decoration-color: var(--lighttext);
   text-decoration-skip-ink: auto;
 }
 
 a:hover {
+  background-color: #ffd803;
   background-color: var(--primary);
   outline: 0;
   text-decoration: none;
 }
 
 a:focus {
+  background-color: #ffd803;
   background-color: var(--primary);
   outline: 0.12em dashed;
   outline-offset: 0.12em;
@@ -509,11 +549,14 @@ h5 a,
 .h5,
 h6 a,
 .h6 {
+  color: #272343;
   color: var(--headline);
 }
 
 .skip-link {
-  font-family: var(--font-serif);
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+  font-family: var(--font-sans-serif);
   font-size: 1.172rem;
   font-weight: 700;
   left: 1.5em;
@@ -534,6 +577,8 @@ h6 a,
 
 /* Forms */
 label {
+  font-family: "Fira Sans Bold", -apple-system, BlinkMacSystemFont, "Segoe UI",
+    Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
   font-family: var(--font-headline);
   font-weight: 700;
 }
@@ -543,8 +588,11 @@ input[type="email"],
 input[type="search"],
 textarea {
   background-color: var(--background);
+  border: 0.05em solid #767676;
   border: 0.05em solid var(--lighttext);
+  border-bottom-width: 0.12em;
   border-bottom-width: var(--border-thin);
+  border-radius: 0.12em;
   border-radius: var(--border-thin);
   padding: 0.197530864198em;
   padding: var(--s-4);
@@ -555,6 +603,7 @@ input[type="text"]:focus,
 input[type="email"]:focus,
 input[type="search"]:focus,
 textarea:focus {
+  border-color: #2d334a;
   border-color: var(--text);
   outline: 0.12em dashed;
   outline-offset: 0.12em;
@@ -570,12 +619,19 @@ button,
 input[type="button"],
 input[type="reset"],
 input[type="submit"] {
+  background-color: #ffd803;
   background-color: var(--primary);
+  border: 0.05em solid #ffd803;
   border: 0.05em solid var(--primary);
+  border-bottom-width: 0.12em;
   border-bottom-width: var(--border-thin);
+  border-radius: 0.12em;
   border-radius: var(--border-thin);
+  color: #2d334a;
   color: var(--text);
   cursor: pointer;
+  font-family: "Fira Sans Bold", -apple-system, BlinkMacSystemFont, "Segoe UI",
+    Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
   font-family: var(--font-headline);
   font-weight: 700;
   padding: 0.296296296297em 0.444444444445em;
@@ -590,6 +646,7 @@ button:hover,
 input[type="button"]:hover,
 input[type="reset"]:hover,
 input[type="submit"]:hover {
+  border-color: #2d334a;
   border-color: var(--text);
 }
 
@@ -606,6 +663,7 @@ button:focus,
 input[type="button"]:focus,
 input[type="reset"]:focus,
 input[type="submit"]:focus {
+  border-color: #2d334a;
   border-color: var(--text);
   outline: 0.12em dashed;
   outline-offset: 0.12em;
@@ -613,12 +671,15 @@ input[type="submit"]:focus {
 
 .button.button-transparent {
   background-color: transparent;
+  border-color: #2d334a;
   border-color: var(--text);
 }
 
 .button.button-transparent:hover,
 .button.button-transparent:focus {
+  background-color: #ffd803;
   background-color: var(--primary);
+  border-color: #ffd803;
   border-color: var(--primary);
 }
 
@@ -634,10 +695,12 @@ input[type="submit"]:focus {
 }
 
 .alert[data-state="error"] {
+  background-color: #ffbbbb;
   background-color: var(--error);
 }
 
 .alert[data-state="success"] {
+  background-color: #c7f0bd;
   background-color: var(--success);
 }
 
@@ -742,6 +805,8 @@ label + .inline-field-control {
 }
 
 .site-navigation a {
+  font-family: "Fira Sans Bold", -apple-system, BlinkMacSystemFont, "Segoe UI",
+    Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
   font-family: var(--font-headline);
   font-weight: 700;
 }
@@ -790,6 +855,8 @@ label + .inline-field-control {
 }
 
 .posts-pagination a {
+  font-family: "Fira Sans Bold", -apple-system, BlinkMacSystemFont, "Segoe UI",
+    Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
   font-family: var(--font-headline);
   font-weight: 700;
 }
@@ -809,6 +876,7 @@ label + .inline-field-control {
 
 /* h-card */
 .h-card img {
+  border-radius: 0.125em;
   border-radius: var(--border-thick);
   box-shadow: none;
   max-width: 150px;
@@ -828,7 +896,12 @@ label + .inline-field-control {
 .post-list .post-date {
   margin-top: 0.444444444445em;
   --stack-space: var(--s-2);
+  color: #767676;
   color: var(--lighttext);
+  font-family: Consolas, "Andale Mono WT", "Andale Mono", "Lucida Console",
+    "Lucida Sans Typewriter", "DejaVu Sans Mono", "Bitstream Vera Sans Mono",
+    "Liberation Mono", "Nimbus Mono L", Monaco, "Courier New", Courier,
+    monospace;
   font-family: var(--font-monospace);
   font-size: 0.937em;
 }
@@ -846,7 +919,12 @@ label + .inline-field-control {
 .post-meta {
   margin-top: 0.444444444445em;
   --stack-space: var(--s-2);
+  color: #767676;
   color: var(--lighttext);
+  font-family: Consolas, "Andale Mono WT", "Andale Mono", "Lucida Console",
+    "Lucida Sans Typewriter", "DejaVu Sans Mono", "Bitstream Vera Sans Mono",
+    "Liberation Mono", "Nimbus Mono L", Monaco, "Courier New", Courier,
+    monospace;
   font-family: var(--font-monospace);
   font-size: 1.172rem;
 }
@@ -865,11 +943,13 @@ label + .inline-field-control {
 }
 
 .tag-list a {
+  color: #767676;
   color: var(--lighttext);
 }
 
 .tag-list a:hover,
 .tag-list a:focus {
+  color: #2d334a;
   color: var(--text);
 }
 
@@ -882,6 +962,7 @@ label + .inline-field-control {
 .post-content dt,
 .page-content dd,
 .post-content dd {
+  max-width: 60ch;
   max-width: var(--measure);
 }
 
@@ -895,6 +976,7 @@ label + .inline-field-control {
 .post-content h5,
 .page-content h6,
 .post-content h6 {
+  max-width: 30ch;
   max-width: var(--measure-narrow);
 }
 
@@ -916,6 +998,7 @@ label + .inline-field-control {
 
 /* Containers */
 .site-content {
+  max-width: 90ch;
   max-width: var(--measure-wide);
 }
 
@@ -956,6 +1039,7 @@ pre[class*="language-"] {
 
 :not(pre) > code[class*="language-"] {
   background: #e3f6f5;
+  border-radius: 0.125em;
   border-radius: var(--border-thick);
   color: #b44e3c;
 }
