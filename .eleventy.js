@@ -111,17 +111,18 @@ module.exports = function (eleventyConfig) {
       url,
       alt,
       caption,
-      width,
-      height,
+      ratio,
       srcsetWidths,
       fallbackWidth,
       sizes
     ) => {
       const fetchBase = `/assets/img/uploads/`;
-      const src = `${fetchBase}${url}?nf_resize=fit&w=${fallbackWidth}`;
+      const fallbackHeight = fallbackWidth * ratio;
+      const src = `${fetchBase}${url}?nf_resize=fit&w=${fallbackWidth}&h=${fallbackHeight}`;
       const srcset = srcsetWidths
         .map((width) => {
-          return `${fetchBase}${url}?nf_resize=fit&w=${width} ${width}w`;
+          const height = width * ratio;
+          return `${fetchBase}${url}?nf_resize=fit&w=${width}&h=${height} ${width}w`;
         })
         .join(", ");
 
@@ -129,9 +130,7 @@ module.exports = function (eleventyConfig) {
         imgclass ? `class="${imgclass}"` : ""
       } srcset="${srcset}" sizes="${
         sizes ? sizes : "100vw"
-      }" src="${src}" alt="${
-        alt ? alt : ""
-      }" width="${width}" height="${height}" loading="lazy">${
+      }" src="${src}" alt="${alt ? alt : ""}" loading="lazy">${
         caption ? `<figcaption>${caption}</figcaption>` : ""
       }</figure>`;
     }

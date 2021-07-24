@@ -737,7 +737,7 @@ label + .inline-field-control {
  every-layout.dev */
 .reel {
   display: flex;
-  height: auto;
+  height: 100vh;
   overflow-x: auto;
   overflow-y: hidden;
   scrollbar-color: #fffffe #2d334a;

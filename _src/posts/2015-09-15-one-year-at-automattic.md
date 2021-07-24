@@ -9,9 +9,9 @@ tags:
 ---
 
 <div class="reel" role="region" aria-label="One year at Automattic image gallery" tabindex="0">
-  {% respimg "", "", "one-year-at-automattic2015-1.jpg", "", "Me making what my wife calls \"Dave-face\" while working on a project at a meetup.", 640, 440, [320,480,640], 640, "" %}
-  {% respimg "", "", "one-year-at-automattic2015-2.jpg", "", "Members of Theam Team, enjoying shaved ice in Hawaii.", 640, 640, [320,480,640], 640, "" %}
-  {% respimg "", "", "one-year-at-automattic2015-3.jpg", "", "Daniel Robert in I in a giant coffee cup in Hawaii. Is that not what you do in Hawaii?", 640, 640, [320,480,640], 640, "" %}
+  {% respimg "", "", "one-year-at-automattic2015-1.jpg", "", "Me making what my wife calls \"Dave-face\" while working on a project at a meetup.", 1, [320,480,640], 640, "" %}
+  {% respimg "", "", "one-year-at-automattic2015-2.jpg", "", "Members of Theam Team, enjoying shaved ice in Hawaii.", 1, [320,480,640], 640, "" %}
+  {% respimg "", "", "one-year-at-automattic2015-3.jpg", "", "Daniel Robert in I in a giant coffee cup in Hawaii. Is that not what you do in Hawaii?", 1, [320,480,640], 640, "" %}
 </div>
 
 Since I was 13, I wanted to be a writer. I became one, spending part of my career writing for newspapers, magazines, corporations and nonprofits. But then I found the Web and everything changed.

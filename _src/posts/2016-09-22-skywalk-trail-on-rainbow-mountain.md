@@ -10,24 +10,24 @@ tags:
 ---
 
 <div class="reel" role="region" aria-label="Skywalk Trail on Rainbow Mountain image gallery" tabindex="0">
-  {% respimg "", "", "grandmeetup2016-2.jpg", "", "A lookout, overlooking a lake, on Skywalk Trail.", 800, 600, [320,480,640,800,960,1120,1280,1440,1600], 800, "" %}
-  {% respimg "", "", "grandmeetup2016-3.jpg", "", "Standing on a bridge on Skywalk Trail.", 800, 600, [320,480,640,800,960,1120,1280,1440,1600], 800, "" %}
-  {% respimg "", "", "grandmeetup2016-4.jpg", "", "A waterfall, near a lookout on Skywalk Trail.", 600, 800, [320,480,640,800,960,1120,1280,1440,1600], 600, "" %}
-  {% respimg "", "", "grandmeetup2016-5.jpg", "", "A waterfall, near a lookout on Skywalk Trail.", 600, 800, [320,480,640,800,960,1120,1280,1440,1600], 600, "" %}
-  {% respimg "", "", "grandmeetup2016-6.jpg", "", "A view of trees high up, near a lookout on Skywalk Trail.", 800, 600, [320,480,640,800,960,1120,1280,1440,1600], 800, "" %}
-  {% respimg "", "", "grandmeetup2016-7.jpg", "", "A view of Rainbow Mountain.", 800, 600, [320,480,640,800,960,1120,1280,1440,1600], 800, "" %}
-  {% respimg "", "", "grandmeetup2016-8.jpg", "", "A view of Rainbow Mountain, from a field.", 800, 600, [320,480,640,800,960,1120,1280,1440,1600], 800, "" %}
-  {% respimg "", "", "grandmeetup2016-9.jpg", "", "A big group of Automattician's eating lunch near the bottom of Rainbow Mountain.", 800, 600, [320,480,640,800,960,1120,1280,1440,1600], 800, "" %}
-  {% respimg "", "", "grandmeetup2016-10.jpg", "", "One of the glacier lakes at Rainbow Mountain.", 800, 600, [320,480,640,800,960,1120,1280,1440,1600], 800, "" %}
-  {% respimg "", "", "grandmeetup2016-11.jpg", "", "A view out into the valley, standing near one of the glacier lakes at Rainbow Mountain.", 800, 600, [320,480,640,800,960,1120,1280,1440,1600], 800, "" %}
-  {% respimg "", "", "grandmeetup2016-12.jpg", "", "Me and a glacier – selfie style.", 800, 600, [320,480,640,800,960,1120,1280,1440,1600], 800, "" %}
-  {% respimg "", "", "grandmeetup2016-13.jpg", "", "A view of the glacier lake, from standing in front of the glacier itself.", 800, 600, [320,480,640,800,960,1120,1280,1440,1600], 800, "" %}
-  {% respimg "", "", "grandmeetup2016-14.jpg", "", "A glacier on Rainbow Mountain.", 800, 600, [320,480,640,800,960,1120,1280,1440,1600], 800, "" %}
-  {% respimg "", "", "grandmeetup2016-15.jpg", "", "A mix of debris from the glacier and a view of trees and grass.", 800, 600, [320,480,640,800,960,1120,1280,1440,1600], 800, "" %}
-  {% respimg "", "", "grandmeetup2016-16.jpg", "", "Me in front of the glacier.", 600, 800, [320,480,640,800,960,1120,1280,1440,1600], 600, "" %}
-  {% respimg "", "", "grandmeetup2016-17.jpg", "", "From left to right, Stu West, Jonah Braun, Xiao Yu and myself on the glacier beach.", 800, 600, [320,480,640,800,960,1120,1280,1440,1600], 800, "" %}
-  {% respimg "", "", "grandmeetup2016-18.jpg", "", "Walking on the glacier beach.", 800, 600, [320,480,640,800,960,1120,1280,1440,1600], 800, "" %}
-  {% respimg "", "", "grandmeetup2016-19.jpg", "", "A small stream on the trail to Rainbow Mountain.", 800, 600, [320,480,640,800,960,1120,1280,1440,1600], 800, "" %}
+  {% respimg "", "", "grandmeetup2016-2.jpg", "", "A lookout, overlooking a lake, on Skywalk Trail.", 1, [320,480,640], 640, "" %}
+  {% respimg "", "", "grandmeetup2016-3.jpg", "", "Standing on a bridge on Skywalk Trail.", 1, [320,480,640], 640, "" %}
+  {% respimg "", "", "grandmeetup2016-4.jpg", "", "A waterfall, near a lookout on Skywalk Trail.", 1, [320,480,640], 640, "" %}
+  {% respimg "", "", "grandmeetup2016-5.jpg", "", "A waterfall, near a lookout on Skywalk Trail.", 1, [320,480,640], 640, "" %}
+  {% respimg "", "", "grandmeetup2016-6.jpg", "", "A view of trees high up, near a lookout on Skywalk Trail.", 1, [320,480,640], 640, "" %}
+  {% respimg "", "", "grandmeetup2016-7.jpg", "", "A view of Rainbow Mountain.", 1, [320,480,640], 640, "" %}
+  {% respimg "", "", "grandmeetup2016-8.jpg", "", "A view of Rainbow Mountain, from a field.", 1, [320,480,640], 640, "" %}
+  {% respimg "", "", "grandmeetup2016-9.jpg", "", "A big group of Automattician's eating lunch near the bottom of Rainbow Mountain.", 1, [320,480,640], 640, "" %}
+  {% respimg "", "", "grandmeetup2016-10.jpg", "", "One of the glacier lakes at Rainbow Mountain.", 1, [320,480,640], 640, "" %}
+  {% respimg "", "", "grandmeetup2016-11.jpg", "", "A view out into the valley, standing near one of the glacier lakes at Rainbow Mountain.", 1, [320,480,640], 640, "" %}
+  {% respimg "", "", "grandmeetup2016-12.jpg", "", "Me and a glacier – selfie style.", 1, [320,480,640], 640, "" %}
+  {% respimg "", "", "grandmeetup2016-13.jpg", "", "A view of the glacier lake, from standing in front of the glacier itself.", 1, [320,480,640], 640, "" %}
+  {% respimg "", "", "grandmeetup2016-14.jpg", "", "A glacier on Rainbow Mountain.", 1, [320,480,640], 640, "" %}
+  {% respimg "", "", "grandmeetup2016-15.jpg", "", "A mix of debris from the glacier and a view of trees and grass.", 1, [320,480,640], 640, "" %}
+  {% respimg "", "", "grandmeetup2016-16.jpg", "", "Me in front of the glacier.", 1, [320,480,640], 640, "" %}
+  {% respimg "", "", "grandmeetup2016-17.jpg", "", "From left to right, Stu West, Jonah Braun, Xiao Yu and myself on the glacier beach.", 1, [320,480,640], 640, "" %}
+  {% respimg "", "", "grandmeetup2016-18.jpg", "", "Walking on the glacier beach.", 1, [320,480,640], 640, "" %}
+  {% respimg "", "", "grandmeetup2016-19.jpg", "", "A small stream on the trail to Rainbow Mountain.", 1, [320,480,640], 640, "" %}
 </div>
 
 This past week, while at Automattic's annual Grand Meetup, I completed the most difficult hike I've ever done. Myself and a small group of Automattician's hiked up [Skywalk Trail on Rainbow Mountain](http://localwhistler.com/news/2015/08/17/skywalk-trail/) – a challenging hike full of amazing views. It's near Whistler, British Columbia in Canada.

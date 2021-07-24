@@ -2,7 +2,7 @@
 {% block content %}
   <div class="page-header stack">
     {%- if featuredimg and image -%}
-      {% respimg "", "", image, imgalt, "", 1280, 1080, [320,480,640,800,960,1120,1280,1440,1600], 800, "" %}
+      {% respimg "", "", image, imgalt, "", 0.75, [320,480,640,800,960,1120,1280,1440,1600], 800, "" %}
     {%- endif -%}
     {% set pagetitle = title or renderData.title %}
     <h1 class="title p-name">{{ pagetitle | markdownify }}</h1>
