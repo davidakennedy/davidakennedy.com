@@ -263,7 +263,6 @@ h6,
   hyphens: auto;
   line-height: 1.2;
   line-height: var(--line-height-small);
-  word-wrap: break-word;
 }
 
 h1,
