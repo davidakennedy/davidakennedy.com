@@ -6,7 +6,8 @@ permalink: /blog/managing-tasks-web-projects-and-remembering-the-milk/
 tags:
   - Productivity
 ---
-{% img "", "intrinsic", "rtm-to-do-list-1.jpg", "Remember the Milk interface, showing to-do list on the left and a sidebar on the right.", "", 600, 329 %}
+
+{% img "", "", "rtm-to-do-list-1.jpg", "Remember the Milk interface, showing to-do list on the left and a sidebar on the right.", "", 600, 329 %}
 
 I can't remember the last time I forgot the milk, but I do remember the last time I neglected to attend to something on my to-do list.
 
@@ -18,10 +19,10 @@ I created different to-do lists that correspond with folders in my email. The em
 
 ## What I Like
 
-  * Its interface is simple and easy to use.
-  * The lists load quickly.
-  * The keyboard shortcuts make many things within the program faster.
-  * It's free.
+- Its interface is simple and easy to use.
+- The lists load quickly.
+- The keyboard shortcuts make many things within the program faster.
+- It's free.
 
 ## What About You?
 

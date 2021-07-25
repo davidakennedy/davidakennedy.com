@@ -8,4 +8,4 @@ tags:
   - Work
 ---
 
-{% img "", "intrinsic", "grandmeetup2016-1.jpg", "Automattic Grand Meetup 2016 conference badge", "", 650, 850 %}
+{% img "", "", "grandmeetup2016-1.jpg", "Automattic Grand Meetup 2016 conference badge", "", 600, 800 %}

@@ -9,7 +9,7 @@ tags:
   - Work
 ---
 
-{% img "", "intrinsic", "bye-dave-flyer.jpg", "", "A hilarious flyer including Grumpy Cat and me in a red bucket, made with love by Amberley Romo and Kevin Wenzel.", 300, 400 %}
+{% img "", "", "bye-dave-flyer.jpg", "", "A hilarious flyer including Grumpy Cat and me in a red bucket, made with love by Amberley Romo and Kevin Wenzel.", 300, 400 %}
 
 Friday was bittersweet. I finished up a [two-plus year tenure](/blog/sometimes-you-just-have-to-run-the-race/) at [The Arc](http://www.thearc.org), having the chance to work with some of the most passionate people I've ever met. Working there changed me in so many positive ways, I couldn't even begin to list them all. So what's next?
 

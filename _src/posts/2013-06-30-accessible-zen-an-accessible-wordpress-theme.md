@@ -10,7 +10,7 @@ tags:
   - Work
 ---
 
-{% img "", "intrinsic", "accessible-zen-screenshot-0.png", "One column design, with white background, blue links and blue headers.", "", 600, 450 %}
+{% img "", "", "accessible-zen-screenshot-0.png", "One column design, with white background, blue links and blue headers.", "", 600, 400 %}
 
 Accessibility is hard. It shouldn't have to be.
 
@@ -28,7 +28,7 @@ Being a former journalist, I also enjoy watching the evolution of media, the web
 
 And of course, I wanted to create the theme with accessibility in mind from the very beginning. I've carefully crafted the theme to adhere to Section 508 and WCAG 2.0, Level AA standards so any blogger can have a beautiful and accessible site.
 
-###  An Alpha Release
+### An Alpha Release
 
 **Just so you know…** This is an Alpha release. That means it's early in the game. I'm still developing the theme and I really don’t recommend that you run it on a production site — set up a test site just to play with it.
 

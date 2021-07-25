@@ -7,4 +7,4 @@ tags:
   - Conferences
 ---
 
-{% img "", "intrinsic", "grandmeetup2015-1.jpg", "Automattic Grand Meetup 2015 conference badge", "", 600, 800 %}
+{% img "", "", "grandmeetup2015-1.jpg", "Automattic Grand Meetup 2015 conference badge", "", 600, 800 %}

@@ -6,6 +6,6 @@ tags:
   - Personal
 ---
 
-{% img "", "intrinsic", "nemo1.jpg", "", "Hi, I'm Nemo.", 600, 338 %}
+{% img "", "", "nemo1.jpg", "", "Hi, I'm Nemo.", 600, 400 %}
 
 Today, I had to say goodbye to my buddy, Nemo. I'll miss his happy screeches and nose nuzzles. Thanks for being an awesome dog, buddy!

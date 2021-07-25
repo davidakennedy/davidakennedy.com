@@ -9,10 +9,8 @@ tags:
   - Work
 ---
 
-<div class="reel" role="region" aria-label="Holly Trail at Canyons Resort image gallery" tabindex="0">
-  {% respimg "", "", "grandmeetup2015-2.jpg", "", "Purple flowers on cliff overlooking Canyons Resort.", 1, [320,480,640], 640, "" %}
-  {% respimg "", "", "grandmeetup2015-3.jpg", "", "Holly Trail overlooking hills.", 1, [320,480,640], 640, "" %}
-  {% respimg "", "", "grandmeetup2015-4.jpg", "", "Holly Trail at Canyons Resort.", 1, [320,480,640], 640, "" %}
-</div>
+{% respimg "", "", "grandmeetup2015-2.jpg", "", "Purple flowers on cliff overlooking Canyons Resort.", 0.75, [320,480,640,800,960,1100], 1100, "" %}
+{% respimg "", "", "grandmeetup2015-3.jpg", "", "Holly Trail overlooking hills.", 0.75, [320,480,640,800,960,1100], 1100, "" %}
+{% respimg "", "", "grandmeetup2015-4.jpg", "", "Holly Trail at Canyons Resort.", 0.75, [320,480,640,800,960,1100], 1100, "" %}
 
 A few photos from my hike yesterday of the Holly Trail at the Canyons Resort in Park City, Utah.

@@ -7,7 +7,7 @@ tags:
   - Personal
 ---
 
-{% img "", "intrinsic", "finding-home2016-1.jpg", "Thanks, David. Stay in touch. –Philip", "A note on the back of my last paycheck, handwritten by my former boss, from the grocery store I worked at in Asheville, N.C. We moved from there to Greensboro for the first time in 2008. I found the note this week while packing.", 800, 600 %}
+{% img "", "", "finding-home2016-1.jpg", "Thanks, David. Stay in touch. –Philip", "A note on the back of my last paycheck, handwritten by my former boss, from the grocery store I worked at in Asheville, N.C. We moved from there to Greensboro for the first time in 2008. I found the note this week while packing.", 800, 600 %}
 
 I'm lucky. I work for a company that allows me to work from anywhere. Knowing that, it almost seems counterintuitive to want to tie yourself down to any one place. Why settle for home being one place when it could be different whenever you wanted? And if you could live anywhere, where would it be?
 
