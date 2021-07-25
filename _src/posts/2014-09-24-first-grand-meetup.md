@@ -14,16 +14,16 @@ I had a blast and met a lot of Automatticians, something that's extra special in
 
 I did make one rookie mistake though: I forgot my DSLR camera, a Canon 20D. So the gallery below is a few shots from my iPhone 5 camera.
 
-{% respimg "", "", "grandmeetup2014-1.jpg", "", "A view of the shops and restaurants inside Canyons Resort.", 0.75, [320,480,640,800,960,1100], 1100, "" %}
-{% respimg "", "", "grandmeetup2014-2.jpg", "", "Trying to line up for the company photo.", 0.75, [320,480,640,800,960,1100], 1100, "" %}
-{% respimg "", "", "grandmeetup2014-3.jpg", "", "Team 14 working late on a project.", 0.75, [320,480,640,800,960,1100], 1100, "" %}
-{% respimg "", "", "grandmeetup2014-4.jpg", "", "Team 14 discussing technical stuff.", 0.75, [320,480,640,800,960,1100], 1100, "" %}
-{% respimg "", "", "grandmeetup2014-5.jpg", "", "Team 14: Jeff Golenski, Velda Christensen, Enej Bajgoric, David Murphy and myself.", 0.75, [320,480,640,800,960,1100], 1100, "" %}
-{% respimg "", "", "grandmeetup2014-6.jpg", "", "A visit to the Uinta Brewing Company.", 0.75, [320,480,640,800,960,1100], 1100, "" %}
-{% respimg "", "", "grandmeetup2014-7.jpg", "", "There's beer in those barrels.", 0.75, [320,480,640,800,960,1100], 1100, "" %}
-{% respimg "", "", "grandmeetup2014-8.jpg", "", "A close up of a beer barrel.", 0.75, [320,480,640,800,960,1100], 1100, "" %}
-{% respimg "", "", "grandmeetup2014-9.jpg", "", "One of the processing areas for brewing.", 0.75, [320,480,640,800,960,1100], 1100, "" %}
-{% respimg "", "", "grandmeetup2014-10.jpg", "", "One of the Uinta Brewing Company signs.", 0.75, [320,480,640,800,960,1100], 1100, "" %}
-{% respimg "", "", "grandmeetup2014-11.jpg", "", "Baba, a black lager, is one of the beers that Uinta makes. Displayed on a sign.", 0.75, [320,480,640,800,960,1100], 1100, "" %}
-{% respimg "", "", "grandmeetup2014-12.jpg", "", "Baba, a black lager in cans, is one of the beers that Uinta makes.", 0.75, [320,480,640,800,960,1100], 1100, "" %}
-{% respimg "", "", "grandmeetup2014-13.jpg", "", "Palettes of beer ready to be shipped.", 0.75, [320,480,640,800,960,1100], 1100, "" %}
+{% respimg "", "", "grandmeetup2014-1.jpg", "", "A view of the shops and restaurants inside Canyons Resort.", 0.75, [320,480,640,800,960,1100], 1100, "", "" %}
+{% respimg "", "", "grandmeetup2014-2.jpg", "", "Trying to line up for the company photo.", 0.75, [320,480,640,800,960,1100], 1100, "", "lazy" %}
+{% respimg "", "", "grandmeetup2014-3.jpg", "", "Team 14 working late on a project.", 0.75, [320,480,640,800,960,1100], 1100, "", "lazy" %}
+{% respimg "", "", "grandmeetup2014-4.jpg", "", "Team 14 discussing technical stuff.", 0.75, [320,480,640,800,960,1100], 1100, "", "lazy" %}
+{% respimg "", "", "grandmeetup2014-5.jpg", "", "Team 14: Jeff Golenski, Velda Christensen, Enej Bajgoric, David Murphy and myself.", 0.75, [320,480,640,800,960,1100], 1100, "", "lazy" %}
+{% respimg "", "", "grandmeetup2014-6.jpg", "", "A visit to the Uinta Brewing Company.", 0.75, [320,480,640,800,960,1100], 1100, "", "lazy" %}
+{% respimg "", "", "grandmeetup2014-7.jpg", "", "There's beer in those barrels.", 0.75, [320,480,640,800,960,1100], 1100, "", "lazy" %}
+{% respimg "", "", "grandmeetup2014-8.jpg", "", "A close up of a beer barrel.", 0.75, [320,480,640,800,960,1100], 1100, "", "lazy" %}
+{% respimg "", "", "grandmeetup2014-9.jpg", "", "One of the processing areas for brewing.", 0.75, [320,480,640,800,960,1100], 1100, "", "lazy" %}
+{% respimg "", "", "grandmeetup2014-10.jpg", "", "One of the Uinta Brewing Company signs.", 0.75, [320,480,640,800,960,1100], 1100, "", "lazy" %}
+{% respimg "", "", "grandmeetup2014-11.jpg", "", "Baba, a black lager, is one of the beers that Uinta makes. Displayed on a sign.", 0.75, [320,480,640,800,960,1100], 1100, "", "lazy" %}
+{% respimg "", "", "grandmeetup2014-12.jpg", "", "Baba, a black lager in cans, is one of the beers that Uinta makes.", 0.75, [320,480,640,800,960,1100], 1100, "", "lazy" %}
+{% respimg "", "", "grandmeetup2014-13.jpg", "", "Palettes of beer ready to be shipped.", 0.75, [320,480,640,800,960,1100], 1100, "", "lazy" %}

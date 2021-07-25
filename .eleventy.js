@@ -89,14 +89,14 @@ module.exports = function (eleventyConfig) {
   // Also not indented because: https://www.11ty.io/docs/languages/markdown/#there-are-extra-and-in-my-output
   eleventyConfig.addShortcode(
     "img",
-    (figclass, imgclass, url, alt, caption, width, height) => {
+    (figclass, imgclass, url, alt, caption, width, height, lazy) => {
       return `<figure ${figclass ? `class="${figclass}"` : ""}><img ${
         imgclass ? `class="${imgclass}"` : ""
       } src="/assets/img/uploads/${url}?nf_resize=smartcrop&w=${width}&h=${height}" alt="${
         alt ? alt : ""
-      }" width="${width}" height="${height}" loading="lazy" />${
-        caption ? `<figcaption>${caption}</figcaption>` : ""
-      }</figure>`;
+      }" width="${width}" height="${height}" ${
+        lazy ? `loading="${lazy}"` : ""
+      } />${caption ? `<figcaption>${caption}</figcaption>` : ""}</figure>`;
     }
   );
 
@@ -114,7 +114,8 @@ module.exports = function (eleventyConfig) {
       ratio,
       srcsetWidths,
       fallbackWidth,
-      sizes
+      sizes,
+      lazy
     ) => {
       const fetchBase = `/assets/img/uploads/`;
       const fallbackHeight = fallbackWidth * ratio;
@@ -130,9 +131,9 @@ module.exports = function (eleventyConfig) {
         imgclass ? `class="${imgclass}"` : ""
       } srcset="${srcset}" sizes="${
         sizes ? sizes : "100vw"
-      }" src="${src}" alt="${alt ? alt : ""}" loading="lazy">${
-        caption ? `<figcaption>${caption}</figcaption>` : ""
-      }</figure>`;
+      }" src="${src}" alt="${alt ? alt : ""}" ${
+        lazy ? `loading="${lazy}"` : ""
+      }>${caption ? `<figcaption>${caption}</figcaption>` : ""}</figure>`;
     }
   );
 

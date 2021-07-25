@@ -7,4 +7,4 @@ tags:
   - Conferences
 ---
 
-{% img "", "", "adhoc-accessibilitycamp2020-1.jpg", "Ad Hoc Accessibility Camp 2020 conference badge with green and white colors and David Kennedy, design on front.", "", 600, 800 %}
+{% img "", "", "adhoc-accessibilitycamp2020-1.jpg", "Ad Hoc Accessibility Camp 2020 conference badge with green and white colors and David Kennedy, design on front.", "", 600, 800, "" %}

@@ -8,9 +8,9 @@ tags:
   - Work
 ---
 
-{% respimg "", "", "one-year-at-automattic2015-1.jpg", "", "Me making what my wife calls \"Dave-face\" while working on a project at a meetup.", 0.75, [320,480,640,800,960,1100], 1100, "" %}
-{% respimg "", "", "one-year-at-automattic2015-2.jpg", "", "Members of Theam Team, enjoying shaved ice in Hawaii.", 0.75, [320,480,640,800,960,1100], 1100, "" %}
-{% respimg "", "", "one-year-at-automattic2015-3.jpg", "", "Daniel Robert in I in a giant coffee cup in Hawaii. Is that not what you do in Hawaii?", 0.75, [320,480,640,800,960,1100], 1100, "" %}
+{% respimg "", "", "one-year-at-automattic2015-1.jpg", "", "Me making what my wife calls \"Dave-face\" while working on a project at a meetup.", 0.75, [320,480,640,800,960,1100], 1100, "", "" %}
+{% respimg "", "", "one-year-at-automattic2015-2.jpg", "", "Members of Theam Team, enjoying shaved ice in Hawaii.", 0.75, [320,480,640,800,960,1100], 1100, "", "lazy" %}
+{% respimg "", "", "one-year-at-automattic2015-3.jpg", "", "Daniel Robert in I in a giant coffee cup in Hawaii. Is that not what you do in Hawaii?", 0.75, [320,480,640,800,960,1100], 1100, "", "lazy" %}
 
 Since I was 13, I wanted to be a writer. I became one, spending part of my career writing for newspapers, magazines, corporations and nonprofits. But then I found the Web and everything changed.
 

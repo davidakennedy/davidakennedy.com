@@ -10,7 +10,7 @@ tags:
   - Work
 ---
 
-{% img "", "", "twentyseventeen-commit.png", "Screenshot showing the initial commit of Twenty Seventeen.", "", 800, 328 %}
+{% img "", "", "twentyseventeen-commit.png", "Screenshot showing the initial commit of Twenty Seventeen.", "", 800, 328, "" %}
 
 Last night, I made my [first commit to WordPress](https://core.trac.wordpress.org/changeset/38833/)!
 

@@ -7,4 +7,4 @@ tags:
   - Conferences
 ---
 
-{% img "", "", "wceu2017-1.jpg", "WordCamp Europe 2017 and Community Summit conference badges.", "", 800, 600 %}
+{% img "", "", "wceu2017-1.jpg", "WordCamp Europe 2017 and Community Summit conference badges.", "", 800, 600, "" %}

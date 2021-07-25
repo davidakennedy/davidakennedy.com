@@ -8,7 +8,7 @@ tags:
   - Personal
 ---
 
-{% img "", "", "daveatfindsweb.jpg", "", "David A. Kennedy at The Arc's FINDS Press Conference at the National Press Club in Washington, D.C.", 600, 450 %}
+{% img "", "", "daveatfindsweb.jpg", "", "David A. Kennedy at The Arc's FINDS Press Conference at the National Press Club in Washington, D.C.", 600, 450, "" %}
 
 When I [saw this tweet about the 2011 Elon iMedia class a few months ago](https://twitter.com/EloniMedia/status/71333465496358912), it got me thinking. I couldn't believe I graduated from [Elon iMedia](http://www.elon.edu/imedia) grad program more than a year ago. I started asking myself question after question:
 

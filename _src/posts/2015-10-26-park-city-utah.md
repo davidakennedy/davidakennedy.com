@@ -9,10 +9,10 @@ tags:
   - Work
 ---
 
-{% respimg "", "", "grandmeetup2015-5.jpg", "", "A view of mountains from the Canyons Resort in Park City, Utah", 0.75, [320,480,640,800,960,1100], 1100, "" %}
-{% respimg "", "", "grandmeetup2015-6.jpg", "", "Main street of Park City, Utah, showing several shops.", 0.75, [320,480,640,800,960,1100], 1100, "" %}
-{% respimg "", "", "grandmeetup2015-7.jpg", "", "Main street of Park City, Utah, viewed from bridge.", 0.75, [320,480,640,800,960,1100], 1100, "" %}
-{% respimg "", "", "grandmeetup2015-8.jpg", "", "Main street of Park City, Utah.", 0.75, [320,480,640,800,960,1100], 1100, "" %}
-{% respimg "", "", "grandmeetup2015-9.jpg", "", "Banksy original graffiti on side of building in Park City, Utah.", 0.75, [320,480,640,800,960,1100], 1100, "" %}
+{% respimg "", "", "grandmeetup2015-5.jpg", "", "A view of mountains from the Canyons Resort in Park City, Utah", 0.75, [320,480,640,800,960,1100], 1100, "", "" %}
+{% respimg "", "", "grandmeetup2015-6.jpg", "", "Main street of Park City, Utah, showing several shops.", 0.75, [320,480,640,800,960,1100], 1100, "", "lazy" %}
+{% respimg "", "", "grandmeetup2015-7.jpg", "", "Main street of Park City, Utah, viewed from bridge.", 0.75, [320,480,640,800,960,1100], 1100, "", "lazy" %}
+{% respimg "", "", "grandmeetup2015-8.jpg", "", "Main street of Park City, Utah.", 0.75, [320,480,640,800,960,1100], 1100, "", "lazy" %}
+{% respimg "", "", "grandmeetup2015-9.jpg", "", "Banksy original graffiti on side of building in Park City, Utah.", 0.75, [320,480,640,800,960,1100], 1100, "", "lazy" %}
 
 A few photos from a walk around Park City, Utah.

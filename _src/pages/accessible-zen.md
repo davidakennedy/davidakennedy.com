@@ -6,7 +6,7 @@ permalink: /projects/accessible-zen/
 ---
 
 <a class="image-link" href="http://accessiblezen.davidakennedy.com">
-  {% respimg "", "", "accessible-zen-screenshot.png", "Accessible Zen demo.", "", 0.75, [320,480,640,800,960,1100], 800, "" %}
+  {% respimg "", "", "accessible-zen-screenshot.png", "Accessible Zen demo.", "", 0.75, [320,480,640,800,960,1100], 800, "", "" %}
 </a>
 
 ## Intro

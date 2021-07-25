@@ -3,7 +3,7 @@
   <article class="post h-entry">
     <div class="post-header stack">
       {%- if featuredimg and image -%}
-        {% respimg "", "", image, imgalt, "", 0.75, [320,480,640,800,960,1100], 1100, "" %}
+        {% respimg "", "", image, imgalt, "", 0.75, [320,480,640,800,960,1100], 1100, "", "" %}
       {%- endif -%}
       {% set posttitle = title or renderData.title %}
       <h1 class="title p-name">{{ posttitle | markdownify }}</h1>

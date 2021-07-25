@@ -15,16 +15,16 @@ A few weeks ago, Automattic held its annual Grand Meetup. That's where the compa
 
 Of course, we also took a serious one.
 
-{% img "", "", "grandmeetup2017-3.jpg", "Group photo of the Automatic Theme Team.", "", 800, 600 %}
+{% img "", "", "grandmeetup2017-3.jpg", "Group photo of the Automatic Theme Team.", "", 800, 600, "lazy" %}
 
 Between all the work, I had a bit of fun too. A few nice hikes, plus a ride up a mountain in a gondola. We saw a bear! Although, I didn't snap a great picture of it. One of these days I'm just going to move to the mountains because I love it so much. 🙂
 
-{% respimg "", "", "grandmeetup2017-4.jpg", "", "The fog sets in on the mountain, on one of the peaks.", 0.75, [320,480,640,800,960,1100], 1100, "" %}
-{% respimg "", "", "grandmeetup2017-7.jpg", "", "A few themers on a podium.", 0.75, [320,480,640,800,960,1100], 1100, "" %}
-{% respimg "", "", "grandmeetup2017-8.jpg", "", "An overlook near Brandywine Falls.", 0.75, [320,480,640,800,960,1100], 1100, "" %}
-{% respimg "", "", "grandmeetup2017-9.jpg", "", "Daisy Lake.", 0.75, [320,480,640,800,960,1100], 1100, "" %}
-{% respimg "", "", "grandmeetup2017-10.jpg", "", "Brandywine Falls.", 0.75, [320,480,640,800,960,1100], 1100, "" %}
-{% respimg "", "", "grandmeetup2017-11.jpg", "", "Daisy Lake.", 0.75, [320,480,640,800,960,1100], 1100, "" %}
-{% respimg "", "", "grandmeetup2017-12.jpg", "", "Brandywine Falls.", 0.75, [320,480,640,800,960,1100], 1100, "" %}
+{% respimg "", "", "grandmeetup2017-4.jpg", "", "The fog sets in on the mountain, on one of the peaks.", 0.75, [320,480,640,800,960,1100], 1100, "", "lazy" %}
+{% respimg "", "", "grandmeetup2017-7.jpg", "", "A few themers on a podium.", 0.75, [320,480,640,800,960,1100], 1100, "", "lazy" %}
+{% respimg "", "", "grandmeetup2017-8.jpg", "", "An overlook near Brandywine Falls.", 0.75, [320,480,640,800,960,1100], 1100, "", "lazy" %}
+{% respimg "", "", "grandmeetup2017-9.jpg", "", "Daisy Lake.", 0.75, [320,480,640,800,960,1100], 1100, "", "lazy" %}
+{% respimg "", "", "grandmeetup2017-10.jpg", "", "Brandywine Falls.", 0.75, [320,480,640,800,960,1100], 1100, "", "lazy" %}
+{% respimg "", "", "grandmeetup2017-11.jpg", "", "Daisy Lake.", 0.75, [320,480,640,800,960,1100], 1100, "", "lazy" %}
+{% respimg "", "", "grandmeetup2017-12.jpg", "", "Brandywine Falls.", 0.75, [320,480,640,800,960,1100], 1100, "", "lazy" %}
 
 Here's to another great year at Automattic, surrounded by awesome colleagues with a worthwhile mission!

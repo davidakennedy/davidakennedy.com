@@ -14,6 +14,6 @@ Today, we started a few new traditions for the holidays as a family.
 
 Hopefully, we can keep these traditions going no matter where we are on Christmas day. We may have to start the cookie baking earlier for future visits from Santa for the kiddo.
 
-{% respimg "", "", "holidays2014-1.jpg", "", "Peanut butter cookies.", 0.75, [320,480,640,800,960,1100], 1100, "" %}
-{% respimg "", "", "holidays2014-2.jpg", "", "Chocolate chocolate chip cookies.", 0.75, [320,480,640,800,960,1100], 1100, "" %}
-{% respimg "", "", "holidays2014-3.jpg", "", "Pumpkin pie.", 0.75, [320,480,640,800,960,1100], 1100, "" %}
+{% respimg "", "", "holidays2014-1.jpg", "", "Peanut butter cookies.", 0.75, [320,480,640,800,960,1100], 1100, "", "lazy" %}
+{% respimg "", "", "holidays2014-2.jpg", "", "Chocolate chocolate chip cookies.", 0.75, [320,480,640,800,960,1100], 1100, "", "lazy" %}
+{% respimg "", "", "holidays2014-3.jpg", "", "Pumpkin pie.", 0.75, [320,480,640,800,960,1100], 1100, "", "lazy" %}
