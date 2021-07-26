@@ -108,21 +108,21 @@ body {
 }
 
 /* Decoractive stuff */
-body::before {
+html::before {
   background-image: radial-gradient(currentColor 0.5px, transparent 0.5px);
   background-size: calc(10 * 0.5px) calc(10 * 0.5px);
   content: "";
   display: block;
-  height: 1.5em;
+  height: 1.875em;
   width: 100%;
 }
 
-body::after {
+html::after {
   background-image: radial-gradient(currentColor 0.5px, transparent 0.5px);
   background-size: calc(10 * 0.5px) calc(10 * 0.5px);
   content: "";
   display: block;
-  height: 1.5em;
+  height: 1.875em;
   width: 100%;
 }
 
