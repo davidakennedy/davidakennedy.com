@@ -27,5 +27,20 @@
       </li>
     </ul>
   </nav>
-  <small>&copy; {% copyrightDates 2009 %}, {{ metadata.author.name }}</a> &bull; <a href="mailto:me@davidakennedy.com">Contact</a> &bull; <a href="{{ '/accessibility/' | url }}">Accessibility</a> &bull; <a href="{{ '/colophon/' | url }}">Colophon</a>.</small>
+  <small>
+    <nav class="site-info-navigation" aria-label="Site Info">
+      <ul class="nav">
+        <li class="nav-item">
+          <a href="mailto:me@davidakennedy.com">Contact</a> 
+        </li>
+        <li class="nav-item">
+          <a href="{{ '/accessibility/' | url }}">Accessibility</a>
+        </li>
+        <li class="nav-item">
+          <a href="{{ '/colophon/' | url }}">Colophon</a>
+        </li>
+      </ul>
+    </nav>
+  </small>
+  <small>&copy; {% copyrightDates 2009 %}, {{ metadata.author.name }}</a>.</small>
 </footer>

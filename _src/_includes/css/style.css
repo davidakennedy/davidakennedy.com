@@ -770,13 +770,19 @@ label + .inline-field-control {
   text-decoration: underline;
 }
 
-/* Social navigation */
-.social-navigation .nav {
+/* Social / Site Info navigation */
+.social-navigation .nav,
+.site-info-navigation .nav {
   justify-content: center;
 }
 
 .social-navigation a {
   text-decoration: none;
+  padding: 0.444444444445em;
+  padding: var(--s-2);
+}
+
+.site-info-navigation a {
   padding: 0.444444444445em;
   padding: var(--s-2);
 }
