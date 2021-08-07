@@ -39,7 +39,6 @@ module.exports = function (eleventyConfig) {
   });
 
   // Process content in markdown-it.
-  const markdownIt = require("markdown-it");
   const markdownItRenderer = new markdownIt({
     html: true,
     breaks: true,
