@@ -9,5 +9,5 @@ You can also see what I read in past years, at least when I began keeping track 
 
 - [2017](/reading/2017/)
 - [2018](/reading/2018/)
-- 2019
-- 2020
+- [2019](/reading/2019/)
+- [2020](/reading/2020/)
