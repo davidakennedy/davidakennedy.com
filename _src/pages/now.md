@@ -7,12 +7,11 @@ A page detailing what I'm focused on at the moment. I'll update it when things c
 
 I'm currently:
 
-  * working on Healthcare.gov with Ad Hoc, focusing on accessibility.
-  * Thinking about ways to evolve my [popular newsletter](https://a11yweekly.com).
-  * still teaching a lot of first grade because of a pandemic.
-  * trying to train my dog, Sunny, not to go bananas when he sees other dogs.
-  * debating whether I should try learning guitar again.
+- working on Healthcare.gov with Ad Hoc, focusing on accessibility and helping designers be their best.
+- doing a lot of [reading this year](/reading/).
+- dabbling with meditation.
+- trying to make enough time for guitar and writing.
 
 Inspired by [Derek Sivers](https://sivers.org/nowff).
 
-<mark>Last updated: February 2, 2021</mark>
+<mark>Last updated: August 7, 2021</mark>
