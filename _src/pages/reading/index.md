@@ -40,3 +40,4 @@ The list:
 24. _Make Your Bed: Little Things That Can Change Your Life...And Maybe the World_ by William H. McRaven
 25. _Meditation for Fidgety Skeptics: A 10% Happier How-To Book_ by Dan Harris and Jeff Warren with Carlye Adler
 26. _An Ugly Truth: Inside Facebook's Battle for Domination_ by Sheera Frenkel and Cecilia Kang
+27. _First Principles: What America's Founders Learned from the Greeks and Romans and How That Shaped Our Country_ by Thomas E. Ricks
