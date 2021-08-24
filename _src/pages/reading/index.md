@@ -41,3 +41,4 @@ The list:
 25. _Meditation for Fidgety Skeptics: A 10% Happier How-To Book_ by Dan Harris and Jeff Warren with Carlye Adler
 26. _An Ugly Truth: Inside Facebook's Battle for Domination_ by Sheera Frenkel and Cecilia Kang
 27. _First Principles: What America's Founders Learned from the Greeks and Romans and How That Shaped Our Country_ by Thomas E. Ricks
+28. _Four Thousand Weeks: Time Management for Mortals_ by Oliver Burkeman
