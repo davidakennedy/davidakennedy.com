@@ -235,7 +235,7 @@ html::after {
 
 .wrapper {
   margin: 0 auto;
-  max-width: 50rem;
+  max-width: 75rem;
   padding: 2.25em 0.444444444445em;
   padding: var(--s1) var(--s-2);
 }
