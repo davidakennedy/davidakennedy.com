@@ -803,13 +803,16 @@ label + .inline-field-control {
   flex-direction: row;
   flex-wrap: wrap;
   justify-content: space-between;
+  margin-bottom: -0.5em;
 }
 
 .posts-pagination .older-posts {
+  margin-bottom: 0.5em;
   margin-right: auto;
 }
 
 .posts-pagination .newer-posts {
+  margin-bottom: 0.5em;
   margin-left: auto;
 }
 
