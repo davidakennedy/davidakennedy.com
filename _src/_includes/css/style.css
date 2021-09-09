@@ -236,8 +236,8 @@ html::after {
 .wrapper {
   margin: 0 auto;
   max-width: 75rem;
-  padding: 2.25em 0.444444444445em;
-  padding: var(--s1) var(--s-2);
+  padding: 2.25em 0.66665em;
+  padding: var(--s2) var(--s-1);
 }
 
 /* Elements */
@@ -346,7 +346,7 @@ pre {
   line-height: var(--line-height-small);
   max-width: 100%;
   overflow: auto;
-  padding: 1em 0.444444444445em;
+  padding: 1.5em 0.444444444445em;
   padding: var(--s1) var(--s-2);
   white-space: pre-wrap;
 }
@@ -952,11 +952,6 @@ label + .inline-field-control {
 }
 
 /* Containers */
-.site-content {
-  max-width: 90ch;
-  max-width: var(--measure-wide);
-}
-
 .site-content[tabindex="-1"]:focus {
   outline: 0;
 }
