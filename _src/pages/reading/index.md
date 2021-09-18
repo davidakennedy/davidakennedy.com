@@ -42,3 +42,5 @@ The list:
 26. _An Ugly Truth: Inside Facebook's Battle for Domination_ by Sheera Frenkel and Cecilia Kang
 27. _First Principles: What America's Founders Learned from the Greeks and Romans and How That Shaped Our Country_ by Thomas E. Ricks
 28. _Four Thousand Weeks: Time Management for Mortals_ by Oliver Burkeman
+29. _How to Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking – for Students, Academics and Nonfiction Book Writers_ by Sönke Ahrens
+30. _The Pleasures of Reading in an Age of Distraction_ by Alan Jacobs
