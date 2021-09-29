@@ -44,3 +44,5 @@ The list:
 28. _Four Thousand Weeks: Time Management for Mortals_ by Oliver Burkeman
 29. _How to Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking – for Students, Academics and Nonfiction Book Writers_ by Sönke Ahrens
 30. _The Pleasures of Reading in an Age of Distraction_ by Alan Jacobs
+31. _Creative Selection: Inside Apple's Design Process During the Golden Age of Steve Jobs_ by Ken Kocienda
+32. &hearts; _This Is How You Lose the Time War_ by Amal El-Mohtar and Max Gladstone
