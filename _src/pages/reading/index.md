@@ -46,3 +46,7 @@ The list:
 30. _The Pleasures of Reading in an Age of Distraction_ by Alan Jacobs
 31. _Creative Selection: Inside Apple's Design Process During the Golden Age of Steve Jobs_ by Ken Kocienda
 32. &hearts; _This Is How You Lose the Time War_ by Amal El-Mohtar and Max Gladstone
+33. _The Hidden Life of Trees: What They Feel, How They Communicate – Discoveries from a Secret World_ by Peter Wohlleben
+34. _The Manual: A Philosopher's Guide to Life_ by Epictetus
+35. _Riot Baby_ by Tochi Onyebuchi
+36. _Building Successful Communities of Practice: Discover How Connecting People Makes Better Organisations_ by Emily Webber
