@@ -787,6 +787,7 @@ label + .inline-field-control {
 }
 
 .site-info-navigation a {
+  font-size: 1.098rem;
   padding: 0.444444444445em;
   padding: var(--s-2);
 }
