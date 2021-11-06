@@ -13,13 +13,13 @@
     {% include "partials/footer.njk" %}
 
     <!-- Current page: {{ page.url | url }} -->
+    {% set js %}
+      {% include "js/main.js" %}
+    {% endset %}
+    {% if build.environment == "prod" %}
+    <script>{{ js | jsmin | safe }}</script>
+    {% else %}
+    <script>{{ js | safe }}</script>
+    {% endif %}
   </body>
-  {% set js %}
-    {% include "js/main.js" %}
-  {% endset %}
-  {% if build.environment == "prod" %}
-  <script>{{ js | jsmin | safe }}</script>
-  {% else %}
-  <script>{{ js | safe }}</script>
-  {% endif %}
 </html>
