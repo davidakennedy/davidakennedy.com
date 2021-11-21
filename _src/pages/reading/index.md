@@ -50,3 +50,6 @@ The list:
 34. _The Manual: A Philosopher's Guide to Life_ by Epictetus
 35. _Riot Baby_ by Tochi Onyebuchi
 36. _Building Successful Communities of Practice: Discover How Connecting People Makes Better Organisations_ by Emily Webber
+37. _Shop Class as Soulcraft: An Inquiry Into the Value of Work_ by Matthew B. Crawford
+38. _Where the Deer and the Antelope Play: The Pastoral Observations of One Ignorant American Who Loves to Walk Outside_ by Nick Offerman
+39. _Little Bets: How Breakthrough Ideas Emerge from Small Discoveries_ by Peter Sims
