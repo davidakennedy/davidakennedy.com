@@ -1,4 +1,4 @@
-<ol class="post-list stack">
+<ol reversed class="post-list stack">
 {% for post in postlist %}
   <li class="post h-entry stack{% if post.url == url %} postlist-item-active{% endif %}">
     <a href="{{ post.url | url }}" class="post-link">
