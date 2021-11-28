@@ -1,0 +1,5 @@
+{
+  "templateClass": "page-template",
+  "permalink": "haikus/{{ page.fileSlug }}/",
+  "layout": "layouts/page.njk"
+}

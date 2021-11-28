@@ -150,6 +150,10 @@ module.exports = function (eleventyConfig) {
     });
   });
 
+  eleventyConfig.addCollection("haikus", function (collectionApi) {
+    return collectionApi.getFilteredByGlob("_src/haikus/*.md");
+  });
+
   // Pass these directories through.
   eleventyConfig.addPassthroughCopy("_src/assets");
   eleventyConfig.addPassthroughCopy("_src/favicon.ico");

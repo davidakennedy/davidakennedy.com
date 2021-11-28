@@ -24,5 +24,6 @@ You can learn more about my professional experience by visiting my [Linkedin pro
 - [Speaking](/speaking/)
 - [Selected Writing](/tag/selected-writing/)
 - [Reading](/reading/)
+- [Haikus](/haikus/)
 
 <small>[_Photo courtesy of Fluxx Studios_](https://www.flickr.com/gp/fluxxstudios/8a31AC).</small>
