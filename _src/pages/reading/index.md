@@ -53,6 +53,6 @@ The list:
 37. _Shop Class as Soulcraft: An Inquiry Into the Value of Work_ by Matthew B. Crawford
 38. _Where the Deer and the Antelope Play: The Pastoral Observations of One Ignorant American Who Loves to Walk Outside_ by Nick Offerman
 39. _Little Bets: How Breakthrough Ideas Emerge from Small Discoveries_ by Peter Sims
-40. _Exhalation_ by Ted Chiang
+40. &hearts; _Exhalation_ by Ted Chiang
 41. _The Appalachian Trail: A Biography_ by Philip D'Anieri
 42. _Bored and Brilliant: How Spacing Out Can Unlock Your Most Productive & Creative Self_ by Manoush Zomorodi
