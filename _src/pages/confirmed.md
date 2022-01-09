@@ -1,6 +1,7 @@
 ---
 title: All Confirmed
 description: You're the best for signing up.
+eleventyExcludeFromCollections: true
 permalink: confirmed/index.html
 ---
 
