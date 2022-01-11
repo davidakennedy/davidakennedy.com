@@ -47,7 +47,7 @@ select {
   --error: #ffbbbb;
   --success: #c7f0bd;
   /* Spacing */
-  --ratio: 1.5;
+  --ratio: 1.45;
   --s-5: calc(var(--s-4) / var(--ratio));
   --s-4: calc(var(--s-3) / var(--ratio));
   --s-3: calc(var(--s-2) / var(--ratio));
@@ -85,6 +85,61 @@ select {
   font-family: var(--font-serif);
   font-weight: 400;
   height: 100%;
-  line-height: 1.5;
+  line-height: 1.45;
   line-height: var(--line-height);
+}
+
+/* Global */
+body {
+  font-size: 1.25rem;
+  min-height: 100%;
+}
+
+/* Utilities */
+/* Accessibility utilities */
+.sr-only {
+  border: 0;
+  clip: rect(0 0 0 0);
+  height: 1px;
+  margin: -1px;
+  overflow: hidden;
+  padding: 0;
+  position: absolute;
+  white-space: nowrap;
+  width: 1px;
+}
+
+.sr-only.focusable:active,
+.sr-only.focusable:focus {
+  clip: auto;
+  height: auto;
+  margin: 0;
+  overflow: visible;
+  position: static;
+  white-space: inherit;
+  width: auto;
+}
+
+/* Make something stand out TODO */
+.callout {
+  border: 2px solid #767676;
+  border: 2px solid var(--lighttext);
+  border-radius: 0.125em;
+  border-radius: var(--border-thick);
+  padding: 0.444444444445em;
+  padding: var(--s-2);
+}
+
+/* Big 'ol text TODO */
+.intro {
+  font-size: 1.334em;
+}
+
+/* Stack utility
+ every-layout.dev */
+.stack > * + *,
+.stack + .stack,
+.stack > .stack {
+  margin-top: 1.45em;
+  margin-top: var(--stack-space, 1.45em);
 }
