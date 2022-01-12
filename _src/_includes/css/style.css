@@ -1,20 +1,38 @@
 /* Fonts */
-@font-face {
-  font-display: swap;
-  font-family: "Source Serif VF";
-  font-weight: 200 900;
-  font-style: normal;
-  font-stretch: normal;
-  src: url("/assets/fonts/SourceSerif4Variable-Roman.ttf.woff2") format("woff2");
-}
+@supports (font-variation-settings: normal) {
+  @font-face {
+    font-display: swap;
+    font-family: "Source Serif VF";
+    font-weight: 200 900;
+    font-style: normal;
+    font-stretch: normal;
+    src: url("/assets/fonts/SourceSerif4Variable-Roman.ttf.woff2")
+        format("woff2 supports variations"),
+      url("/assets/fonts/SourceSerif4Variable-Roman.ttf.woff2")
+        format("woff2-variations");
+  }
 
-@font-face {
-  font-family: "Source Serif VF";
-  font-weight: 200 900;
-  font-style: italic;
-  font-stretch: normal;
-  src: url("/assets/fonts/SourceSerif4Variable-Italic.ttf.woff2")
-    format("woff2");
+  @font-face {
+    font-family: "Source Serif VF";
+    font-weight: 200 900;
+    font-style: italic;
+    font-stretch: normal;
+    src: url("/assets/fonts/SourceSerif4Variable-Italic.ttf.woff2")
+        format("woff2 supports variations"),
+      url("/assets/fonts/SourceSerif4Variable-Italic.ttf.woff2")
+        format("woff2-variations");
+  }
+
+  @font-face {
+    font-family: "Source Code VF";
+    font-weight: 200 900;
+    font-style: normal;
+    font-stretch: normal;
+    src: url("/assets/fonts/SourceCodeVariable-Roman.ttf.woff2")
+        format("woff2 supports variations"),
+      url("/assets/fonts/SourceCodeVariable-Roman.ttf.woff2")
+        format("woff2-variations");
+  }
 }
 
 /* Reset-ish */
@@ -65,11 +83,11 @@ select {
   --font-serif: "Source Serif VF", Constantia, "Lucida Bright", Lucidabright,
     "Lucida Serif", Lucida, "DejaVu Serif", "Bitstream Vera Serif",
     "Liberation Serif", Georgia, serif;
-  --font-monospace: Consolas, "Andale Mono WT", "Andale Mono", "Lucida Console",
-    "Lucida Sans Typewriter", "DejaVu Sans Mono", "Bitstream Vera Sans Mono",
-    "Liberation Mono", "Nimbus Mono L", Monaco, "Courier New", Courier,
-    monospace;
-  --line-height: 1.5;
+  --font-monospace: "Source Code VF", Consolas, "Andale Mono WT", "Andale Mono",
+    "Lucida Console", "Lucida Sans Typewriter", "DejaVu Sans Mono",
+    "Bitstream Vera Sans Mono", "Liberation Mono", "Nimbus Mono L", Monaco,
+    "Courier New", Courier, monospace;
+  --line-height: 1.45;
   --line-height-small: 1.2;
   --stack-space: var(--s1);
   --measure-narrow: 30ch;
