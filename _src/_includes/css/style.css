@@ -150,7 +150,7 @@ body {
 
 /* Big 'ol text TODO */
 .intro {
-  font-size: 1.334em;
+  font-size: 1.28125rem;
 }
 
 /* Stack utility
@@ -371,6 +371,66 @@ img {
 
 img.intrinsic {
   width: auto;
+}
+
+/* Links */
+a {
+  color: #2364aa;
+  color: var(--primary);
+  position: relative;
+  text-decoration: underline;
+  text-decoration-skip-ink: auto;
+}
+
+a:hover {
+  outline: 0;
+  text-decoration: none;
+}
+
+a:focus {
+  background-color: #2364aa;
+  background-color: var(--primary);
+  color: #fefefe;
+  color: var(--background);
+  outline: 0.125em dashed currentColor;
+  outline-offset: 0.125em;
+  text-decoration: none;
+}
+
+a:active {
+  outline: 0;
+  top: 2px;
+}
+
+h1 a,
+.h1,
+h2 a,
+.h2,
+h3 a,
+.h3,
+h4 a,
+.h4 {
+  color: #36382e;
+  color: var(--text);
+}
+
+.skip-link {
+  font-size: 1.125rem;
+  font-weight: 700;
+  left: 1.45em;
+  left: var(--s1);
+  max-width: none;
+  padding: 0.5350775em;
+  padding: var(--s-2);
+  position: absolute;
+}
+
+.skip-link.focusable:focus {
+  position: absolute;
+}
+
+.image-link {
+  display: block;
 }
 
 /* Syntax highlighting */
