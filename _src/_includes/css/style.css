@@ -375,14 +375,16 @@ img.intrinsic {
 
 /* Links */
 a {
-  color: #2364aa;
-  color: var(--primary);
+  color: #36382e;
+  color: var(--text);
   position: relative;
   text-decoration: underline;
   text-decoration-skip-ink: auto;
 }
 
 a:hover {
+  color: #2364aa;
+  color: var(--primary);
   outline: 0;
   text-decoration: none;
 }
