@@ -15,4 +15,4 @@ I'm currently:
 
 Inspired by [Derek Sivers](https://sivers.org/nowff).
 
-<mark>Last updated: December 29, 2021</mark>
+_Last updated: December 29, 2021_

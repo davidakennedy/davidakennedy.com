@@ -56,7 +56,7 @@ select {
 /* Variables */
 :root {
   /* Colors */
-  --background: #fbfbfb;
+  --background: #fefefe;
   --lighttext: #816e6e;
   --primary: #2364aa;
   --secondary: #a74482;
@@ -93,7 +93,7 @@ select {
   --measure-narrow: 30ch;
   --measure: 60ch;
   --measure-wide: 90ch;
-  background-color: #fbfbfb;
+  background-color: #fefefe;
   background-color: var(--background);
   color: #36382e;
   color: var(--text);
@@ -160,4 +160,398 @@ body {
 .stack > .stack {
   margin-top: 1.45em;
   margin-top: var(--stack-space, 1.45em);
+}
+
+/* Elements */
+h1,
+.h1,
+h2,
+.h2,
+h3,
+.h3,
+h4,
+.h4 {
+  color: #36382e;
+  font-weight: 700;
+  line-height: 1.2;
+  line-height: var(--line-height-small);
+}
+
+h1,
+.h1 {
+  /* 24px */
+  font-size: 1.5rem;
+}
+
+h2,
+.h2 {
+  /* 22px */
+  font-size: 1.375rem;
+}
+
+h3,
+.h3 {
+  /* 21px */
+  font-size: 1.3125rem;
+}
+
+h4,
+.h4 {
+  /* 20.5px */
+  font-size: 1.28125rem;
+}
+
+dfn,
+em,
+i,
+figcaption {
+  font-style: italic;
+}
+
+blockquote {
+  border-left: 0.25em solid #816e6e;
+  border-left: 0.25em solid var(--lighttext);
+  font-style: italic;
+  /* TODO */
+  padding: 0 0.444444444445em;
+  padding: 0 var(--s-2);
+}
+
+blockquote cite {
+  display: block;
+}
+
+address {
+  font-style: italic;
+  margin-top: 0;
+}
+
+b,
+strong,
+cite {
+  font-weight: 700;
+}
+
+pre {
+  border: 0.0625em dashed currentColor;
+  font-family: "Source Code VF", Consolas, "Andale Mono WT", "Andale Mono",
+    "Lucida Console", "Lucida Sans Typewriter", "DejaVu Sans Mono",
+    "Bitstream Vera Sans Mono", "Liberation Mono", "Nimbus Mono L", Monaco,
+    "Courier New", Courier, monospace;
+  font-family: var(--font-monospace);
+  font-size: 1.1875rem;
+  line-height: 1.2;
+  line-height: var(--line-height-small);
+  max-width: 100%;
+  overflow: auto;
+  white-space: pre-wrap;
+}
+
+code,
+kbd,
+var {
+  font-family: "Source Code VF", Consolas, "Andale Mono WT", "Andale Mono",
+    "Lucida Console", "Lucida Sans Typewriter", "DejaVu Sans Mono",
+    "Bitstream Vera Sans Mono", "Liberation Mono", "Nimbus Mono L", Monaco,
+    "Courier New", Courier, monospace;
+  font-family: var(--font-monospace);
+  font-size: 1.1875rem;
+}
+
+abbr {
+  border-bottom: 1px dotted #816e6e;
+  border-bottom: 1px dotted var(--lighttext);
+  cursor: help;
+}
+
+blockquote,
+q {
+  quotes: "" "";
+}
+
+blockquote:before,
+blockquote:after,
+q:before,
+q:after {
+  content: "";
+}
+
+small {
+  font-size: 1rem;
+}
+
+table,
+th,
+td {
+  border: 1px solid #816e6e;
+  border: 1px solid var(--lighttext);
+}
+
+table {
+  border-collapse: separate;
+  border-spacing: 0;
+  border-width: 1px 0 0 1px;
+  padding: 0 !important;
+  table-layout: fixed;
+  /* Prevents HTML tables from becoming too wide */
+  width: 100%;
+}
+
+caption,
+th,
+td {
+  font-weight: normal;
+  text-align: left;
+}
+
+th {
+  font-weight: 700;
+}
+
+th,
+td {
+  border-width: 0 1px 1px 0;
+  padding: 0.25em;
+}
+
+hr {
+  background-color: #816e6e;
+  background-color: var(--lighttext);
+  height: 0.0625em;
+}
+
+ul,
+ol {
+  margin-left: 1.45em;
+  margin-left: var(--s1);
+  margin-top: 0;
+  padding: 0;
+}
+
+ul {
+  list-style: disc;
+}
+
+ol {
+  list-style: decimal;
+}
+
+li > ul,
+li > ol {
+  margin-bottom: 0;
+  margin-left: 1.45em;
+  margin-left: var(--s1);
+}
+
+dt {
+  border: 1px solid #816e6e;
+  border-bottom: 1px solid var(--lighttext);
+  font-weight: 700;
+}
+
+dd {
+  margin-left: 1.45em;
+  margin-left: var(--s1);
+  margin-top: 0;
+}
+
+figcaption {
+  font-size: 1.125rem;
+  margin-top: 0.5350775em;
+  margin-top: var(--s-2);
+}
+
+img {
+  box-shadow: 0 0 10px #767676;
+  box-shadow: 0 0 10px var(--lighttext);
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+
+img.intrinsic {
+  width: auto;
+}
+
+/* Syntax highlighting */
+/**
+ * a11y-light theme for JavaScript, CSS, and HTML
+ * Based on the okaidia theme: https://github.com/PrismJS/prism/blob/gh-pages/themes/prism-okaidia.css
+ * @author ericwbailey
+ */
+
+/*
+ Theme
+ */
+code[class*="language-"],
+pre[class*="language-"] {
+  color: #545454;
+  background: none;
+  text-align: left;
+  white-space: pre;
+  word-spacing: normal;
+  word-break: normal;
+  word-wrap: normal;
+  line-height: 1.5;
+
+  -moz-tab-size: 4;
+  -o-tab-size: 4;
+  tab-size: 4;
+
+  -webkit-hyphens: none;
+  -moz-hyphens: none;
+  -ms-hyphens: none;
+  hyphens: none;
+}
+
+/* Code blocks */
+pre[class*="language-"] {
+  padding: 1em;
+  margin: 0.5em 0;
+  overflow: auto;
+  border-radius: 0.3em;
+}
+
+:not(pre) > code[class*="language-"],
+pre[class*="language-"] {
+  background: #fefefe;
+}
+
+/* Inline code */
+:not(pre) > code[class*="language-"] {
+  padding: 0.1em;
+  border-radius: 0.3em;
+  white-space: normal;
+}
+
+.token.comment,
+.token.prolog,
+.token.doctype,
+.token.cdata {
+  color: #696969;
+}
+
+.token.punctuation {
+  color: #545454;
+}
+
+.token.property,
+.token.tag,
+.token.constant,
+.token.symbol,
+.token.deleted {
+  color: #007299;
+}
+
+.token.boolean,
+.token.number {
+  color: #008000;
+}
+
+.token.selector,
+.token.attr-name,
+.token.string,
+.token.char,
+.token.builtin,
+.token.inserted {
+  color: #aa5d00;
+}
+
+.token.operator,
+.token.entity,
+.token.url,
+.language-css .token.string,
+.style .token.string,
+.token.variable {
+  color: #008000;
+}
+
+.token.atrule,
+.token.attr-value,
+.token.function {
+  color: #aa5d00;
+}
+
+.token.keyword {
+  color: #d91e18;
+}
+
+.token.regex,
+.token.important {
+  color: #d91e18;
+}
+
+.token.important,
+.token.bold {
+  font-weight: bold;
+}
+.token.italic {
+  font-style: italic;
+}
+
+.token.entity {
+  cursor: help;
+}
+
+/* Line highlight */
+.line-highlight {
+  background: rgba(183, 134, 11, 0.075);
+  border-top: 1px solid #b8860b;
+  border-bottom: 1px solid #b8860b;
+}
+
+/* Line numbers */
+.line-numbers .line-numbers-rows {
+  border-right: 1px solid #aa5d00;
+}
+
+.line-numbers-rows > span:before {
+  color: #696969;
+}
+
+/*
+ High contrast mode support
+*/
+@media screen and (-ms-high-contrast: active) {
+  code[class*="language-"],
+  pre[class*="language-"] {
+    color: windowText;
+    background: window;
+  }
+
+  :not(pre) > code[class*="language-"],
+  pre[class*="language-"] {
+    background: window;
+  }
+
+  .token.important {
+    background: highlight;
+    color: window;
+    font-weight: normal;
+  }
+
+  .token.atrule,
+  .token.attr-value,
+  .token.function,
+  .token.keyword,
+  .token.operator,
+  .token.selector {
+    font-weight: bold;
+  }
+
+  .token.attr-value,
+  .token.comment,
+  .token.doctype,
+  .token.function,
+  .token.keyword,
+  .token.operator,
+  .token.property,
+  .token.string {
+    color: highlight;
+  }
+
+  .token.attr-value,
+  .token.url {
+    font-weight: normal;
+  }
 }
