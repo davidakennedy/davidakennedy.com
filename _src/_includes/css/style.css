@@ -62,8 +62,8 @@ select {
   --secondary: #a74482;
   --text: #36382e;
   /* TODO */
-  --error: #ffbbbb;
-  --success: #c7f0bd;
+  --error: #ff4136;
+  --success: #27aa36;
   /* Spacing */
   --ratio: 1.45;
   --s-5: calc(var(--s-4) / var(--ratio));
@@ -528,6 +528,57 @@ input[type="submit"]:focus {
   outline-color: #2364aa;
   outline-color: var(--primary);
   outline-offset: 0.125em;
+}
+
+.signup-alert {
+  margin-top: 0.370370625em;
+  --stack-space: var(--s-3);
+}
+
+.alert {
+  align-items: flex-start;
+  display: flex;
+  animation: slide-up 250ms ease;
+}
+
+.alert[data-state="error"] {
+  border-color: #ff4136;
+  border-color: var(--error);
+}
+
+.alert[data-state="success"] {
+  border-color: #27aa36;
+  border-color: var(--success);
+}
+
+.alert svg {
+  align-self: center;
+  margin-right: 0.59453em;
+  margin-right: var(--s-2);
+}
+
+label + .inline-field-control {
+  margin-top: 0.370370625em;
+  --stack-space: var(--s-3);
+}
+
+.email-signup button > svg {
+  vertical-align: middle;
+}
+
+.email-signup input {
+  margin: 0 0 0.25em 0;
+}
+
+@keyframes slide-up {
+  0% {
+    opacity: 0;
+    transform: translateY(0.4rem);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+  }
 }
 
 /* Syntax highlighting */
