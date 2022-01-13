@@ -581,6 +581,38 @@ label + .inline-field-control {
   }
 }
 
+/* Blocks */
+/* Horizontal navigation */
+.nav {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  list-style: none;
+  margin-left: 0;
+}
+
+.nav a {
+  display: inline-block;
+}
+
+/* Site naigation */
+.site-navigation .nav {
+  font-size: 1.1875rem;
+  justify-content: flex-end;
+  margin-left: auto;
+}
+
+.site-navigation a {
+  font-weight: 600;
+  padding: 0.444444444445em;
+  padding: var(--s-2);
+  text-decoration: none;
+}
+
+.site-navigation a:hover {
+  text-decoration: underline;
+}
+
 /* Syntax highlighting */
 /**
  * a11y-light theme for JavaScript, CSS, and HTML
