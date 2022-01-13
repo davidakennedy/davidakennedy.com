@@ -620,13 +620,45 @@ label + .inline-field-control {
 }
 
 .site-info-navigation a {
-  font-size: 1.098rem;
+  font-size: 1.1875rem;
   padding: 0.59453em;
   padding: var(--s-2);
 }
 
 .social-navigation svg {
   vertical-align: text-bottom;
+}
+
+/* Post Navigation */
+.posts-pagination {
+  margin-top: 2.628125em;
+  margin-top: var(--s2);
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin-bottom: -0.5em;
+}
+
+.posts-pagination .older-posts {
+  margin-bottom: 0.5em;
+  margin-right: auto;
+}
+
+.posts-pagination .newer-posts {
+  margin-bottom: 0.5em;
+  margin-left: auto;
+}
+
+.posts-pagination a {
+  display: inline-block;
+  font-size: 1.1875rem;
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.posts-pagination svg {
+  vertical-align: middle;
 }
 
 /* Syntax highlighting */
