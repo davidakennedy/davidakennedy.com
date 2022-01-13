@@ -394,7 +394,9 @@ a:focus {
   background-color: var(--primary);
   color: #fefefe;
   color: var(--background);
-  outline: 0.125em dashed currentColor;
+  outline: 0.125em dashed;
+  outline-color: #2364aa;
+  outline-color: var(--primary);
   outline-offset: 0.125em;
   text-decoration: none;
 }
