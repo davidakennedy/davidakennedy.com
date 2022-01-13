@@ -661,6 +661,35 @@ label + .inline-field-control {
   vertical-align: middle;
 }
 
+/* Posts */
+.post-list {
+  list-style: none;
+  margin-left: 0;
+}
+
+.post-list * + * {
+  margin-top: 3.81078125em;
+  --stack-space: var(--s3);
+}
+
+.post-list .post-date {
+  margin-top: 0.520555625em;
+  --stack-space: var(--s-2);
+  color: #816e6e;
+  color: var(--lighttext);
+  font-size: 1.125em;
+  font-style: italic;
+}
+
+.post-list .post-link {
+  display: inline-block;
+}
+
+.post-list .post-excerpt {
+  margin-top: 0.555555625em;
+  --stack-space: var(--s-2);
+}
+
 /* Syntax highlighting */
 /**
  * a11y-light theme for JavaScript, CSS, and HTML
