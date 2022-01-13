@@ -437,6 +437,10 @@ h4 a,
   display: block;
 }
 
+[tabindex="-1"]:focus {
+  outline: 0;
+}
+
 /* Forms */
 label {
   font-weight: 600;
@@ -722,6 +726,23 @@ label + .inline-field-control {
 .tag-list a:focus {
   color: #2364aa;
   color: var(--primary);
+}
+
+/* Widths */
+.page-header > *,
+.post-header > *,
+.page-content > *,
+.post-content > * {
+  max-width: 60ch;
+  max-width: var(--measure);
+}
+
+/* Containers */
+.site-header,
+.site-content,
+.site-footer {
+  margin: 0 auto;
+  max-width: 50em;
 }
 
 /* Syntax highlighting */
