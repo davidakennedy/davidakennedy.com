@@ -437,6 +437,40 @@ h4 a,
   display: block;
 }
 
+/* Forms */
+label {
+  font-weight: 600;
+}
+
+input[type="text"],
+input[type="email"],
+input[type="search"],
+textarea {
+  border: 0.0625em solid #816e6e;
+  border: 0.0625em solid var(--lighttext);
+  border-radius: 0.25em;
+  padding: 4.52437em;
+  padding: var(--s-4);
+  -webkit-appearance: none;
+}
+
+input[type="text"]:focus,
+input[type="email"]:focus,
+input[type="search"]:focus,
+textarea:focus {
+  border-color: #2364aa;
+  border-color: var(--primary);
+  outline: 0.125em dashed;
+  outline-color: #2364aa;
+  outline-color: var(--primary);
+  outline-offset: 0.125em;
+}
+
+textarea {
+  padding-left: 0.25em;
+  width: 100%;
+}
+
 /* Syntax highlighting */
 /**
  * a11y-light theme for JavaScript, CSS, and HTML
