@@ -673,11 +673,11 @@ label + .inline-field-control {
 }
 
 .post-list .post-date {
-  margin-top: 0.520555625em;
+  margin-top: 0.65883125em;
   --stack-space: var(--s-2);
   color: #816e6e;
   color: var(--lighttext);
-  font-size: 1.125em;
+  font-size: 1.125rem;
   font-style: italic;
 }
 
@@ -686,8 +686,42 @@ label + .inline-field-control {
 }
 
 .post-list .post-excerpt {
-  margin-top: 0.555555625em;
+  margin-top: 0.69444375em;
   --stack-space: var(--s-2);
+}
+
+/* Post meta */
+.post-meta {
+  margin-top: 0.586em;
+  --stack-space: var(--s-2);
+  color: #816e6e;
+  color: var(--lighttext);
+  font-size: 1.125rem;
+  font-style: italic;
+}
+
+.post-content .post-meta {
+  margin-top: 2.53125em;
+  --stack-space: var(--s2);
+}
+
+.tag-list {
+  display: inline-flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  list-style: none;
+  margin-left: 0;
+}
+
+.tag-list a {
+  color: #816e6e;
+  color: var(--lighttext);
+}
+
+.tag-list a:hover,
+.tag-list a:focus {
+  color: #2364aa;
+  color: var(--primary);
 }
 
 /* Syntax highlighting */
