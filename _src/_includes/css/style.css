@@ -449,7 +449,7 @@ textarea {
   border: 0.0625em solid #816e6e;
   border: 0.0625em solid var(--lighttext);
   border-radius: 0.25em;
-  padding: 4.52437em;
+  padding: 0.282773125em;
   padding: var(--s-4);
   -webkit-appearance: none;
 }
@@ -469,6 +469,65 @@ textarea:focus {
 textarea {
   padding-left: 0.25em;
   width: 100%;
+}
+
+button,
+.button,
+input[type="button"],
+input[type="reset"],
+input[type="submit"] {
+  background-color: #fefefe;
+  background-color: var(--background);
+  border: 0.125em solid #36382e;
+  border: 0.05em solid var(--text);
+  border-radius: 0.25em;
+  color: #36382e;
+  color: var(--text);
+  cursor: pointer;
+  font-weight: 600;
+  padding: 0.410020625em 0.59453em;
+  padding: var(--s-3) var(--s-2);
+  position: relative;
+  transition: color 0.2s;
+  -webkit-appearance: none;
+}
+
+button:hover,
+.button:hover,
+input[type="button"]:hover,
+input[type="reset"]:hover,
+input[type="submit"]:hover {
+  background-color: #2364aa;
+  background-color: var(--primary);
+  border-color: #2364aa;
+  border-color: var(--primary);
+  color: #fefefe;
+  color: var(--background);
+}
+
+button:active,
+.button:active,
+input[type="button"]:active,
+input[type="reset"]:active,
+input[type="submit"]:active {
+  top: 2px;
+}
+
+button:focus,
+.button:focus,
+input[type="button"]:focus,
+input[type="reset"]:focus,
+input[type="submit"]:focus {
+  background-color: #2364aa;
+  background-color: var(--primary);
+  border-color: #2364aa;
+  border-color: var(--primary);
+  color: #fefefe;
+  color: var(--background);
+  outline: 0.125em dashed;
+  outline-color: #2364aa;
+  outline-color: var(--primary);
+  outline-offset: 0.125em;
 }
 
 /* Syntax highlighting */
