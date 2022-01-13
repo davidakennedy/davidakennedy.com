@@ -607,8 +607,15 @@ label + .inline-field-control {
 
 .tag-list a:hover,
 .tag-list a:focus {
-  color: #2364aa;
-  color: var(--primary);
+  background-color: #666666;
+  background-color: var(--lighttext);
+  color: #fefefe;
+  color: var(--background);
+}
+
+.tag-list a:focus {
+  outline-color: #666666;
+  outline-color: var(--lighttext);
 }
 
 /* Widths */
