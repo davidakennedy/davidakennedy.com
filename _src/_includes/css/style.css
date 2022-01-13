@@ -613,6 +613,22 @@ label + .inline-field-control {
   text-decoration: underline;
 }
 
+.social-navigation a {
+  text-decoration: none;
+  padding: 0.59453em;
+  padding: var(--s-2);
+}
+
+.site-info-navigation a {
+  font-size: 1.098rem;
+  padding: 0.59453em;
+  padding: var(--s-2);
+}
+
+.social-navigation svg {
+  vertical-align: text-bottom;
+}
+
 /* Syntax highlighting */
 /**
  * a11y-light theme for JavaScript, CSS, and HTML
