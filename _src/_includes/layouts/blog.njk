@@ -1,11 +1,11 @@
 {% extends 'layouts/base.njk' %}
 {% block content %}
-  <div class="page-header stack">
+  <div class="page-header">
     {% set pagetitle = title or renderData.title %}
     <h1 class="title p-name">{{ pagetitle | markdownify }}</h1>
   </div>
-  {% if description %}<p class="p-summary stack">{{ description | markdownify  }}</p>{% endif %}
-  <div class="page-content stack">
+  {% if description %}<p class="p-summary">{{ description | markdownify  }}</p>{% endif %}
+  <div class="page-content">
     {{ content | safe }}
     {% set postlist = pagination.items %}
     {% include "partials/signup-form.njk" %}

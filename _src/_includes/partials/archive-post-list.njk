@@ -1,6 +1,6 @@
-<ol reversed class="post-list stack">
+<ol reversed class="post-list">
 {% for post in postlist %}
-  <li class="post h-entry stack{% if post.url == url %} postlist-item-active{% endif %}">
+  <li class="post h-entry{% if post.url == url %} postlist-item-active{% endif %}">
     <a href="{{ post.url | url }}" class="post-link">
       <h2 class="title p-name">{% if post.data.title %}{{ post.data.title | markdownify }}{% else %}<code>{{ post.url }}</code>{% endif %}</h2>
     </a>

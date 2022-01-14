@@ -68,7 +68,7 @@ select {
     "Lucida Console", "Lucida Sans Typewriter", "DejaVu Sans Mono",
     "Bitstream Vera Sans Mono", "Liberation Mono", "Nimbus Mono L", Monaco,
     "Courier New", Courier, monospace;
-  --line-height: 1.45;
+  --line-height: 1.4;
   --line-height-small: 1.2;
   --measure-narrow: 30ch;
   --measure: 60ch;
@@ -83,7 +83,7 @@ select {
   font-family: var(--font-serif);
   font-weight: 400;
   height: 100%;
-  line-height: 1.45;
+  line-height: 1.4;
   line-height: var(--line-height);
 }
 
@@ -136,7 +136,7 @@ body {
 .stack > * + *,
 .stack + .stack,
 .stack > .stack {
-  margin-top: 1.45em;
+  margin-top: 1.4em;
 }
 
 /* Elements */
@@ -273,7 +273,7 @@ hr {
 
 ul,
 ol {
-  margin-left: 1.45em;
+  margin-left: 1.4em;
   margin-top: 0;
   padding: 0;
 }
@@ -281,7 +281,7 @@ ol {
 li > ul,
 li > ol {
   margin-bottom: 0;
-  margin-left: 1.45em;
+  margin-left: 1.4em;
 }
 
 figcaption {
@@ -335,7 +335,7 @@ a:active {
 .skip-link {
   font-size: 1.125rem;
   font-weight: 700;
-  left: 1.45em;
+  left: 1.4em;
   max-width: none;
   padding: 0.5em;
   position: absolute;
