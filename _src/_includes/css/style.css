@@ -559,11 +559,11 @@ label + .inline-field-control {
 }
 
 .post-list * + * {
-  margin-top: 3.81078125em;
+  margin-top: 4em;
 }
 
 .post-list .post-date {
-  margin-top: 0.65883125em;
+  margin-top: 0.25em;
   color: #666666;
   color: var(--lighttext);
   font-size: 1.125rem;
@@ -575,7 +575,7 @@ label + .inline-field-control {
 }
 
 .post-list .post-excerpt {
-  margin-top: 0.69444375em;
+  margin-top: 0.75em;
 }
 
 /* Post meta */
