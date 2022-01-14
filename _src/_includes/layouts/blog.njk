@@ -5,7 +5,7 @@
     <h1 class="title p-name">{{ pagetitle | markdownify }}</h1>
   </div>
   {% if description %}<p class="p-summary">{{ description | markdownify  }}</p>{% endif %}
-  <div class=" stack">
+  <div class="page-content stack">
     {{ content | safe }}
     {% set postlist = pagination.items %}
     {% include "partials/signup-form.njk" %}

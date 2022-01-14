@@ -509,6 +509,11 @@ label + .inline-field-control {
   margin-top: 1.4em;
 }
 
+.post-header figure + *,
+.page-header figure + * {
+  margin-top: 1.4em;
+}
+
 .post-list {
   list-style: none;
   margin-left: 0;
