@@ -558,7 +558,7 @@ label + .inline-field-control {
   margin-left: 0;
 }
 
-.post-list * + * {
+.post-list > * + * {
   margin-top: 4em;
 }
 
