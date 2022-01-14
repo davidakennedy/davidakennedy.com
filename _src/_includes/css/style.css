@@ -155,26 +155,26 @@ h4,
 
 h1,
 .h1 {
-  /* 24px */
-  font-size: 1.5rem;
+  /* 26px */
+  font-size: 1.625rem;
 }
 
 h2,
 .h2 {
-  /* 22px */
-  font-size: 1.375rem;
+  /* 24px */
+  font-size: 1.5rem;
 }
 
 h3,
 .h3 {
-  /* 21px */
-  font-size: 1.3125rem;
+  /* 22px */
+  font-size: 1.375rem;
 }
 
 h4,
 .h4 {
-  /* 20.5px */
-  font-size: 1.28125rem;
+  /* 21px */
+  font-size: 1.3125rem;
 }
 
 figcaption {
@@ -191,6 +191,9 @@ blockquote {
 
 blockquote cite {
   display: block;
+  font-style: normal;
+  font-weight: 600;
+  margin-top: 1.4em;
 }
 
 pre {
