@@ -7,7 +7,7 @@
       {%- endif -%}
       {% set posttitle = title or renderData.title %}
       <h1 class="title p-name">{{ posttitle | markdownify }}</h1>
-      <div class="post-meta">
+      <div class="meta">
         <span class="date"> Published on <time class="dt-published" datetime="{{ page.date | htmlDateString }}">{{ page.date | readableDate }}</time> <span class="author sr-only h-card p-author">by {{ metadata.author.name }}</span></span>
       </div>
     </div>
@@ -15,7 +15,7 @@
       {{ content | safe }}
       {# If we have more tags that just "posts" #}
       {% if tags.length > 1 %}
-        <div class="post-meta">
+        <div class="meta">
           {% set lastTag = tags | last %}
           <div class="tags">
             Tagged&nbsp;

@@ -4,10 +4,6 @@ description: Find out more about David A. Kennedy's career in web design and acc
 featuredimg: true
 image: david-kennedy-change2019-1.jpg
 imgalt: David A. Kennedy speaks on a stage in front of audience.
-tags:
-  - nav
-navtitle: About
-navorder: 2
 ---
 
 I work as a Senior UX Designer at [Ad Hoc](https://adhocteam.us/), focusing on inclusive design and accessibility.

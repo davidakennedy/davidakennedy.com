@@ -562,14 +562,6 @@ label + .inline-field-control {
   margin-top: 4em;
 }
 
-.post-list .post-date {
-  margin-top: 0.25em;
-  color: #666666;
-  color: var(--lighttext);
-  font-size: 1.125rem;
-  font-style: italic;
-}
-
 .post-list .post-link {
   display: inline-block;
 }
@@ -579,15 +571,15 @@ label + .inline-field-control {
 }
 
 /* Post meta */
-.post-meta {
-  margin-top: 0.586em;
+.meta {
+  margin-top: 0.25em;
   color: #666666;
   color: var(--lighttext);
   font-size: 1.125rem;
   font-style: italic;
 }
 
-.post-content .post-meta {
+.post-content .meta {
   margin-top: 2.53125em;
 }
 

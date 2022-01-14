@@ -1,9 +1,5 @@
 ---
 title: Blog
-tags:
-  - nav
-navtitle: Blog
-navorder: 3
 pagination:
   data: collections.posts
   size: 10
