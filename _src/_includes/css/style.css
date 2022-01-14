@@ -502,7 +502,7 @@ label + .inline-field-control {
 
 .site-navigation a {
   font-weight: 600;
-  padding: 0.56480375em;
+  padding: 0.5em;
   text-decoration: none;
 }
 
@@ -512,12 +512,12 @@ label + .inline-field-control {
 
 .social-navigation a {
   text-decoration: none;
-  padding: 0.59453em;
+  padding: 0.5em;
 }
 
 .site-info-navigation a {
   font-size: 1.1875rem;
-  padding: 0.59453em;
+  padding: 0.5em;
 }
 
 .social-navigation svg {
@@ -526,21 +526,17 @@ label + .inline-field-control {
 
 /* Post Navigation */
 .posts-pagination {
-  margin-top: 2.628125em;
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
   justify-content: space-between;
-  margin-bottom: -0.5em;
 }
 
 .posts-pagination .older-posts {
-  margin-bottom: 0.5em;
   margin-right: auto;
 }
 
 .posts-pagination .newer-posts {
-  margin-bottom: 0.5em;
   margin-left: auto;
 }
 
@@ -548,6 +544,7 @@ label + .inline-field-control {
   display: inline-block;
   font-size: 1.1875rem;
   font-weight: 600;
+  padding: 0.5em;
   text-decoration: none;
 }
 
