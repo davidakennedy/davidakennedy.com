@@ -506,7 +506,7 @@ label + .inline-field-control {
 /* Posts & pages */
 .post-content,
 .page-content {
-  margin-top: 1.4em;
+  margin-top: 0.7em;
 }
 
 .post-header figure + *,
@@ -577,6 +577,15 @@ label + .inline-field-control {
 .post-content > * {
   max-width: 60ch;
   max-width: var(--measure);
+}
+
+.page-content > h2 + *,
+.post-content > h2 + *,
+.page-content > h3 + *,
+.post-content > h3 + *,
+.page-content > h4 + *,
+.post-content > h4 + * {
+  margin-top: 0.7em;
 }
 
 /* Containers */
