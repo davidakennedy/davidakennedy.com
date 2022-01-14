@@ -21,5 +21,10 @@ You can learn more about my professional experience by visiting my [Linkedin pro
 - [Selected Writing](/tag/selected-writing/)
 - [Reading](/reading/)
 - [Haikus](/haikus/)
+- [On Twitter](https://twitter.com/davidakennedy)
+- [On GitHub](https://github.com/davidakennedy)
+- [On CodePen](https://codepen.io/davidakennedy)
+
+If you're interested, you can learn how I [made this site in the colophon](/colophon/), and how I [approach the site's accessibility](/accessibility/).
 
 <small>[_Photo courtesy of Fluxx Studios_](https://www.flickr.com/gp/fluxxstudios/8a31AC).</small>
