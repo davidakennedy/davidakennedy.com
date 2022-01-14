@@ -11,7 +11,7 @@
         <span class="date"> Published on <time class="dt-published" datetime="{{ page.date | htmlDateString }}">{{ page.date | readableDate }}</time> <span class="author sr-only h-card p-author">by {{ metadata.author.name }}</span></span>
       </div>
     </div>
-    <div class="post-content e-content">
+    <div class="post-content stack e-content">
       {{ content | safe }}
       {# If we have more tags that just "posts" #}
       {% if tags.length > 1 %}
