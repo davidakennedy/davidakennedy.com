@@ -436,44 +436,6 @@ input[type="submit"]:focus {
   outline-offset: 0.125em;
 }
 
-.signup-alert {
-  margin-top: 0.370370625em;
-}
-
-.alert {
-  align-items: flex-start;
-  display: flex;
-  animation: slide-up 250ms ease;
-}
-
-.alert svg {
-  align-self: center;
-  margin-right: 0.59453em;
-}
-
-label + .inline-field-control {
-  margin-top: 0.370370625em;
-}
-
-.email-signup button > svg {
-  vertical-align: middle;
-}
-
-.email-signup input {
-  margin: 0 0 0.25em 0;
-}
-
-@keyframes slide-up {
-  0% {
-    opacity: 0;
-    transform: translateY(0.4rem);
-  }
-  100% {
-    opacity: 1;
-    transform: translateY(0);
-  }
-}
-
 /* Blocks */
 /* Post Navigation */
 .posts-pagination {
