@@ -1,5 +1,9 @@
 {# Duplicates regular page markup #}
 {% extends 'layouts/base.njk' %}
+{% block header %}
+  {% include "partials/header-interior.njk" %}
+{% endblock %}
+
 {% block content %}
   <section class="page">
     <div class="page-header">
@@ -18,4 +22,8 @@
       </ol>
     </div>
   </section>
+{% endblock %}
+
+{% block footer %}
+  {% include "partials/footer.njk" %}
 {% endblock %}

@@ -1,4 +1,8 @@
 {% extends 'layouts/base.njk' %}
+{% block header %}
+  {% include "partials/header-interior.njk" %}
+{% endblock %}
+
 {% block content %}
   <article class="post h-entry">
     <div class="post-header">
@@ -32,4 +36,8 @@
       {%- endif -%}
     </div>
   </article>
+{% endblock %}
+
+{% block footer %}
+  {% include "partials/footer.njk" %}
 {% endblock %}

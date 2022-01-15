@@ -1,4 +1,8 @@
 {% extends 'layouts/base.njk' %}
+{% block header %}
+  {% include "partials/header-home.njk" %}
+{% endblock %}
+
 {% block content %}
   <div class="page-header">
     {%- if featuredimg and image -%}
@@ -11,4 +15,8 @@
     {% include "partials/h-card.njk" %}
     {{ content | safe }}
   </div>
+{% endblock %}
+
+{% block footer %}
+  {% include "partials/footer.njk" %}
 {% endblock %}

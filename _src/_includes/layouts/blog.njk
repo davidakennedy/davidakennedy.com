@@ -1,4 +1,8 @@
 {% extends 'layouts/base.njk' %}
+{% block header %}
+  {% include "partials/header-interior.njk" %}
+{% endblock %}
+
 {% block content %}
   <div class="page-header">
     {% set pagetitle = title or renderData.title %}
@@ -12,4 +16,8 @@
     {% include "partials/archive-post-list.njk" %}
   </div>
   {% include "partials/pagination.njk" %}
+{% endblock %}
+
+{% block footer %}
+  {% include "partials/footer.njk" %}
 {% endblock %}
