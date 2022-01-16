@@ -51,6 +51,24 @@ module.exports = function (eleventyConfig) {
     return markdownItRenderer.renderInline(str);
   });
 
+  function filterTagList(tags) {
+    return (tags || []).filter(
+      (tag) => ["all", "nav", "post", "posts"].indexOf(tag) === -1
+    );
+  }
+
+  eleventyConfig.addFilter("filterTagList", filterTagList);
+
+  // Create an array of all tags
+  eleventyConfig.addCollection("tagList", function (collection) {
+    let tagSet = new Set();
+    collection.getAll().forEach((item) => {
+      (item.data.tags || []).forEach((tag) => tagSet.add(tag));
+    });
+
+    return filterTagList([...tagSet]);
+  });
+
   // Development filters
   const CleanCSS = require("clean-css");
   eleventyConfig.addFilter("cssmin", function (code) {
@@ -141,15 +159,6 @@ module.exports = function (eleventyConfig) {
   // Get current year for copyright.
   eleventyConfig.addShortcode("copyrightDates", (startYear) => {
     return startYear + " - " + new Date().getFullYear();
-  });
-
-  // Our collections of content.
-  eleventyConfig.addCollection("tagList", require("./_11ty/getTagList"));
-
-  eleventyConfig.addCollection("nav", function (collection) {
-    return collection.getFilteredByTag("nav").sort(function (a, b) {
-      return a.data.navorder - b.data.navorder;
-    });
   });
 
   // Pass these directories through.
