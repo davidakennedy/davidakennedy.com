@@ -1,5 +1,6 @@
 ---
 title: Blog
+description: Where David A. Kennedy goes to write.
 pagination:
   data: collections.posts
   size: 10
