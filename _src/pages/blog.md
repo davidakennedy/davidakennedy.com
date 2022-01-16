@@ -1,9 +1,5 @@
 ---
 title: Blog
-description: Where David A. Kennedy goes to write blog posts.
-eleventyNavigation:
-  key: Blog
-  parent: Home
 pagination:
   data: collections.posts
   size: 10

@@ -1,9 +1,6 @@
 ---
 title: Now
 description: What David A. Kennedy is up to right now.
-eleventyNavigation:
-  key: Now
-  parent: Home
 ---
 
 A page detailing what I'm focused on at the moment. I'll update it when things change.
