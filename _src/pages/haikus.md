@@ -1,6 +1,9 @@
 ---
 title: Haikus
 layout: layouts/haikus.njk
+eleventyNavigation:
+  key: Haikus
+  parent: Home
 templateClass: archive-template
 ---
 

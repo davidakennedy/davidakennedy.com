@@ -1,6 +1,9 @@
 ---
 title: Seven Amazing Digital Storytelling Websites
 description: Sharing some of my favorite digital storytelling websites.
+eleventyNavigation:
+  key: Seven Amazing Digital Storytelling Websites
+  parent: Blog
 featuredimg: true
 image: sergi-kabrera-2xU7rYxsTiM-unsplash.jpg
 imgalt: White keyboard.

@@ -1,6 +1,9 @@
 ---
 title: Projects
 description: Some projects that David A. Kennedy has created and worked on in the past.
+eleventyNavigation:
+  key: Projects
+  parent: Home
 layout: layouts/page.njk
 templateClass: page-template
 permalink: projects/index.html

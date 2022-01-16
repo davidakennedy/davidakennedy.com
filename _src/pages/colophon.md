@@ -1,6 +1,9 @@
 ---
 title: Colophon
 description: Details about how David A. Kennedy's personal website was made.
+eleventyNavigation:
+  key: Colophon
+  parent: Home
 ---
 
 This site wouldn't be possible without the work of countless others.

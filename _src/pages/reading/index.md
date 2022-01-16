@@ -1,6 +1,9 @@
 ---
 title: Reading
 description: What David A. Kennedy is reading.
+eleventyNavigation:
+  key: Reading
+  parent: Home
 ---
 
 A page detailing what I'm reading in 2021. Any must-read recommendations will have a heart &hearts; next to them. That means I could see myself reading it again. Other books may be worth reading, but I may not get as much value out of rereads.
