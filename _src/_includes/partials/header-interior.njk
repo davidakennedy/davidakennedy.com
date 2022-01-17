@@ -1,1 +1,4 @@
-<p class="meta">Welcome to the interior pages.</p>
+{% set navBreadcrumbs = collections.all | eleventyNavigationBreadcrumb(eleventyNavigation.key) %}
+<nav class="meta" aria-label="Breadcrumbs">
+  {{ navBreadcrumbs | eleventyNavigationToHtml({listClass: "breadcrumbs"}) | safe }}
+</nav>

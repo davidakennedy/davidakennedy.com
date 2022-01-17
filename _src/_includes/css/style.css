@@ -507,6 +507,7 @@ input[type="submit"]:focus {
   margin-top: 2em;
 }
 
+.breadcrumbs,
 .tag-list {
   display: inline-flex;
   flex-direction: row;
@@ -515,20 +516,25 @@ input[type="submit"]:focus {
   margin-left: 0;
 }
 
-.tag-list a {
+.breadcrumbs li + li::before {
+  content: "\2022";
+  margin: 0 0.5em;
+}
+
+.meta a {
   color: #666666;
   color: var(--lighttext);
 }
 
-.tag-list a:hover,
-.tag-list a:focus {
+.meta a:hover,
+.meta a:focus {
   background-color: #666666;
   background-color: var(--lighttext);
   color: #fefefe;
   color: var(--background);
 }
 
-.tag-list a:focus {
+.meta a:focus {
   outline-color: #666666;
   outline-color: var(--lighttext);
 }

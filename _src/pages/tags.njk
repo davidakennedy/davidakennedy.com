@@ -10,8 +10,11 @@ pagination:
     - posts
     - tagList
   addAllPagesToCollections: true
-renderData:
+eleventyComputed:
   title: Tagged “{{ tag }}”
+  eleventyNavigation:
+    key: Tagged “{{ tag }}”
+    parent: Tags
 layout: layouts/page.njk
 templateClass: archive-template
 permalink: /tag/{{ tag | slug }}/index.html
