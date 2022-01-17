@@ -1,4 +1,8 @@
 {% set navBreadcrumbs = collections.all | eleventyNavigationBreadcrumb(eleventyNavigation.key) %}
+{% if eleventyNavigation and eleventyNavigation.key and eleventyNavigation.parent %}
 <nav class="meta" aria-label="Breadcrumbs">
   {{ navBreadcrumbs | eleventyNavigationToHtml({listClass: "breadcrumbs"}) | safe }}
 </nav>
+{% else %}
+<p class="meta">Welcome to the interior pages.</p>
+{% endif %}
