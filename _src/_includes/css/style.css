@@ -437,6 +437,20 @@ input[type="submit"]:focus {
 }
 
 /* Blocks */
+/* Horizontal navigation */
+.nav {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  list-style: none;
+  margin-left: 0;
+}
+
+.nav a {
+  display: inline-block;
+  margin-right: 0.5em;
+}
+
 /* Post Navigation */
 .posts-pagination {
   display: flex;
@@ -458,7 +472,6 @@ input[type="submit"]:focus {
   display: inline-block;
   font-size: 1.1875rem;
   font-weight: 600;
-  padding: 0.5em;
   text-decoration: none;
 }
 
