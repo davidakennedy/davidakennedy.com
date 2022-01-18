@@ -334,6 +334,7 @@ a:active {
   max-width: none;
   padding: 0.5em;
   position: absolute;
+  top: 1.4em;
 }
 
 .skip-link.focusable:focus {
