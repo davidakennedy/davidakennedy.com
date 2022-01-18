@@ -118,7 +118,7 @@ body {
   width: auto;
 }
 
-/* Make something stand out TODO */
+/* Make something stand out */
 .callout {
   border: 2px solid #666666;
   border: 2px solid var(--lighttext);
@@ -180,7 +180,6 @@ blockquote {
   border-left: 0.25em solid #666666;
   border-left: 0.25em solid var(--lighttext);
   font-style: italic;
-  /* TODO */
   padding: 0 0.5em;
 }
 
