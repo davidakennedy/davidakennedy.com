@@ -794,24 +794,24 @@ pre[class*="language-"] {
     background: #fff !important;
     box-shadow: none !important;
     color: #000 !important;
-    font-size: 14pt !important;
+    font-size: 15pt !important;
     text-shadow: none !important;
   }
 
   h1 {
-    font-size: 26pt !important;
+    font-size: 19.5pt !important;
   }
 
   h2 {
-    font-size: 24pt !important;
+    font-size: 18pt !important;
   }
 
   h3 {
-    font-size: 22pt !important;
+    font-size: 16.5pt !important;
   }
 
   h4 {
-    font-size: 21pt !important;
+    font-size: 15.75pt !important;
   }
 
   a,
