@@ -1,7 +1,6 @@
 ---
 title: Haikus
 description: A collection of haikus by David A. Kennedy.
-permalink: /haikus/
 ---
 
 I started writing haikus in 2020 for fun. I like the constraints and compactness of the format.
