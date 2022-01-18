@@ -8,13 +8,15 @@
       {% endblock header %}
     </header>
 
-    <main id="content" class="site-content wrapper">
+    <main id="content" class="site-content">
       {% block content %}
       {% endblock content %}
     </main>
 
-    {% block footer %}
-    {% endblock footer %}
+    <footer id="colophon" class="site-footer">
+      {% block footer %}
+      {% endblock footer %}
+    </footer>
 
     <!-- Current page: {{ page.url | url }} -->
     {% set js %}
