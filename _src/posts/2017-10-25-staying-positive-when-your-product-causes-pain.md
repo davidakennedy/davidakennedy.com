@@ -22,12 +22,12 @@ You can't. I want to share some tips on how to stay positive when your product c
 
 **Build a culture around finding and sharing the good**: If you do this regularly, you start to feel like you're winning regularly too. And it balances out that feeling that you're failing your customers when you create something they struggle with. My team could always be better at this, but a few ways to start:
 
-  * Share one win before every weekly meeting.
-  * Start and/or keep product testimonials updated. It forces you to find the gold you know doubt have buried.
-  * Have a place to collect the positive, and have it be visible so it's obvious when it hasn't been updated in a while.
+- Share one win before every weekly meeting.
+- Start and/or keep product testimonials updated. It forces you to find the gold you know doubt have buried.
+- Have a place to collect the positive, and have it be visible so it's obvious when it hasn't been updated in a while.
 
 Good luck in the product trenches, and stay positive out there!
 
-_Photo courtesy of [Adam Jang](https://unsplash.com/photos/8pOTAtyd_Mc)_.
+_Image courtesy of [Adam Jang](https://unsplash.com/photos/8pOTAtyd_Mc)_.
 
 _Originally published on [Automattic's Design Flow blog](https://a8cdesignflow.wordpress.com/2017/10/20/staying-positive-when-your-product-causes-pain/)_.

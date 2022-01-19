@@ -27,4 +27,4 @@ You can learn more about my professional experience by visiting my [Linkedin pro
 
 If you're interested, you can learn how I [made this site in the colophon](/colophon/), and how I [approach the site's accessibility](/accessibility/).
 
-<small>[_Photo courtesy of Fluxx Studios_](https://www.flickr.com/gp/fluxxstudios/8a31AC).</small>
+<small>[_Image courtesy of Fluxx Studios_](https://www.flickr.com/gp/fluxxstudios/8a31AC).</small>
