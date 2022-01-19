@@ -5,6 +5,7 @@ date: 2014-11-10T13:00:44+00:00
 permalink: /blog/screen-reader-tips/
 tags:
   - Accessibility
+  - bestof
   - Front End Development
   - Web Development
 ---
@@ -17,10 +18,10 @@ Why? Because I remembered how daunting it was to learn how to use a screen reade
 
 WebAim has some fantastic information on screen readers and tutorials to help get you started.
 
-  * [Using JAWS to Evaluate Web Accessibility](http://webaim.org/articles/jaws/)
-  * [Using NVDA to Evaluate Web Accessibility](http://webaim.org/articles/nvda/)
-  * [Using VoiceOver to Evaluate Web Accessibility](http://webaim.org/articles/voiceover/)
-  * [Testing with Screen Readers: Questions and Answers](http://webaim.org/articles/screenreader_testing/)
+- [Using JAWS to Evaluate Web Accessibility](http://webaim.org/articles/jaws/)
+- [Using NVDA to Evaluate Web Accessibility](http://webaim.org/articles/nvda/)
+- [Using VoiceOver to Evaluate Web Accessibility](http://webaim.org/articles/voiceover/)
+- [Testing with Screen Readers: Questions and Answers](http://webaim.org/articles/screenreader_testing/)
 
 This isn't an exhaustive list if screen readers, just the ones WebAIM has tutorials on. I use VoiceOver because I do all my development on a Mac. But I occasionally hop over to a Widows machine with NVDA.
 

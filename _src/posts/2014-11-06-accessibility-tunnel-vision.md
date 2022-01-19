@@ -8,6 +8,7 @@ date: 2014-11-06T13:00:56+00:00
 permalink: /blog/accessibility-tunnel-vision/
 tags:
   - Accessibility
+  - bestof
 ---
 
 When I first jumped into web accessibility, I came away from problems or challenges frustrated. A lot. When I researched potential solutions, I often found more questions and opinions than answers. It happens frequently in the accessibility world. Why? I've heard [Joseph Karr O'Connor](http://accessiblejoe.com) joke about this. To paraphrase:

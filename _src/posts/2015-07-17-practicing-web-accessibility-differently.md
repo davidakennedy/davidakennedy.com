@@ -5,6 +5,7 @@ date: 2015-07-17T15:12:10+00:00
 permalink: /blog/practicing-web-accessibility-differently/
 tags:
   - Accessibility
+  - bestof
   - Everyday Accessibility
 ---
 
@@ -18,9 +19,9 @@ You can begin to solve the hard problems, or the 20 percent, by focusing on the 
 
 The impetus for most accessibility successes or failures falls into one or more of these three categories:
 
-  * Decisions
-  * People
-  * Details
+- Decisions
+- People
+- Details
 
 What do I mean by those?
 

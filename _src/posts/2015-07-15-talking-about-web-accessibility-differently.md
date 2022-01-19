@@ -5,6 +5,7 @@ date: 2015-07-15T14:57:24+00:00
 permalink: /blog/talking-about-web-accessibility-differently/
 tags:
   - Accessibility
+  - bestof
   - Everyday Accessibility
 ---
 
@@ -16,9 +17,9 @@ Search the Web for "web accessibility," and you'll find a mixture of introductor
 
 It doesn't have to be this way. We can change the conversation by making it more akin to the way everything else works on the Web. It needs to be fluid and open. Why does that not happen in the first place? Because most conversations about accessibility end up in an awkward place. Often, people see accessibility differently. Some see it as a feature, a legal mandate or a moral obligation. So naturally conversations involve phrases like:
 
-  * Let's focus on that in the next release.
-  * We need to do it to comply with the law.
-  * It's the right thing to do.
+- Let's focus on that in the next release.
+- We need to do it to comply with the law.
+- It's the right thing to do.
 
 These phrases come from talking about accessibility the wrong way. People see that giant stack of requirements, no matter why they exist, as a yes or no problem that needs to be solved. It's either victory or failure.
 

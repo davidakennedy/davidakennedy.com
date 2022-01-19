@@ -5,6 +5,7 @@ date: 2015-07-13T14:53:01+00:00
 permalink: /blog/thinking-about-web-accessibility-differently/
 tags:
   - Accessibility
+  - bestof
   - Everyday Accessibility
 ---
 
@@ -28,10 +29,10 @@ While the technical details matter, your awareness matters more. The web accessi
 
 You need to:
 
-  * **design and develop without fear, uncertainty and doubt**: It’s easy to fall into the trap of thinking that web accessibility will limit your creativity or your ability to build the next big thing. Don’t let that happen. Accessibility can be beautiful and help spur new approaches to old problems, especially when we keep doing what we know how to do. Move forward with confidence.
-  * **know what you don’t know**: No one knows it all, and that’s okay. We’re better together when we’re honest with ourselves and those around us. Do your best to plan, design and code in the open so you and others can pinpoint accessibility obstacles early, learn more and find solutions to problems faster.
-  * **favor pragmatism over perfection**: Focus on creating solutions to accessibility problems and not just on the problem itself. Aim to show each other the balance between pushing boundaries and following established principles. You may make compromises along the way, but don’t sacrifice your design vision. Accessibility is just another design constraint.
-  * **contribute to the accessibility body of knowledge**: The Web flourishes most when its people, processes, tools and systems are open. Welcome that. Share your ideas, your barriers, your processes and your code – even when they may not fit neatly into a case study or showcase. Examples and experimentation inform progress.
+- **design and develop without fear, uncertainty and doubt**: It’s easy to fall into the trap of thinking that web accessibility will limit your creativity or your ability to build the next big thing. Don’t let that happen. Accessibility can be beautiful and help spur new approaches to old problems, especially when we keep doing what we know how to do. Move forward with confidence.
+- **know what you don’t know**: No one knows it all, and that’s okay. We’re better together when we’re honest with ourselves and those around us. Do your best to plan, design and code in the open so you and others can pinpoint accessibility obstacles early, learn more and find solutions to problems faster.
+- **favor pragmatism over perfection**: Focus on creating solutions to accessibility problems and not just on the problem itself. Aim to show each other the balance between pushing boundaries and following established principles. You may make compromises along the way, but don’t sacrifice your design vision. Accessibility is just another design constraint.
+- **contribute to the accessibility body of knowledge**: The Web flourishes most when its people, processes, tools and systems are open. Welcome that. Share your ideas, your barriers, your processes and your code – even when they may not fit neatly into a case study or showcase. Examples and experimentation inform progress.
 
 You can help make web accessibility a reality, and easier for everyone who creates on and uses the Web. You know what to do next.
 
