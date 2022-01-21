@@ -16,7 +16,7 @@ Granted, that may have been a requirement given it was a major tool of the trade
 
 So a day might look something like this:
 
-```
+```text
 MIT (Most important task)
 - Finish accessibility review for new interface.
 
