@@ -436,6 +436,11 @@ input[type="submit"]:focus {
   outline-offset: 0.125em;
 }
 
+.email-signup .email,
+.email-signup .button {
+  margin-top: 0.25em;
+}
+
 /* Blocks */
 /* Horizontal navigation */
 .nav {
@@ -475,6 +480,7 @@ input[type="submit"]:focus {
   text-decoration: none;
 }
 
+.email-signup svg,
 .posts-pagination svg {
   vertical-align: middle;
 }
