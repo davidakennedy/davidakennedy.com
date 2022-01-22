@@ -149,7 +149,7 @@ module.exports = function (eleventyConfig) {
       return `<figure ${figclass ? `class="${figclass}"` : ""}><img ${
         imgclass ? `class="${imgclass}"` : ""
       } srcset="${srcset}" sizes="${
-        sizes ? sizes : "60vw"
+        sizes ? sizes : "(min-width: 37.5em) 60vw, 100vw"
       }" src="${src}" alt="${alt ? alt : ""}" ${
         lazy ? `loading="${lazy}"` : ""
       }>${caption ? `<figcaption>${caption}</figcaption>` : ""}</figure>`;
