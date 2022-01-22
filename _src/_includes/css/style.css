@@ -294,6 +294,10 @@ img {
   height: auto;
 }
 
+.site-header img {
+  border-radius: 50%;
+}
+
 /* Links */
 a {
   color: #333333;
@@ -590,17 +594,22 @@ input[type="submit"]:focus {
   padding-right: 0.475em;
 }
 
-.site-header,
-.site-footer {
-  padding-top: 6em;
+.site-header {
+  padding-top: 8em;
 }
 
-.site-content {
-  padding-top: 2em;
+.site-header {
+  display: flex;
+  justify-content: space-between;
+}
+
+.site-content,
+.site-footer {
+  padding-top: 3em;
 }
 
 .site-footer {
-  padding-bottom: 6em;
+  padding-bottom: 8em;
 }
 
 /* Syntax highlighting */
