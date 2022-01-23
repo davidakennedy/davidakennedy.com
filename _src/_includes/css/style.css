@@ -120,8 +120,8 @@ body {
 
 /* Make something stand out */
 .callout {
-  border: 2px solid #666666;
-  border: 2px solid var(--lighttext);
+  border: 2px solid #949494;
+  border: 2px solid var(--decorative);
   border-radius: 0.125em;
   padding: 0.5em;
 }
