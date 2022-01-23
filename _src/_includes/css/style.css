@@ -59,7 +59,7 @@ select {
   --background: #fefefe;
   --lighttext: #666666;
   --text: #333333;
-  --decorative: #999999;
+  --decorative: #949494;
   /* Other stuff */
   --font-serif: "Source Serif VF", Constantia, "Lucida Bright", Lucidabright,
     "Lucida Serif", Lucida, "DejaVu Serif", "Bitstream Vera Serif",
@@ -263,7 +263,7 @@ td {
 }
 
 hr {
-  background-color: #999999;
+  background-color: #949494;
   background-color: var(--decorative);
   height: 0.125em;
 }
@@ -287,11 +287,12 @@ figcaption {
 }
 
 img {
-  box-shadow: 0 0 10px #666666;
-  box-shadow: 0 0 10px var(--lighttext);
+  border: 1px solid #949494;
+  border: 1px solid var(--decorative);
   display: block;
-  max-width: 100%;
   height: auto;
+  max-width: 100%;
+  padding: 0.125em;
 }
 
 .site-header img {
