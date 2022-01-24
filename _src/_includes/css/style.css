@@ -191,7 +191,8 @@ blockquote cite {
 }
 
 pre {
-  border: 0.0625em dashed currentColor;
+  border: 0.0625em solid #949494;
+  border: 0.0625em solid var(--decorative);
   border-radius: 0.3em;
   font-family: "Source Code VF", Consolas, "Andale Mono WT", "Andale Mono",
     "Lucida Console", "Lucida Sans Typewriter", "DejaVu Sans Mono",
