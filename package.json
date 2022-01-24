@@ -27,7 +27,7 @@
     "@11ty/eleventy-plugin-syntaxhighlight": "^3.2.2",
     "clean-css": "^5.2.2",
     "html-minifier": "^4.0.0",
-    "luxon": "^1.28.0",
+    "luxon": "^2.3.0",
     "markdown-it": "^11.0.1",
     "terser": "^4.8.0"
   },
