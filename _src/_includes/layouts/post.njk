@@ -20,7 +20,7 @@
       {# If we have more tags that just "posts" #}
       {% if tags.length > 1 %}
         <div class="meta">
-          {% set lastTag = tags | last %}
+          {% set lastTag = tags | filterTagList | last %}
           <div class="tags">
             Tagged&nbsp;
             <ul class="tag-list">
