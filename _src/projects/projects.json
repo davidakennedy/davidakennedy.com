@@ -1,5 +1,5 @@
 {
   "templateClass": "page-template",
-  "permalink": "projects/{% if slug %}{{ slug }}{% else %}{{ title | slug }}{% endif %}/",
+  "permalink": "projects/{% if slug %}{{ slug }}{% else %}{{ title | slugify }}{% endif %}/",
   "layout": "layouts/page.njk"
 }

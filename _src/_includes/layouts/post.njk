@@ -26,7 +26,7 @@
             <ul class="tag-list">
               {% for tag in tags | filterTagList %}
                 {% if tag != "posts" %}
-                  {% set tagUrl %}/tag/{{ tag | slug }}/{% endset %}
+                  {% set tagUrl %}/tag/{{ tag | slugify }}/{% endset %}
                   <li><a href="{{ tagUrl | url }}" class="tag p-category">{{ tag }}</a>{% if tag != lastTag %},&nbsp;{% endif %}</li>
                 {%- endif -%}
               {% endfor %}

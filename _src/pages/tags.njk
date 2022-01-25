@@ -17,7 +17,7 @@ eleventyComputed:
     parent: Tags
 layout: layouts/page.njk
 templateClass: archive-template
-permalink: /tag/{{ tag | slug }}/
+permalink: /tag/{{ tag | slugify }}/
 ---
 
 {% set postlist = collections[ tag ] | reverse %}
