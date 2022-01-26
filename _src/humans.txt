@@ -33,7 +33,8 @@ https://davidakennedy.com
 
 - Libraries
   - Feather Icons (https://feathericons.com/)
-  - Fira Sans font (https://fonts.google.com/specimen/Fira+Sans)
+  - Source Serif (https://adobe-fonts.github.io/source-serif/)
+  - Source Code Pro (https://adobe-fonts.github.io/source-code-pro/)
 
 - Browsers
   - Chrome (https://www.google.com/chrome/)
