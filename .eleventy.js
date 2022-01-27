@@ -4,6 +4,7 @@ const fs = require("fs");
 const pluginRss = require("@11ty/eleventy-plugin-rss");
 const pluginSyntaxHighlight = require("@11ty/eleventy-plugin-syntaxhighlight");
 const eleventyNavigationPlugin = require("@11ty/eleventy-navigation");
+const image = require("@11ty/eleventy-img");
 const markdownIt = require("markdown-it");
 
 // Configuration and plugins.
@@ -102,6 +103,35 @@ module.exports = function (eleventyConfig) {
     }
     return content;
   });
+
+  // Image shortcode for eleventy-img
+  async function imageShortcode(src, alt, caption) {
+    let metadata = await image(src, {
+      // Fix paths
+      urlPath: "/assets/img/uploads/build/",
+      outputDir: "./_site/assets/img/uploads/build/",
+      widths: [300, 600, 1200],
+      formats: ["jpeg"],
+    });
+
+    let imageAttributes = {
+      alt,
+      sizes: "(min-width: 37.5em) 60vw, 100vw",
+      loading: "lazy",
+      decoding: "async",
+    };
+
+    if (caption !== undefined) {
+      return `<figure>${image.generateHTML(
+        metadata,
+        imageAttributes
+      )}<figcaption>${caption}</figcaption></figure>`;
+    } else {
+      return image.generateHTML(metadata, imageAttributes);
+    }
+  }
+
+  eleventyConfig.addNunjucksAsyncShortcode("image", imageShortcode);
 
   // Generate image markup.
   // A responsive image helper using Netlify Large Media - image transformation
