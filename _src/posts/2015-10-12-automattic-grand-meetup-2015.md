@@ -7,4 +7,4 @@ tags:
   - Conferences
 ---
 
-{% img "", "", "grandmeetup2015-1.jpg", "Automattic Grand Meetup 2015 conference badge", "", 600, 800, "" %}
+{% image "./_src/assets/img/uploads/grandmeetup2015-1.jpg", "Automattic Grand Meetup 2015 conference badge." %}

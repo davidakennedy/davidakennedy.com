@@ -7,4 +7,4 @@ tags:
   - Conferences
 ---
 
-{% img "", "", "wcus2015-1.jpg", "WordCamp US 2015 and Community Summit conference badges", "", 600, 800, "" %}
+{% image "./_src/assets/img/uploads/wcus2015-1.jpg", "WordCamp US 2015 and Community Summit conference badges." %}
