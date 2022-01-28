@@ -7,4 +7,4 @@ tags:
   - Conferences
 ---
 
-{% img "", "", "wcbalt2015-1.jpg", "WordCamp Baltimore 2015 conference badge.", "", 600, 800, "" %}
+{% image "./_src/assets/img/uploads/wcbalt2015-1.jpg", "WordCamp Baltimore 2015 conference badge." %}
