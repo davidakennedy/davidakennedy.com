@@ -8,4 +8,4 @@ tags:
   - Work
 ---
 
-{% img "", "", "grandmeetup2016-1.jpg", "Automattic Grand Meetup 2016 conference badge", "", 600, 800, "" %}
+{% image "./_src/assets/img/uploads/grandmeetup2016-1.jpg", "Automattic Grand Meetup 2016 conference badge." %}
