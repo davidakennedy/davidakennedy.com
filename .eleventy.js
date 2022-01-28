@@ -108,9 +108,9 @@ module.exports = function (eleventyConfig) {
   async function imageShortcode(src, alt, caption) {
     let metadata = await image(src, {
       // Fix paths
-      urlPath: "/assets/img/uploads/build/",
-      outputDir: "./_site/assets/img/uploads/build/",
-      widths: [300, 600, 1200],
+      urlPath: "/assets/img/build/",
+      outputDir: "./_site/assets/img/build/",
+      widths: [600, 1200],
       formats: ["jpeg"],
     });
 
