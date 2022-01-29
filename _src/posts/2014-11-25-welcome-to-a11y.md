@@ -2,7 +2,7 @@
 title: Welcome to A11y
 description: If you're new to accessibility, we need you.
 featuredimg: true
-img: ./_src/assets/img/uploads burning-fire-fireplace-1749.jpg
+img: ./_src/assets/img/uploads/burning-fire-fireplace-1749.jpg
 imgalt: Roaring fire.
 date: 2014-11-25T23:56:45+00:00
 permalink: /blog/welcome-to-a11y/
