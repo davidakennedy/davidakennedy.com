@@ -6,8 +6,8 @@
 {% block content %}
   <article class="post h-entry">
     <div class="post-header">
-      {%- if featuredimg and image -%}
-        {% respimg "", "", image, imgalt, "", 0.75, [320,480,640,800,960,1100], 1100, "", "" %}
+      {%- if featuredimg and img -%}
+        {% image img, imgalt %}
       {%- endif -%}
       {% set posttitle = title or renderData.title %}
       <h1 class="title p-name">{{ posttitle | markdownify }}</h1>

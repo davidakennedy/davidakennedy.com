@@ -500,8 +500,8 @@ input[type="submit"]:focus {
   margin-top: 0.7em;
 }
 
-.post-header figure + *,
-.page-header figure + * {
+.post-header img + *,
+.page-header img + * {
   margin-top: 1.4em;
 }
 
