@@ -2,7 +2,7 @@
 title: Can You Have Too Much Media in a Project?
 description: Here's why you can't have too much material when telling stories.
 featuredimg: true
-image: vincent-botta-wYD_wfifJVs-unsplash.jpg
+img: ./_src/assets/img/uploads/vincent-botta-wYD_wfifJVs-unsplash.jpg
 imgalt: Black and gray internal hard drive.
 date: 2010-01-17T21:21:16+00:00
 permalink: /blog/too-much-media-in-a-project/
@@ -25,18 +25,18 @@ No. No way.
 
 Here's why:
 
-  * A variety of media gives you choice and flexibility in storytelling.
-  * You probably won't regret not getting a shot or piece of footage.
-  * You can give your client plenty of b-roll footage for future projects or as other sources of income.
-  * You have plenty of places to find inspiration and stories.
+- A variety of media gives you choice and flexibility in storytelling.
+- You probably won't regret not getting a shot or piece of footage.
+- You can give your client plenty of b-roll footage for future projects or as other sources of income.
+- You have plenty of places to find inspiration and stories.
 
 Of course, a ton of media creates obstacles. You have more to comb through, it may be easy to lose focus of your final product and the sheer amount of material you have may eat up valuable time.
 
 Here's the strategy we're taking on our London project:
 
-  * We held a content and brainstorming meeting after two days to hash out exactly where the project was headed. We planned out our final product, so we knew exactly what we needed, but agreed we'd be flexible if we discovered any gems during the rest of the trip.
-  * We created a shot list for video and followed it.
-  * We created a log sheet for all media, so we know exactly what we have and how it might be organized.
+- We held a content and brainstorming meeting after two days to hash out exactly where the project was headed. We planned out our final product, so we knew exactly what we needed, but agreed we'd be flexible if we discovered any gems during the rest of the trip.
+- We created a shot list for video and followed it.
+- We created a log sheet for all media, so we know exactly what we have and how it might be organized.
 
 These three simple steps have helped guide us and keep the amount of media we have from overwhelming us. That lets us concentrate on the important part of the project – the story.
 

@@ -2,7 +2,7 @@
 title: "Accessibility Answers: Which Accessibility Problems Do I Fix First?"
 description: You have to start somewhere.
 featuredimg: true
-image: rawpixel-1057231-unsplash.jpg
+img: ./_src/assets/img/uploads/rawpixel-1057231-unsplash.jpg
 imgalt: Woman sitting and raising her hand beside another woman.
 date: 2015-04-26T23:25:18+00:00
 permalink: /blog/accessibility-answers-which-accessibility-problems-do-i-fix-first/
@@ -28,4 +28,4 @@ Further reading: [You Don’t have Accessibility Problems, You have Quality Prob
 
 Follow the series [Accessibility Answers](http://davidakennedy.com/tag/accessibility-answers/). Ask me a question via my [contact page](http://davidakennedy.com/contact/) or [Twiter](https://twitter.com/DavidAKennedy).
 
-_Image by _[rawpixel](https://unsplash.com/photos/Gx_o9dbqf34t)_.
+_Image by _[rawpixel](https://unsplash.com/photos/Gx_o9dbqf34t)\_.

@@ -2,7 +2,7 @@
 title: Developer Fitness
 description: We have to keep our developer fitness level as high as we can.
 featuredimg: true
-image: black-and-white-field-jogger-1219.jpg
+img: ./_src/assets/img/uploads/black-and-white-field-jogger-1219.jpg
 imgalt: Joggers jogging in a field.
 date: 2014-11-03T11:00:53+00:00
 permalink: /blog/developer-fitness/
@@ -27,7 +27,7 @@ I gave a talk about a workflow for testing for web accessibility with free tools
 
 ## Build a Wall
 
-When I landed a new job  at [Automattic](http://automattic.com/) recently, the company bought me a new work computer. I also needed a new personal machine since the one I had was more than six-years-old. So I bought a stock Apple 11-inch Macbook Air and refused to install any web development software on it. Except for [ImageOptim](https://imageoptim.com), which I use to compress images before uploading them to my blog, you won't find any dev tools. This has forced me to do more than just write code in my free time. I'm writing more here and reading more, things I wasn't doing much of before the wall.
+When I landed a new job at [Automattic](http://automattic.com/) recently, the company bought me a new work computer. I also needed a new personal machine since the one I had was more than six-years-old. So I bought a stock Apple 11-inch Macbook Air and refused to install any web development software on it. Except for [ImageOptim](https://imageoptim.com), which I use to compress images before uploading them to my blog, you won't find any dev tools. This has forced me to do more than just write code in my free time. I'm writing more here and reading more, things I wasn't doing much of before the wall.
 
 ## Branch Out
 

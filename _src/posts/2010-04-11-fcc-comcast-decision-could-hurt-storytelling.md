@@ -2,7 +2,7 @@
 title: How the FCC/Comcast Decision Could Hurt Storytelling
 description: What if the FCC can't expand open Internet access?
 featuredimg: true
-image: finn-hackshaw-FQgI8AD-BSg-unsplash.jpg
+img: ./_src/assets/img/uploads/finn-hackshaw-FQgI8AD-BSg-unsplash.jpg
 imgalt: White and orange open neon signage turned on.
 date: 2010-04-11T14:49:03+00:00
 permalink: /blog/fcc-comcast-decision-could-hurt-storytelling/
@@ -18,9 +18,9 @@ As the [New York Times article](http://www.nytimes.com/2010/04/07/technology/07n
 
 Only time will tell what will happen, but if ISPs start restricting access to content providers and begin charging them to distribute content, net neutrality will take a big hit. And so might storytelling.
 
-  * Some users may not be able to afford access to high bandwidth type content like videos.
-  * Media companies may have to pass the extra surcharge in Internet fees to the consumer, which wouldn't be a good thing for ailing legacy media companies.
-  * Smaller companies that provide new, innovative content may be strained with higher prices to distribute content, thus limiting creativity.
+- Some users may not be able to afford access to high bandwidth type content like videos.
+- Media companies may have to pass the extra surcharge in Internet fees to the consumer, which wouldn't be a good thing for ailing legacy media companies.
+- Smaller companies that provide new, innovative content may be strained with higher prices to distribute content, thus limiting creativity.
 
 With so much at stake for storytelling, this is an issue for any multimedia storyteller to watch.
 

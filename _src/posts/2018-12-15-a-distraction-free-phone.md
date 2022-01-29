@@ -2,7 +2,7 @@
 title: A Distraction-Free Phone
 description: Being intentional.
 featuredimg: true
-image: robin-worrall-749755-unsplash.jpg
+img: ./_src/assets/img/uploads/robin-worrall-749755-unsplash.jpg
 imgalt: Several people looking down at mobile phones.
 date: 2018-12-15T13:09:04+00:00
 permalink: /blog/a-distraction-free-phone/
@@ -20,20 +20,20 @@ No more. Here's how I did it.
 
 I downloaded the [Digital Wellbeing app](https://play.google.com/store/apps/details?id=com.google.android.apps.wellbeing&hl=en_US) from the Google Play Store. This will be released later this fall as part of Android. The app allows you to set timers for all your apps. Once you run out of time, it locks the affected app. I set a zero-minute timer for all the apps that distract me the most. They are:
 
-  * Chrome
-  * Gmail
-  * Twitter
-  * Slack
-  * YouTube
-  * ESPN
+- Chrome
+- Gmail
+- Twitter
+- Slack
+- YouTube
+- ESPN
 
 That way, if I want to use these tools, I have to be intentional about it. I can't just mindlessly click into them and lose time.
 
 So far:
 
-  * Having an extra barrier does help. I've spent a bit more time on my laptop, but I'm being more intentional there as well. Getting a task done and moving on.
-  * I'm spending less time fiddling with email or opening up an app without a strict purpose.
-  * I have more mental space for thinking and writing.
+- Having an extra barrier does help. I've spent a bit more time on my laptop, but I'm being more intentional there as well. Getting a task done and moving on.
+- I'm spending less time fiddling with email or opening up an app without a strict purpose.
+- I have more mental space for thinking and writing.
 
 This isn't my first foray into a more distracted-free lifestyle. I started [reducing the number of apps I use on my phone](/blog/less-apps-one-week-in/) two years ago, and have mostly stuck to that.
 

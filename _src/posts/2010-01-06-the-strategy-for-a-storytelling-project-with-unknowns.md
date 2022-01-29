@@ -2,7 +2,7 @@
 title: The Strategy for a Storytelling Project with Unknowns
 description: Sometimes the unknowns of a project can help you make it great.
 featuredimg: true
-image: big-ben-1230998.jpg
+img: ./_src/assets/img/uploads/big-ben-1230998.jpg
 imgalt: Big Ben.
 date: 2010-01-06T10:57:43+00:00
 permalink: /blog/the-strategy-for-a-storytelling-project-with-unknowns/

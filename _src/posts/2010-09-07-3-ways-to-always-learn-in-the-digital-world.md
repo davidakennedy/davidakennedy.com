@@ -2,7 +2,7 @@
 title: Three Ways to Always Learn in the Digital World
 description: Some tips on learning always and fast in a changing field.
 featuredimg: true
-image: crissy-jarvis-gdL-UZfnD3I-unsplash.jpg
+img: ./_src/assets/img/uploads/crissy-jarvis-gdL-UZfnD3I-unsplash.jpg
 imgalt: Abacus with red, yellow, green and blue counters.
 date: 2010-09-07T13:06:24+00:00
 permalink: /blog/3-ways-to-always-learn-in-the-digital-world/
@@ -18,9 +18,9 @@ It jumps off of Buttry's posts on [landing your next digital journalism job](htt
 
 ## It's About Places, People and Projects
 
-  1. **Find places to teach yourself and learn**. I love [Lynda.com](http://www.lynda.com/). I used it extensively in my grad program to learn things the professors couldn't cover and/or didn't know. I continue to use it and other tools to do the same thing now. Find communities that are passionate about what you want to or need to know. Listen and engage there.
-  2. **Create a side project or two** (to implement those things you're learning). Buttry touches on this in a way, but I have learned so much from developing, writing for and maintaining Journalism Lives. In such a short time span too! What's your passion? What can you make from scratch? Let the possibilities guide you more than the limitations.
-  3. **Partner with good people** (to learn more of what you want to know). I had the initial idea for Journalism Lives, but it certainly would not be what it is without Earley's knowledge and passion. Thanks to him, the learning is always on. Find people you admire who know more than you, and work with them. You'll have a lot to teach each other.
+1. **Find places to teach yourself and learn**. I love [Lynda.com](http://www.lynda.com/). I used it extensively in my grad program to learn things the professors couldn't cover and/or didn't know. I continue to use it and other tools to do the same thing now. Find communities that are passionate about what you want to or need to know. Listen and engage there.
+2. **Create a side project or two** (to implement those things you're learning). Buttry touches on this in a way, but I have learned so much from developing, writing for and maintaining Journalism Lives. In such a short time span too! What's your passion? What can you make from scratch? Let the possibilities guide you more than the limitations.
+3. **Partner with good people** (to learn more of what you want to know). I had the initial idea for Journalism Lives, but it certainly would not be what it is without Earley's knowledge and passion. Thanks to him, the learning is always on. Find people you admire who know more than you, and work with them. You'll have a lot to teach each other.
 
 This is just what works for me. How are you always learning?
 

@@ -2,7 +2,7 @@
 title: Planning a Big Storytelling Project - Have an Eye on the Story
 description: A post about project management and planning a bit project – as part of Elon's iMedia program.
 featuredimg: true
-image: big-ben-1230998.jpg
+img: ./_src/assets/img/uploads/big-ben-1230998.jpg
 imgalt: Big Ben.
 date: 2010-01-05T07:45:40+00:00
 permalink: /blog/planning-a-big-storytelling-project/

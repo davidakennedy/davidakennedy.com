@@ -2,7 +2,7 @@
 title: "Accessibility Answers: How Do I Handle Alt Attributes"
 description: Writing good alt text takes careful consideration.
 featuredimg: true
-image: rawpixel-1057231-unsplash.jpg
+img: ./_src/assets/img/uploads/rawpixel-1057231-unsplash.jpg
 imgalt: Woman sitting and raising her hand beside another woman.
 date: 2015-05-03T23:58:17+00:00
 permalink: /blog/accessibility-answers-how-do-i-handle-alt-attributes/
@@ -19,7 +19,6 @@ _When I give presentations on accessibility, I often get one or two questions Iâ
 Alt attributes can trip up even the most seasoned web worker. But do them right, and they make a huge difference to screen reader users.
 
 I like this table from an [article by Whitney Quesenbery](http://uxpamagazine.org/make-your-presentations-accessible/).
-
 
 <table>
 <tr>

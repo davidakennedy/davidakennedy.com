@@ -2,7 +2,7 @@
 title: "Accessibility Answers: How Do I Handle JavaScript and Accessibility"
 description: JavaScript isn't the enemy.
 featuredimg: true
-image: rawpixel-1057231-unsplash.jpg
+img: ./_src/assets/img/uploads/rawpixel-1057231-unsplash.jpg
 imgalt: Woman sitting and raising her hand beside another woman.
 date: 2015-04-08T23:12:04+00:00
 permalink: /blog/accessibility-answers-how-do-i-handle-javascript-and-accessibility/
@@ -22,10 +22,10 @@ Further reading: [Accessible JavaScript](http://webaim.org/techniques/javascript
 
 That said, you should keep these things in mind:
 
-  * Use semantic HTML as your base. Employ native controls that work well with all devices, like `<a>`, `<button>` or `<input>`.
-  * Follow progressive enhancement, and use JavaScript to aid in the functionality of your interfaces. Whenever possible, try to make your interfaces work at a basic level minus JavaScript. Think of it like that old, beat-up car that just never quits, no matter the conditions. We all appreciate cars like that.
-  * Use device dependent event handlers: **onFocus**, **onBlur**, **onSubmit**, **onClick**. These will work with a variety of devices and input methods.
-  * Implement [ARIA](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA) where applicable to communicate context, like change of state, to assistive technology.
+- Use semantic HTML as your base. Employ native controls that work well with all devices, like `<a>`, `<button>` or `<input>`.
+- Follow progressive enhancement, and use JavaScript to aid in the functionality of your interfaces. Whenever possible, try to make your interfaces work at a basic level minus JavaScript. Think of it like that old, beat-up car that just never quits, no matter the conditions. We all appreciate cars like that.
+- Use device dependent event handlers: **onFocus**, **onBlur**, **onSubmit**, **onClick**. These will work with a variety of devices and input methods.
+- Implement [ARIA](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA) where applicable to communicate context, like change of state, to assistive technology.
 
 Further reading: [Modern Web Accessibility with JavaScript & WAI-ARIA](http://pauljadam.com/moderna11y/).
 

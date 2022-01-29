@@ -2,7 +2,7 @@
 title: Going with the Flow on a Storytelling Project
 description: Learn how to thrive on any big project by going with the flow.
 featuredimg: true
-image: big-ben-1230998.jpg
+img: ./_src/assets/img/uploads/big-ben-1230998.jpg
 imgalt: Big Ben.
 date: 2010-01-09T18:02:13+00:00
 permalink: /blog/going-with-the-flow-on-a-storytelling-project/
@@ -27,9 +27,9 @@ You can do the same thing, no matter what kind of storytelling project you're wo
 
 Go with this strategy:
 
-  * Create a plan and a back-up plan for your project.
-  * Go in knowing everything won't work out.
-  * Be ready to adjust at any time.
+- Create a plan and a back-up plan for your project.
+- Go in knowing everything won't work out.
+- Be ready to adjust at any time.
 
 It's a simple strategy, but one that can help you accomplish anything.
 

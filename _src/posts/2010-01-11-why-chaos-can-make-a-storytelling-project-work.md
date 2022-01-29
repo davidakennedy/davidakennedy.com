@@ -2,7 +2,7 @@
 title: Why Chaos Can Make a Storytelling Project Work
 description: Learn how to harness uncertainty when working on a big project.
 featuredimg: true
-image: big-ben-1230998.jpg
+img: ./_src/assets/img/uploads/big-ben-1230998.jpg
 imgalt: Big Ben.
 date: 2010-01-11T18:53:49+00:00
 permalink: /blog/why-chaos-can-make-a-storytelling-project-work/

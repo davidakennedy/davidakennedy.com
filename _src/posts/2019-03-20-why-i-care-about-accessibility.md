@@ -2,7 +2,7 @@
 title: Why I Care About Accessibility
 description: "You might not know I'm a twin."
 featuredimg: true
-image: tim-marshall-114623-unsplash.jpg
+img: ./_src/assets/img/uploads/tim-marshall-114623-unsplash.jpg
 imgalt: Hands formed together with red heart paint.
 date: 2019-03-20T11:00:50+00:00
 permalink: /blog/why-i-care-about-accessibility/

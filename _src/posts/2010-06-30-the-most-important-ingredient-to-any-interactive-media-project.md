@@ -2,7 +2,7 @@
 title: The Most Important Ingredient to any Interactive Media Project
 description: You have to take people on an adventure.
 featuredimg: true
-image: the-new-york-public-library-yEauzeZU6xo-unsplash.jpg
+img: ./_src/assets/img/uploads/the-new-york-public-library-yEauzeZU6xo-unsplash.jpg
 imgalt: A close-up photo of Earth from outer space.
 date: 2010-06-30T11:23:45+00:00
 permalink: /blog/the-most-important-ingredient-to-any-interactive-media-project/
@@ -21,7 +21,6 @@ But that's all right. Everyone has their place in the world, and I can still liv
 As I watched one of the documentary episodes last night, a line by one of the astronauts reinforced one of the biggest ingredients to a successful interactive media project and its story. The episode told of the tale of one of the [Apollo Eight mission](http://history.nasa.gov/SP-4029/Apollo_08a_Summary.htm), and the first time America viewed the moon.
 
 After Astronaut [William Anders](http://www.jsc.nasa.gov/Bios/htmlbios/anders-wa.html) took his famous photo, &#8220;[Earthrise](http://en.wikipedia.org/wiki/Earthrise),&#8221; he said:
-
 
 > "It's ironic. We went there to explore the moon and we rediscovered Earth."
 

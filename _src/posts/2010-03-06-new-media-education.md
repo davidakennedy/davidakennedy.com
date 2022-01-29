@@ -2,7 +2,7 @@
 title: Could a New Media Education Mean Better Communication Online?
 description: On the Internet, anyone can express their voice to millions of potential users, readers and listeners. Or can they?
 featuredimg: true
-image: randy-fath-07dDz_PI05k-unsplash.jpg
+img: ./_src/assets/img/uploads/randy-fath-07dDz_PI05k-unsplash.jpg
 imgalt: Pink petaled flowers blooms near white, picket fence.
 date: 2010-03-06T23:00:13+00:00
 permalink: /blog/new-media-education/

@@ -2,7 +2,7 @@
 title: What if Newspaper Home Pages were like iGoogle?
 description: A prototype for the Knight News Challenge about newspapers and iGoogle.
 featuredimg: true
-image: roman-kraft-_Zua2hyvTBk-unsplash.jpg
+img: ./_src/assets/img/uploads/roman-kraft-_Zua2hyvTBk-unsplash.jpg
 imgalt: Man sitting on bench reading newspaper.
 date: 2010-01-03T09:44:11+00:00
 permalink: /blog/what-if-newspaper-home-pages-were-like-igoogle/

@@ -2,7 +2,7 @@
 title: You and the Future of WordPress Themes
 description: Designers in the WordPress community should release more theme design ideas.
 featuredimg: true
-image: road-street-desert-industry.jpg
+img: ./_src/assets/img/uploads/road-street-desert-industry.jpg
 imgalt: Road that curves into horizon.
 date: 2015-06-08T16:47:43+00:00
 permalink: /blog/you-and-the-future-of-wordpress-themes/

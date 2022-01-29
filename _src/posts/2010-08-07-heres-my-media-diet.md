@@ -2,7 +2,7 @@
 title: "Here's My Media Diet"
 description: A bit about what I'm reading, watching, listening to, etc.
 featuredimg: true
-image: tim-mossholder-oTjFWTHDRZQ-unsplash.jpg
+img: ./_src/assets/img/uploads/tim-mossholder-oTjFWTHDRZQ-unsplash.jpg
 imgalt: Close-up photo of SPMTE color bars.
 date: 2010-08-07T14:16:06+00:00
 permalink: /blog/heres-my-media-diet/
@@ -13,6 +13,7 @@ tags:
   - Personal
   - Reading
 ---
+
 We know that media consumption habits have changed and evolved tremendously.
 
 But have you thought about yours lately? It's an interesting thought, I think. [The Atlantic Wire](http://www.theatlanticwire.com/) has a cool series called [Media Diet](http://www.theatlanticwire.com/features/index/category/Media-Diet-18), where staffers interview top thinkers about what they read.

@@ -2,7 +2,7 @@
 title: The Most Important Non-Digital Tool for Any Creative
 description: A simple notebook may be the thing that keeps you sane in a crowded digital world.
 featuredimg: true
-image: mike-tinnion-3ym6i13Y9LU-unsplash.jpg
+img: ./_src/assets/img/uploads/mike-tinnion-3ym6i13Y9LU-unsplash.jpg
 imgalt: Black and silver retractable pen on blank notebook.
 date: 2009-10-07T22:14:29+00:00
 permalink: /blog/important-non-digital-tool-for-any-creative/
@@ -26,13 +26,13 @@ Seriously, if you create in any way, shape or form, you should have one with you
 
 Some reasons notebooks rule:
 
-  * Their battery never dies.
-  * Putting pen to paper feels fantastic.
-  * Write, sketch, this thing is multidimensional.
-  * Crumpling up paper and throwing away your bad ideas is therapeutic.
-  * Ideas never escape you.
-  * You start developing a timeline of creativity. Learn how, what and where you're most creative!
-  * If you put something in it every day – you're productive.
+- Their battery never dies.
+- Putting pen to paper feels fantastic.
+- Write, sketch, this thing is multidimensional.
+- Crumpling up paper and throwing away your bad ideas is therapeutic.
+- Ideas never escape you.
+- You start developing a timeline of creativity. Learn how, what and where you're most creative!
+- If you put something in it every day – you're productive.
 
 Being a writer, I have heard this advice over and over. I have done it at various points in my life, but lately I've realized I need to reacquaint myself with the habit of carrying paper around.
 

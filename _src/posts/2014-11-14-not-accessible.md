@@ -2,13 +2,13 @@
 title: Not Accessible
 description: Storytelling can fit into social media too. Here are three tips.
 featuredimg: true
-image: argument-boxing-conflict-343.jpg
+img: ./_src/assets/img/uploads/argument-boxing-conflict-343.jpg
 imgalt: Woman punching man in face with boxing gloves.
 date: 2014-11-14T11:00:00+00:00
 permalink: /blog/not-accessible/
 tags:
   - Accessibility
---- 
+---
 
 We do this thing in the accessibility world where we call out a website, web application or whatever else as not accessible – and we do it uninvited. I've done it myself.
 
@@ -20,17 +20,17 @@ I don't know about you, but I want more new friends and teammates in the accessi
 
 If you see something that isn't accessible, ask youself these questions:
 
-  * Have I seen this before on the web?
-  * What's the context of this issue? Is the rest of the site or application just as bad? Is it better?
-  * If I had to talk to the person responsible for creating this issue in real life, what would I say to inspire improvement and continued conversation? In other words, a relationship.
+- Have I seen this before on the web?
+- What's the context of this issue? Is the rest of the site or application just as bad? Is it better?
+- If I had to talk to the person responsible for creating this issue in real life, what would I say to inspire improvement and continued conversation? In other words, a relationship.
 
 ## Take Action that Benefits Everyone
 
 After asking those questions, you could take these actions to help everyone, instead of calling attention to one person's or team's mistakes:
 
-  * Write a blog post about the pattern you've found, outlining the context of the issue, why it causes a problem and how to fix it in a pragmatic way.
-  * Contribute to an open source project, helping bolster its accessibility. Maybe you contribute code, file an issue or write accessibility documentation.
-  * Create a talk on the topic and present it to a local meetup group.
+- Write a blog post about the pattern you've found, outlining the context of the issue, why it causes a problem and how to fix it in a pragmatic way.
+- Contribute to an open source project, helping bolster its accessibility. Maybe you contribute code, file an issue or write accessibility documentation.
+- Create a talk on the topic and present it to a local meetup group.
 
 We need to promote best practices and create accessible patterns for our web designer and developer teammates, not fix every mistake they make. Remember, we're on the same team. We're friends!
 
@@ -40,6 +40,6 @@ Think about all those missed conversations I could have had with mentors, collea
 
 ### Further Reading
 
-  * [Drive-by Criticism Must Die](http://christianheilmann.com/2013/01/27/drive-by-criticism-must-die/)
+- [Drive-by Criticism Must Die](http://christianheilmann.com/2013/01/27/drive-by-criticism-must-die/)
 
 Image courtesy of [Pexels.com](http://www.pexels.com/photo/343/).

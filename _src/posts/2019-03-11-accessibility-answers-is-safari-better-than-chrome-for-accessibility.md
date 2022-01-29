@@ -2,7 +2,7 @@
 title: "Accessibility Answers: Is Safari Better than Chrome for Accessibility?"
 description: Well, no.
 featuredimg: true
-image: rawpixel-1057231-unsplash.jpg
+img: ./_src/assets/img/uploads/rawpixel-1057231-unsplash.jpg
 imgalt: Woman sitting and raising her hand beside another woman.
 date: 2019-03-11T11:00:34+00:00
 permalink: /blog/accessibility-answers-is-safari-better-than-chrome-for-accessibility/
@@ -21,10 +21,10 @@ That's the short answer, but let's go deeper. People often ask this type of ques
 
 All valid questions, but in today's "modern web" most browsers are comparable when it comes to accessibility features. If you're testing your design or development work in a browser with a screen reader, you'll want to stick to a few combinations:
 
-  * VoiceOver with Safari on MacOS and iOS.
-  * NVDA with Firefox.
-  * Edge/Internet Explorer 11 with Jaws.
-  * Talkback with Firefox or Chrome.
+- VoiceOver with Safari on MacOS and iOS.
+- NVDA with Firefox.
+- Edge/Internet Explorer 11 with Jaws.
+- Talkback with Firefox or Chrome.
 
 This post from [Maxability on screen reader and browser combinations](http://www.maxability.co.in/2017/02/screen-reader-and-browser-combination-for-accessibility/) has more information. And if you want some [survey data on screen reader usage](https://webaim.org/projects/screenreadersurvey7/), WebAIM has puts together some on a regular basis.
 
