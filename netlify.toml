@@ -2,6 +2,12 @@
   publish = "_site"
   command = "npm run build"
 
+# Plugins
+[[plugins]]
+  package = "netlify-plugin-11ty"
+  [plugins.inputs]
+    cache_img = './assets/img/build'
+
 # Better blog urls
 [[redirects]]
   from = "/:year/:month/:day/:slug"

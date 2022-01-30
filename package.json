@@ -32,5 +32,8 @@
     "luxon": "^2.3.0",
     "markdown-it": "^12.3.2",
     "terser": "^5.10.0"
+  },
+  "dependencies": {
+    "netlify-plugin-11ty": "^1.1.0"
   }
 }
