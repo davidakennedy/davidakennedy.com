@@ -133,59 +133,6 @@ module.exports = function (eleventyConfig) {
 
   eleventyConfig.addNunjucksAsyncShortcode("image", imageShortcode);
 
-  // Generate image markup.
-  // A responsive image helper using Netlify Large Media - image transformation
-  // Also not indented because: https://www.11ty.io/docs/languages/markdown/#there-are-extra-and-in-my-output
-  eleventyConfig.addShortcode(
-    "img",
-    (figclass, imgclass, url, alt, caption, width, height, lazy) => {
-      return `<figure ${figclass ? `class="${figclass}"` : ""}><img ${
-        imgclass ? `class="${imgclass}"` : ""
-      } src="/assets/img/uploads/${url}?nf_resize=smartcrop&w=${width}&h=${height}" alt="${
-        alt ? alt : ""
-      }" width="${width}" height="${height}" ${
-        lazy ? `loading="${lazy}"` : ""
-      } />${caption ? `<figcaption>${caption}</figcaption>` : ""}</figure>`;
-    }
-  );
-
-  // Generate hero image markup.
-  // A responsive image helper using Netlify Large Media - image transformation
-  // Also not indented because: https://www.11ty.io/docs/languages/markdown/#there-are-extra-and-in-my-output
-  eleventyConfig.addShortcode(
-    "respimg",
-    (
-      figclass,
-      imgclass,
-      url,
-      alt,
-      caption,
-      ratio,
-      srcsetWidths,
-      fallbackWidth,
-      sizes,
-      lazy
-    ) => {
-      const fetchBase = `/assets/img/uploads/`;
-      const fallbackHeight = fallbackWidth * ratio;
-      const src = `${fetchBase}${url}?nf_resize=fit&w=${fallbackWidth}&h=${fallbackHeight}`;
-      const srcset = srcsetWidths
-        .map((width) => {
-          const height = width * ratio;
-          return `${fetchBase}${url}?nf_resize=fit&w=${width}&h=${height} ${width}w`;
-        })
-        .join(", ");
-
-      return `<figure ${figclass ? `class="${figclass}"` : ""}><img ${
-        imgclass ? `class="${imgclass}"` : ""
-      } srcset="${srcset}" sizes="${
-        sizes ? sizes : "(min-width: 37.5em) 60vw, 100vw"
-      }" src="${src}" alt="${alt ? alt : ""}" ${
-        lazy ? `loading="${lazy}"` : ""
-      }>${caption ? `<figcaption>${caption}</figcaption>` : ""}</figure>`;
-    }
-  );
-
   // Get current year for copyright.
   eleventyConfig.addShortcode("copyrightDates", (startYear) => {
     return startYear + " - " + new Date().getFullYear();
