@@ -12,8 +12,8 @@ Who wouldn't like living and working in Hawaii for a week in December? Here are 
 
 We [released a few themes](https://themeshaper.com/2018/02/15/styling-themes-for-gutenberg/) we created with Gutenberg in mind. This was my first meetup as team lead, and I had a blast exploring WordPress' new editing experience with my team.
 
-{% respimg "", "", "theam-hawaii2017-1.jpg", "Pacific Ocean view from a balcony.", "", 0.75, [320,480,640,800,960,1100], 1100, "", "lazy" %}
-{% respimg "", "", "theam-hawaii2017-2.jpg", "Sunset view with palm trees in background.", "", 0.75, [320,480,640,800,960,1100], 1100, "", "lazy" %}
-{% respimg "", "", "theam-hawaii2017-3.jpg", "View of ocean at sunset through a set of trees.", "", 0.75, [320,480,640,800,960,1100], 1100, "", "lazy" %}
-{% respimg "", "", "theam-hawaii2017-4.jpg", "Banyan tree.", "", 0.75, [320,480,640,800,960,1100], 1100, "", "lazy" %}
-{% respimg "", "", "theam-hawaii2017-5.jpg", "A shoreline with clouds in the background.", "", 0.75, [320,480,640,800,960,1100], 1100, "", "lazy" %}
+{% image "./_src/assets/img/uploads/theam-hawaii2017-1.jpg", "Pacific Ocean view from a balcony." %}
+{% image "./_src/assets/img/uploads/theam-hawaii2017-2.jpg", "Sunset view with palm trees in background." %}
+{% image "./_src/assets/img/uploads/theam-hawaii2017-3.jpg", "View of ocean at sunset through a set of trees." %}
+{% image "./_src/assets/img/uploads/theam-hawaii2017-4.jpg", "Banyan tree." %}
+{% image "./_src/assets/img/uploads/theam-hawaii2017-5.jpg", "A shoreline with clouds in the background." %}
