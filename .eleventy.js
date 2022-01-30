@@ -87,8 +87,8 @@ module.exports = function (eleventyConfig) {
     return minified.code;
   });
 
-  eleventyConfig.addFilter("imgPath", function (file) {
-    return `/assets/img/uploads/${file}`;
+  eleventyConfig.addFilter("imgPath", function (path) {
+    return path.replace("/_src", "");
   });
 
   const htmlmin = require("html-minifier");
