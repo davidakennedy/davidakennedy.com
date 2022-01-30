@@ -288,12 +288,13 @@ figcaption {
 }
 
 img {
-  border: 1px solid #949494;
-  border: 1px solid var(--decorative);
   display: block;
   height: auto;
   max-width: 100%;
-  padding: 0.125em;
+  outline: 1px solid;
+  outline-color: #949494;
+  outline-color: var(--decorative);
+  outline-offset: 0.05em;
 }
 
 .site-header img {
