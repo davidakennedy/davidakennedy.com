@@ -567,8 +567,8 @@ input[type="submit"]:focus {
 }
 
 /* Widths */
-.page-header > *,
-.post-header > *,
+.page-header > .title,
+.post-header > .title,
 .page-content > *,
 .post-content > * {
   max-width: 60ch;
