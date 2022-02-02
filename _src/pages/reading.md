@@ -15,7 +15,7 @@ You can also see what I read in past years, at least when I began keeping track 
 
 The list:
 
-1. _The Paper Menagerie and Other Stories_ by Ken Liu
+1. &hearts; _The Paper Menagerie and Other Stories_ by Ken Liu
 2. _Pastoral Song: A Farmer's Journey_ by James Rebanks
 3. _Butterick's Practical Typography_ by Matthew Butterick
 4. _Ikigai: The Japanese Secret to a Long and Happy Life_ by Francesc Miralles and Hector Garcia Puigcerver
