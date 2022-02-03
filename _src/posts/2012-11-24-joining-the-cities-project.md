@@ -16,7 +16,7 @@ Since then I've made a bit of progress. I've gotten my base theme files in shape
 
 It didn't take long for me to say yes and jump onto the project. It would have been fun to create something on my own, but to collaborate with part of the accessibility community, be a part of a larger project and produce something truly open source is exciting.
 
-We're in the beginning stages of it all, assembling teams and deciding on the goals of the themes. Stay tuned for more as the project develops. 
+We're in the beginning stages of it all, assembling teams and deciding on the goals of the themes. Stay tuned for more as the project develops.
 
 <p class="callout">
   If you want to be a part of the project, <a href="mailto:me@davidakennedy.com">email me</a>, or <a href="http://twitter.com/DavidAKennedy">contact me on Twitter</a>. I'm looking for a designer for my team.

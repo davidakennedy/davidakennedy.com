@@ -12,7 +12,7 @@ tags:
 
 Accessible Zen now comes packaged with a French translation, plus starter files in English to get new translations going easier. Thanks to [Brieuc Segalen](http://briseg.com) for contributing the translation!
 
-The changelog is below. 
+The changelog is below.
 
 <p class="callout">
   Grab the theme in the <a href="http://wordpress.org/themes/accessible-zen">official theme directory</a>.
@@ -22,5 +22,5 @@ The changelog is below.
 
 Release: Version 1.1.3
 
-  * Add basic translation files.
-  * French translation by [Brieuc Segalen](http://briseg.com).
+- Add basic translation files.
+- French translation by [Brieuc Segalen](http://briseg.com).

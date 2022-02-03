@@ -30,13 +30,13 @@ You can read about all the updates below.
 
 ### Changelog for 1.1
 
-  * [Add contextual help to theme](https://github.com/davidakennedy/accessible-zen/issues/54).
-  * [Improve Customizer features and set better default options](https://github.com/davidakennedy/accessible-zen/issues/53). This may cause users to have to set their options again via the Customizer.
-  * Add appropriate theme tags for WordPress, version 3.8, including accessibility-ready.
-  * Remove bottom border on hover on site title.
-  * Add new screenshot according to WordPress, version 3.8 standards.
-  * Update Genericons to version 3.0.2.
-  * Move changelog to separate file.
+- [Add contextual help to theme](https://github.com/davidakennedy/accessible-zen/issues/54).
+- [Improve Customizer features and set better default options](https://github.com/davidakennedy/accessible-zen/issues/53). This may cause users to have to set their options again via the Customizer.
+- Add appropriate theme tags for WordPress, version 3.8, including accessibility-ready.
+- Remove bottom border on hover on site title.
+- Add new screenshot according to WordPress, version 3.8 standards.
+- Update Genericons to version 3.0.2.
+- Move changelog to separate file.
 
 <p class="callout">
   <a href="http://wordpress.org/themes/accessible-zen">Download Accessible Zen</a> or <a href="http://wordpress.org/support/view/theme-reviews/accessible-zen">write a theme review</a>.

@@ -60,6 +60,8 @@ select {
   --lighttext: #666666;
   --text: #333333;
   --decorative: #949494;
+  --marklight: #f6f6f6;
+  --markdark: #ededed;
   /* Other stuff */
   --font-serif: "Source Serif VF", Constantia, "Lucida Bright", Lucidabright,
     "Lucida Serif", Lucida, "DejaVu Serif", "Bitstream Vera Serif",
@@ -120,8 +122,17 @@ body {
 
 /* Make something stand out */
 .callout {
-  border: 2px solid #949494;
-  border: 2px solid var(--decorative);
+  background-color: #f6f6f6;
+  background-image: linear-gradient(to right, #ededed 0%, #f6f6f6 100%);
+  background-color: var(--marklight);
+  background-image: linear-gradient(
+    to right,
+    var(--markdark) 0%,
+    var(--marklight) 100%
+  );
+  outline: 2px dotted #333333;
+  outline: 2px dotted var(--text);
+  outline-offset: 0.1em;
   border-radius: 0.1em;
   padding: 0.5em;
 }
@@ -297,6 +308,17 @@ img {
 
 .site-header img {
   border-radius: 50%;
+}
+
+mark {
+  background-color: #f6f6f6;
+  background-image: linear-gradient(to right, #ededed 0%, #f6f6f6 100%);
+  background-color: var(--marklight);
+  background-image: linear-gradient(
+    to right,
+    var(--markdark) 0%,
+    var(--marklight) 100%
+  );
 }
 
 /* Links */
