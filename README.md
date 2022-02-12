@@ -18,10 +18,6 @@ cd davidakennedy.com
 
 ### 3. Install dependencies
 
-Install [Netlify Large Media](https://docs.netlify.com/large-media/setup/)
-
-### 3. Install dependencies
-
 ```
 npm install
 ```
@@ -41,11 +37,12 @@ npm run build
 ```
 
 Or debug changes:
+
 ```
 npm run debug
 ```
 
 ## Built with
 
-* [Elventy, Copyright (c) 2020 Zach Leatherman @zachleat](https://www.11ty.dev/)
-* [Elventy Base Blog, Copyright (c) 2018 Zach Leatherman @zachleat](https://github.com/11ty/eleventy-base-blog)
+- [Elventy, Copyright (c) 2020 Zach Leatherman @zachleat](https://www.11ty.dev/)
+- [Elventy Base Blog, Copyright (c) 2018 Zach Leatherman @zachleat](https://github.com/11ty/eleventy-base-blog)
