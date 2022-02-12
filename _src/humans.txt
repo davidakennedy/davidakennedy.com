@@ -33,7 +33,7 @@ https://davidakennedy.com
 
 - Libraries
   - Feather Icons (https://feathericons.com/)
-  - Source Serif (https://adobe-fonts.github.io/source-serif/)
+  - Infini (https://www.cnap.fr/sites/infini/en/)
   - Source Code Pro (https://adobe-fonts.github.io/source-code-pro/)
 
 - Browsers
