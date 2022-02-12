@@ -1,38 +1,11 @@
 /* Fonts */
-@supports (font-variation-settings: normal) {
-  @font-face {
-    font-display: swap;
-    font-family: "Source Serif VF";
-    font-weight: 200 900;
-    font-style: normal;
-    font-stretch: normal;
-    src: url("/assets/fonts/SourceSerif4Variable-Roman.ttf.woff2")
-        format("woff2 supports variations"),
-      url("/assets/fonts/SourceSerif4Variable-Roman.ttf.woff2")
-        format("woff2-variations");
-  }
-
-  @font-face {
-    font-family: "Source Serif VF";
-    font-weight: 200 900;
-    font-style: italic;
-    font-stretch: normal;
-    src: url("/assets/fonts/SourceSerif4Variable-Italic.ttf.woff2")
-        format("woff2 supports variations"),
-      url("/assets/fonts/SourceSerif4Variable-Italic.ttf.woff2")
-        format("woff2-variations");
-  }
-
-  @font-face {
-    font-family: "Source Code VF";
-    font-weight: 200 900;
-    font-style: normal;
-    font-stretch: normal;
-    src: url("/assets/fonts/SourceCodeVariable-Roman.ttf.woff2")
-        format("woff2 supports variations"),
-      url("/assets/fonts/SourceCodeVariable-Roman.ttf.woff2")
-        format("woff2-variations");
-  }
+@font-face {
+  font-family: "Infini Bold";
+  font-display: swap;
+  src: url("/assets/fonts/infini-bold-webfont.woff2") format("woff2"),
+    url("/assets/fonts/infini-bold-webfont.woff") format("woff");
+  font-weight: 700;
+  font-style: normal;
 }
 
 /* Reset-ish */
@@ -63,13 +36,9 @@ select {
   --marklight: #f6f6f6;
   --markdark: #ededed;
   /* Other stuff */
-  --font-serif: "Source Serif VF", Constantia, "Lucida Bright", Lucidabright,
-    "Lucida Serif", Lucida, "DejaVu Serif", "Bitstream Vera Serif",
-    "Liberation Serif", Georgia, serif;
-  --font-monospace: "Source Code VF", Consolas, "Andale Mono WT", "Andale Mono",
-    "Lucida Console", "Lucida Sans Typewriter", "DejaVu Sans Mono",
-    "Bitstream Vera Sans Mono", "Liberation Mono", "Nimbus Mono L", Monaco,
-    "Courier New", Courier, monospace;
+  --font-serif: Georgia, serif;
+  --font-san-serif: "Infini Bold", sans-serif;
+  --font-monospace: Menlo, monospace;
   --line-height: 1.4;
   --line-height-small: 1.2;
   --measure-narrow: 30ch;
@@ -79,9 +48,7 @@ select {
   background-color: var(--background);
   color: #333333;
   color: var(--text);
-  font-family: "Source Serif VF", Constantia, "Lucida Bright", Lucidabright,
-    "Lucida Serif", Lucida, "DejaVu Serif", "Bitstream Vera Serif",
-    "Liberation Serif", Georgia, serif;
+  font-family: Georgia, serif;
   font-family: var(--font-serif);
   font-weight: 400;
   height: 100%;
@@ -154,6 +121,8 @@ h3,
 .h3,
 h4,
 .h4 {
+  font-family: "Infini", serif;
+  font-family: var(--font-san-serif);
   font-weight: 700;
   line-height: 1.2;
   line-height: var(--line-height-small);
@@ -205,10 +174,7 @@ pre {
   border: 0.0625em solid #949494;
   border: 0.0625em solid var(--decorative);
   border-radius: 0.3em;
-  font-family: "Source Code VF", Consolas, "Andale Mono WT", "Andale Mono",
-    "Lucida Console", "Lucida Sans Typewriter", "DejaVu Sans Mono",
-    "Bitstream Vera Sans Mono", "Liberation Mono", "Nimbus Mono L", Monaco,
-    "Courier New", Courier, monospace;
+  font-family: Menlo, monospace;
   font-family: var(--font-monospace);
   font-size: 1.125rem;
   line-height: 1.2;
@@ -223,10 +189,7 @@ pre {
 code,
 kbd,
 var {
-  font-family: "Source Code VF", Consolas, "Andale Mono WT", "Andale Mono",
-    "Lucida Console", "Lucida Sans Typewriter", "DejaVu Sans Mono",
-    "Bitstream Vera Sans Mono", "Liberation Mono", "Nimbus Mono L", Monaco,
-    "Courier New", Courier, monospace;
+  font-family: Menlo, monospace;
   font-family: var(--font-monospace);
 }
 
