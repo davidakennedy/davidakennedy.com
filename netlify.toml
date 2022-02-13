@@ -97,25 +97,25 @@
 [[headers]]
   for = "/*"
   [headers.values]
-    Content-Security-Policy = "default-src https://davidakennedy.com; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'"
+    Content-Security-Policy = "default-src https://davidakennedy.com https://d33wubrfki0l68.cloudfront.net; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'"
     Permissions-Policy = '''
-      accelerometer=(none),
-      ambient-light-sensor=(none),
-      autoplay=(none),
-      camera=(none),
-      encrypted-media=(none),
-      fullscreen=(none),
-      geolocation=(none),
-      gyroscope=(none),
-      magnetometer=(none),
-      microphone=(none),
-      midi=(none),
-      payment=(none),
-      picture-in-picture=(none),
-      speaker=(none),
-      usb=(none),
-      vibrate=(none),
-      vr=(none)
+      accelerometer=(),
+      ambient-light-sensor=(),
+      autoplay=(),
+      camera=(),
+      encrypted-media=(),
+      fullscreen=(),
+      geolocation=(),
+      gyroscope=(),
+      magnetometer=(),
+      microphone=(),
+      midi=(),
+      payment=(),
+      picture-in-picture=(),
+      speaker=(),
+      usb=(),
+      vibrate=(),
+      vr=()
     '''
     Referrer-Policy = "strict-origin-when-cross-origin"
     Strict-Transport-Security = "max-age=2592000"
