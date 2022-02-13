@@ -76,16 +76,20 @@ module.exports = function (eleventyConfig) {
     return new CleanCSS({ sourceMap: true }).minify(code).styles;
   });
 
-  const Terser = require("terser");
-  eleventyConfig.addFilter("jsmin", function (code) {
-    let minified = Terser.minify(code);
-    if (minified.error) {
-      console.log("Terser error: ", minified.error);
-      return code;
+  const { minify } = require("terser");
+  eleventyConfig.addNunjucksAsyncFilter(
+    "jsmin",
+    async function (code, callback) {
+      try {
+        const minified = await minify(code);
+        callback(null, minified.code);
+      } catch (err) {
+        console.error("Terser error: ", err);
+        // Fail gracefully.
+        callback(null, code);
+      }
     }
-
-    return minified.code;
-  });
+  );
 
   eleventyConfig.addFilter("imgPath", function (path) {
     return path.replace("/_src", "");
