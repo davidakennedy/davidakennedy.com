@@ -249,8 +249,9 @@ ol {
   padding: 0;
 }
 
-ul > li {
-  margin-top: 0.125em;
+ul > li,
+ol > li {
+  margin-top: 0.7em;
 }
 
 li > ul,
