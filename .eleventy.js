@@ -79,6 +79,15 @@ module.exports = function (eleventyConfig) {
     return path.replace("/_src", "");
   });
 
+  // Simple cache busting
+  // https://rob.cogit8.org/posts/2020-10-28-simple-11ty-cache-busting/
+  eleventyConfig.addFilter("bust", (url) => {
+    const [urlPart, paramPart] = url.split("?");
+    const params = new URLSearchParams(paramPart || "");
+    params.set("v", DateTime.local().toFormat("X"));
+    return `${urlPart}?${params}`;
+  });
+
   // Minify CSS
   eleventyConfig.addTemplateFormats("css");
 
