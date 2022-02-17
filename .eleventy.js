@@ -6,6 +6,8 @@ const pluginSyntaxHighlight = require("@11ty/eleventy-plugin-syntaxhighlight");
 const eleventyNavigationPlugin = require("@11ty/eleventy-navigation");
 const image = require("@11ty/eleventy-img");
 const markdownIt = require("markdown-it");
+const CleanCSS = require("clean-css");
+const htmlmin = require("html-minifier");
 
 // Configuration and plugins.
 module.exports = function (eleventyConfig) {
@@ -52,6 +54,7 @@ module.exports = function (eleventyConfig) {
     return markdownItRenderer.renderInline(str);
   });
 
+  // Filter out certain tags from lists
   function filterTagList(tags) {
     return (tags || []).filter(
       (tag) => ["all", "post", "posts", "bestof"].indexOf(tag) === -1
@@ -71,31 +74,28 @@ module.exports = function (eleventyConfig) {
   });
 
   // Development filters
-  const CleanCSS = require("clean-css");
-  eleventyConfig.addFilter("cssmin", function (code) {
-    return new CleanCSS({ sourceMap: true }).minify(code).styles;
-  });
-
-  const { minify } = require("terser");
-  eleventyConfig.addNunjucksAsyncFilter(
-    "jsmin",
-    async function (code, callback) {
-      try {
-        const minified = await minify(code);
-        callback(null, minified.code);
-      } catch (err) {
-        console.error("Terser error: ", err);
-        // Fail gracefully.
-        callback(null, code);
-      }
-    }
-  );
-
+  // Adjusts image paths for certain images, like social cards
   eleventyConfig.addFilter("imgPath", function (path) {
     return path.replace("/_src", "");
   });
 
-  const htmlmin = require("html-minifier");
+  // Minify CSS
+  eleventyConfig.addTemplateFormats("css");
+
+  eleventyConfig.addExtension("css", {
+    outputFileExtension: "css",
+    compile: async (inputContent) => {
+      return async () => {
+        return new Promise((resolve) => {
+          new CleanCSS({}).minify(inputContent, (_, data) => {
+            resolve(data.styles);
+          });
+        });
+      };
+    },
+  });
+
+  // Minify HTML
   eleventyConfig.addTransform("htmlmin", function (content, outputPath) {
     if (process.env.ENVIRONMENT === "prod" && outputPath.endsWith(".html")) {
       let minified = htmlmin.minify(content, {
