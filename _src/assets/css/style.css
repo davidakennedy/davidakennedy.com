@@ -603,6 +603,11 @@ input[type="submit"]:focus {
   padding-bottom: 8em;
 }
 
+.site-footer small {
+  color: #666666;
+  color: var(--lighttext);
+}
+
 /* Syntax highlighting */
 /**
  * a11y-light theme for JavaScript, CSS, and HTML
