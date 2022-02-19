@@ -95,11 +95,15 @@ module.exports = function (eleventyConfig) {
     outputFileExtension: "css",
     compile: async (inputContent) => {
       return async () => {
-        return new Promise((resolve) => {
-          new CleanCSS({}).minify(inputContent, (_, data) => {
-            resolve(data.styles);
+        if (process.env.ELEVENTY_ENV === "prod") {
+          return new Promise((resolve) => {
+            new CleanCSS({}).minify(inputContent, (_, data) => {
+              resolve(data.styles);
+            });
           });
-        });
+        } else {
+          return inputContent.css;
+        }
       };
     },
   });
