@@ -354,6 +354,8 @@ input[type="text"],
 input[type="email"],
 input[type="search"],
 textarea {
+  background-color: #fefefe;
+  background-color: var(--background);
   border: 0.0625em solid #666666;
   border: 0.0625em solid var(--lighttext);
   border-radius: 0.25em;
