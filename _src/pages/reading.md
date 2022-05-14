@@ -26,3 +26,9 @@ The list:
 9. _Walden_ by Henry David Thoreau
 10. _A Wizard of Earthsea: The First Book of Earthsea_ by Ursula K. Le Guin
 11. &hearts; _Tenth of December: Stories_ by George Saunders
+12. _How to Start: Get Clear, Get Confident, and Get Going_ by Michael Bungay Stanier
+13. _Emotional Agility: Get Unstuck, Embrace Change, and Thrive in Work and Life_ by Susan David
+14. _Stolen Focus: Why You Can't Pay Attention--And How to Think Deeply Again_ by Johann Hari
+15. _Sully: My Search for What Really Matters_ by Chesley B. Sullenberger, Jeffrey Zaslow
+16. _The Last Great Game: Duke vs. Kentucky and the 2.1 Seconds That Changed Basketball_ by Gene Wojciechowski
+17. _The Second Mountain_ by David Brooks
