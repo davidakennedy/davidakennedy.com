@@ -41,9 +41,7 @@ select {
   --font-special: "Infini Bold", sans-serif;
   --line-height: 1.4;
   --line-height-small: 1.2;
-  --measure-narrow: 35ch;
   --measure: 65ch;
-  --measure-wide: 95ch;
   background-color: #fefefe;
   background-color: var(--background);
   color: #333333;
