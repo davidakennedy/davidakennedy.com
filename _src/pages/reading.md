@@ -3,7 +3,7 @@ title: Reading
 description: What David A. Kennedy is reading.
 ---
 
-A page detailing what I'm reading in 2021. Any must-read recommendations will have a heart &hearts; next to them. That means I could see myself reading it again. Other books may be worth reading, but I may not get as much value out of rereads.
+A page detailing what I'm reading in 2022. Any must-read recommendations will have a heart &hearts; next to them. That means I could see myself reading it again. Other books may be worth reading, but I may not get as much value out of rereads.
 
 You can also see what I read in past years, at least when I began keeping track of it:
 
@@ -32,3 +32,19 @@ The list:
 15. _Sully: My Search for What Really Matters_ by Chesley B. Sullenberger, Jeffrey Zaslow
 16. _The Last Great Game: Duke vs. Kentucky and the 2.1 Seconds That Changed Basketball_ by Gene Wojciechowski
 17. _The Second Mountain_ by David Brooks
+18. &hearts; _The Underground Railroad_ by Colson Whitehead
+19. _Mindset: The New Psychology of Success_ by Carol S. Dweck
+20. _The Hundred Thousand Kingdoms_ by N.K. Jemisin
+21. _The Broken Kingdoms_ by N.K. Jemisin
+22. _Hello, Habits: A Minimalist's Guide to a Better Life_ by Fumio Sasaki
+23. _This Will Not Pass: Trump, Biden and the Battle for American Democracy_ by Jonathan Martin with Alexander Burns
+24. _The Sixth Extinction: An Unnatural History_ by Elizabeth Kolbert
+25. _Battle Buddy: Maneuvering the Battlefield of Transitioning from the Military_ by Lila Holley
+26. _The Looming Tower: Al-Qaeda and the Road to 9/11_ by Lawrence Wright
+27. _The Kingdom of Gods_ by N.K. Jemisin
+28. _Breath: The New Science of a Lost Art_ by James Nestor
+29. _Bury My Heart at Wounded Knee: An Indian History of the American West_ by Dee Brown
+30. _Killers of the Flower Moon: The Osage Murders and the Birth of the FBI_ by David Grann
+31. _A Hunter-Gatherer's Guide to the 21st Century: Evolution and the Challenges of Modern Life_ by Heather E. Heying, Bret Weinstein
+32. _Kitchen Confidential: Adventures in the Culinary Underbelly_ by Anthony Bourdain
+33. _Destiny of the Republic: A Tale of Madness, Medicine and the Murder of a President_ by Candice Millard
