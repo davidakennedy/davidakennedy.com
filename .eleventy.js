@@ -73,6 +73,24 @@ module.exports = function (eleventyConfig) {
     return filterTagList([...tagSet]);
   });
 
+  // Create collection of posts by year
+  // https://github.com/11ty/eleventy/issues/1284#issuecomment-1026679407
+  eleventyConfig.addCollection("postsByYear", (collection) => {
+    const posts = collection.getFilteredByTag("post").reverse();
+    const years = posts.map((post) => post.date.getFullYear());
+    const uniqueYears = [...new Set(years)];
+
+    const postsByYear = uniqueYears.reduce((prev, year) => {
+      const filteredPosts = posts.filter(
+        (post) => post.date.getFullYear() === year
+      );
+
+      return [...prev, [year, filteredPosts]];
+    }, []);
+
+    return postsByYear;
+  });
+
   // Development filters
   // Adjusts image paths for certain images, like social cards
   eleventyConfig.addFilter("imgPath", function (path) {
