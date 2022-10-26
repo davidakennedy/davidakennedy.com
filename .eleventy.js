@@ -76,7 +76,7 @@ module.exports = function (eleventyConfig) {
   // Create collection of posts by year
   // https://github.com/11ty/eleventy/issues/1284#issuecomment-1026679407
   eleventyConfig.addCollection("postsByYear", (collection) => {
-    const posts = collection.getFilteredByTag("post").reverse();
+    const posts = collection.getFilteredByTag("posts").reverse();
     const years = posts.map((post) => post.date.getFullYear());
     const uniqueYears = [...new Set(years)];
 
