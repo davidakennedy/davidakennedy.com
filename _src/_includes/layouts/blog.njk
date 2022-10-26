@@ -14,7 +14,7 @@
     {% for year, yearPosts in collections.postsByYear %}
     <h2>{{ year }}</h2>
     <ol reversed class="post-list">
-    {% for post in yearPosts | reverse %}
+    {% for post in yearPosts %}
       <li class="post h-entry{% if post.url == url %} postlist-item-active{% endif %}">
         <a href="{{ post.url | url }}" class="post-link">
           <h3 class="title p-name">{% if post.data.title %}{{ post.data.title | markdownify }}{% else %}<code>{{ post.url }}</code>{% endif %}</h3>
