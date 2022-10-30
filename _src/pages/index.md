@@ -36,6 +36,7 @@ I approach my work through a few principles:
 
 Speaking of words, I've collected of few of my favorite posts I've written on this site and elsewhere. You might enjoy reading them.
 
-{% include "partials/bestof-list.njk" %}
+{% set posts = collections.bestof %}
+{% include "partials/post-list.njk" %}
 
 You can also [follow me on Twitter](https://twitter.com/davidakennedy).
