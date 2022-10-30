@@ -463,32 +463,7 @@ input[type="submit"]:focus {
   margin-right: 0.5em;
 }
 
-/* Post Navigation */
-.posts-pagination {
-  display: flex;
-  flex-direction: row;
-  flex-wrap: wrap;
-  justify-content: space-between;
-  margin-top: 2em;
-}
-
-.posts-pagination .older-posts {
-  margin-right: auto;
-}
-
-.posts-pagination .newer-posts {
-  margin-left: auto;
-}
-
-.posts-pagination a {
-  display: inline-block;
-  font-size: 1.1875rem;
-  font-weight: 600;
-  text-decoration: none;
-}
-
-.email-signup svg,
-.posts-pagination svg {
+.email-signup svg {
   vertical-align: middle;
 }
 
@@ -517,7 +492,7 @@ input[type="submit"]:focus {
 }
 
 .post-list .post-excerpt {
-  margin-top: 0.75em;
+  margin-top: 0.25em;
 }
 
 /* Post meta */
@@ -533,18 +508,12 @@ input[type="submit"]:focus {
   margin-top: 2em;
 }
 
-.breadcrumbs,
 .tag-list {
   display: inline-flex;
   flex-direction: row;
   flex-wrap: wrap;
   list-style: none;
   margin-left: 0;
-}
-
-.breadcrumbs li + li::before {
-  content: "\2022";
-  margin: 0 0.5em;
 }
 
 .meta a {
@@ -1007,8 +976,7 @@ pre[class*="language-"] {
   }
 
   .site-header,
-  .site-footer,
-  .posts-pagination {
+  .site-footer {
     display: none;
   }
 

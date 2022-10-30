@@ -1,9 +1,0 @@
-{% set navBreadcrumbs = collections.all | eleventyNavigationBreadcrumb(eleventyNavigation.key) %}
-{% if eleventyNavigation and eleventyNavigation.key and eleventyNavigation.parent %}
-<nav class="meta" aria-label="Breadcrumbs">
-  {{ navBreadcrumbs | eleventyNavigationToHtml({listClass: "breadcrumbs"}) | safe }}
-</nav>
-{% else %}
-<p class="meta">Welcome to the interior pages.</p>
-{% endif %}
-<img class="u-photo" srcset="/assets/img/uploads/david-kennedy-portrait-2018-square-small.jpg, /assets/img/uploads/david-kennedy-portrait-2018-square-small2x.jpg 2x" src="/assets/img/uploads/david-kennedy-portrait-2018-square-small.jpg" alt="David A. Kennedy." width="50" height="50">

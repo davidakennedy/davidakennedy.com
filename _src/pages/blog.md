@@ -1,6 +1,9 @@
 ---
 title: Blog
 description: Where David A. Kennedy goes to write.
+eleventyNavigation:
+  key: Blog
+  order: 3
 layout: layouts/blog.njk
 templateClass: archive-template
 permalink: blog/index.html

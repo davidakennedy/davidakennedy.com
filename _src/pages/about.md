@@ -1,6 +1,9 @@
 ---
 title: About
 description: Find out more about David A. Kennedy's career in web design and accessibility.
+eleventyNavigation:
+  key: About
+  order: 2
 featuredimg: true
 img: ./_src/assets/img/uploads/david-kennedy-change2019-1.jpg
 imgalt: David A. Kennedy speaks on a stage in front of audience.
