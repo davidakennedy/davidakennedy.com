@@ -36,8 +36,7 @@ select {
   --marklight: #f6f6f6;
   --markdark: #ededed;
   /* Other stuff */
-  --font-regular: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
-    Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+  --font-regular: Georgia, serif;
   --font-special: "Infini Bold", sans-serif;
   --line-height: 1.4;
   --line-height-small: 1.2;
