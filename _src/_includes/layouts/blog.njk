@@ -11,25 +11,8 @@
   <div class="page-content stack">
     {{ content | safe }}
     {% include "partials/signup-form.njk" %}
-    {% for year, yearPosts in collections.postsByYear %}
-    <h2>{{ year }}</h2>
-    <ol reversed class="post-list">
-    {% for post in yearPosts %}
-      <li class="post h-entry{% if post.url == url %} postlist-item-active{% endif %}">
-        <a href="{{ post.url | url }}" class="post-link">
-          <h3 class="title p-name">{% if post.data.title %}{{ post.data.title | markdownify }}{% else %}<code>{{ post.url }}</code>{% endif %}</h3>
-        </a>
-        <div class="meta">
-          <span class="sr-only">Published on </span>
-          <time class="date dt-published" datetime="{{ post.date | htmlDateString }}">{{ post.date | readableDate }}</time>
-        </div>
-        {% if post.data.description %}
-        <p class="post-excerpt">{{ post.data.description | markdownify }}</p>
-        {% endif %}
-      </li>
-    {% endfor %}
-    </ol>
-    {% endfor %}
+    {% set postlist = collections.posts %}
+    {% include "partials/archive-post-list.njk" %}
   </div>
 {% endblock %}
 

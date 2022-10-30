@@ -9,7 +9,6 @@ pagination:
     - posts
     - bestof
     - tagList
-    - postsByYear
   addAllPagesToCollections: true
 eleventyComputed:
   title: Tagged “{{ tag }}”
@@ -21,7 +20,7 @@ templateClass: archive-template
 permalink: /tag/{{ tag | slugify }}/
 ---
 
-{% set postlist = collections[ tag ] | reverse %}
+{% set postlist = collections[ tag ] %}
 {% if (collections[ tag ].length) > 1  %}
 <p>There are {{ collections[ tag ].length }} posts tagged with {{ tag }}.</p>
 {% else %}
