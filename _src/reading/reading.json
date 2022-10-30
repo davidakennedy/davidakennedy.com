@@ -1,5 +1,6 @@
 {
   "templateClass": "page-template",
+  "tags": ["readinglists"],
   "permalink": "reading/{{ page.fileSlug | slugify }}/",
   "layout": "layouts/page.njk"
 }

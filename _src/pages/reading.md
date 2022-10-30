@@ -7,11 +7,8 @@ A page detailing what I'm reading in 2022. Any must-read recommendations will ha
 
 You can also see what I read in past years, at least when I began keeping track of it:
 
-- [2017](/reading/2017/)
-- [2018](/reading/2018/)
-- [2019](/reading/2019/)
-- [2020](/reading/2020/)
-- [2021](/reading/2021/)
+{% set posts = collections.readinglists %}
+{% include "partials/post-list.njk" %}
 
 The list:
 

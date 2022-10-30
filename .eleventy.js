@@ -57,7 +57,10 @@ module.exports = function (eleventyConfig) {
   // Filter out certain tags from lists
   function filterTagList(tags) {
     return (tags || []).filter(
-      (tag) => ["all", "post", "posts", "bestof"].indexOf(tag) === -1
+      (tag) =>
+        ["all", "post", "posts", "bestof", "haikus", "readinglists"].indexOf(
+          tag
+        ) === -1
     );
   }
 
