@@ -37,7 +37,7 @@ Speaking of words, I've collected of few of my favorite posts I've written on th
 
 If that's not enough, here are some of the latest posts form my blog.
 
-{% set posts = collections.posts | reverse | head(-3) %}
+{% set posts = collections.posts | head(-5) | reverse %}
 {% include "partials/post-list.njk" %}
 
 You can also [follow me on Twitter](https://twitter.com/davidakennedy).
