@@ -32,7 +32,12 @@ I approach my work through a few principles:
 
 Speaking of words, I've collected of few of my favorite posts I've written on this site and elsewhere. You might enjoy reading them.
 
-{% set posts = collections.bestof %}
+{% set posts = collections.bestof | reverse %}
+{% include "partials/post-list.njk" %}
+
+If that's not enough, here are some of the latest posts form my blog.
+
+{% set posts = collections.posts | reverse | head(-3) %}
 {% include "partials/post-list.njk" %}
 
 You can also [follow me on Twitter](https://twitter.com/davidakennedy).
