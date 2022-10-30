@@ -151,6 +151,15 @@ h4,
   font-size: 1.5rem;
 }
 
+.archive-template h2::after {
+  border-top: 0.1em solid currentColor;
+  content: "";
+  display: inline-block;
+  margin-left: 0.5em;
+  vertical-align: middle;
+  width: 25%;
+}
+
 figcaption {
   font-style: italic;
 }
@@ -500,7 +509,7 @@ input[type="submit"]:focus {
 }
 
 .post-list > * + * {
-  margin-top: 4em;
+  margin-top: 1.4em;
 }
 
 .post-list .post-link {
