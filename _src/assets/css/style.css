@@ -568,12 +568,9 @@ input[type="submit"]:focus {
 }
 
 .site-header {
-  padding-top: 8em;
-}
-
-.site-header {
   display: flex;
   justify-content: space-between;
+  padding-top: 8em;
 }
 
 .site-content,
