@@ -1,11 +1,30 @@
 /* Fonts */
+/* merriweather-regular - latin */
 @font-face {
-  font-family: "Infini Bold";
+  font-family: 'Merriweather';
   font-display: swap;
-  src: url("/assets/fonts/infini-bold-webfont.woff2") format("woff2"),
-    url("/assets/fonts/infini-bold-webfont.woff") format("woff");
-  font-weight: 700;
   font-style: normal;
+  font-weight: 400;
+  src: url('/assets/fonts/merriweather-v30-latin-regular.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+       url('/assets/fonts/merriweather-v30-latin-regular.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* merriweather-italic - latin */
+@font-face {
+  font-family: 'Merriweather';
+  font-display: swap;
+  font-style: italic;
+  font-weight: 400;
+  src: url('/assets/fonts/merriweather-v30-latin-italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+       url('/assets/fonts/merriweather-v30-latin-italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* merriweather-700 - latin */
+@font-face {
+  font-family: 'Merriweather';
+  font-display: swap;
+  font-style: normal;
+  font-weight: 700;
+  src: url('/assets/fonts/merriweather-v30-latin-700.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+       url('/assets/fonts/merriweather-v30-latin-700.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 
 /* Reset-ish */
@@ -36,8 +55,7 @@ select {
   --marklight: #f6f6f6;
   --markdark: #ededed;
   /* Other stuff */
-  --font-regular: Georgia, serif;
-  --font-special: "Infini Bold", sans-serif;
+  --font-regular: "Merriweather", Georgia, serif;
   --line-height: 1.4;
   --line-height-small: 1.2;
   --measure: 65ch;
@@ -45,8 +63,7 @@ select {
   background-color: var(--background);
   color: #333333;
   color: var(--text);
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
-    Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+  font-family: "Merriweather", Georgia, serif;
   font-family: var(--font-regular);
   font-weight: 400;
   height: 100%;
@@ -119,8 +136,6 @@ h3,
 .h3,
 h4,
 .h4 {
-  font-family: "Infini", serif;
-  font-family: var(--font-special);
   font-weight: 700;
   line-height: 1.2;
   line-height: var(--line-height-small);
@@ -173,7 +188,7 @@ blockquote {
 blockquote cite {
   display: block;
   font-style: normal;
-  font-weight: 600;
+  font-weight: 700;
   margin-top: 1.4em;
 }
 
@@ -353,7 +368,7 @@ a:active {
 
 /* Forms */
 label {
-  font-weight: 600;
+  font-weight: 700;
 }
 
 input[type="text"],
@@ -397,7 +412,7 @@ input[type="submit"] {
   color: #333333;
   color: var(--text);
   cursor: pointer;
-  font-weight: 600;
+  font-weight: 700;
   padding: 0.410020625em 0.59453em;
   position: relative;
   -webkit-appearance: none;
@@ -458,12 +473,12 @@ input[type="submit"]:focus {
 
 .nav a {
   display: inline-block;
-  font-weight: 600;
+  font-weight: 700;
   margin-right: 0.5em;
 }
 
 .nav-item-active a {
-  font-style: italic;
+  text-decoration-style: wavy;
 }
 
 .email-signup svg {
@@ -794,7 +809,7 @@ pre[class*="language-"] {
   pre[class*="language-"] {
     color: #f8f8f2;
     background: none;
-    font-family: Consolas, Monaco, "Andale Mono", "Ubuntu Mono", monospace;
+    font-family: Menlo, monospace;
     text-align: left;
     white-space: pre;
     word-spacing: normal;

@@ -33,8 +33,7 @@ https://davidakennedy.com
 
 - Libraries
   - Feather Icons (https://feathericons.com/)
-  - Infini (https://www.cnap.fr/sites/infini/en/)
-  - Source Code Pro (https://adobe-fonts.github.io/source-code-pro/)
+  - Merriweather (https://github.com/SorkinType/Merriweather/)
 
 - Browsers
   - Chrome (https://www.google.com/chrome/)
