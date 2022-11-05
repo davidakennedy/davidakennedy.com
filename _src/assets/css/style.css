@@ -143,26 +143,26 @@ h4,
 
 h1,
 .h1 {
-  /* 41px */
-  font-size: 2.592rem;
+  /* 57px */
+  font-size: 3.534rem;
 }
 
 h2,
 .h2 {
-  /* 34px */
-  font-size: 2.16rem;
+  /* 40px */
+  font-size: 2.499rem;
 }
 
 h3,
 .h3 {
   /* 28px */
-  font-size: 1.8rem;
+  font-size: 1.767rem;
 }
 
 h4,
 .h4 {
-  /* 24px */
-  font-size: 1.5rem;
+  /* 20px */
+  font-size: 1.25rem;
 }
 
 .archive-template h2::after {
