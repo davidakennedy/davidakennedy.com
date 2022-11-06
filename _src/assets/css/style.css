@@ -1,30 +1,33 @@
 /* Fonts */
 /* merriweather-regular - latin */
 @font-face {
-  font-family: 'Merriweather';
+  font-family: "Merriweather";
   font-display: swap;
   font-style: normal;
   font-weight: 400;
-  src: url('/assets/fonts/merriweather-v30-latin-regular.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
-       url('/assets/fonts/merriweather-v30-latin-regular.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+  src: url("/assets/fonts/merriweather-v30-latin-regular.woff2") format("woff2"),
+    /* Chrome 26+, Opera 23+, Firefox 39+ */
+      url("/assets/fonts/merriweather-v30-latin-regular.woff") format("woff"); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* merriweather-italic - latin */
 @font-face {
-  font-family: 'Merriweather';
+  font-family: "Merriweather";
   font-display: swap;
   font-style: italic;
   font-weight: 400;
-  src: url('/assets/fonts/merriweather-v30-latin-italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
-       url('/assets/fonts/merriweather-v30-latin-italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+  src: url("/assets/fonts/merriweather-v30-latin-italic.woff2") format("woff2"),
+    /* Chrome 26+, Opera 23+, Firefox 39+ */
+      url("/assets/fonts/merriweather-v30-latin-italic.woff") format("woff"); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* merriweather-700 - latin */
 @font-face {
-  font-family: 'Merriweather';
+  font-family: "Merriweather";
   font-display: swap;
   font-style: normal;
   font-weight: 700;
-  src: url('/assets/fonts/merriweather-v30-latin-700.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
-       url('/assets/fonts/merriweather-v30-latin-700.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+  src: url("/assets/fonts/merriweather-v30-latin-700.woff2") format("woff2"),
+    /* Chrome 26+, Opera 23+, Firefox 39+ */
+      url("/assets/fonts/merriweather-v30-latin-700.woff") format("woff"); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 
 /* Reset-ish */
@@ -65,6 +68,8 @@ select {
   color: var(--text);
   font-family: "Merriweather", Georgia, serif;
   font-family: var(--font-regular);
+  font-size: 1.25rem;
+  font-size: calc(0.25vw + 0.25vh + 1rem);
   font-weight: 400;
   height: 100%;
   line-height: 1.4;
@@ -73,7 +78,6 @@ select {
 
 /* Global */
 body {
-  font-size: 1.25rem;
   min-height: 100%;
 }
 
@@ -143,26 +147,22 @@ h4,
 
 h1,
 .h1 {
-  /* 57px */
-  font-size: 3.534rem;
+  font-size: 2.1rem;
 }
 
 h2,
 .h2 {
-  /* 40px */
-  font-size: 2.499rem;
+  font-size: 1.8rem;
 }
 
 h3,
 .h3 {
-  /* 28px */
-  font-size: 1.767rem;
+  font-size: 1.5rem;
 }
 
 h4,
 .h4 {
-  /* 20px */
-  font-size: 1.25rem;
+  font-size: 1.2rem;
 }
 
 .archive-template h2::after {
@@ -197,7 +197,7 @@ pre {
   border: 0.0625em solid var(--decorative);
   border-radius: 0.3em;
   font-family: Menlo, monospace;
-  font-size: 1.125rem;
+  font-size: 0.9rem;
   line-height: 1.2;
   line-height: var(--line-height-small);
   margin: 0.4em 0;
@@ -220,7 +220,7 @@ abbr {
 }
 
 small {
-  font-size: 1rem;
+  font-size: 0.75rem;
 }
 
 table,
@@ -282,7 +282,7 @@ li > ol {
 }
 
 figcaption {
-  font-size: 1.125rem;
+  font-size: 0.8rem;
   margin-top: 0.5350775em;
 }
 
@@ -345,7 +345,7 @@ a:active {
 }
 
 .skip-link {
-  font-size: 1.125rem;
+  font-size: 0.8rem;
   font-weight: 700;
   left: 1.4em;
   max-width: none;
@@ -473,6 +473,7 @@ input[type="submit"]:focus {
 
 .nav a {
   display: inline-block;
+  font-size: 1.1rem;
   font-weight: 700;
   margin-right: 0.5em;
 }
@@ -518,7 +519,7 @@ input[type="submit"]:focus {
   margin-top: 0.25em;
   color: #666666;
   color: var(--lighttext);
-  font-size: 1.125rem;
+  font-size: 0.8rem;
   font-style: italic;
 }
 
@@ -576,7 +577,7 @@ input[type="submit"]:focus {
 .site-footer {
   margin-left: auto;
   margin-right: auto;
-  max-width: 37em;
+  max-width: 41em;
   padding-left: 0.5em;
   padding-right: 0.5em;
 }
@@ -999,24 +1000,24 @@ pre[class*="language-"] {
     background: #fff !important;
     box-shadow: none !important;
     color: #000 !important;
-    font-size: 15pt !important;
+    font-size: 16pt !important;
     text-shadow: none !important;
   }
 
   h1 {
-    font-size: 19.5pt !important;
+    font-size: 24pt !important;
   }
 
   h2 {
-    font-size: 18pt !important;
+    font-size: 20pt !important;
   }
 
   h3 {
-    font-size: 16.5pt !important;
+    font-size: 18pt !important;
   }
 
   h4 {
-    font-size: 15.75pt !important;
+    font-size: 16pt !important;
   }
 
   a,
