@@ -200,7 +200,7 @@ pre {
   font-size: 0.9rem;
   line-height: 1.2;
   line-height: var(--line-height-small);
-  margin: 0.4em 0;
+  margin: 0.35em 0;
   max-width: 100%;
   overflow: auto;
   padding: 1em;
@@ -283,7 +283,7 @@ li > ol {
 
 figcaption {
   font-size: 0.8rem;
-  margin-top: 0.5350775em;
+  margin-top: 0.35em;
 }
 
 img {
@@ -458,7 +458,7 @@ input[type="submit"]:focus {
 
 .email-signup .email,
 .email-signup .button {
-  margin-top: 0.25em;
+  margin-top: 0.35em;
 }
 
 /* Blocks */
@@ -511,12 +511,12 @@ input[type="submit"]:focus {
 }
 
 .post-list .post-excerpt {
-  margin-top: 0.25em;
+  margin-top: 0.35em;
 }
 
 /* Post meta */
 .meta {
-  margin-top: 0.25em;
+  margin-top: 0.35em;
   color: #666666;
   color: var(--lighttext);
   font-size: 0.8rem;
@@ -524,7 +524,7 @@ input[type="submit"]:focus {
 }
 
 .post-content .meta {
-  margin-top: 2em;
+  margin-top: 2.1em;
 }
 
 .tag-list {
@@ -636,7 +636,7 @@ pre[class*="language-"] {
 /* Code blocks */
 pre[class*="language-"] {
   padding: 1em;
-  margin: 0.4em 0;
+  margin: 0.35em 0;
   overflow: auto;
   border-radius: 0.3em;
 }
@@ -831,7 +831,7 @@ pre[class*="language-"] {
   /* Code blocks */
   pre[class*="language-"] {
     padding: 1em;
-    margin: 0.5em 0;
+    margin: 0.35em 0;
     overflow: auto;
     border-radius: 0.3em;
   }
