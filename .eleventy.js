@@ -148,13 +148,13 @@ module.exports = function (eleventyConfig) {
       // Fix paths
       urlPath: "/assets/img/build/",
       outputDir: "./_site/assets/img/build/",
-      widths: [600, 1200],
+      widths: [840, 1680],
       formats: ["jpeg"],
     });
 
     let imageAttributes = {
       alt,
-      sizes: "(min-width: 37.5em) 60vw, 100vw",
+      sizes: "(max-width: 840px) 100vw, 840px",
       loading: "lazy",
       decoding: "async",
     };
