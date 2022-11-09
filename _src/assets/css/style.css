@@ -556,8 +556,8 @@ input[type="submit"]:focus {
 /* Widths */
 .page-header > .title,
 .post-header > .title,
-.page-content > *,
-.post-content > * {
+.page-content > *:not(img),
+.post-content > *:not(img) {
   max-width: 65ch;
   max-width: var(--measure);
 }
