@@ -57,23 +57,17 @@ select {
   --decorative: #949494;
   --marklight: #f6f6f6;
   --markdark: #ededed;
-  /* Other stuff */
-  --font-regular: "Merriweather", Georgia, serif;
-  --line-height: 1.4;
-  --line-height-small: 1.2;
   background-color: #fefefe;
   background-color: var(--background);
   color: #333333;
   color: var(--text);
   font-family: "Merriweather", Iowan Old Style, Apple Garamond, Baskerville,
     Times New Roman, Droid Serif, Times, Source Serif Pro, serif;
-  font-family: var(--font-regular);
   font-size: 1.25rem;
   font-size: calc(0.25vw + 0.25vh + 1rem);
   font-weight: 400;
   height: 100%;
   line-height: 1.4;
-  line-height: var(--line-height);
 }
 
 /* Global */
@@ -142,7 +136,6 @@ h4,
 .h4 {
   font-weight: 700;
   line-height: 1.2;
-  line-height: var(--line-height-small);
 }
 
 h1,
@@ -200,7 +193,6 @@ pre {
     monospace;
   font-size: 0.9rem;
   line-height: 1.2;
-  line-height: var(--line-height-small);
   margin: 0.35em 0;
   max-width: 100%;
   overflow: auto;
@@ -350,7 +342,6 @@ a:active {
   font-size: 0.8rem;
   font-weight: 700;
   left: 1.4em;
-  max-width: none;
   padding: 0.5em;
   position: absolute;
   top: 1.4em;
@@ -570,7 +561,7 @@ input[type="submit"]:focus {
 .site-footer {
   margin-left: auto;
   margin-right: auto;
-  max-width: 60ch;
+  max-width: 56.5em;
   padding-left: 0.5em;
   padding-right: 0.5em;
 }
@@ -593,6 +584,13 @@ input[type="submit"]:focus {
 .site-footer small {
   color: #666666;
   color: var(--lighttext);
+}
+
+.page-header,
+.post-header,
+.page-content,
+.post-content {
+  max-width: 60ch;
 }
 
 /* Syntax highlighting */
