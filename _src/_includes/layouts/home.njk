@@ -12,7 +12,6 @@
     <h1 class="title p-name">{{ pagetitle | markdownify }}</h1>
   </div>
   <div class="page-content stack">
-    {% include "partials/h-card.njk" %}
     {{ content | safe }}
   </div>
 {% endblock %}
