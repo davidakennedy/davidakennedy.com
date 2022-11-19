@@ -45,3 +45,7 @@ The list:
 31. _A Hunter-Gatherer's Guide to the 21st Century: Evolution and the Challenges of Modern Life_ by Heather E. Heying, Bret Weinstein
 32. _Kitchen Confidential: Adventures in the Culinary Underbelly_ by Anthony Bourdain
 33. _Destiny of the Republic: A Tale of Madness, Medicine and the Murder of a President_ by Candice Millard
+34. _Dead Wake: The Last Crossing of the Lusitania_ by Erik Larson
+35. _Never Split the Difference: Negotiating as If Your Life Depended on It_ by Tahl Raz, Chris Voss
+36. _How the Word Is Passed: A Reckoning with the History of Slavery Across America_ by Clint Smith
+37. &hearts; _The Nickel Boys_ by Colson Whitehead
