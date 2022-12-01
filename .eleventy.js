@@ -100,33 +100,9 @@ module.exports = function (eleventyConfig) {
     return path.replace("/_src", "");
   });
 
-  // Simple cache busting
-  // https://rob.cogit8.org/posts/2020-10-28-simple-11ty-cache-busting/
-  eleventyConfig.addFilter("bust", (url) => {
-    const [urlPart, paramPart] = url.split("?");
-    const params = new URLSearchParams(paramPart || "");
-    params.set("v", DateTime.local().toFormat("X"));
-    return `${urlPart}?${params}`;
-  });
-
   // Minify CSS
-  eleventyConfig.addTemplateFormats("css");
-
-  eleventyConfig.addExtension("css", {
-    outputFileExtension: "css",
-    compile: async (inputContent) => {
-      return async () => {
-        if (process.env.ELEVENTY_ENV === "prod") {
-          return new Promise((resolve) => {
-            new CleanCSS({}).minify(inputContent, (_, data) => {
-              resolve(data.styles);
-            });
-          });
-        } else {
-          return inputContent.css;
-        }
-      };
-    },
+  eleventyConfig.addFilter("cssmin", function (code) {
+    return new CleanCSS({ sourceMap: true }).minify(code).styles;
   });
 
   // Minify HTML
