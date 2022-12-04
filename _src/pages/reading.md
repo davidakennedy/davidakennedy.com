@@ -49,3 +49,6 @@ The list:
 35. _Never Split the Difference: Negotiating as If Your Life Depended on It_ by Tahl Raz, Chris Voss
 36. _How the Word Is Passed: A Reckoning with the History of Slavery Across America_ by Clint Smith
 37. &hearts; _The Nickel Boys_ by Colson Whitehead
+38. _In Defense of Food: An Eater's Manifesto_ by Michael Pollan
+39. &hearts; _Lincoln in the Bardo_ by George Saunders
+40. _Do Nothing: How to Break Away from Overworking, Overdoing, and Underliving_ by Celeste Headlee
