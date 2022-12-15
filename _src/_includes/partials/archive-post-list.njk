@@ -9,14 +9,14 @@
 {% for post in posts %}
   <li class="post h-entry{% if post.url == url %} postlist-item-active{% endif %}">
     <a href="{{ post.url | url }}" class="post-link">
-      <h3 class="title p-name">{% if post.data.title %}{{ post.data.title | markdownify }}{% else %}<code>{{ post.url }}</code>{% endif %}</h3>
+      <h3 class="title p-name">{% if post.data.title %}{{ post.data.title }}{% else %}<code>{{ post.url }}</code>{% endif %}</h3>
     </a>
     <div class="meta">
       <span class="sr-only">Published on </span>
       <time class="date dt-published" datetime="{{ post.date | htmlDateString }}">{{ post.date | readableDate }}</time>
     </div>
     {% if post.data.description %}
-    <p class="post-excerpt">{{ post.data.description | markdownify }}</p>
+    <p class="post-excerpt">{{ post.data.description }}</p>
     {% endif %}
   </li>
 {% endfor %}

@@ -5,6 +5,7 @@ const pluginRss = require("@11ty/eleventy-plugin-rss");
 const pluginSyntaxHighlight = require("@11ty/eleventy-plugin-syntaxhighlight");
 const eleventyNavigationPlugin = require("@11ty/eleventy-navigation");
 const image = require("@11ty/eleventy-img");
+const { EleventyRenderPlugin } = require("@11ty/eleventy");
 const markdownIt = require("markdown-it");
 const CleanCSS = require("clean-css");
 const htmlmin = require("html-minifier");
@@ -14,6 +15,7 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPlugin(pluginRss);
   eleventyConfig.addPlugin(pluginSyntaxHighlight);
   eleventyConfig.addPlugin(eleventyNavigationPlugin);
+  eleventyConfig.addPlugin(EleventyRenderPlugin);
   eleventyConfig.setDataDeepMerge(true);
 
   // Our layouts.
@@ -41,17 +43,6 @@ module.exports = function (eleventyConfig) {
     }
 
     return array.slice(0, n);
-  });
-
-  // Process content in markdown-it.
-  const markdownItRenderer = new markdownIt({
-    html: true,
-    breaks: true,
-    typographer: true,
-    quotes: "“”‘’",
-  });
-  eleventyConfig.addFilter("markdownify", (str) => {
-    return markdownItRenderer.renderInline(str);
   });
 
   // Filter out certain tags from lists
