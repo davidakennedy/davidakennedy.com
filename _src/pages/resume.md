@@ -3,7 +3,7 @@ title: David A. Kennedy's Résumé
 description: David A. Kennedy's résumé.
 layout: layouts/resume.njk
 templateClass: resume-template
-permalink: resume.html
+permalink: /resume/
 ---
 
 <div class="with-sidebar">
