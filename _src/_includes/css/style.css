@@ -134,13 +134,15 @@ body {
 }
 
 .with-sidebar > :last-child {
+  flex-basis: 33%;
   flex-grow: 1;
+  margin-top: 0;
 }
 
 .with-sidebar > :first-child {
   flex-basis: 0;
   flex-grow: 999;
-  min-inline-size: 50%;
+  min-inline-size: 66%;
 }
 
 /* Elements */
@@ -499,7 +501,8 @@ input[type="submit"]:focus {
 
 /* Posts & pages */
 .post-content,
-.page-content {
+.page-content,
+.resume-content {
   margin-top: 0.7em;
 }
 

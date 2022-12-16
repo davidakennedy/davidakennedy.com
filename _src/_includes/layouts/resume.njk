@@ -1,0 +1,23 @@
+{% extends 'layouts/base.njk' %}
+{% block header %}
+  {% include "partials/header.njk" %}
+{% endblock %}
+
+{% block content %}
+  <section class="resume">
+    <div class="resume-header">
+      {%- if featuredimg and img -%}
+        {% image img, imgalt %}
+      {%- endif -%}
+      {% set pagetitle = title or renderData.title %}
+      <h1 class="title p-name">{{ pagetitle }}</h1>
+    </div>
+    <div class="resume-content">
+      {{ content | safe }}
+    </div>
+  </section>
+{% endblock %}
+
+{% block footer %}
+  {% include "partials/footer.njk" %}
+{% endblock %}
