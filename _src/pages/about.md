@@ -20,6 +20,7 @@ You can learn more about my professional experience by visiting my [Linkedin pro
 ## Other Useful Links
 
 - [Now](/now/)
+- [Résumé](/resume/)
 - [Speaking](/speaking/)
 - [Selected Writing](/tag/selected-writing/)
 - [Reading](/reading/)
