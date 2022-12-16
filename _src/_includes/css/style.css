@@ -139,6 +139,12 @@ body {
   margin-top: 0;
 }
 
+@media (max-width: 988px) {
+  .with-sidebar > :last-child {
+    margin-top: 1.4em;
+  }
+}
+
 .with-sidebar > :first-child {
   flex-basis: 0;
   flex-grow: 999;
