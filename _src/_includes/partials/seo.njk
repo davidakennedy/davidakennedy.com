@@ -9,7 +9,7 @@
 <meta property="og:image" content="{%- if img -%}{{ img | imgPath | url | absoluteUrl(metadata.url) }}{%- else -%}{{ metadata.author.avatar | url | absoluteUrl(metadata.url) }}{%- endif -%}">
 <meta name="twitter:card" content="{% if isPost -%}summary_large_image{% else %}summary{% endif %}">
 
-{# Posts and Notes Get additional meta tags #}
+{# Posts get additional meta tags #}
 {%- if isPost -%}
     <meta property="og:type" content="article">
     <meta property="article:published_time" content="{{ page.date | iso }}">
@@ -23,3 +23,25 @@
 <meta name="twitter:creator" content="@{{ metadata.author.name }}">
 
 <link rel="canonical" href="{{ absolutePageUrl }}">
+
+{# JSON LD #}
+<script type="application/ld+json">
+{
+  "name": "{{ metadata.author.name }}",
+  "description": "{{ metadata.description }}",
+  "author": {
+    "@type": "Person",
+    "name": "{{ metadata.author.name }}"
+  },
+  "@type": "WebSite",
+  "url": "{{ metadata.url }}",
+  "image": "{{ metadata.author.avatar | url | absoluteUrl(metadata.site.url) }}",
+  "headline": "{{ metadata.title }}",
+  "sameAs": [
+    "{{ metadata.author.social.twitter.url }}",
+    "{{ metadata.author.social.github.url }}",
+    "{{ metadata.author.social.codepen.url }}"
+  ],
+  "@context": "http://schema.org"
+}
+</script>
