@@ -20,9 +20,11 @@ module.exports = function (eleventyConfig) {
 
   // Our layouts.
   eleventyConfig.addLayoutAlias("base", "layouts/base.njk");
+  eleventyConfig.addLayoutAlias("blog", "layouts/blog.njk");
   eleventyConfig.addLayoutAlias("home", "layouts/home.njk");
   eleventyConfig.addLayoutAlias("page", "layouts/page.njk");
   eleventyConfig.addLayoutAlias("post", "layouts/post.njk");
+  eleventyConfig.addLayoutAlias("resume", "layouts/resume.njk");
 
   // Filters
   eleventyConfig.addFilter("readableDate", (dateObj) => {
