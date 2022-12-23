@@ -20,4 +20,9 @@
 
     <!-- Current page: {{ page.url | url }} -->
   </body>
+  <script>
+	  if (navigator && navigator.serviceWorker) {
+      navigator.serviceWorker.register('/sw.js');
+    }
+  </script>
 </html>
