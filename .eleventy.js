@@ -147,9 +147,17 @@ module.exports = function (eleventyConfig) {
 
   // Pass these directories through.
   eleventyConfig.addPassthroughCopy("_src/assets");
-  eleventyConfig.addPassthroughCopy("_src/favicon.ico");
   eleventyConfig.addPassthroughCopy("_src/robots.txt");
   eleventyConfig.addPassthroughCopy("_src/humans.txt");
+  eleventyConfig.addPassthroughCopy("_src/android-chrome-192x192.png");
+  eleventyConfig.addPassthroughCopy("_src/android-chrome-512x512.png");
+  eleventyConfig.addPassthroughCopy("_src/apple-touch-icon.png");
+  eleventyConfig.addPassthroughCopy("_src/browserconfig.xml");
+  eleventyConfig.addPassthroughCopy("_src/favicon-16x16.png");
+  eleventyConfig.addPassthroughCopy("_src/favicon-32x32.png");
+  eleventyConfig.addPassthroughCopy("_src/favicon.ico");
+  eleventyConfig.addPassthroughCopy("_src/mstile-150x150.png");
+  eleventyConfig.addPassthroughCopy("_src/safari-pinned-tab.svg");
   eleventyConfig.addPassthroughCopy("_src/site.webmanifest");
 
   /* Markdown Overrides */
