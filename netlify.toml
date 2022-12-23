@@ -97,7 +97,7 @@
 [[headers]]
   for = "/*"
   [headers.values]
-    Content-Security-Policy = "default-src 'self'; img-src 'self'; style-src 'self' 'unsafe-inline'; font-src 'self'; script-src 'self' 'sha256-D1ImZ4Cqr6YC2TgkMGJ4bhhahgO49sCYP+4eSrbdnuw=' 'sha256-+pj2hbIDxSu6NNiheijLxxNfFZlgXM+vS6jJ0Ie2E5A=' 'sha256-ZVY9J+Wdi7FE6Y9os5V5MUWVTQjGihDY4/cSEWyQHmQ='; connect-src 'self'; worker-src 'self'; manifest-src 'self'; media-src 'self'; object-src 'none'; frame-src 'none'; frame-ancestors 'none';"
+    Content-Security-Policy = "default-src 'self'; img-src 'self'; style-src 'self' 'unsafe-inline'; font-src 'self'; script-src 'self' 'sha256-D1ImZ4Cqr6YC2TgkMGJ4bhhahgO49sCYP+4eSrbdnuw=' 'sha256-P57CWBPw6DiofvJaxwjCYr0U1507SoLYBk9rxAwHikk=' 'sha256-ZVY9J+Wdi7FE6Y9os5V5MUWVTQjGihDY4/cSEWyQHmQ='; connect-src 'self'; worker-src 'self'; manifest-src 'self'; media-src 'self'; object-src 'none'; frame-src 'none'; frame-ancestors 'none';"
     Permissions-Policy = '''
       accelerometer=(),
       ambient-light-sensor=(),
