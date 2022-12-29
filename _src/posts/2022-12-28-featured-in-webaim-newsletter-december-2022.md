@@ -9,4 +9,4 @@ tags:
   - Work
 ---
 
-WebAIM listed one of my recent posts, [on Accessibility and MVPs](/blog/accessibility-and-mvps/), in [their own newsletter](https://webaim.org/newsletter/2022/december). That post grew out of some of the resistance to accessibility I've seen from social media companies trying to take Twitter's place.
+WebAIM listed one of my recent posts, [on Accessibility and MVPs](/blog/accessibility-and-mvps/), in [its own newsletter](https://webaim.org/newsletter/2022/december). That post grew out of some of the resistance to accessibility I've seen from social media companies trying to take Twitter's place.
