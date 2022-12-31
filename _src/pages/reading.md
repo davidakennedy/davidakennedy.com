@@ -52,3 +52,4 @@ The list:
 38. _In Defense of Food: An Eater's Manifesto_ by Michael Pollan
 39. &hearts; _Lincoln in the Bardo_ by George Saunders
 40. _Do Nothing: How to Break Away from Overworking, Overdoing, and Underliving_ by Celeste Headlee
+41. _The Paris Dressmaker_ by Kristy Cambron
