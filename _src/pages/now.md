@@ -1,6 +1,7 @@
 ---
 title: Now
 description: What David A. Kennedy is up to right now.
+date: git Last Modified
 ---
 
 A page detailing what I'm focused on at the moment. I'll update it when things change.
@@ -14,4 +15,4 @@ I'm currently:
 
 Inspired by [Derek Sivers](https://sivers.org/nowff).
 
-_Last updated: November 19, 2022_
+_Last updated: {{ page.date | readableDate }}_
