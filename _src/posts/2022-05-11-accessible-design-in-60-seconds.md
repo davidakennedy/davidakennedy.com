@@ -5,6 +5,7 @@ date: 2022-05-11T20:33:51+00:00
 permalink: /blog/accessible-design-in-60-seconds/
 tags:
   - Accessibility
+  - bestof
   - Web Design
 ---
 
