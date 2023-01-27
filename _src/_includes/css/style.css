@@ -497,6 +497,10 @@ input[type="submit"]:focus {
   margin-right: 0.5em;
 }
 
+.nav li {
+  margin-top: 0;
+}
+
 .nav-item-active a {
   text-decoration-style: wavy;
 }
@@ -597,6 +601,10 @@ input[type="submit"]:focus {
   display: flex;
   justify-content: space-between;
   padding-top: 8em;
+}
+
+.site-navigation {
+  align-self: center;
 }
 
 .site-content,
