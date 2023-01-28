@@ -492,8 +492,6 @@ input[type="submit"]:focus {
 
 .nav a {
   display: inline-block;
-  font-size: 1.1rem;
-  font-weight: 700;
   margin-right: 0.5em;
 }
 
@@ -605,6 +603,11 @@ input[type="submit"]:focus {
 
 .site-navigation {
   align-self: center;
+}
+
+.site-navigation a {
+  font-size: 1.1rem;
+  font-weight: 700;
 }
 
 .site-content,
