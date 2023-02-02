@@ -12,4 +12,6 @@ You can also see what I read in past years, at least when I began keeping track 
 
 The list:
 
-Just getting started for the year.
+1. &hearts; _And There Was Light: Abraham Lincoln and the American Struggle_ by Jon Meacham
+2. _Tiny Habits_ by BJ Fogg
+3. _Effortless: Make It Easy to Do What Matters_ by Greg McKeown
