@@ -4,7 +4,7 @@ description: The website for David A. Kennedy, a designer and accessibility advo
 eleventyNavigation:
   key: Home
   order: 1
-layout: layouts/home.njk
+layout: home
 templateClass: home-template
 permalink: index.html
 ---

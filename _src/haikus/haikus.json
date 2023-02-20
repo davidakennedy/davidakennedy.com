@@ -2,5 +2,5 @@
   "templateClass": "page-template",
   "tags": ["haikus"],
   "permalink": "haikus/{{ page.fileSlug | slugify }}/",
-  "layout": "layouts/page.njk"
+  "layout": "page"
 }

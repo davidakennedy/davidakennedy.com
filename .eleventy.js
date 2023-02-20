@@ -19,6 +19,7 @@ module.exports = function (eleventyConfig) {
 
   // Our layouts.
   eleventyConfig.addLayoutAlias("base", "layouts/base.njk");
+  eleventyConfig.addLayoutAlias("404", "layouts/404.njk");
   eleventyConfig.addLayoutAlias("blog", "layouts/blog.njk");
   eleventyConfig.addLayoutAlias("home", "layouts/home.njk");
   eleventyConfig.addLayoutAlias("page", "layouts/page.njk");
@@ -34,7 +35,7 @@ module.exports = function (eleventyConfig) {
 
   // https://html.spec.whatwg.org/multipage/common-microsyntaxes.html#valid-date-string
   eleventyConfig.addFilter("htmlDateString", (dateObj) => {
-    return DateTime.fromJSDate(dateObj, { zone: "utc" }).toISO();
+    return DateTime.fromJSDate(dateObj, { zone: "America/New_York" }).toISO();
   });
 
   // Get the first `n` elements of a collection.

@@ -4,7 +4,7 @@ description: Where David A. Kennedy goes to write.
 eleventyNavigation:
   key: Blog
   order: 3
-layout: layouts/blog.njk
+layout: blog
 templateClass: archive-template
 permalink: blog/index.html
 ---
