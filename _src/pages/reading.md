@@ -15,3 +15,4 @@ The list:
 1. &hearts; _And There Was Light: Abraham Lincoln and the American Struggle_ by Jon Meacham
 2. _Tiny Habits_ by BJ Fogg
 3. _Effortless: Make It Easy to Do What Matters_ by Greg McKeown
+4. _Frederick Douglass: Prophet of Freedom_ by David W. Blight
