@@ -13,7 +13,8 @@
   "author": {
     "name": "David A. Kennedy",
     "email": "me@davidakennedy.com",
-    "avatar": "/assets/img/logo/dksocial.png",
+    "avatar": "/assets/img/logo/dksocialsmall.png",
+    "avatarlarge": "/assets/img/logo/dksocial.png",
     "social": {
       "twitter": {
         "name": "davidakennedy",
