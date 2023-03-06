@@ -6,8 +6,8 @@
 <meta property="og:title" content="{{ title or metadata.title }}">
 <meta property="og:description" content="{{ description or metadata.description }}">
 <meta property="og:url" content="{{ absolutePageUrl }}">
-<meta property="og:image" content="{%- if image -%}{{ image | imgPath | url | absoluteUrl(metadata.url) }}{%- elseif isPost and not image -%}{{ metadata.author.avatarlarge | url | absoluteUrl(metadata.url) }}{%- else -%}{{ metadata.author.avatar | url | absoluteUrl(metadata.url) }}{%- endif -%}">
-<meta name="twitter:card" content="{%- if image -%}summary_large_image{%- elseif isPost and not image -%}summary_large_image{%- else -%}{{ summary }}summary{%- endif -%}">
+<meta property="og:image" content="{%- if img -%}{{ img | imgPath | url | absoluteUrl(metadata.url) }}{%- else -%}{{ metadata.author.avatarlarge | url | absoluteUrl(metadata.url) }}{%- endif -%}">
+<meta name="twitter:card" content="{%- if img -%}summary_large_image{%- else -%}summary{%- endif -%}">
 
 {# Posts get additional meta tags #}
 {%- if isPost -%}
