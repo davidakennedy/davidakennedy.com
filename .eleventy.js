@@ -56,6 +56,8 @@ module.exports = function (eleventyConfig) {
           "all",
           "article",
           "articles",
+          "note",
+          "notes",
           "bestof",
           "haikus",
           "readinglists",
