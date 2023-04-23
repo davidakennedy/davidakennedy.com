@@ -507,23 +507,28 @@ input[type="submit"]:focus {
   vertical-align: middle;
 }
 
-/* Posts & pages */
-.post-content,
+/* Articles, notes & pages */
+.article-content,
+.note-content,
 .page-content,
 .resume-content {
   margin-top: 0.7em;
 }
 
+.article-content > h2 + *,
+.note-content > h2 + *,
 .page-content > h2 + *,
-.post-content > h2 + *,
+.article-content > h3 + *,
+.note-content > h3 + *,
 .page-content > h3 + *,
-.post-content > h3 + *,
-.page-content > h4 + *,
-.post-content > h4 + * {
+.article-content > h4 + *,
+.note-content > h4 + *,
+.page-content > h4 + * {
   margin-top: 0.7em;
 }
 
-.post-header img + *,
+.article-header img + *,
+.note-header img + *,
 .page-header img + * {
   margin-top: 1.4em;
 }
@@ -554,7 +559,8 @@ input[type="submit"]:focus {
   font-style: italic;
 }
 
-.post-content .meta {
+.article-content .meta,
+.note-content .meta {
   margin-top: 2.1em;
 }
 
@@ -624,10 +630,12 @@ input[type="submit"]:focus {
   color: var(--lighttext);
 }
 
+.article-header,
+.note-header,
 .page-header,
-.post-header,
-.page-content,
-.post-content {
+.article-content,
+.note-content,
+.page-content {
   max-width: 60ch;
 }
 

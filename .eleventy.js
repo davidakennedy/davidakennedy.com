@@ -23,7 +23,8 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addLayoutAlias("blog", "layouts/blog.njk");
   eleventyConfig.addLayoutAlias("home", "layouts/home.njk");
   eleventyConfig.addLayoutAlias("page", "layouts/page.njk");
-  eleventyConfig.addLayoutAlias("post", "layouts/post.njk");
+  eleventyConfig.addLayoutAlias("post", "layouts/article.njk");
+  eleventyConfig.addLayoutAlias("note", "layouts/note.njk");
   eleventyConfig.addLayoutAlias("resume", "layouts/resume.njk");
 
   // Filters
@@ -51,9 +52,14 @@ module.exports = function (eleventyConfig) {
   function filterTagList(tags) {
     return (tags || []).filter(
       (tag) =>
-        ["all", "post", "posts", "bestof", "haikus", "readinglists"].indexOf(
-          tag
-        ) === -1
+        [
+          "all",
+          "article",
+          "articles",
+          "bestof",
+          "haikus",
+          "readinglists",
+        ].indexOf(tag) === -1
     );
   }
 

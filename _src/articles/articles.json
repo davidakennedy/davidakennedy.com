@@ -1,0 +1,6 @@
+{
+  "templateClass": "article-template",
+  "tags": ["articles"],
+  "permalink": "blog/{% if slug %}{{ slug }}{% else %}{{ title | slugify }}{% endif %}/",
+  "layout": "article"
+}
