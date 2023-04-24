@@ -11,8 +11,8 @@
   <div class="page-content stack">
     {{ content | safe }}
     {% include "partials/signup-form.njk" %}
-    {% set postlist = collections.articlesAndNotes %}
-    {% include "partials/archive-articles-and-notes-list.njk" %}
+    {% set postlist = pagination.items %}
+    {% include "partials/archive-post-list.njk" %}
   </div>
 {% endblock %}
 

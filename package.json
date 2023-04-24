@@ -5,7 +5,7 @@
   "scripts": {
     "build": "ELEVENTY_ENV=prod npx @11ty/eleventy",
     "serve": "ELEVENTY_ENV=dev npx @11ty/eleventy --serve",
-    "debug": "DEBUG=* @11ty/eleventy"
+    "debug": "DEBUG=Eleventy* npx @11ty/eleventy"
   },
   "repository": {
     "type": "git",
