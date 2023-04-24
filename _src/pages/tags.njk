@@ -19,7 +19,7 @@ templateClass: archive-template
 permalink: /tag/{{ tag | slugify }}/
 ---
 
-{% set postlist = collections[ tag ] %}
+{% set postlist = collections[ tag ] | reverse %}
 {% if (collections[ tag ].length) > 1  %}
 <p>There are {{ collections[ tag ].length }} posts tagged with {{ tag }}.</p>
 {% else %}

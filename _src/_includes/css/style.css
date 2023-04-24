@@ -507,6 +507,35 @@ input[type="submit"]:focus {
   vertical-align: middle;
 }
 
+/* Post Navigation */
+.pagination {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin-top: 2em;
+}
+
+.pagination .older-posts {
+  margin-right: auto;
+}
+
+.pagination .newer-posts {
+  margin-left: auto;
+}
+
+.pagination a {
+  display: inline-block;
+  font-size: 1.1875rem;
+  font-weight: 600;
+  padding: 0.5em;
+  text-decoration: none;
+}
+
+.pagination svg {
+  vertical-align: middle;
+}
+
 /* Articles, notes & pages */
 .article-content,
 .note-content,
@@ -1030,7 +1059,8 @@ pre[class*="language-"] {
   }
 
   .site-header,
-  .site-footer {
+  .site-footer,
+  .pagination {
     display: none;
   }
 
