@@ -12,7 +12,7 @@
       <h3 class="title p-name">{% if post.data.title %}{{ post.data.title }}{% else %}<code>{{ post.url }}</code>{% endif %}</h3>
     </a>
     <div class="meta">
-      <span class="sr-only">Published on </span>
+      Published on
       <time class="date dt-published" datetime="{{ post.date | htmlDateString }}">{{ post.date | readableDate }}</time>
     </div>
     {% if post.data.description %}
