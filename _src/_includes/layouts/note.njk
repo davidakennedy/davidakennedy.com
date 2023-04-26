@@ -6,14 +6,7 @@
 {% block content %}
   <article class="note h-entry">
     <div class="note-header">
-      {%- if featuredimg and img -%}
-        {% image img, imgalt %}
-      {%- endif -%}
-      {% set posttitle = title or renderData.title %}
-      <h1 class="title p-name">{{ posttitle }}</h1>
-      <div class="meta">
-        <span class="date"> Published on <time class="dt-published" datetime="{{ page.date | htmlDateString }}">{{ page.date | readableDate }}</time> <span class="author sr-only h-card p-author">by {{ metadata.author.name }}</span></span>
-      </div>
+      <h1 class="title">{{ page.date | readableDate }}</h1>
     </div>
     <div class="note-content stack e-content">
       {{ content | safe }}
@@ -34,6 +27,9 @@
           </div>
         </div>
       {%- endif -%}
+      <div class="meta">
+        <span class="date"> Published on <time class="dt-published" datetime="{{ page.date | htmlDateString }}">{{ page.date | readableDate }}</time> <span class="author sr-only h-card p-author">by {{ metadata.author.name }}</span></span>
+      </div>
     </div>
   </article>
 {% endblock %}

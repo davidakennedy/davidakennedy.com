@@ -166,7 +166,7 @@ h4,
 
 h1,
 .h1 {
-  font-size: 2.1rem;
+  font-size: 2.4rem;
 }
 
 h2,
@@ -176,7 +176,7 @@ h2,
 
 h3,
 .h3 {
-  font-size: 1.5rem;
+  font-size: 1.4rem;
 }
 
 h4,
@@ -240,7 +240,7 @@ abbr {
 }
 
 small {
-  font-size: 0.75rem;
+  font-size: 0.7rem;
 }
 
 table,
@@ -526,7 +526,7 @@ input[type="submit"]:focus {
 
 .pagination a {
   display: inline-block;
-  font-size: 1.1875rem;
+  font-size: 1.1rem;
   font-weight: 600;
   padding: 0.5em;
   text-decoration: none;
@@ -1073,19 +1073,19 @@ pre[class*="language-"] {
   }
 
   h1 {
-    font-size: 24pt !important;
+    font-size: 36pt !important;
   }
 
   h2 {
-    font-size: 20pt !important;
+    font-size: 28pt !important;
   }
 
   h3 {
-    font-size: 18pt !important;
+    font-size: 24pt !important;
   }
 
   h4 {
-    font-size: 16pt !important;
+    font-size: 20pt !important;
   }
 
   a,
