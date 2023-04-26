@@ -61,8 +61,8 @@ select {
   background-color: var(--background);
   color: #333333;
   color: var(--text);
-  font-family: "Merriweather", Iowan Old Style, Apple Garamond, Baskerville,
-    Times New Roman, Droid Serif, Times, Source Serif Pro, serif;
+  font-family: "Merriweather", Charter, "Bitstream Charter", "Sitka Text",
+    Georgia, serif;
   font-size: 1.25rem;
   font-size: calc(0.25vw + 0.25vh + 1rem);
   font-weight: 400;
