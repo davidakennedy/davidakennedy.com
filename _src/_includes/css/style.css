@@ -571,12 +571,16 @@ input[type="submit"]:focus {
   margin-top: 4.8em;
 }
 
+.post-list + h2 {
+  margin-top: 2em;
+}
+
 .post-list .post-link {
   display: inline-block;
 }
 
 .post-list .post-excerpt {
-  margin-top: 0.4em;
+  margin-top: 0.8em;
 }
 
 /* Post meta */
@@ -591,6 +595,10 @@ input[type="submit"]:focus {
 .article-content .meta,
 .note-content .meta {
   margin-top: 2.2em;
+}
+
+.meta + .meta {
+  margin-top: 1.2em;
 }
 
 .tag-list {
