@@ -4,7 +4,7 @@ description: An oral histpry worth reading.
 date: 2016-09-11T19:51:43+00:00
 permalink: /blog/only-plane-in-the-sky/
 tags:
-  - Links
+  - History
 ---
 
 I love oral histories, and this is one that's been [largely untold about one of the most defining days in U.S. history](http://www.politico.com/magazine/story/2016/09/were-the-only-plane-in-the-sky-214230).

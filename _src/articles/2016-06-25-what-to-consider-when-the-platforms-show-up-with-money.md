@@ -4,7 +4,6 @@ description: "Social networks can't replace your own domain."
 date: 2016-06-25T20:27:02+00:00
 permalink: /blog/what-to-consider-when-the-platforms-show-up-with-money/
 tags:
-  - Links
   - Open Web
   - Social Media
 ---

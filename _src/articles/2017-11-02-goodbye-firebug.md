@@ -4,7 +4,6 @@ description: This tool helped me learn so much about HTML and CSS.
 date: 2017-11-02T14:27:05+00:00
 permalink: /blog/goodbye-firebug/
 tags:
-  - Links
   - Web Development
 ---
 

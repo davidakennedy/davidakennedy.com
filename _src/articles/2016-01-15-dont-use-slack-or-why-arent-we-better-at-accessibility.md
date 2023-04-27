@@ -5,10 +5,9 @@ date: 2016-01-15T10:32:50+00:00
 permalink: /blog/dont-use-slack-or-why-arent-we-better-at-accessibility/
 tags:
   - Accessibility
-  - Links
 ---
 
-In [Don't Use Slack](https://medium.com/hacker-daily/don-t-use-slack-8e70452f3eed), Christian Heilmann raises some critical questions about why accessibility doesn't happen more in modern-day apps and startups, highlighting some issues he observed when a former  colleague who's blind needed to use Slack. He also touched on why Slack is a fantastic tool, and has some on-point conclusions about the nature of open source and proprietary development, and the advantages of each:
+In [Don't Use Slack](https://medium.com/hacker-daily/don-t-use-slack-8e70452f3eed), Christian Heilmann raises some critical questions about why accessibility doesn't happen more in modern-day apps and startups, highlighting some issues he observed when a former colleague who's blind needed to use Slack. He also touched on why Slack is a fantastic tool, and has some on-point conclusions about the nature of open source and proprietary development, and the advantages of each:
 
 > … [O]pen and accessible doesn’t beat usable and intelligent.
 

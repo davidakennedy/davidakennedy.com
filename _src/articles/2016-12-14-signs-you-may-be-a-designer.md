@@ -4,7 +4,6 @@ description: "It's me."
 date: 2016-12-14T21:02:44+00:00
 permalink: /blog/signs-you-may-be-a-designer/
 tags:
-  - Links
   - Web Design
 ---
 

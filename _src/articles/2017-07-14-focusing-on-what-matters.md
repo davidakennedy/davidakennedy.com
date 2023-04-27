@@ -5,7 +5,6 @@ date: 2017-07-14T10:15:59+00:00
 permalink: /blog/focusing-on-what-matters/
 tags:
   - Accessibility
-  - Links
   - Security
   - Web Performance
 ---

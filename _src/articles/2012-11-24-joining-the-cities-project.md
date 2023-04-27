@@ -5,7 +5,7 @@ date: 2012-11-24T18:23:14+00:00
 permalink: /blog/joining-the-cities-project/
 tags:
   - Accessibility
-  - Cities
+  - Cities Project
   - WordPress
   - Work
 ---

@@ -4,7 +4,6 @@ description: The Web represents this giant book that we're all writing and learn
 date: 2016-01-22T00:15:15+00:00
 permalink: /blog/why-i-love-working-with-the-web/
 tags:
-  - Links
   - Open Web
 ---
 

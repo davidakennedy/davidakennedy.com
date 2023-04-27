@@ -4,7 +4,7 @@ description: Running has influenced a lot of my perspectives in life
 date: 2018-03-08T23:06:49+00:00
 permalink: /blog/james-dyson-on-luck/
 tags:
-  - Links
+  - Running
 ---
 
 I [heard a quote](https://www.npr.org/templates/transcript/transcript.php?storyId=584331881) recently on an [NPR podcast featuring James Dyson](https://www.youtube.com/watch?v=WW2-SsnNI7U), the inventor known for his vacuum cleaners, that I love:

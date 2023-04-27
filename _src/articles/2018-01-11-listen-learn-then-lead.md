@@ -5,7 +5,6 @@ date: 2018-01-11T11:05:52+00:00
 permalink: /blog/listen-learn-then-lead/
 tags:
   - Leadership
-  - Links
 ---
 
 I enjoyed this [talk by Stanley McChrystal about leadership](https://www.ted.com/talks/stanley_mcchrystal).

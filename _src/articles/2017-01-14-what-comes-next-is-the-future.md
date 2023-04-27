@@ -4,7 +4,6 @@ description: Oh, a mix of history and the Web!
 date: 2017-01-14T12:52:46+00:00
 permalink: /blog/what-comes-next-is-the-future/
 tags:
-  - Links
   - Open Web
 ---
 

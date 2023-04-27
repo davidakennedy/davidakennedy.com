@@ -17,6 +17,6 @@ If you're left brained, you're analytical and will most likely make a great prog
 
 But what if you could do both tasks in the world of interactive media?
 
-There's good [reasons](http://www.webdesignerdepot.com/2009/01/6-reasons-why-designers-should-code/) to, according to a post at [Web Designer Depot](http://www.webdesignerdepot.com/).
+There's [good reasons](http://www.webdesignerdepot.com/2009/01/6-reasons-why-designers-should-code/) to, according to a post at [Web Designer Depot](http://www.webdesignerdepot.com/).
 
 I'll add one more to the list: It's fun to do both!

@@ -4,7 +4,6 @@ description: Embrace the link.
 date: 2016-07-01T22:46:07+00:00
 permalink: /blog/hypertext/
 tags:
-  - Links
   - HTML
   - Open Web
 ---

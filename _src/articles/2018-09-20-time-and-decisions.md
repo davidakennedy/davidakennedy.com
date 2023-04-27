@@ -5,7 +5,6 @@ date: 2018-09-20T22:42:33+00:00
 permalink: /blog/time-and-decisions/
 tags:
   - Leadership
-  - Links
 ---
 
 Seth Godin has written a lot of classic posts, but this [one is my favorite](https://seths.blog/2018/07/the-timedecision-gap/). He talks about how time and decisions become interlinked. He says:

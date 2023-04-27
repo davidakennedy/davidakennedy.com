@@ -4,7 +4,6 @@ description: Every step in the experience matters.
 date: 2018-08-30T22:21:21+00:00
 permalink: /blog/the-end-to-end-experience/
 tags:
-  - Links
   - User Experience
 ---
 

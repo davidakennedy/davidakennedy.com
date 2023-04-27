@@ -4,7 +4,6 @@ description: Practicing empathy in our work could have the same impact on the We
 date: 2016-06-30T21:40:37+00:00
 permalink: /blog/empathy-and-acceptance-in-design-and-community/
 tags:
-  - Links
   - User Experience
   - Web Design
   - WordPress
