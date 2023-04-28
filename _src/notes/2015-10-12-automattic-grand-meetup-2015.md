@@ -7,4 +7,4 @@ tags:
   - Conferences
 ---
 
-{% image "./_src/assets/img/uploads/grandmeetup2015-1.jpg", "Automattic Grand Meetup 2015 conference badge." %}
+{% image "./_src/assets/img/uploads/grandmeetup2015-1.jpg", "Automattic Grand Meetup 2015 conference badge with the words Park City, Utah and David A. Kennedy.", "Automattic Grand Meetup 2015 conference badge." %}

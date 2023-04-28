@@ -7,4 +7,4 @@ tags:
   - Conferences
 ---
 
-{% image "./_src/assets/img/uploads/wclanc2014-1.jpg", "WordCamp Lancaster 2014 conference badge." %}
+{% image "./_src/assets/img/uploads/wclanc2014-1.jpg", "Conference badge with a blue, yellow and red bird in the center followed by the WordPress logo. Includes: WordCamp Lancaster, March 1-2, 2014; David A. Kennedy.", "WordCamp Lancaster 2014 conference badge." %}

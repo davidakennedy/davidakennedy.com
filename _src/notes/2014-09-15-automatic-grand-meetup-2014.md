@@ -7,4 +7,4 @@ tags:
   - Conferences
 ---
 
-{% image "./_src/assets/img/uploads/grandmeetup2014-14.jpg", "Automattic Grand Meetup 2014 badge." %}
+{% image "./_src/assets/img/uploads/grandmeetup2014-14.jpg", "Blue and white conference badge with social media icons and the words David A. Kennedy.", "Automattic Grand Meetup 2014 badge." %}
