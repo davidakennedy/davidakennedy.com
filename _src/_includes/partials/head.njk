@@ -5,12 +5,13 @@
   {% include "partials/meta.njk" %}
   {% include "partials/seo.njk" %}
   <!-- Styles -->
-  {% set css %}
-    {% include "css/style.css" %}
-  {% endset %}
+  {%- css %}
+    {% include "_src/assets/css/global.css" %}
+    {% include "_src/assets/css/print.css" %}
+  {% endcss %}
   {% if build.environment == "prod" %}
-    <style>{{ css | cssmin | safe }}</style>
+    <style>{% getBundle "css" %}</style>
   {% else %}
-    <style>{{ css | safe }}</style>
-  {% endif %}
+ 		<link rel="stylesheet" href="{% getBundleFileUrl "css" %}">
+  {%- endif %}
 </head>

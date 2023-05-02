@@ -1,0 +1,66 @@
+/* Post Navigation */
+.pagination {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin-top: 2em;
+}
+
+.pagination .older-posts {
+  margin-right: auto;
+}
+
+.pagination .newer-posts {
+  margin-left: auto;
+}
+
+.pagination a {
+  display: inline-block;
+  font-size: 1.1rem;
+  font-weight: 600;
+  padding: 0.5em;
+  text-decoration: none;
+}
+
+.email-signup svg,
+.pagination svg {
+  vertical-align: middle;
+}
+
+/* Email form */
+.email-signup .email,
+.email-signup .button {
+  margin-top: 0.4em;
+}
+
+/* Post list */
+.post-list {
+  list-style: none;
+  margin-left: 0;
+}
+
+.post-list > * + * {
+  margin-top: 4.8em;
+}
+
+.post-list + h2 {
+  margin-top: 2em;
+}
+
+.post-list .post-link {
+  display: inline-block;
+}
+
+.post-list .post-excerpt {
+  margin-top: 0.8em;
+}
+
+.archive-template h2::after {
+  border-top: 0.1em solid currentColor;
+  content: "";
+  display: inline-block;
+  margin-left: 0.5em;
+  vertical-align: middle;
+  width: 25%;
+}

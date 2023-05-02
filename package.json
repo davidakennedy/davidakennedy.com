@@ -34,6 +34,7 @@
     "terser": "^5.15.1"
   },
   "dependencies": {
+    "@11ty/eleventy-plugin-bundle": "^1.0.4",
     "netlify-plugin-11ty": "^1.1.0"
   }
 }

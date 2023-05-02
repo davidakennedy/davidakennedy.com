@@ -6,6 +6,7 @@ const eleventyNavigationPlugin = require("@11ty/eleventy-navigation");
 const image = require("@11ty/eleventy-img");
 const { EleventyRenderPlugin } = require("@11ty/eleventy");
 const markdownIt = require("markdown-it");
+const bundlerPlugin = require("@11ty/eleventy-plugin-bundle");
 const CleanCSS = require("clean-css");
 const htmlmin = require("html-minifier");
 
@@ -111,8 +112,16 @@ module.exports = function (eleventyConfig) {
   });
 
   // Minify CSS
-  eleventyConfig.addFilter("cssmin", function (code) {
-    return new CleanCSS({ sourceMap: true }).minify(code).styles;
+  async function minifyCSS(content) {
+    if (this.type === "css") {
+      return new CleanCSS({ sourceMap: true }).minify(content).styles;
+    }
+
+    return content;
+  }
+
+  eleventyConfig.addPlugin(bundlerPlugin, {
+    transforms: [minifyCSS],
   });
 
   // Minify HTML

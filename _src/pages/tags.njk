@@ -19,6 +19,10 @@ templateClass: archive-template
 permalink: /tag/{{ tag | slugify }}/
 ---
 
+{%- css %}
+  {% include "_src/assets/css/archive.css" %}
+  {% include "_src/assets/css/meta.css" %}
+{% endcss %}
 {% set postlist = collections[ tag ] | reverse %}
 {% if (collections[ tag ].length) > 1  %}
 <p>There are {{ collections[ tag ].length }} posts tagged with {{ tag }}.</p>
