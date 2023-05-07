@@ -563,3 +563,16 @@ input[type="submit"]:focus {
 .page-content {
   max-width: 60ch;
 }
+
+/* Going dark */
+@media (prefers-color-scheme: dark) {
+  :root {
+    /* Colors */
+    --background: #111111;
+    --lighttext: #808080;
+    --text: #cccccc;
+    --decorative: #666666;
+    --marklight: #222222;
+    --markdark: #191919;
+  }
+}
