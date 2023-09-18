@@ -16,10 +16,6 @@
     "avatar": "/assets/img/logo/dksocialsmall.png",
     "avatarlarge": "/assets/img/logo/dksocial.png",
     "social": {
-      "twitter": {
-        "name": "davidakennedy",
-        "url": "https://twitter.com/davidakennedy"
-      },
       "github": {
         "name": "davidakennedy",
         "url": "https://github.com/davidakennedy"

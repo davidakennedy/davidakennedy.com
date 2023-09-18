@@ -25,7 +25,6 @@ You can learn more about my professional experience by visiting my [Linkedin pro
 - [Selected Writing](/tag/selected-writing/)
 - [Reading](/reading/)
 - [Haikus](/haikus/)
-- [On Twitter](https://twitter.com/davidakennedy)
 - [On GitHub](https://github.com/davidakennedy)
 - [On CodePen](https://codepen.io/davidakennedy)
 

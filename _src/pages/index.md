@@ -43,5 +43,3 @@ If that's not enough, here are some of the latest posts form my blog.
 
 {% set posts = collections.articlesAndNotes | head(-5) | reverse %}
 {% include "partials/post-list.njk" %}
-
-You can also [follow me on Twitter](https://twitter.com/davidakennedy).
