@@ -20,3 +20,4 @@ The list:
 6. _Cracking the PM Career: The Skills, Frameworks, and Practices to Become a Great Product Manager_ by Gayle Laakmann McDowell and Jackie Bavaro
 7. _True Grit_ by Charles Portis
 8. _The Antidote: Happiness for People Who Can't Stand Positive Thinking_ by Oliver Burkeman
+9. _Jonathan Strange & Mr Norrell_ by Susanna Clarke
