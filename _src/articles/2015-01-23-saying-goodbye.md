@@ -1,5 +1,6 @@
 ---
 title: Saying Goodbye
+description: Love you, buddy!
 date: 2015-01-23T20:51:11+00:00
 permalink: /blog/saying-goodbye/
 tags:

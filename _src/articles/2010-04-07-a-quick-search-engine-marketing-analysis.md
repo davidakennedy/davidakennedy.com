@@ -1,5 +1,6 @@
 ---
 title: "A Quick Search Engine Marketing Analysis: Back On My Feet"
+description: A little search engine homework.
 date: 2010-04-07T14:18:55+00:00
 permalink: /blog/a-quick-search-engine-marketing-analysis/
 tags:

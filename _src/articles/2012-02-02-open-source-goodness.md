@@ -1,6 +1,6 @@
 ---
 title: Open Source Goodness
-desciption: A few open source projects that excite me.
+description: A few open source projects that excite me.
 date: 2012-02-02T23:50:40+00:00
 permalink: /blog/open-source-goodness/
 tags:
