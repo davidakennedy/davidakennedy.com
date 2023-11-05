@@ -5,7 +5,6 @@ date: 2015-04-27T21:52:22+00:00
 permalink: /blog/art-direction-and-creativity-on-the-web-in-2015/
 tags:
   - Creativity
-
   - Open Web
   - Web Design
 ---

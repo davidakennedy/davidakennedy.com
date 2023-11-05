@@ -6,7 +6,6 @@ permalink: /blog/web-accessibility-tutorials-from-the-w3c/
 tags:
   - Accessibility
   - Front End Development
-
   - Web Standards
 ---
 

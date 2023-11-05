@@ -14,14 +14,14 @@ Today, I released the next version of Accessible Zen. It's version 0.1-alpha-4.
 
 You can find out more on the [Github repository](https://github.com/davidakennedy/accessible-zen), but here are the basics:
 
-  * [Consistent CSS comments, form tweaks and other CSS clean up](https://github.com/davidakennedy/accessible-zen/issues/4).
-  * [Reorganize file structure and clean up template comments](https://github.com/davidakennedy/accessible-zen/issues/16).
-  * [No more `<br>` tags in the footer meta](https://github.com/davidakennedy/accessible-zen/issues/17).
-  * Use the [HTML5 support from WordPress core for certain elements](https://github.com/davidakennedy/accessible-zen/issues/27).
-  * [Improve menus on mobile devices](https://github.com/davidakennedy/accessible-zen/issues/29).
-  * [Better line height on headings](https://github.com/davidakennedy/accessible-zen/issues/30).
-  * [Add compatibility file for WordPress 3.6](https://github.com/davidakennedy/accessible-zen/issues/31).
-  * [More support for RTL languages in the editor](https://github.com/davidakennedy/accessible-zen/issues/32).
+- [Consistent CSS comments, form tweaks and other CSS clean up](https://github.com/davidakennedy/accessible-zen/issues/4).
+- [Reorganize file structure and clean up template comments](https://github.com/davidakennedy/accessible-zen/issues/16).
+- [No more `<br>` tags in the footer meta](https://github.com/davidakennedy/accessible-zen/issues/17).
+- Use the [HTML5 support from WordPress core for certain elements](https://github.com/davidakennedy/accessible-zen/issues/27).
+- [Improve menus on mobile devices](https://github.com/davidakennedy/accessible-zen/issues/29).
+- [Better line height on headings](https://github.com/davidakennedy/accessible-zen/issues/30).
+- [Add compatibility file for WordPress 3.6](https://github.com/davidakennedy/accessible-zen/issues/31).
+- [More support for RTL languages in the editor](https://github.com/davidakennedy/accessible-zen/issues/32).
 
 ## Next
 
@@ -29,7 +29,7 @@ We're careening toward the first, and likely, [only Beta release](https://github
 
 Remember, I’m still in Alpha. That means it’s early in the game. I’m still developing the theme and I really don’t recommend that you run it on a production site — set up a test site just to play with it.
 
-I’d love to hear what you think! You can submit feedback on the [GitHub issues section](https://github.com/davidakennedy/Accessible-Zen/issues), or by emailing me at me (at) davidakennedy dot com.
+I’d love to hear what you think! You can submit feedback on the [GitHub issues section](https://github.com/davidakennedy/Accessible-Zen/issues), or by emailing me at <me@davidakennedy.com>.
 
 <p class="callout">
   Read more about <a href="/projects/accessible-zen/">Accessible Zen</a>, <a href="https://github.com/davidakennedy/accessible-zen">download the alpha version</a> or <a href="http://accessiblezen.davidakennedy.com">view the demo</a>.

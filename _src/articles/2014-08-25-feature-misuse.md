@@ -6,7 +6,6 @@ permalink: /blog/feature-misuse/
 tags:
   - Accessibility
   - HTML
-
   - Web Standards
 ---
 

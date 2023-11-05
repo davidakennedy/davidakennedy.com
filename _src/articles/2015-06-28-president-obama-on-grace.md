@@ -4,6 +4,7 @@ description: A truly moving speech.
 date: 2015-06-28T13:43:16+00:00
 permalink: /blog/president-obama-on-grace/
 tags:
+  - Life Lessons
 ---
 
 You should [watch President Barack Obama's moving eulogy for Rev. Clementa Pinckney](https://www.youtube.com/watch?v=ZDXMoO9ABFE), one of the victims of deadly shootings at Emanuel African Methodist Episcopal Church in Charleston, South Carolina. It's truly moving, and may go down as one of Obama's best oratorial moments.

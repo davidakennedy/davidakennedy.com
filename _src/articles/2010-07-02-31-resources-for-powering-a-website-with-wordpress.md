@@ -61,4 +61,4 @@ And if you want more great links about WordPress, be sure to follow my [Deliciou
 
 _Photo by [Ilya Pavlov](https://unsplash.com/photos/OqtafYT5kTw)._
 
-_This is the second part of a two part series on Building Websites with WordPress. The_ [_first installment_](http://davidakennedy.com/2010/06/18/to-use-wordpress-or-to-not-use-wordpress/) _covered the strategy needed when considering WordPress as a content management system or blogging platform for your website._
+_This is the second part of a two part series on Building Websites with WordPress. The [first installment](/blog/to-use-wordpress-or-to-not-use-wordpress/) covered the strategy needed when considering WordPress as a content management system or blogging platform for your website._

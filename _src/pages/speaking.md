@@ -60,4 +60,4 @@ No speaking engagements.
 
 ## 2010
 
-- **Social Media: What&#8217;s on the Menu**: Association of University Centers on Disabilities Annual Meeting and Conference; October 31 &#8211; November 3, 2010; Washington, DC. [Presentation slides](/assets/talks/Social-Media-Whats-on-the-Menu.pptx); [Related blog post](/blog/social-media-whats-on-the-menu/).
+- **Social Media: What's on the Menu**: Association of University Centers on Disabilities Annual Meeting and Conference; October 31 &#8211; November 3, 2010; Washington, DC. [Presentation slides](/assets/talks/Social-Media-Whats-on-the-Menu.pptx); [Related blog post](/blog/social-media-whats-on-the-menu/).

@@ -30,4 +30,4 @@ This post from [Maxability on screen reader and browser combinations](http://www
 
 Follow the series [Accessibility Answers](/tag/accessibility-answers/). Ask me a question via my [contact form](/contact/) or [Twiter](https://twitter.com/DavidAKennedy).
 
-_Image by [rawpixel](https://unsplash.com/photos/Gx_o9dbqf34t)_.
+_Image by [rawpixel](https://unsplash.com/photos/Gx_o9dbqf34t)._

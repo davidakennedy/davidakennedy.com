@@ -5,7 +5,6 @@ date: 2015-02-15T22:59:10+00:00
 permalink: /blog/surviving-progress-documentary/
 tags:
   - Documentaries
-
   - Movies
 ---
 

@@ -14,8 +14,8 @@ Lately, a few people I read/follow have [taken 30-day blogging challenges](http:
 
 I think I can do it. I've blogged more recently, including 20 out of 30 days so far in October. I'm not going to do anything fancy: just use WordPress and Simplenote. Here are my rules:
 
-  1. Posts must be to this blog.
-  2. They can be scheduled ahead of time.
-  3. They can take any format or length.
+1. Posts must be to this blog.
+2. They can be scheduled ahead of time.
+3. They can take any format or length.
 
 We'll see if I make myself a writer. 🙂

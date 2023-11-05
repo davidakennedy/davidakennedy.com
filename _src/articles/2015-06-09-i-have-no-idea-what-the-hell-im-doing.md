@@ -5,7 +5,6 @@ date: 2015-06-09T21:33:30+00:00
 permalink: /blog/i-have-no-idea-what-the-hell-im-doing/
 tags:
   - Front End Development
-
   - Web Design
 ---
 

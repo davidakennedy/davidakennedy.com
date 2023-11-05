@@ -5,7 +5,6 @@ date: 2015-04-20T22:32:39+00:00
 permalink: /blog/whos-afraid-of-the-big-bad-medium/
 tags:
   - Blogging
-
   - Open Web
 ---
 

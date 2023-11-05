@@ -34,4 +34,4 @@ Marcy Sutton's [A11y Wins blog](https://a11ywins.tumblr.com/) has great examples
 
 Let's focus on making the concrete a bit more level every time way lay a new slab. Anyone can make the Web more accessible one change at a time.
 
-_Image courtesy of_ [_Mahdis Mousavi_](https://unsplash.com/photos/5BrLjgDAd-c).
+_Image courtesy of [Mahdis Mousavi](https://unsplash.com/photos/5BrLjgDAd-c)._

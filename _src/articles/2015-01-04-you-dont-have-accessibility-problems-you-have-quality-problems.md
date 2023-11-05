@@ -6,7 +6,6 @@ permalink: /blog/you-dont-have-accessibility-problems-you-have-quality-problems/
 tags:
   - Accessibility
   - Front End Development
-
   - User Experience
   - Web Development
 ---

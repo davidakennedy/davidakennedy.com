@@ -6,7 +6,6 @@ permalink: /blog/reactjs-for-stupid-people/
 tags:
   - Front End Development
   - JavaScript
-
   - ReactJS
 ---
 

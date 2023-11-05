@@ -32,6 +32,6 @@ These eight guideposts can fuel a successful creative team any time, anywhere an
 
 What else would you add or how would your strategy be different?
 
-_Image by <a href="https://unsplash.com/photos/_Wo1Oq38tVU">Ben Pattinson </a>._
+_Image by [Ben Pattinson](https://unsplash.com/photos/_Wo1Oq38tVU)._
 
 _Note: This post is a short assignment for my class in Interactive Media Management and Economics about about personal management styles._

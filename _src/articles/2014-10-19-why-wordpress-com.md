@@ -8,9 +8,9 @@ tags:
   - WordPress
 ---
 
-Two weeks ago I [moved this site to WordPress.com](http://davidakennedy.com/2014/09/30/moved-to-wordpress-com/). Sure, it means I might actually have a chance of blogging more because I don't have to worry about any of the technical details of running my own WordPress install. But what else does it mean?
+Two weeks ago I [moved this site to WordPress.com](/blog/moved-to-wordpress-com/). Sure, it means I might actually have a chance of blogging more because I don't have to worry about any of the technical details of running my own WordPress install. But what else does it mean?
 
-In this post, I'll dive into some of the other reasons I'm enjoying WordPress.com in my first two weeks here. Full disclosure: I [work for Automattic](http://davidakennedy.com/2014/09/02/joining-automattic/), the company behind WordPress.com.
+In this post, I'll dive into some of the other reasons I'm enjoying WordPress.com in my first two weeks here. Full disclosure: I [work for Automattic](/blog/joining-automattic/), the company behind WordPress.com.
 
 ## Simplified Content
 
@@ -20,7 +20,7 @@ Many people who have to choose between [WordPress.com and WordPress.org](http://
 
 ## The Plugins I Need
 
-When I self-hosted my site, it seemed I was always trying this new plugin or that popular plugin. At WordPress.com, I have all I need and not much more. I don't have to keep an eye out for what's new and what the best plugin is that does &#8220;A&#8221; or &#8220;B&#8221; because someone else does that for me.
+When I self-hosted my site, it seemed I was always trying this new plugin or that popular plugin. At WordPress.com, I have all I need and not much more. I don't have to keep an eye out for what's new and what the best plugin is that does "A" or "B" because someone else does that for me.
 
 ## What Backups?
 

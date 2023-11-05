@@ -5,7 +5,6 @@ date: 2015-08-04T22:49:41+00:00
 permalink: /blog/every-browser-is-the-new-ie-to-me/
 tags:
   - Front End Development
-
   - Web Browsers
 ---
 

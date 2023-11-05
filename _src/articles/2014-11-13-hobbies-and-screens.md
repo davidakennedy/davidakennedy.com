@@ -19,6 +19,6 @@ I need a new hobby.
 
 Outside of work, I play video games, write code for open source projects and pen blog posts. All those involve a screen. I use to do CrossFit regularly, but having a new, baby slowed that down. I'd love to find something that kept my creativity going, but lacks a screen.
 
-I'm thinking of getting back into running or trying to learn guitar, two hobbies I've experimented with in the past, My colleagues have helped inspire this as well. During [Automattic's Grand Meetup](http://davidakennedy.com/2014/09/24/first-grand-meetup/), I watched dozens of them deliver flash talks on all kinds of subjects that they find interesting. These ranged from yo-yos to spy plane history and so much more. My wife knits and I adore all the &"real" creations she makes.
+I'm thinking of getting back into running or trying to learn guitar, two hobbies I've experimented with in the past, My colleagues have helped inspire this as well. During [Automattic's Grand Meetup](/blog/first-grand-meetup/), I watched dozens of them deliver flash talks on all kinds of subjects that they find interesting. These ranged from yo-yos to spy plane history and so much more. My wife knits and I adore all the &"real" creations she makes.
 
 Hopefully, I'll find something that sticks soon.

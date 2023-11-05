@@ -7,6 +7,6 @@ tags:
   - Accessibility
   - WordPress
   - Work
-
 ---
+
 We've made a lot of [progress on the the Accessible Theme Pattern Library over the last month](https://make.wordpress.org/accessibility/2015/03/24/accessible-theme-pattern-library-update-for-march/). Check it out, and get involved. Now is the perfect time!

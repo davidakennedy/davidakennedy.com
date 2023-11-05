@@ -14,7 +14,7 @@ I stumbled across a Frank Chimero post from 2010 [called &"Text Playlist"](http:
 
 I love this idea, so I compiled my own. I have both books and web articles on my list, so I cheated a bit.
 
-[**Before His Time: The Untold Story of Harry T. Moore, America's First Civil Rights Martyr**](http://www.amazon.com/Before-His-Time-Untold-Americas/dp/0684854538/) (book): I came across Harry's story when I [wrote about him as a freelance writer](http://davidakennedy.com/2015/03/08/before-his-time-harry-t-moore/), and I've never forgotten him. His life and work remind me about focus, unwavering determination and courage.
+[**Before His Time: The Untold Story of Harry T. Moore, America's First Civil Rights Martyr**](http://www.amazon.com/Before-His-Time-Untold-Americas/dp/0684854538/) (book): I came across Harry's story when I [wrote about him as a freelance writer](/blog/before-his-time-harry-t-moore/), and I've never forgotten him. His life and work remind me about focus, unwavering determination and courage.
 
 [**What Should I Do with My Life? The True Story of People Who Answered the Ultimate Question**](http://www.amazon.com/Should-People-Answered-Ultimate-Question/dp/B007CFWFGI/) (book): I first read this book after college. It's a reminder that we all have our own path, and we need to embrace that. Also, what ends up fulfilling us for &#8220;work&#8221; may surprise us.
 

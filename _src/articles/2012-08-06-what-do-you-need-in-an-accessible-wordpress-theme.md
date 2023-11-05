@@ -18,10 +18,10 @@ Yesterday, I [tweeted that I was working on this](https://twitter.com/DavidAKenn
 
 Here's what I'm aiming for at this early stage:
 
-  * HTML5/CSS3 with a mix of progressive enhancement and graceful degradation.
-  * Responsive design
-  * Visible skip links
-  * Good color contrast (meeting WCAG AA)
-  * High contrast style switcher
-  * Will meet current WordPress coding standards
-  * Will be open source and free
+- HTML5/CSS3 with a mix of progressive enhancement and graceful degradation.
+- Responsive design
+- Visible skip links
+- Good color contrast (meeting WCAG AA)
+- High contrast style switcher
+- Will meet current WordPress coding standards
+- Will be open source and free

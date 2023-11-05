@@ -8,7 +8,7 @@ tags:
   - Reading
 ---
 
-Back in 2015, I wrote a pair of posts about [how I struggled](blog/my-missing-reading-habit/) to [read more](/blog/my-still-missing-reading-habit/) at the time. I've come a long way since then.
+Back in 2015, I wrote a pair of posts about [how I struggled](/blog/my-missing-reading-habit/) to [read more](/blog/my-still-missing-reading-habit/) at the time. I've come a long way since then.
 
 In 2017, I began reading in earnest, finishing nine books. In the following years, I read 22, 35 and 28 books. What changed? It became hobby number one.
 

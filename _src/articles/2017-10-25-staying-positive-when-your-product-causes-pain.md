@@ -28,6 +28,6 @@ You can't. I want to share some tips on how to stay positive when your product c
 
 Good luck in the product trenches, and stay positive out there!
 
-_Image courtesy of [Adam Jang](https://unsplash.com/photos/8pOTAtyd_Mc)_.
+_Image courtesy of [Adam Jang](https://unsplash.com/photos/8pOTAtyd_Mc)._
 
-_Originally published on [Automattic's Design Flow blog](https://a8cdesignflow.wordpress.com/2017/10/20/staying-positive-when-your-product-causes-pain/)_.
+_Originally published on [Automattic's Design Flow blog](https://a8cdesignflow.wordpress.com/2017/10/20/staying-positive-when-your-product-causes-pain/)._

@@ -14,7 +14,7 @@ tags:
 
 Choosing a blogging platform is like going to a new restaurant: you want to try something new, but you don't want to commit to something that won't be that good, and end up with a bad taste in your mouth. Plus, the choices remain endless.
 
-I recently wrote a two part series on [using WordPress for your website](http://davidakennedy.com/2010/06/18/to-use-wordpress-or-to-not-use-wordpress/), and am always interested in the evolution of blogging and publishing platforms. [Monica Guzman](http://www.moniguzman.com/) [asked via Twitter how Posterous and Tumblr compared](http://twitter.com/moniguzman/status/18936712759). Also, my good friend, [Colleen Callahan](http://www.collcallahan.com/), had some questions about Tumblr the other day, so I thought I'd tackle this question in a post.
+I recently wrote a two part series on [using WordPress for your website](/blog/to-use-wordpress-or-to-not-use-wordpress/), and am always interested in the evolution of blogging and publishing platforms. [Monica Guzman](http://www.moniguzman.com/) [asked via Twitter how Posterous and Tumblr compared](http://twitter.com/moniguzman/status/18936712759). Also, my good friend, [Colleen Callahan](http://www.collcallahan.com/), had some questions about Tumblr the other day, so I thought I'd tackle this question in a post.
 
 ## 1. Create an Account on Both Platforms
 

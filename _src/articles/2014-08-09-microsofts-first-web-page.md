@@ -5,7 +5,6 @@ date: 2014-08-09T14:49:41+00:00
 permalink: /blog/microsofts-first-web-page/
 tags:
   - HTML
-
   - Open Web
 ---
 

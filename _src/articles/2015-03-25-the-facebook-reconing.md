@@ -5,7 +5,6 @@ date: 2015-03-25T23:52:49+00:00
 permalink: /blog/the-facebook-reconing/
 tags:
   - Journalism
-
   - Media
 ---
 

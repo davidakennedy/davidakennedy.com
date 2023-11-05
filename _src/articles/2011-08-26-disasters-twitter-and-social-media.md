@@ -13,8 +13,8 @@ When the earthquake hit the East Coast Tuesday, I first thought construction wor
 
 It was the first big event that [I participated in on Twitter](https://twitter.com/DavidAKennedy/status/106061784846303232). I tweeted a few times, and then started reading, consuming… I noticed something:
 
-  * Twitter fed me real time information after the quake.
-  * Facebook let me talk about it with close friends and family, and communicate with them that I was okay.
-  * Google Plus let me surf a wider network with deeper analysis and threaded comments.
+- Twitter fed me real time information after the quake.
+- Facebook let me talk about it with close friends and family, and communicate with them that I was okay.
+- Google Plus let me surf a wider network with deeper analysis and threaded comments.
 
 I couldn't get everything from one social media platform. That may not be earth shattering, but it's worth thinking about.

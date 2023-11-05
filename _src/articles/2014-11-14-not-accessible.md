@@ -42,4 +42,4 @@ Think about all those missed conversations I could have had with mentors, collea
 
 - [Drive-by Criticism Must Die](http://christianheilmann.com/2013/01/27/drive-by-criticism-must-die/)
 
-Image courtesy of [Pexels.com](http://www.pexels.com/photo/343/).
+_Image courtesy of [Pexels.com](http://www.pexels.com/photo/343/)._

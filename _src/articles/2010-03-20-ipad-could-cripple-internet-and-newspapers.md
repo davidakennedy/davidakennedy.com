@@ -33,9 +33,9 @@ An Internet dominated by iPad-like devices could wreck that. Developers would ha
 
 So what should newspapers, magazines and other online storytellers do?
 
-  * Explore all possibilities, but maintain some distance and freedom. Don't rely on just one solution for distributing content.
-  * Embrace both closed systems, like the iPad and open source platforms, like WordPress.
-  * Advocate for standards when it comes to devices like the iPad, iPhone and Kindle.
+- Explore all possibilities, but maintain some distance and freedom. Don't rely on just one solution for distributing content.
+- Embrace both closed systems, like the iPad and open source platforms, like WordPress.
+- Advocate for standards when it comes to devices like the iPad, iPhone and Kindle.
 
 There's no perfect solution here, but doing these three things will help maintain that balance that Zittrain so smartly calls for as a solution.
 

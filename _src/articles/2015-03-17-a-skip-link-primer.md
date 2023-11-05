@@ -6,7 +6,6 @@ permalink: /blog/a-skip-link-primer/
 tags:
   - Accessibility
   - Front End Development
-
   - User Experience
 ---
 

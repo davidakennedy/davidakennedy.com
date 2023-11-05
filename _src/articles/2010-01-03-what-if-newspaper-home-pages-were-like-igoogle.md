@@ -18,7 +18,7 @@ The idea would put the design of newspaper and television Web site home pages in
 
 It has some strengths and weaknesses. Its strength is that it relies on user control. Its weaknesses are that I do not explain well enough its differences from tools like iGoogle. And, at least in the framework of the Knight News Challenge, it fails to provide enough benefit to a certain group of people.
 
-Read the proposal, and [contact](/about/) me if you're interested in developing it together.
+Read the proposal, and [contact](/contact/) me if you're interested in developing it together.
 
 ## 2010 Knight News Challenge Almost-Entry
 

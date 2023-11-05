@@ -27,4 +27,4 @@ So maybe you're not a designer, but just iterating and becoming a better develop
 
 Inspired by a [post from Mel Choyce](http://themeshaper.com/2015/02/27/theme-design-for-devs/).
 
-_Image courtesy of [Pexels.com](http://www.pexels.com/photo/2091/)_.
+_Image courtesy of [Pexels.com](http://www.pexels.com/photo/2091/)._

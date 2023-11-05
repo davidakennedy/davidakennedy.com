@@ -26,12 +26,12 @@ I kept all of my existing features, including my [projects custom post type and 
 
 New features include:
 
-  * mobile first design, using [Fluid Baseline Grid](http://fluidbaselinegrid.com/) as a starting point. Older browsers get served [Respond.js](https://github.com/scottjehl/Respond) to maintain the responsiveness.
-  * Tim Brown's [modular scale technique](http://modularscale.com/scale/?px1=16&px2=4&ra1=1.5&ra2=0). I deviated from a strict baseline grid.
-  * the web font [Franklin Gothic URW from Typekit](https://typekit.com/fonts/franklin-gothic-urw). I use Open Sans for my logo.
-  * icons from the icon font [IcoMoon](http://icomoon.io/).
-  * a footer background pattern from [Subtle Patterns](https://www.toptal.com/designers/subtlepatterns/light-sketch).
-  * a simple set of quotes that display in the footer randomly when a page loads. Right now, all of these are from Benjamin Franklin, because his quotes always make me stop and think, or smile. I'll add more later.
+- mobile first design, using [Fluid Baseline Grid](http://fluidbaselinegrid.com/) as a starting point. Older browsers get served [Respond.js](https://github.com/scottjehl/Respond) to maintain the responsiveness.
+- Tim Brown's [modular scale technique](http://modularscale.com/scale/?px1=16&px2=4&ra1=1.5&ra2=0). I deviated from a strict baseline grid.
+- the web font [Franklin Gothic URW from Typekit](https://typekit.com/fonts/franklin-gothic-urw). I use Open Sans for my logo.
+- icons from the icon font [IcoMoon](http://icomoon.io/).
+- a footer background pattern from [Subtle Patterns](https://www.toptal.com/designers/subtlepatterns/light-sketch).
+- a simple set of quotes that display in the footer randomly when a page loads. Right now, all of these are from Benjamin Franklin, because his quotes always make me stop and think, or smile. I'll add more later.
 
 ### Design
 
@@ -41,13 +41,13 @@ I wanted the design to reflect something new, but still feel familiar to anyone 
 
 I've taken great care to make the site as accessible as possible. I have:
 
-  * included visible skip links.
-  * included invisible headings with all of the site's navigation elements.
-  * implemented ARIA roles where appropriate.
-  * made sure the various color combinations pass both [WCAG 2 AA](http://accessibility.oit.ncsu.edu/tools/color-contrast/accessible-color-palette.php?&colors=ffffff,f4f4f4,525252,333333,141414,eef3fc,19468a,0d2345&main=ffffff&level=AA) and [WCAG 2 AAA](http://accessibility.oit.ncsu.edu/tools/color-contrast/accessible-color-palette.php?&colors=ffffff,f4f4f4,525252,333333,141414,eef3fc,19468a,0d2345&main=ffffff&level=AAA).
-  * served up the default font size (16px) in browsers for most areas of the site. Font sizes are served in percentages and ems to maintain fluidity.
-  * used JavaScript responsively. It controls the responsiveness in older browsers, the keyboard navigation in photo galleries, the main navigation on small viewports and the fallback on web fonts on older browsers. I've also used [Modernizr](http://modernizr.com/) for feature detection.
-  * plans to make the dropdown menus keyboard accessible.
+- included visible skip links.
+- included invisible headings with all of the site's navigation elements.
+- implemented ARIA roles where appropriate.
+- made sure the various color combinations pass both [WCAG 2 AA](http://accessibility.oit.ncsu.edu/tools/color-contrast/accessible-color-palette.php?&colors=ffffff,f4f4f4,525252,333333,141414,eef3fc,19468a,0d2345&main=ffffff&level=AA) and [WCAG 2 AAA](http://accessibility.oit.ncsu.edu/tools/color-contrast/accessible-color-palette.php?&colors=ffffff,f4f4f4,525252,333333,141414,eef3fc,19468a,0d2345&main=ffffff&level=AAA).
+- served up the default font size (16px) in browsers for most areas of the site. Font sizes are served in percentages and ems to maintain fluidity.
+- used JavaScript responsively. It controls the responsiveness in older browsers, the keyboard navigation in photo galleries, the main navigation on small viewports and the fallback on web fonts on older browsers. I've also used [Modernizr](http://modernizr.com/) for feature detection.
+- plans to make the dropdown menus keyboard accessible.
 
 ### Next
 

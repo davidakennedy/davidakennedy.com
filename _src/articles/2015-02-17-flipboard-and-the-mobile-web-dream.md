@@ -6,7 +6,6 @@ permalink: /blog/flipboard-and-the-mobile-web-dream/
 tags:
   - Accessibility
   - Front End Development
-
   - Mobile
 ---
 

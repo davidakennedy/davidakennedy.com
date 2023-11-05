@@ -5,7 +5,6 @@ date: 2015-06-25T23:21:57+00:00
 permalink: /blog/responsive-design-where-do-we-go-from-here/
 tags:
   - Accessibility
-
   - Open Web
   - Responsive Web Design
 ---

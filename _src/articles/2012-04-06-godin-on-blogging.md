@@ -5,7 +5,6 @@ date: 2012-04-06T09:24:15+00:00
 permalink: /blog/godin-on-blogging/
 tags:
   - Blogging
-
   - Writing
 ---
 

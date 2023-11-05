@@ -15,11 +15,11 @@ Think of how your team feels. They do the work, and probably have more on their 
 
 To make this easier, I wrote a list.
 
-  1. We should be building the fire suppression system, not the putting out all the fires.
-  2. How does it look on mobile?
-  3. What problem are we solving here?
-  4. We're not just about themes anymore.
-  5. Make the future.
+1. We should be building the fire suppression system, not the putting out all the fires.
+2. How does it look on mobile?
+3. What problem are we solving here?
+4. We're not just about themes anymore.
+5. Make the future.
 
 I look at this list at least once a week, trying to work it into conversations and communications with my team when it fits. The list evolves over time, but the themes within stay similar. They range from the everyday details that translate the craft to broad messages that grant perspective.
 

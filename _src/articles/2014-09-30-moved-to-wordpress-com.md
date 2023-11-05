@@ -9,9 +9,9 @@ tags:
   - WordPress
 ---
 
-Yesteday, I moved my this site to WordPress.com.
+Yesterday, I moved my this site to WordPress.com.
 
-I talked about [possibly doing that](http://davidakennedy.com/2013/06/10/moving-to-wordpress-com/) awhile ago, but since I [joined Automattic](http://davidakennedy.com/2014/09/02/joining-automattic/) a few weeks ago, I decided to take the leap. Why? Because it's important to use the thing you help make. [Dogfooding](http://en.wikipedia.org/wiki/Eating_your_own_dog_food), as it's called. 🙂 I believe it will help me make WordPress.com even better than before.
+I talked about [possibly doing that](/blog/moving-to-wordpress-com/) awhile ago, but since I [joined Automattic](/blog/joining-automattic/) a few weeks ago, I decided to take the leap. Why? Because it's important to use the thing you help make. [Dogfooding](http://en.wikipedia.org/wiki/Eating_your_own_dog_food), as it's called. 🙂 I believe it will help me make WordPress.com even better than before.
 
 I initially worried about making such a move. I really like to tinker with my site, and being on WordPress.com means I can't create my own custom themes, mess with template files or install my own plugins. But maybe that means I'll write more. I've picked up the pace recently so I'm looking forward to seeing what happens in the next few months.
 

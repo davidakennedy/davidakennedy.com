@@ -5,7 +5,6 @@ date: 2011-06-22T13:30:04+00:00
 permalink: /blog/complete-cms-with-wordpress/
 tags:
   - Content Management Systems
-
   - WordPress
 ---
 

@@ -8,7 +8,7 @@ tags:
   - Personal
 ---
 
-So I've [handed out some parenting advice](http://davidakennedy.com/2015/07/28/a-guide-to-parenting/) before to one of my colleagues. Today, we chatted about him joining the ranks of fatherhood any day. I had more advice – even though I got annoyed when people constantly gave me advice when they found out I was going to be a dad soon. 🙂
+So I've [handed out some parenting advice](/blog/a-guide-to-parenting/) before to one of my colleagues. Today, we chatted about him joining the ranks of fatherhood any day. I had more advice – even though I got annoyed when people constantly gave me advice when they found out I was going to be a dad soon. 🙂
 
 Advice for being a dad, or questions to ask yourself when your baby is doing something new:
 

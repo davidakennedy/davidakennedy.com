@@ -28,7 +28,7 @@ He remains one of my heroes not just because he died for his beliefs, but becaus
 
 ## More on Harry T. Moore
 
-  * [Wikipedia page](https://en.wikipedia.org/wiki/Harry_T._Moore).
-  * [The Harry T. & Harriette V. Moore Cultural Complex](http://harryharriettemoore.org). (Memorial Park)
-  * [Before His Time: The Untold Story of Harry T. Moore, America's First Civil Rights Martyr](http://www.amazon.com/Before-His-Time-Untold-Americas/dp/0684854538/). (Biography)
-  * [Freedom Never Dies: The Legacy of Harry T. Moore](http://www.pbs.org/harrymoore/index.html). (Documentary)
+- [Wikipedia page](https://en.wikipedia.org/wiki/Harry_T._Moore).
+- [The Harry T. & Harriette V. Moore Cultural Complex](http://harryharriettemoore.org). (Memorial Park)
+- [Before His Time: The Untold Story of Harry T. Moore, America's First Civil Rights Martyr](http://www.amazon.com/Before-His-Time-Untold-Americas/dp/0684854538/). (Biography)
+- [Freedom Never Dies: The Legacy of Harry T. Moore](http://www.pbs.org/harrymoore/index.html). (Documentary)

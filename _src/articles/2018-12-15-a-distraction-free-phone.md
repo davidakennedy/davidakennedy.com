@@ -8,6 +8,7 @@ date: 2018-12-15T13:09:04+00:00
 permalink: /blog/a-distraction-free-phone/
 tags:
   - Minimalist Living
+  - Personal
 ---
 
 Lately, I've wanted to be more intentional instead of more productive.

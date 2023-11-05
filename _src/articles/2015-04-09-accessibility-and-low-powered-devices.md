@@ -6,7 +6,6 @@ permalink: /blog/accessibility-and-low-powered-devices/
 tags:
   - Accessibility
   - Front End Development
-
   - Web Performance
 ---
 

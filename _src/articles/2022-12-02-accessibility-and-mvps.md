@@ -29,4 +29,4 @@ Take it a step further by paying attention to these important foundational princ
 
 Accessibility often gets left out of MVPs because people building the product don't have the knowledge around it. Or they're afraid to approach the topic pragmatically. Don't let that happen to you because starting right is easier than you think.
 
-_I wrote about this before: [Accessibility in Your MVP](/blog/accessibility-in-your-mvp/). This post expands on the last one_.
+_I wrote about this before: [Accessibility in Your MVP](/blog/accessibility-in-your-mvp/). This post expands on the last one._

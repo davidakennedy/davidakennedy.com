@@ -16,4 +16,4 @@ I earned my master's degree in interactive media, thinking I would go into strat
 
 Writing is art. And I'm learning that coding can be art too.
 
-_**Note**: This post first appeared on one of my discontinued blogs – WRPG. I salvaged this good post, and shared it here._
+**Note**: _This post first appeared on one of my discontinued blogs – WRPG. I salvaged this good post, and shared it here._

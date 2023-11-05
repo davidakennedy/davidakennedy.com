@@ -14,24 +14,24 @@ I've tinkered with my site a lot over the past weekend to make it more IndieWeb-
 
 What does that mean? You can learn more about the [IndieWeb movement](http://indiewebcamp.com/) on the site and read [about its principles](http://indiewebcamp.com/principles). Basically, you want:
 
-  * **Your content to be yours**
-  * **To be better connected to all services** 
-  * **To  control how things work** 
+- **Your content to be yours**
+- **To be better connected to all services**
+- **To control how things work**
 
 These are novel concepts only because we've grown use to social networks and tech giants running the web. It doesn't have to be this way.
 
 I've tackled a number of things on the [Getting Started page](http://indiewebcamp.com/Getting_Started) of IndieWeb Camp. I:
 
-  * Joined the IRC channel.
-  * Already had a personal domain and hosting. 🙂
-  * Set up web sign-in.
-  * Already had WordPress ready to go for content publishing. 🙂
-  * Installed a [link shortener plugin](http://willnorris.com/2011/01/hum-personal-url-shortener-wordpress).
-  * Started: Publish (on your) Own Site, Syndicate Elsewhere and automating it with [IFTTT](https://ifttt.com/).
-  * Already had a WordPress theme that supported basic Microformats.
-  * Ported some photos from a photo blog to my own site.
-  * Set up webmentions and semantic-linkbacks via the [IndieWeb plugin](http://wordpress.org/plugins/indieweb/). I'm pulling in mentions from Facebook, Twitter and Google Plus thanks to [Brid.gy](https://www.brid.gy/).
-  * Cleaned things up a bit by removing custom post types on the site, adding a new favicon and fixing a few bugs.
+- Joined the IRC channel.
+- Already had a personal domain and hosting. 🙂
+- Set up web sign-in.
+- Already had WordPress ready to go for content publishing. 🙂
+- Installed a [link shortener plugin](http://willnorris.com/2011/01/hum-personal-url-shortener-wordpress).
+- Started: Publish (on your) Own Site, Syndicate Elsewhere and automating it with [IFTTT](https://ifttt.com/).
+- Already had a WordPress theme that supported basic Microformats.
+- Ported some photos from a photo blog to my own site.
+- Set up webmentions and semantic-linkbacks via the [IndieWeb plugin](http://wordpress.org/plugins/indieweb/). I'm pulling in mentions from Facebook, Twitter and Google Plus thanks to [Brid.gy](https://www.brid.gy/).
+- Cleaned things up a bit by removing custom post types on the site, adding a new favicon and fixing a few bugs.
 
 The [WordPress page](http://indiewebcamp.com/WordPress) was a great place to start.
 

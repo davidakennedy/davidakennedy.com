@@ -28,6 +28,6 @@ Lastly, provide a `<label>` element for each form field in your code. Labels all
 
 Further reading: [Accessible Form Controls](http://webaim.org/techniques/forms/controls) and [Placeholder Attribute is Not a Label](http://www.webaxe.org/placeholder-attribute-is-not-a-label/).
 
-Follow the series [Accessibility Answers](http://davidakennedy.com/tag/accessibility-answers/). Ask me a question via my [contact page](http://davidakennedy.com/contact/) or [Twiter](https://twitter.com/DavidAKennedy).
+Follow the series [Accessibility Answers](http://davidakennedy.com/tag/accessibility-answers/). Ask me a question via my [contact page](/contact/) or [Twiter](https://twitter.com/DavidAKennedy).
 
-_Image by [rawpixel](https://unsplash.com/photos/Gx_o9dbqf34t)_.
+_Image by [rawpixel](https://unsplash.com/photos/Gx_o9dbqf34t)._

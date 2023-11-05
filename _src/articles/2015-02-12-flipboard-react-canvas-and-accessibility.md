@@ -6,7 +6,6 @@ permalink: /blog/flipboard-react-canvas-and-accessibility/
 tags:
   - Accessibility
   - Front End Development
-
   - Mobile
 ---
 

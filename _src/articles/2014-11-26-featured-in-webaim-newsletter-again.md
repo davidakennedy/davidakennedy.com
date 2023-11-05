@@ -9,4 +9,4 @@ tags:
   - Work
 ---
 
-WebAIM featured one of my latest posts in its [November 2014 Newsletter](http://webaim.org/newsletter/2014/november). Check it out or read the post, [Accessibility Tunnel Vision](http://davidakennedy.com/2014/11/06/accessibility-tunnel-vision/).
+WebAIM featured one of my latest posts in its [November 2014 Newsletter](http://webaim.org/newsletter/2014/november). Check it out or read the post, [Accessibility Tunnel Vision](/blog/accessibility-tunnel-vision/).

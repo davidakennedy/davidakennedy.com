@@ -15,7 +15,7 @@ No matter the intentions, many times those reasons end up being selfish. Especia
 
 [Daily habits and routines build up from triggers](https://jamesclear.com/habit-triggers) – the thing that starts a habit forming. I've found two triggers that have started helping me make sure I'm working on the right thing:
 
-  1. If I have the urge to add a task to my to-do list, I ask, "Will this help my team or a specific project?" If they answer isn't "The team," I try to delegate the task.
-  2. When I start a task, I try to ask myself the same question. That way, I have a filtered process, meaning it's harder for the wrong tasks to make it through to my day.
+1. If I have the urge to add a task to my to-do list, I ask, "Will this help my team or a specific project?" If they answer isn't "The team," I try to delegate the task.
+2. When I start a task, I try to ask myself the same question. That way, I have a filtered process, meaning it's harder for the wrong tasks to make it through to my day.
 
-I'm not perfect, but using these triggers has meant delegating more and working on the right things for me. If I hesitate, I try to think of the advice my colleague, [Brie](http://brie.blog) shared – "Delegate until you're uncomfortable." If that doesn't work, I  can usually hear my team's voices, "Delegate, DK!"
+I'm not perfect, but using these triggers has meant delegating more and working on the right things for me. If I hesitate, I try to think of the advice my colleague, [Brie](http://brie.blog) shared – "Delegate until you're uncomfortable." If that doesn't work, I can usually hear my team's voices, "Delegate, DK!"

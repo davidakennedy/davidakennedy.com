@@ -6,7 +6,6 @@ permalink: /blog/a11y-wins-tumblr/
 tags:
   - Accessibility
   - Front End Development
-
   - User Experience
   - Web Design
 ---

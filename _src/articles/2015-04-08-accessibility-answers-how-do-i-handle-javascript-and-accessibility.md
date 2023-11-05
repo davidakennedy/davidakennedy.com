@@ -33,6 +33,6 @@ Further reading: [Practical ARIA Examples](http://heydonworks.com/practical_aria
 
 Further watching: [A Web for Everybody.](http://marcysutton.com/talk/a-web-for-everybody-smashing-conf-whistler/)
 
-Follow the series [Accessibility Answers](http://davidakennedy.com/tag/accessibility-answers/). Ask me a question via my [contact page](http://davidakennedy.com/contact/) or [Twiter](https://twitter.com/DavidAKennedy).
+Follow the series [Accessibility Answers](http://davidakennedy.com/tag/accessibility-answers/). Ask me a question via my [contact page](/contact/) or [Twiter](https://twitter.com/DavidAKennedy).
 
-_Image by [rawpixel](https://unsplash.com/photos/Gx_o9dbqf34t)_.
+_Image by [rawpixel](https://unsplash.com/photos/Gx_o9dbqf34t)._

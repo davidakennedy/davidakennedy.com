@@ -15,10 +15,10 @@ I've used only three extensively: [Twhirl](http://www.twhirl.org/), [TweetDeck](
 
 Hootsuite stands alone as my favorite. Here's why:
 
-  * **Accessible online**. You can get to Hootsuite from anywhere by going to the home page and logging in. Instantly, you can tap into your account and social networks. No software needed.
-  * **Multiple social networks**. You can reach all your favorite social media accounts with ease. I access the big ones from Hootsuite: Twitter, Facebook and Linkedin.
-  * **Tabbed Browsing**. Some of the other social media browsers have this feature, but TweetDeck – my previous favorite – lacked it. I always disliked having to scroll over forever. You still may have to scroll in Hootsuite, depending on how many columns you use, but you can always resize your columns.
-  * **Stats anyone**. Hootsuite grants access to a nice array of stats, just enough to gain an idea of how many folks are reading and clicking on your social media accounts.
-  * **Multiple control**. If you're engaging with social media communities for your job or company, Hootsuite makes it easy. Multiple people can control accounts, plus you can monitor keywords and more.
+- **Accessible online**. You can get to Hootsuite from anywhere by going to the home page and logging in. Instantly, you can tap into your account and social networks. No software needed.
+- **Multiple social networks**. You can reach all your favorite social media accounts with ease. I access the big ones from Hootsuite: Twitter, Facebook and Linkedin.
+- **Tabbed Browsing**. Some of the other social media browsers have this feature, but TweetDeck – my previous favorite – lacked it. I always disliked having to scroll over forever. You still may have to scroll in Hootsuite, depending on how many columns you use, but you can always resize your columns.
+- **Stats anyone**. Hootsuite grants access to a nice array of stats, just enough to gain an idea of how many folks are reading and clicking on your social media accounts.
+- **Multiple control**. If you're engaging with social media communities for your job or company, Hootsuite makes it easy. Multiple people can control accounts, plus you can monitor keywords and more.
 
 To learn more about HootSuite, watch this [tutorial video](http://www.youtube.com/watch?v=NXpYVTnyCjU).

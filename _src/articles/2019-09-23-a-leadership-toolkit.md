@@ -70,14 +70,14 @@ I wonder: Ask yourself, "I wonder if…", "I wonder why…", "I wonder how…"
 
 Approach your work as though it's a trade. Here's a process to practice that:
 
-* **Listening**: Ask at least two questions that make others pause & think
-* **Balance**: Block your calendar between 6pm-6:30pm daily
-* **Writing**: Type for 5-10 minutes without an agenda
+- **Listening**: Ask at least two questions that make others pause & think
+- **Balance**: Block your calendar between 6pm-6:30pm daily
+- **Writing**: Type for 5-10 minutes without an agenda
 
 ## Emergency!!!
 
 Feeling overwhelmed?
 
-* Find time to workout. Kettlebells to the rescue.
-* Schedule "do nothing" time. Aim for at least three times a week.
-* Write. Just put words on a page somewhere.
+- Find time to workout. Kettlebells to the rescue.
+- Schedule "do nothing" time. Aim for at least three times a week.
+- Write. Just put words on a page somewhere.

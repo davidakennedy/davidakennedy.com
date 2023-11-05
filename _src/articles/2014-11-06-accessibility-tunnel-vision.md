@@ -33,4 +33,4 @@ I need to see accessibility for what it is too. That means, like everything else
 
 Let's get out of the tunnel together.
 
-_Image courtesy of [Pexels.com](http://www.pexels.com/photo/1036/)_.
+_Image courtesy of [Pexels.com](http://www.pexels.com/photo/1036/)._

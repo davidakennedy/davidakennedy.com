@@ -25,4 +25,4 @@ I created a [huge list of resources recently](http://a11y.me/), and Steve Faulkn
 
 Good luck avoiding those zombies and keeping the Web accessible!
 
-_Image courtesy of [Pexels.com](http://www.pexels.com/photo/1524/)_.
+_Image courtesy of [Pexels.com](http://www.pexels.com/photo/1524/)._

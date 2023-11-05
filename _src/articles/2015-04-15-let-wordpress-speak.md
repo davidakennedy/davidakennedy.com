@@ -13,4 +13,4 @@ tags:
 
 From [Let WordPress Speak: New in WordPress 4.2](https://make.wordpress.org/accessibility/2015/04/15/let-wordpress-speak-new-in-wordpress-4-2/) on Make WordPress Accessible.
 
-I'm excited about this upcoming feature in WordPress and its ability to make modern, snappy JavaScript-powerd pieces of WordPress a great experience for screen reader users.
+I'm excited about this upcoming feature in WordPress and its ability to make modern, snappy JavaScript-powered pieces of WordPress a great experience for screen reader users.

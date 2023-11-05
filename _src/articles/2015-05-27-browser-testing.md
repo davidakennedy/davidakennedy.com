@@ -5,7 +5,6 @@ date: 2015-05-27T23:02:51+00:00
 permalink: /blog/browser-testing/
 tags:
   - Front End Development
-
   - Web Browsers
 ---
 

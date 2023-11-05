@@ -5,7 +5,6 @@ date: 2015-09-10T21:16:41+00:00
 permalink: /blog/the-slow-web/
 tags:
   - Blogging
-
   - Open Web
 ---
 

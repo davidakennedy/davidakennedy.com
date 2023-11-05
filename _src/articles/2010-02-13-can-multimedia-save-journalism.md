@@ -52,6 +52,6 @@ For example, the New York Times will try a [metered approach in the future](http
 
 Whether a news organization is for-profit or non-profit, it will always need some type of revenue stream, and multiple revenue streams work even better. Multimedia can drive the transition to more online news and more revenue streams, making news orgs less dependent on solely advertising.
 
-_Image by [Ales Nesetril](https://unsplash.com/photos/Im7lZjxeLhg)_.
+_Image by [Ales Nesetril](https://unsplash.com/photos/Im7lZjxeLhg)._
 
 _Note: This post is a short assignment for my class in Contemporary Media Issues about journalism&#8217;s recent struggles._

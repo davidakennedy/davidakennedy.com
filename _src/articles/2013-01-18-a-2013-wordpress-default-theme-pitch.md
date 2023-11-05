@@ -5,7 +5,6 @@ date: 2013-01-18T08:04:29+00:00
 permalink: /blog/a-2013-wordpress-default-theme-pitch/
 tags:
   - Accessibility
-
   - WordPress
 ---
 

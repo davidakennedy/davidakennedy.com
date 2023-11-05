@@ -27,4 +27,4 @@ In my original response, I was on the right track, but I missed the point, reall
 
 > View accessibility as a framework. A mindset that helps you create software, web pages and applications that work for everyone.
 
-Infusing accessibility patterns and best practices into your project will get you to higher-quality products faster. It's the framework that comes with the Web.
+Infusing accessibility patterns and best practices into your project will get you to higher-quality products faster. It's the framework that comes with the web.

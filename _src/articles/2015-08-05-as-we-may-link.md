@@ -5,7 +5,6 @@ date: 2015-08-05T22:15:56+00:00
 permalink: /blog/as-we-may-link/
 tags:
   - HTML
-
   - Open Web
 ---
 

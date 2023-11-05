@@ -5,7 +5,6 @@ date: 2015-03-28T23:36:49+00:00
 permalink: /blog/empathy-can-fix-the-modern-newsroom/
 tags:
   - Journalism
-
   - Management
   - Project Management
 ---

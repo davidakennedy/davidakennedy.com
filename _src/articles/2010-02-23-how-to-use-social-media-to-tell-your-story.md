@@ -49,4 +49,4 @@ So you see, social media represents just another way humankind does what we do b
 
 _Image courtesy of [Markus Spiske](https://unsplash.com/photos/w99fOHFYTjc)._
 
-_This post is the second part in a two-part series on social media and storytelling. Part one covered_ [_three things social media and storytelling have in common_](/blog/how-to-use-social-media-to-tell-your-story/)_._
+_This post is the second part in a two-part series on social media and storytelling. Part one covered [three things social media and storytelling have in common](/blog/how-to-use-social-media-to-tell-your-story/)._

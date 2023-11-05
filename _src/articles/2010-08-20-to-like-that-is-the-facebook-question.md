@@ -17,8 +17,8 @@ That happened with me, and I went back later and deleted many of the movies and 
 
 Here's what makes me like a Facebook Page:
 
-  1. I'm involved or have been involved with the company or organization.
-  2. I stand behind the company or organization's products and/or mission.
-  3. I enjoy the content I get from the page.
+1. I'm involved or have been involved with the company or organization.
+2. I stand behind the company or organization's products and/or mission.
+3. I enjoy the content I get from the page.
 
 What makes you like a page?

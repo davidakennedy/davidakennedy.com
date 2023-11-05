@@ -5,7 +5,6 @@ date: 2014-10-08T22:21:20+00:00
 permalink: /blog/accessible-wordpress-on-a-web-for-everyone/
 tags:
   - Accessibility
-
   - WordPress
 ---
 

@@ -6,7 +6,6 @@ permalink: /blog/answer-this/
 tags:
   - Accessibility
   - Civil Rights
-
   - Web Standards
 ---
 

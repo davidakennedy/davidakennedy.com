@@ -6,7 +6,6 @@ permalink: /blog/good-coding-habits-for-accessibility/
 tags:
   - Accessibility
   - Front End Development
-
   - Web Development
 ---
 

@@ -29,4 +29,4 @@ We often start building themes, plugins and side projects for ourselves and our 
 
 So as we think about the future of themes, we, not just you play a very big part in it. It matters less about the twists and turns we take to get somewhere new and exciting, and more that we go around those corners together. Have you collaborated with anyone in the WordPress community lately?
 
-_Image courtesy of [Pexels.com](http://www.pexels.com/photo/road-street-desert-industry-932/)_.
+_Image courtesy of [Pexels.com](http://www.pexels.com/photo/road-street-desert-industry-932/)._

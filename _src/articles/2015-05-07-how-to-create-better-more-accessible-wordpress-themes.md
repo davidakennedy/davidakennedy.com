@@ -6,7 +6,6 @@ permalink: /blog/how-to-create-better-more-accessible-wordpress-themes/
 tags:
   - Accessibility
   - Accessible WordPress Theming
-
   - WordPress
   - WordPress Theming
 ---

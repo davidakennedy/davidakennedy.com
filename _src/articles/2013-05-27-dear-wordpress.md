@@ -24,4 +24,4 @@ Happy 10th birthday, WordPress!
 Love,
 Dave
 
-_Thanks for the [inspiration, Matt](http://ma.tt/2013/05/dear-wordpress/)_.
+_Thanks for the [inspiration, Matt](http://ma.tt/2013/05/dear-wordpress/)._

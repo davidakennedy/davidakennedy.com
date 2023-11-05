@@ -5,7 +5,6 @@ date: 2015-11-04T22:37:32+00:00
 permalink: /blog/ensuring-a-high-performing-web-for-the-next-billion-people/
 tags:
   - Accessibility
-
   - Open Web
   - Web Performance
   - Web Standards

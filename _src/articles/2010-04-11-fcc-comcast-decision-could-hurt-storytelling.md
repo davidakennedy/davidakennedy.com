@@ -24,6 +24,6 @@ Only time will tell what will happen, but if ISPs start restricting access to co
 
 With so much at stake for storytelling, this is an issue for any multimedia storyteller to watch.
 
-_Image by <a href="https://unsplash.com/photos/FQgI8AD-BSg">Finn Hackshaw</a>._
+_Image by [Finn Hackshaw](https://unsplash.com/photos/FQgI8AD-BSg)._
 
 _Note: This post is a short assignment for my class in Contemporary Media Issues about about network neutrality and the current debate surrounding it._

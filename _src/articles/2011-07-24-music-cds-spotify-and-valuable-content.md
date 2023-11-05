@@ -12,9 +12,9 @@ Recently, I wrote about how I believe myself and others would [pay for beautiful
 
 Yesterday, I purchased a premium account on Spotify. My wife and a good friend had raved about the service, and they both had premium accounts. I checked it out, loved it, signed up and promptly closed my free [Pandora](http://www.pandora.com/) account. I did all this in about 24 hours. The whole process got me thinking:
 
-  * I still own a bunch of CDs, but have them all in digital format, and haven't bought a physical CD in more than a decade.
-  * I have always bought my digital music through [iTunes](http://www.apple.com/itunes/), but haven't regularly bought music there in probably five years.
-  * I listen to music all the time, and have maxed out my listening time on my free Pandora account almost every month.
+- I still own a bunch of CDs, but have them all in digital format, and haven't bought a physical CD in more than a decade.
+- I have always bought my digital music through [iTunes](http://www.apple.com/itunes/), but haven't regularly bought music there in probably five years.
+- I listen to music all the time, and have maxed out my listening time on my free Pandora account almost every month.
 
 Why? What made me go for Spotify so quickly? Why not just buy more iTunes music? Or go with Pandora?
 

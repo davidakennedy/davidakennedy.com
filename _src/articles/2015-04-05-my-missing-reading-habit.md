@@ -14,8 +14,8 @@ When I sit down to read, I stumble from Twitter link to Twitter link, from blog 
 
 How do I solve this and enable myself to read more books. Like my other [explorations in minimalism](/blog/minimalist-living-starting-now/), I'm going to:
 
-  * read one book at a time.
-  * keep a running list.
-  * try to set aside an hour a day, divided into 30-minute slots for reading.
+- read one book at a time.
+- keep a running list.
+- try to set aside an hour a day, divided into 30-minute slots for reading.
 
 We'll see how it goes. I'll try to post an update on this in the summer.

@@ -32,11 +32,11 @@ And of course, I wanted to create the theme with accessibility in mind from the 
 
 **Just so you know…** This is an Alpha release. That means it's early in the game. I'm still developing the theme and I really don’t recommend that you run it on a production site — set up a test site just to play with it.
 
-_I may change the theme significantly before its official release_.
+_I may change the theme significantly before its official release._
 
 Once the theme hits a stable release, I'll submit it to the [WordPress theme repository](http://wordpress.org/themes/).
 
-I'd love to hear what you think! You can submit feedback on the [GitHub issues section](https://github.com/davidakennedy/Accessible-Zen/issues), or by emailing me at me (at) davidakennedy dot com.
+I'd love to hear what you think! You can submit feedback on the [GitHub issues section](https://github.com/davidakennedy/Accessible-Zen/issues), or by emailing me at <me@davidakennedy.com>.
 
 ### Check It Out
 

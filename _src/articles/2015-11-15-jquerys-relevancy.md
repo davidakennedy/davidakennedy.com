@@ -6,7 +6,6 @@ permalink: /blog/jquerys-relevancy/
 tags:
   - JavaScript
   - jQuery
-
   - Web Development
 ---
 

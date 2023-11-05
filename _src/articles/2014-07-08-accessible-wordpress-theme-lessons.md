@@ -42,7 +42,7 @@ Why is accessibility hard? The answers to web accessibility challenges and probl
 
 **Lesson**: Love your starter theme of choice and use it.
 
-####  Small Details Make a Big Difference
+#### Small Details Make a Big Difference
 
 In accessibility, details matter. When creating Accessible Zen, I focused a lot of attention on things like color contrast, skip nav links, default link styling and read more links. All these small things helped make the theme much more accessible.
 

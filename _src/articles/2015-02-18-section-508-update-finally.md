@@ -5,7 +5,6 @@ date: 2015-02-18T21:45:42+00:00
 permalink: /blog/section-508-update-finally/
 tags:
   - Accessibility
-
   - Web Standards
 ---
 

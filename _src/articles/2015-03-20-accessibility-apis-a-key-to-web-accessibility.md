@@ -5,7 +5,6 @@ date: 2015-03-20T20:43:58+00:00
 permalink: /blog/accessibility-apis-a-key-to-web-accessibility/
 tags:
   - Accessibility
-
   - Web Browsers
 ---
 

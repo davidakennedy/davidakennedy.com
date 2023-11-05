@@ -6,7 +6,6 @@ permalink: /blog/steal-this-talk/
 tags:
   - Creativity
   - Front End Development
-
   - Web Design
   - Web Development
 ---

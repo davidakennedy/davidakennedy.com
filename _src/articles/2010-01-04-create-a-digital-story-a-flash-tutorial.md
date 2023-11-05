@@ -27,9 +27,9 @@ I'd like to thank all of the researchers who are cited in the bibliography for t
 
 They are:
 
-  * [Liv Gjestvang](http://digitalunion.osu.edu/about/staff/LivGjestvang.html) of [Ohio State University](http://www.osu.edu/).
-  * [Joe Lambert](http://www.storycenter.org/people.html#joe) of the [Center for Digital Storytelling](http://www.storycenter.org/index1.html).
-  * [Michael Coventry](http://explore.georgetown.edu/people/coventrm/?PageTemplateID=138) of [Georgetown](http://www.georgetown.edu/)
-  * [Jason Ohler](http://www.jasonohler.com/index.cfm) of the [University of Alaska](http://www.alaska.edu/).
+- [Liv Gjestvang](http://digitalunion.osu.edu/about/staff/LivGjestvang.html) of [Ohio State University](http://www.osu.edu/).
+- [Joe Lambert](http://www.storycenter.org/people.html#joe) of the [Center for Digital Storytelling](http://www.storycenter.org/index1.html).
+- [Michael Coventry](http://explore.georgetown.edu/people/coventrm/?PageTemplateID=138) of [Georgetown](http://www.georgetown.edu/)
+- [Jason Ohler](http://www.jasonohler.com/index.cfm) of the [University of Alaska](http://www.alaska.edu/).
 
-_See_ [_full-size version_](http://testkitchen.davidakennedy.com/projects/pages/how-to-create-a-digital-story.html)_._
+_See [full-size version](http://testkitchen.davidakennedy.com/projects/pages/how-to-create-a-digital-story.html)._

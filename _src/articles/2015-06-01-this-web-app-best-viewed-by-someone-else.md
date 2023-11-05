@@ -6,7 +6,6 @@ permalink: /blog/this-web-app-best-viewed-by-someone-else/
 tags:
   - Accessibility
   - JavaScript
-
   - Open Web
 ---
 

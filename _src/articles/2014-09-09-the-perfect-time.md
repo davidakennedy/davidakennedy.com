@@ -5,7 +5,6 @@ description: How making things accessible can lead to breakthroughs.
 permalink: /blog/the-perfect-time/
 tags:
   - Accessibility
-
   - Web Standards
 ---
 

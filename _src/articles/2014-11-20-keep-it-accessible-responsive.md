@@ -5,7 +5,6 @@ date: 2014-11-20T13:30:00+00:00
 permalink: /blog/keep-it-accessible-responsive/
 tags:
   - Accessibility
-
   - Web Standards
 ---
 

@@ -74,8 +74,8 @@ Keep it <em>very</em> short<br /> (if you can’t make it “null”)
 
 If you want more explanation, check out the [W3C's alt decision tree](http://www.w3.org/WAI/tutorials/images/decision-tree/).
 
-All images should have an alt attribute, even if it's empty or null, like: `alt=""` .
+All images should have an alt attribute, even if it's empty or null, like: `alt=""`.
 
 Follow the series [Accessibility Answers](/tag/accessibility-answers/). Ask me a question via my [contact page](/contact/) or [Twiter](https://twitter.com/DavidAKennedy).
 
-_Image by [rawpixel](https://unsplash.com/photos/Gx_o9dbqf34t)_.
+_Image by [rawpixel](https://unsplash.com/photos/Gx_o9dbqf34t)._

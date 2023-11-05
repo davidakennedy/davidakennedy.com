@@ -16,9 +16,9 @@ Good choice, and you've come to the right place. This is the first part in a two
 
 WordPress has continued to gain popularity as a CMS (Content Management System). Why?
 
-  * It's free (You do have to pay for web hosting and a domain name, of course).
-  * It's [open source](http://en.wikipedia.org/wiki/Open_source) (meaning anyone can contribute to the project's development).
-  * It's easy to use, and relatively flexible when it comes to options for developing a website.
+- It's free (You do have to pay for web hosting and a domain name, of course).
+- It's [open source](http://en.wikipedia.org/wiki/Open_source) (meaning anyone can contribute to the project's development).
+- It's easy to use, and relatively flexible when it comes to options for developing a website.
 
 Granted, other choices exist for content management systems, and you should research all of your options. [Drupal](http://drupal.org/) and [Joomla](http://www.joomla.org/) are two popular CMSs that web designers, web developers and companies seem to favor today.
 
@@ -28,10 +28,10 @@ However, some top corporations, organizations and individuals have selected Word
 
 Also, the WordPress team has just [released WordPress 3.0](http://wordpress.org/development/2010/06/thelonious/). Developers built in several features that make this new version a more powerful content management system. These include:
 
-  * custom background support.
-  * custom menu support.
-  * custom content types.
-  * custom taxonomies (meaning ways to organize content)
+- custom background support.
+- custom menu support.
+- custom content types.
+- custom taxonomies (meaning ways to organize content)
 
 You can read about the [new features in a great post](http://digwp.com/2010/05/guide-new-features-wordpress-3/) by Jeff Star at [Digging into WordPress](http://digwp.com/). And for a brief on the new features, you can watch the video above.
 
@@ -61,4 +61,4 @@ Start with these two questions if you want to use WordPress to build your websit
 
 The next part in the series will be a [gigantic resource list for using WordPress to build your website](/blog/31-resources-for-powering-a-website-with-wordpress/).
 
-_This is the first part of a two part series on Building Websites with WordPress. The_ [_second installment_](/blog/31-resources-for-powering-a-website-with-wordpress/) _covers resources you can use for building your site with WordPress._
+_This is the first part of a two part series on Building Websites with WordPress. The [second installment](/blog/31-resources-for-powering-a-website-with-wordpress/) covers resources you can use for building your site with WordPress._

@@ -8,7 +8,7 @@ tags:
   - Front End Development
 ---
 
-Learning how to test for web accessibility can be overwhelming, even for the most experienced web worker. However, if you approach the testing bit by bit throughout the creation of your project, it becomes  more manageable.
+Learning how to test for web accessibility can be overwhelming, even for the most experienced web worker. However, if you approach the testing bit by bit throughout the creation of your project, it becomes more manageable.
 
 Plus, since you'll be attacking accessibility from the beginning, you're naturally planning for it. That means you have a much better opportunity to create a website or web application for everyone, rather than one that frustrates some users, causes matainence problems for you or your team and potentially puts you at risk legally.
 
@@ -30,8 +30,8 @@ Let a few robots do some of the work for you. I like to start out using three au
 
 First, I run the HTML and CSS of a page through the W3C validators.
 
-  * [HTML Validator](http://validator.w3.org/)
-  * [CSS Validator](http://jigsaw.w3.org/css-validator/)
+- [HTML Validator](http://validator.w3.org/)
+- [CSS Validator](http://jigsaw.w3.org/css-validator/)
 
 You'll want to look for any obvious errors. Sometimes, malformed HTML and CSS can lead to accessibility issues. You may not be able to have perfectly validated code and that's okay, but make sure any errors aren't causing issues elsewhere.
 
@@ -66,9 +66,9 @@ Making sure a page has headings is another easy thing to check. You can use the 
 
 Finding the perfect color combinations that are both accessible and harmonize with a design vision can be challenging. However, if you think about accessibility early, stay flexible and experiment, it can done. My three favorite colors tools all come out of the same place: [North Carolina State University's Accessibility Department](http://accessibility.oit.ncsu.edu/).
 
-  * For creating an accessible color palette, check out the [Color Palette Accessibility Builder](http://accessibility.oit.ncsu.edu/tools/color-contrast/). You can enter colors by their hex code values and determine if the color comibinations (background and foreground) meet WCAG guidelines.
-  * For pulling colors from an existing web page or application for analysis in the Color Palette Accessibility Builder, check out the [Color Extractor](http://accessibility.oit.ncsu.edu/tools/color-extractor/).
-  * For analyzing the color combinations on a full web page or parts of a web page, you'll want to check out the [Color Contrast Analyzer for Chrome](http://accessibility.oit.ncsu.edu/tools/color-contrast-chrome/). It does two things that many other color analysis tools do not: You can check text over top of background images or gradients, analyze text in images.
+- For creating an accessible color palette, check out the [Color Palette Accessibility Builder](http://accessibility.oit.ncsu.edu/tools/color-contrast/). You can enter colors by their hex code values and determine if the color comibinations (background and foreground) meet WCAG guidelines.
+- For pulling colors from an existing web page or application for analysis in the Color Palette Accessibility Builder, check out the [Color Extractor](http://accessibility.oit.ncsu.edu/tools/color-extractor/).
+- For analyzing the color combinations on a full web page or parts of a web page, you'll want to check out the [Color Contrast Analyzer for Chrome](http://accessibility.oit.ncsu.edu/tools/color-contrast-chrome/). It does two things that many other color analysis tools do not: You can check text over top of background images or gradients, analyze text in images.
 
 Each of these tools has unique strengths, depending on which part of the design process you're in. Matthieu Faure created my other favorite color tool, called the [Tanaguru Contrast-Finder](http://contrast-finder.tanaguru.com/). With this tool, you can insert a hex value for a color, and if it does not meet WCAG standards, it will suggest other colors. Perfect when you need a bit of accessible inspiration!
 
@@ -102,9 +102,9 @@ No special tools required here either!
 
 Look at your site or application to see if you're using any kind of multimedia (audio or video) content. If you have it, does:
 
-  * it have controls that are keyboard accessible?
-  * it have transcripts or some sort?
-  * it contain captions?
+- it have controls that are keyboard accessible?
+- it have transcripts or some sort?
+- it contain captions?
 
 ## Basics, Basics, Basics
 

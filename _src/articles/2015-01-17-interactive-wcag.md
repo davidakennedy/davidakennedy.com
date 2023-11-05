@@ -5,7 +5,6 @@ date: 2015-01-17T01:30:00+00:00
 permalink: /blog/interactive-wcag/
 tags:
   - Accessibility
-
   - Web Standards
 ---
 

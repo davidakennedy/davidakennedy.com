@@ -5,7 +5,6 @@ date: 2015-04-16T22:39:21+00:00
 permalink: /blog/7-things-every-designer-needs-to-know-about-accessibility/
 tags:
   - Accessibility
-
   - Web Design
 ---
 

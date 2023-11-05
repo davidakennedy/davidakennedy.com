@@ -10,7 +10,7 @@ tags:
   - Work
 ---
 
-I recently gave a [lightning talk at WordPress DC](http://www.meetup.com/wordpressdc/events/129111132/) on [Quick Wins for Accessible WordPress Themes](http://davidakennedy.com/2013/08/13/quick-wins-for-accessible-wordpress-themes/). [Yuri Victor](http://yurivictor.com/), Director of User Experience at the Washington Post, stood in the back of the room and asked a handful of excellent questions of speakers. His question for me? To paraphrase:
+I recently gave a [lightning talk at WordPress DC](http://www.meetup.com/wordpressdc/events/129111132/) on [Quick Wins for Accessible WordPress Themes](/blog/quick-wins-for-accessible-wordpress-themes/). [Yuri Victor](http://yurivictor.com/), Director of User Experience at the Washington Post, stood in the back of the room and asked a handful of excellent questions of speakers. His question for me? To paraphrase:
 
 > Most of us struggle to create great experiences for 90 percent of our users. Why should we care about this 10 percent that's in the minority?
 

@@ -5,7 +5,6 @@ date: 2015-04-21T22:50:28+00:00
 permalink: /blog/tips-for-surviving-googles-mobilegeddon/
 tags:
   - Front End Development
-
   - Mobile
 ---
 

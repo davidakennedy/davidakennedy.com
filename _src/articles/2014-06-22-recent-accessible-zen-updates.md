@@ -10,7 +10,7 @@ tags:
   - Work
 ---
 
-In the past week or so, I've released two minor updates to [Accessible Zen](http://davidakennedy.com/projects/accessible-zen/).
+In the past week or so, I've released two minor updates to [Accessible Zen](/projects/accessible-zen/).
 
 Most of the changes are minor, but I added one major feature: support for HTML5 markup in WordPress galleries and captions. WordPress [added this feature in a recent release](http://themeshaper.com/2014/03/04/html5-galleries-in-wordpress-3-9/).
 

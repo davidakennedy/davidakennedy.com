@@ -35,4 +35,4 @@ At a recent company meetup with Automattic, I watched many of my colleagues give
 
 How do you keep your developer fitness up?
 
-_Image courtesy of [Pexels.com](http://www.pexels.com/photo/1219/)_.
+_Image courtesy of [Pexels.com](http://www.pexels.com/photo/1219/)._

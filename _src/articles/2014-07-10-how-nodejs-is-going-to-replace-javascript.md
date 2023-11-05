@@ -5,7 +5,6 @@ date: 2014-07-10T10:00:29+00:00
 permalink: /blog/how-nodejs-is-going-to-replace-javascript/
 tags:
   - JavaScript
-
   - NodeJS
 ---
 

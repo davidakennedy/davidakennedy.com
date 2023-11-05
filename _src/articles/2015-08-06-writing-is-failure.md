@@ -5,7 +5,6 @@ date: 2015-08-06T22:51:21+00:00
 permalink: /blog/writing-is-failure/
 tags:
   - Creativity
-
   - Writing
 ---
 

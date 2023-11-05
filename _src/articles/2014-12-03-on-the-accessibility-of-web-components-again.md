@@ -6,7 +6,6 @@ permalink: /blog/on-the-accessibility-of-web-components-again/
 tags:
   - Accessibility
   - Front End Development
-
   - Web Components
 ---
 

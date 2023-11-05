@@ -5,7 +5,6 @@ date: 2015-06-05T13:05:19+00:00
 permalink: /blog/a-manifesto-for-accessible-user-experience/
 tags:
   - Accessibility
-
   - User Experience
 ---
 
