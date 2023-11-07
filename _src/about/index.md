@@ -7,6 +7,7 @@ eleventyNavigation:
 featuredimg: true
 img: ./_src/assets/img/uploads/david-kennedy-change2019-1.jpg
 imgalt: David A. Kennedy speaks on a stage in front of audience.
+layout: page
 ---
 
 I work as a Managing Staff Designer at [Ad Hoc](https://adhocteam.us/), focusing on inclusive design and accessibility.

@@ -1,6 +1,7 @@
 ---
 title: Speaking
 description: A list of David A. Kennedy's past speaking engagements.
+layout: page
 ---
 
 I love talking about the web and have spoken at a number of events and conferences. My primary topics include WordPress and accessibility. See the listing below for past engagements and slides.

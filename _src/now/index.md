@@ -2,6 +2,7 @@
 title: Now
 description: What David A. Kennedy is up to right now.
 date: git Last Modified
+layout: page
 ---
 
 A page detailing what I'm focused on at the moment. I'll update it when things change.

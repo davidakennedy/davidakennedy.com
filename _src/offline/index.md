@@ -1,6 +1,7 @@
 ---
 title: Offline
 description: View pages on davidakennedy.com when you're offline.
+layout: page
 ---
 
 It looks like you're offline. Here are a few pages you can view while your connection is down.
@@ -42,7 +43,7 @@ It looks like you're offline. Here are a few pages you can view while your conne
       return a.title > b.title ? 1 : b.title > a.title ? -1 : 0;
     });
     let excludePages = ["/", "about/", "blog/", "projects/", "offline/"];
-    
+
     pages.forEach(function (page) {
       if (
         excludePages.indexOf(page.url) !== -1 ||

@@ -1,6 +1,7 @@
 ---
 title: Colophon
 description: Details about how David A. Kennedy's personal website was made.
+layout: page
 ---
 
 This site wouldn't be possible without the work of countless others.

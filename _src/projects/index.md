@@ -4,6 +4,7 @@ description: Some projects that David A. Kennedy has created and worked on in th
 eleventyNavigation:
   key: Projects
   order: 4
+layout: page
 ---
 
 ## A11y Weekly

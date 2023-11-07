@@ -1,7 +1,7 @@
 ---
 title: Accessibility Statement
 description: How davidakennedy.com approaches accessibility.
-permalink: /accessibility/
+layout: page
 ---
 
 I want anyone to be able to use this site, regardless of device, browser, network speed, or ability. This website strives to meet the level AA standards outlined in the [Web Content Accessibility Guidelines (WCAG) 2.1](https://www.w3.org/TR/WCAG21/).
