@@ -9,7 +9,6 @@ eleventyNavigation:
   key: Blog
   order: 3
 layout: blog
-templateClass: archive-template
 permalink: blog/{% if pagination.pageNumber > 0 %}{{ pagination.pageNumber + 1 }}/{% endif %}index.html
 ---
 

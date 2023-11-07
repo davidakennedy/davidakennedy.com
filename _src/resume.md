@@ -2,7 +2,6 @@
 title: David A. Kennedy's Résumé
 description: David A. Kennedy's résumé.
 layout: resume
-templateClass: resume-template
 permalink: /resume/
 ---
 

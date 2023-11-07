@@ -1,28 +1,25 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
   {% include "partials/head.njk" %}
-  <body{% if templateClass %} class="{{ templateClass }}"{% endif %}>
+  <body>
     <a class="skip-link sr-only focusable" href="#content">Skip to content</a>
     <header id="masthead" class="site-header">
-      {% block header %}
-      {% endblock header %}
+      {% block header %} {% endblock header %}
     </header>
 
     <main id="content" class="site-content" tabindex="-1">
-      {% block content %}
-      {% endblock content %}
+      {% block content %} {% endblock content %}
     </main>
 
     <footer id="colophon" class="site-footer">
-      {% block footer %}
-      {% endblock footer %}
+      {% block footer %} {% endblock footer %}
     </footer>
 
     <!-- Current page: {{ page.url | url }} -->
   </body>
   <script>
-	  if (navigator && navigator.serviceWorker) {
-      navigator.serviceWorker.register('/sw.js');
+    if (navigator && navigator.serviceWorker) {
+      navigator.serviceWorker.register("/sw.js");
     }
   </script>
 </html>

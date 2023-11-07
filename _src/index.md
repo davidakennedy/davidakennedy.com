@@ -5,8 +5,6 @@ eleventyNavigation:
   key: Home
   order: 1
 layout: home
-templateClass: home-template
-permalink: index.html
 ---
 
 <div class="h-card">
