@@ -8,17 +8,19 @@
 {% endblock %}
 
 {% block content %}
-  <div class="page-header">
-    {% set pagetitle = title or renderData.title %}
-    <h1 class="title p-name">{{ pagetitle }}</h1>
+  <div class="archive">
+    <div class="header">
+      {% set pagetitle = title or renderData.title %}
+      <h1 class="title p-name">{{ pagetitle }}</h1>
+    </div>
+    <div class="content">
+      {{ content | safe }}
+      {% include "partials/signup-form.njk" %}
+      {% set postlist = pagination.items %}
+      {% include "partials/archive-post-list.njk" %}
+    </div>
+    {% include "partials/pagination.njk" %}
   </div>
-  <div class="page-content stack">
-    {{ content | safe }}
-    {% include "partials/signup-form.njk" %}
-    {% set postlist = pagination.items %}
-    {% include "partials/archive-post-list.njk" %}
-  </div>
-  {% include "partials/pagination.njk" %}
 {% endblock %}
 
 {% block footer %}

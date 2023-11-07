@@ -9,8 +9,8 @@
 {% endblock %}
 
 {% block content %}
-  <article class="article h-entry">
-    <div class="article-header">
+  <article class="post h-entry">
+    <div class="header">
       {%- if featuredimg and img -%}
         {% image img, imgalt %}
       {%- endif -%}
@@ -20,7 +20,7 @@
         <span class="date"> Published on <time class="dt-published" datetime="{{ page.date | htmlDateString }}">{{ page.date | readableDate }}</time> <span class="author sr-only h-card p-author">by {{ metadata.author.name }}</span></span>
       </div>
     </div>
-    <div class="article-content stack e-content">
+    <div class="content e-content">
       {{ content | safe }}
       {# If we have more tags than just "posts" #}
       {% if tags.length > 1 %}

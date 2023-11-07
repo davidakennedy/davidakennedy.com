@@ -4,7 +4,7 @@
 {% endblock %}
 
 {% block content %}
-  <section class="page">
+  <div class="page">
     <div class="page-header">
       {%- if featuredimg and img -%}
         {% image img, imgalt %}
@@ -12,10 +12,10 @@
       {% set pagetitle = title or renderData.title %}
       <h1 class="title p-name">{{ pagetitle }}</h1>
     </div>
-    <div class="page-content stack">
+    <div class="page-content">
       {{ content | safe }}
     </div>
-  </section>
+  </div>
 {% endblock %}
 
 {% block footer %}

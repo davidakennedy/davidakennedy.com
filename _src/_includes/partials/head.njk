@@ -12,6 +12,6 @@
   {% if build.environment == "prod" %}
     <style>{% getBundle "css" %}</style>
   {% else %}
- 		<link rel="stylesheet" href="{% getBundleFileUrl "css" %}">
+ 	<link rel="stylesheet" href="{% getBundleFileUrl "css" %}">
   {%- endif %}
 </head>

@@ -4,15 +4,17 @@
 {% endblock %}
 
 {% block content %}
-  <div class="page-header">
-    {%- if featuredimg and img -%}
-      {% image img, imgalt %}
-    {%- endif -%}
-    {% set pagetitle = title or renderData.title %}
-    <h1 class="title p-name">{{ pagetitle }}</h1>
-  </div>
-  <div class="page-content stack">
-    {{ content | safe }}
+  <div class="home-page">
+    <div class="header">
+      {%- if featuredimg and img -%}
+        {% image img, imgalt %}
+      {%- endif -%}
+      {% set pagetitle = title or renderData.title %}
+      <h1 class="title p-name">{{ pagetitle }}</h1>
+    </div>
+    <div class="content">
+      {{ content | safe }}
+    </div>
   </div>
 {% endblock %}
 
