@@ -24,8 +24,7 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addLayoutAlias("blog", "layouts/blog.njk");
   eleventyConfig.addLayoutAlias("home", "layouts/home.njk");
   eleventyConfig.addLayoutAlias("page", "layouts/page.njk");
-  eleventyConfig.addLayoutAlias("article", "layouts/article.njk");
-  eleventyConfig.addLayoutAlias("note", "layouts/note.njk");
+  eleventyConfig.addLayoutAlias("post", "layouts/post.njk");
   eleventyConfig.addLayoutAlias("resume", "layouts/resume.njk");
 
   // Filters
@@ -53,16 +52,9 @@ module.exports = function (eleventyConfig) {
   function filterTagList(tags) {
     return (tags || []).filter(
       (tag) =>
-        [
-          "all",
-          "article",
-          "articles",
-          "note",
-          "notes",
-          "bestof",
-          "haikus",
-          "readinglists",
-        ].indexOf(tag) === -1
+        ["all", "post", "posts", "bestof", "haikus", "readinglists"].indexOf(
+          tag
+        ) === -1
     );
   }
 
@@ -76,15 +68,6 @@ module.exports = function (eleventyConfig) {
     });
 
     return filterTagList([...tagSet]);
-  });
-
-  // Create a collection of articles and notes
-  eleventyConfig.addCollection("articlesAndNotes", function (collectionApi) {
-    // Also accepts an array of globs!
-    return collectionApi.getFilteredByGlob([
-      "_src/articles/*.md",
-      "_src/notes/*.md",
-    ]);
   });
 
   // Group posts by year

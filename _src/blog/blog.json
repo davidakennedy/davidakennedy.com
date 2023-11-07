@@ -1,6 +1,6 @@
 {
-  "templateClass": "note-template",
-  "tags": ["notes"],
+  "templateClass": "post-template",
+  "tags": ["posts"],
   "permalink": "blog/{% if slug %}{{ slug }}{% else %}{{ title | slugify }}{% endif %}/",
-  "layout": "note"
+  "layout": "post"
 }

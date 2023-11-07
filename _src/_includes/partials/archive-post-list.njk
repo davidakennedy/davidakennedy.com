@@ -7,20 +7,6 @@
   {% endif %}
 <ol reversed class="post-list">
 {% for post in posts %}
-  {% if "notes" in post.data.tags %}
-  <li class="post h-entry{% if post.url == url %} postlist-item-active{% endif %}">
-    <h3 class="title p-name h4">{{ post.date | readableDate }}</h3>
-    <div class="note-content stack e-content">
-      {{ post.content | safe }}
-    </div>
-    <div class="meta">
-      <a href="{{ post.url | url }}">
-        Published on
-        <time class="date dt-published" datetime="{{ post.date | htmlDateString }}">{{ post.date | readableDate }}</time>
-      </a>
-    </div>
-  </li>
-  {% else %}
   <li class="post h-entry{% if post.url == url %} postlist-item-active{% endif %}">
     <a href="{{ post.url | url }}" class="post-link">
       <h3 class="title p-name">{% if post.data.title %}{{ post.data.title }}{% else %}<code>{{ post.url }}</code>{% endif %}</h3>
@@ -33,7 +19,6 @@
     <p class="post-excerpt">{{ post.data.description }}</p>
     {% endif %}
   </li>
-  {% endif %}
 {% endfor %}
 </ol>
 {% endfor %}

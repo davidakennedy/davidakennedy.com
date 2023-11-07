@@ -2,19 +2,27 @@
 {%- css %}
   {% include "_src/assets/css/single.css" %}
   {% include "_src/assets/css/meta.css" %}
+  {% include "_src/assets/css/syntax.css" %}
 {% endcss %}
 {% block header %}
   {% include "partials/header.njk" %}
 {% endblock %}
 
 {% block content %}
-  <article class="note h-entry">
-    <div class="note-header">
-      <h1 class="title">{{ page.date | readableDate }}</h1>
+  <article class="article h-entry">
+    <div class="article-header">
+      {%- if featuredimg and img -%}
+        {% image img, imgalt %}
+      {%- endif -%}
+      {% set posttitle = title or renderData.title %}
+      <h1 class="title p-name">{{ posttitle }}</h1>
+      <div class="meta">
+        <span class="date"> Published on <time class="dt-published" datetime="{{ page.date | htmlDateString }}">{{ page.date | readableDate }}</time> <span class="author sr-only h-card p-author">by {{ metadata.author.name }}</span></span>
+      </div>
     </div>
-    <div class="note-content stack e-content">
+    <div class="article-content stack e-content">
       {{ content | safe }}
-      {# If we have more tags than just "articles" or "notes" #}
+      {# If we have more tags than just "posts" #}
       {% if tags.length > 1 %}
         <div class="meta">
           {% set lastTag = tags | filterTagList | last %}
@@ -22,7 +30,7 @@
             Tagged&nbsp;
             <ul class="tag-list">
               {% for tag in tags | filterTagList %}
-                {% if tag != "articles" or "notes" %}
+                {% if tag != "posts" %}
                   {% set tagUrl %}/tag/{{ tag | slugify }}/{% endset %}
                   <li><a href="{{ tagUrl | url }}" class="tag p-category">{{ tag }}</a>{% if tag != lastTag %},&nbsp;{% endif %}</li>
                 {%- endif -%}
@@ -31,9 +39,6 @@
           </div>
         </div>
       {%- endif -%}
-      <div class="meta">
-        <span class="date"> Published on <time class="dt-published" datetime="{{ page.date | htmlDateString }}">{{ page.date | readableDate }}</time> <span class="author sr-only h-card p-author">by {{ metadata.author.name }}</span></span>
-      </div>
     </div>
   </article>
 {% endblock %}
