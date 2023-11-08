@@ -16,17 +16,17 @@
       {%- endif -%}
       {% set posttitle = title or renderData.title %}
       <h1 class="title p-name">{{ posttitle }}</h1>
-      <div class="meta">
+      <p class="meta">
         <span class="date"> Published on <time class="dt-published" datetime="{{ page.date | htmlDateString }}">{{ page.date | readableDate }}</time> <span class="author sr-only h-card p-author">by {{ metadata.author.name }}</span></span>
-      </div>
+      </p>
     </div>
     <div class="content e-content">
       {{ content | safe }}
       {# If we have more tags than just "posts" #}
       {% if tags.length > 1 %}
-        <div class="meta">
+        <p class="meta">
           {% set lastTag = tags | filterTagList | last %}
-          <p class="tags">
+          <span class="tags">
             Tagged&nbsp;
             {% for tag in tags | filterTagList %}
               {% if tag != "posts" %}
@@ -34,8 +34,8 @@
                 <a href="{{ tagUrl | url }}" class="tag p-category">{{ tag }}</a>{% if tag != lastTag %},&nbsp;{% endif %}
                 {%- endif -%}
               {% endfor %}
-          </p>
-        </div>
+          </span>
+        </p>
       {%- endif -%}
     </div>
   </article>
