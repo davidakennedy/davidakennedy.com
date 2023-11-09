@@ -1,5 +1,4 @@
 {
   "tags": ["haikus"],
-  "permalink": "haikus/{{ page.fileSlug | slugify }}/",
   "layout": "page"
 }
