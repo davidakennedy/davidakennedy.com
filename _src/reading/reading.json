@@ -1,5 +1,4 @@
 {
   "tags": ["readinglists"],
-  "permalink": "reading/{{ page.fileSlug | slugify }}/",
   "layout": "page"
 }
