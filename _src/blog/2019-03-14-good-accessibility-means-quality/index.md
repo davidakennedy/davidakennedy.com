@@ -2,7 +2,7 @@
 title: Good Accessibility Means Quality
 description: Why is accessibility not as exciting as say some new JavaScript hotness, CSS technique or [insert web thing]?
 featuredimg: true
-img: ./_src/assets/img/uploads/mahdis-mousavi-327389-unsplash.jpg
+img: ./mahdis-mousavi-327389-unsplash.jpg
 imgalt: Cracked concrete with green tint.
 date: 2019-03-14T16:02:00+00:00
 permalink: /blog/good-accessibility-means-quality/

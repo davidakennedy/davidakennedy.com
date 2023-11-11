@@ -2,7 +2,7 @@
 title: Scorching the Earth – for Orgs
 description: Blowing up a few blogs for another.
 featuredimg: true
-img: ./_src/assets/img/uploads/keith-hardy-PP8Escz15d8-unsplash.jpg
+img: ./keith-hardy-PP8Escz15d8-unsplash.jpg
 imgalt: Desert under clear blue sky during daytime.
 date: 2011-07-06T09:11:28+00:00
 permalink: /blog/scorching-the-earth-for-orgs/

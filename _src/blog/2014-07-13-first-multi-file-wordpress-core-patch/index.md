@@ -9,6 +9,6 @@ tags:
   - Work
 ---
 
-{% image "./_src/assets/img/uploads/28871-wordpress-core-patch.png", "", "This screenshot shows my first multi-file patch to WordPress Core. I fixed visual links that had no text alternatives." %}
+{% image "./28871-wordpress-core-patch.png", "", "This screenshot shows my first multi-file patch to WordPress Core. I fixed visual links that had no text alternatives." %}
 
 In [WordPress Trac ticket #28871](https://core.trac.wordpress.org/ticket/28871), I added my second code contribution to WordPress Core – a simple, but important fix.

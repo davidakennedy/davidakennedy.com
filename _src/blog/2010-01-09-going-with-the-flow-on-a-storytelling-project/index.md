@@ -2,7 +2,7 @@
 title: Going with the Flow on a Storytelling Project
 description: Learn how to thrive on any big project by going with the flow.
 featuredimg: true
-img: ./_src/assets/img/uploads/big-ben-1230998.jpg
+img: ./big-ben-1230998.jpg
 imgalt: Big Ben.
 date: 2010-01-09T18:02:13+00:00
 permalink: /blog/going-with-the-flow-on-a-storytelling-project/

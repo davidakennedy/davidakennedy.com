@@ -2,7 +2,7 @@
 title: Staying Positive When Your Product Causes Pain
 description: Look for the wins too.
 featuredimg: true
-img: ./_src/assets/img/uploads/adam-jang-260876.jpg
+img: ./adam-jang-260876.jpg
 imgalt: "Side of a building with the words: We like you too."
 date: 2017-10-25T13:13:28+00:00
 permalink: /blog/staying-positive-when-your-product-causes-pain/

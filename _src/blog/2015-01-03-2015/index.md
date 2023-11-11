@@ -2,7 +2,7 @@
 title: My Habits for 2015
 description: Laying out some goals for 2015.
 featuredimg: true
-img: ./_src/assets/img/uploads/concert-december-31-explosion-3867.jpg
+img: ./concert-december-31-explosion-3867.jpg
 imgalt: Fireworks.
 date: 2015-01-03T20:57:55+00:00
 permalink: /blog/2015/

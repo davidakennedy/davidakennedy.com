@@ -2,7 +2,7 @@
 title: "My Automattic Story: How I Got Here"
 description: How I landed at Automattic, and what I learned along the way.
 featuredimg: true
-img: ./_src/assets/img/uploads/road.jpg
+img: ./road.jpg
 imgalt: A corner of a road on the Blue Ridge Parkway.
 date: 2014-10-22T10:30:00+00:00
 permalink: /blog/my-automattic-story/

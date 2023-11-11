@@ -5,7 +5,7 @@ eleventyNavigation:
   key: About
   order: 2
 featuredimg: true
-img: ./_src/assets/img/uploads/david-kennedy-change2019-1.jpg
+img: ./david-kennedy-change2019-1.jpg
 imgalt: David A. Kennedy speaks on a stage in front of audience.
 layout: page
 ---

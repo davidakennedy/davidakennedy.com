@@ -3,7 +3,7 @@ const { DateTime } = require("luxon");
 const pluginRss = require("@11ty/eleventy-plugin-rss");
 const pluginSyntaxHighlight = require("@11ty/eleventy-plugin-syntaxhighlight");
 const eleventyNavigationPlugin = require("@11ty/eleventy-navigation");
-const image = require("@11ty/eleventy-img");
+const pluginImages = require("./eleventy.images.js");
 const { EleventyRenderPlugin } = require("@11ty/eleventy");
 const markdownIt = require("markdown-it");
 const bundlerPlugin = require("@11ty/eleventy-plugin-bundle");
@@ -16,6 +16,7 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPlugin(pluginSyntaxHighlight);
   eleventyConfig.addPlugin(eleventyNavigationPlugin);
   eleventyConfig.addPlugin(EleventyRenderPlugin);
+  eleventyConfig.addPlugin(pluginImages);
   eleventyConfig.setDataDeepMerge(true);
 
   // Our layouts.
@@ -119,35 +120,6 @@ module.exports = function (eleventyConfig) {
     }
     return content;
   });
-
-  // Image shortcode for eleventy-img
-  async function imageShortcode(src, alt, caption) {
-    let metadata = await image(src, {
-      // Fix paths
-      urlPath: "/assets/img/build/",
-      outputDir: "./_site/assets/img/build/",
-      widths: [407, 815, 1630],
-      formats: ["jpeg"],
-    });
-
-    let imageAttributes = {
-      alt,
-      sizes: "(max-width: 835px) calc(100vw - 1em), 815px",
-      loading: "lazy",
-      decoding: "async",
-    };
-
-    if (caption !== undefined) {
-      return `<figure>${image.generateHTML(
-        metadata,
-        imageAttributes
-      )}<figcaption>${caption}</figcaption></figure>`;
-    } else {
-      return image.generateHTML(metadata, imageAttributes);
-    }
-  }
-
-  eleventyConfig.addNunjucksAsyncShortcode("image", imageShortcode);
 
   // Get current year for copyright.
   eleventyConfig.addShortcode("copyrightDates", (startYear) => {

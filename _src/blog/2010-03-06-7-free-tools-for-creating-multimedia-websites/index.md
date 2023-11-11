@@ -2,7 +2,7 @@
 title: 7 Free Tools for Creating Multimedia Websites
 description: Some of my favorite tools for creating websites.
 featuredimg: true
-img: ./_src/assets/img/uploads/ales-nesetril-Im7lZjxeLhg-unsplash.jpg
+img: ./ales-nesetril-Im7lZjxeLhg-unsplash.jpg
 imgalt: Gray and black laptop computer on dark surface.
 date: 2010-03-06T01:16:46+00:00
 permalink: /blog/7-free-tools-for-creating-multimedia-websites/

@@ -9,8 +9,8 @@ tags:
   - Work
 ---
 
-{% image "./_src/assets/img/uploads/grandmeetup2015-10.jpg", "Several WordPress themers with holding crazy props and wearing wild hats in a photo booth but they're also smiling." %}
-{% image "./_src/assets/img/uploads/grandmeetup2015-11.jpg", "Several WordPress themers with holding crazy props and wearing wild hats in a photo booth." %}
-{% image "./_src/assets/img/uploads/grandmeetup2015-12.jpg", "Several WordPress themers with holding crazy props and wearing wild hats in a photo booth." %}
+{% image "./grandmeetup2015-10.jpg", "Several WordPress themers with holding crazy props and wearing wild hats in a photo booth but they're also smiling." %}
+{% image "./grandmeetup2015-11.jpg", "Several WordPress themers with holding crazy props and wearing wild hats in a photo booth." %}
+{% image "./grandmeetup2015-12.jpg", "Several WordPress themers with holding crazy props and wearing wild hats in a photo booth." %}
 
 Okay, so there are a bunch of themers in three different photos, but you get the idea. These are from the 2015 Automattic Grand Meetup, celebrating Automattic's 10th anniversary at a great party.

@@ -7,7 +7,7 @@ tags:
   - Productivity
 ---
 
-{% image "./_src/assets/img/uploads/rtm-to-do-list-1.jpg", "Remember the Milk interface, showing to-do list on the left and a sidebar on the right." %}
+{% image "./rtm-to-do-list-1.jpg", "Remember the Milk interface, showing to-do list on the left and a sidebar on the right." %}
 
 I can't remember the last time I forgot the milk, but I do remember the last time I neglected to attend to something on my to-do list.
 

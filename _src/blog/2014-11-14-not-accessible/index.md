@@ -2,7 +2,7 @@
 title: Not Accessible
 description: Storytelling can fit into social media too. Here are three tips.
 featuredimg: true
-img: ./_src/assets/img/uploads/argument-boxing-conflict-343.jpg
+img: ./argument-boxing-conflict-343.jpg
 imgalt: Woman punching man in face with boxing gloves.
 date: 2014-11-14T11:00:00+00:00
 permalink: /blog/not-accessible/

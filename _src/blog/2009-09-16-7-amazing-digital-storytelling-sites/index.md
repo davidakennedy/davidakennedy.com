@@ -2,7 +2,7 @@
 title: Seven Amazing Digital Storytelling Websites
 description: Sharing some of my favorite digital storytelling websites.
 featuredimg: true
-img: ./_src/assets/img/uploads/sergi-kabrera-2xU7rYxsTiM-unsplash.jpg
+img: ./sergi-kabrera-2xU7rYxsTiM-unsplash.jpg
 imgalt: White keyboard.
 date: 2009-09-16T22:26:14+00:00
 permalink: /blog/7-amazing-digital-storytelling-sites/

@@ -2,7 +2,7 @@
 title: Can Multimedia Save Journalism?
 description: What multimedia can offer journalism.
 featuredimg: true
-img: ./_src/assets/img/uploads/ales-nesetril-Im7lZjxeLhg-unsplash.jpg
+img: ./ales-nesetril-Im7lZjxeLhg-unsplash.jpg
 imgalt: Gray and black laptop computer on dark surface.
 date: 2010-02-13T17:48:39+00:00
 permalink: /blog/can-multimedia-save-journalism/

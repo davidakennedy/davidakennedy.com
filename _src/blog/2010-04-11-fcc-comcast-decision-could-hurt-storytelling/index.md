@@ -2,7 +2,7 @@
 title: How the FCC/Comcast Decision Could Hurt Storytelling
 description: What if the FCC can't expand open Internet access?
 featuredimg: true
-img: ./_src/assets/img/uploads/finn-hackshaw-FQgI8AD-BSg-unsplash.jpg
+img: ./finn-hackshaw-FQgI8AD-BSg-unsplash.jpg
 imgalt: White and orange open neon signage turned on.
 date: 2010-04-11T14:49:03+00:00
 permalink: /blog/fcc-comcast-decision-could-hurt-storytelling/

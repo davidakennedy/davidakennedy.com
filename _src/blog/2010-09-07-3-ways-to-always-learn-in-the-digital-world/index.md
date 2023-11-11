@@ -2,7 +2,7 @@
 title: Three Ways to Always Learn in the Digital World
 description: Some tips on learning always and fast in a changing field.
 featuredimg: true
-img: ./_src/assets/img/uploads/crissy-jarvis-gdL-UZfnD3I-unsplash.jpg
+img: ./crissy-jarvis-gdL-UZfnD3I-unsplash.jpg
 imgalt: Abacus with red, yellow, green and blue counters.
 date: 2010-09-07T13:06:24+00:00
 permalink: /blog/3-ways-to-always-learn-in-the-digital-world/

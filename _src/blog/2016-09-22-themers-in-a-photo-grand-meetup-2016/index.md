@@ -8,9 +8,9 @@ tags:
   - Automattic
 ---
 
-{% image "./_src/assets/img/uploads/grandmeetup2016-21.jpg", "Many themers posting in a photo both, holding signs, silly props and wearing funny masks and faces." %}
-{% image "./_src/assets/img/uploads/grandmeetup2016-22.jpg", "Many themers posting in a photo both, holding signs, silly props and wearing funny masks and faces." %}
-{% image "./_src/assets/img/uploads/grandmeetup2016-23.jpg", "Many themers posting in a photo both, holding signs, silly props and wearing funny masks and faces." %}
+{% image "./grandmeetup2016-21.jpg", "Many themers posting in a photo both, holding signs, silly props and wearing funny masks and faces." %}
+{% image "./grandmeetup2016-22.jpg", "Many themers posting in a photo both, holding signs, silly props and wearing funny masks and faces." %}
+{% image "./grandmeetup2016-23.jpg", "Many themers posting in a photo both, holding signs, silly props and wearing funny masks and faces." %}
 
 This past week, Automattic held its annual Grand Meetup, where the entire company gets together to talk about the past year, plan ahead for the next one and work on a few cool things…
 

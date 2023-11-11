@@ -12,9 +12,9 @@ This one turned out to be my favorite meetup so far. Why? Because of the way the
 
 Here are a few photos from a June, 2018 meetup in Warsaw, Poland.
 
-{% image "./_src/assets/img/uploads/theam-poland2018-1.jpg", "Several people sitting at tables and couches looking at a TV." %}
-{% image "./_src/assets/img/uploads/theam-poland2018-2.jpg", "Several people sitting at tables and couches working on computers." %}
-{% image "./_src/assets/img/uploads/theam-poland2018-3.jpg", "Several people sitting at tables working on computers." %}
-{% image "./_src/assets/img/uploads/theam-poland2018-4.jpg", "View from a car of a 1988 orange Yugo." %}
-{% image "./_src/assets/img/uploads/theam-poland2018-5.jpg", "Theme Team exploring an old World War II battlefield." %}
-{% image "./_src/assets/img/uploads/theam-poland2018-6.jpg", "Theme Team team photo in front of a blue Bank sign." %}
+{% image "./theam-poland2018-1.jpg", "Several people sitting at tables and couches looking at a TV." %}
+{% image "./theam-poland2018-2.jpg", "Several people sitting at tables and couches working on computers." %}
+{% image "./theam-poland2018-3.jpg", "Several people sitting at tables working on computers." %}
+{% image "./theam-poland2018-4.jpg", "View from a car of a 1988 orange Yugo." %}
+{% image "./theam-poland2018-5.jpg", "Theme Team exploring an old World War II battlefield." %}
+{% image "./theam-poland2018-6.jpg", "Theme Team team photo in front of a blue Bank sign." %}

@@ -2,7 +2,7 @@
 title: 10 Awesome Resources for Learning Web Standards
 description: Learn about web standards with this list of my favorites.
 featuredimg: true
-img: ./_src/assets/img/uploads/markus-spiske-qjnAnF0jIGk-unsplash.jpg
+img: ./markus-spiske-qjnAnF0jIGk-unsplash.jpg
 imgalt: Colored computer code on a black screen.
 date: 2010-04-15T11:45:10+00:00
 permalink: /blog/10-resources-for-learning-web-standards/

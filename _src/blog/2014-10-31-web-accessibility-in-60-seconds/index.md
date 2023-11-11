@@ -2,7 +2,7 @@
 title: Testing for Web Accessibility in 60 Seconds
 description: New to accessibility with no time. No problem, this can help.
 featuredimg: true
-img: ./_src/assets/img/uploads/alarm-clock-gold-hands-of-a-clock-1778.jpg
+img: ./alarm-clock-gold-hands-of-a-clock-1778.jpg
 imgalt: Alarm clock showing second hand.
 date: 2014-10-31T13:00:00+00:00
 permalink: /blog/web-accessibility-in-60-seconds/

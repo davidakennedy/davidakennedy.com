@@ -2,7 +2,7 @@
 title: 31 Resources for Powering a Website with WordPress
 description: Some things you might find handy if you use WordPress on your website.
 featuredimg: true
-img: ./_src/assets/img/uploads/ilya-pavlov-OqtafYT5kTw-unsplash.jpg
+img: ./ilya-pavlov-OqtafYT5kTw-unsplash.jpg
 imgalt: Monitor showing WordPress PHP programming.
 date: 2010-07-02T22:34:53+00:00
 permalink: /blog/31-resources-for-powering-a-website-with-wordpress/

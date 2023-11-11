@@ -2,7 +2,7 @@
 title: Accessibility Tunnel Vision
 description: Let's work together to avoid this.
 featuredimg: true
-img: ./_src/assets/img/uploads/black-and-white-dark-light-1036.jpg
+img: ./black-and-white-dark-light-1036.jpg
 imgalt: Tunnel showing light and three people at the end.
 date: 2014-11-06T13:00:56+00:00
 permalink: /blog/accessibility-tunnel-vision/

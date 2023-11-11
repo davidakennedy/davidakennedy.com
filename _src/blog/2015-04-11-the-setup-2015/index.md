@@ -2,7 +2,7 @@
 title: The Setup, 2015
 description: Some of the stuff I use every day, circa 2015.
 featuredimg: true
-img: ./_src/assets/img/uploads/aircraft-airplane-engine-19361.jpg
+img: ./aircraft-airplane-engine-19361.jpg
 imgalt: Airplane engine.
 date: 2015-04-11T18:14:37+00:00
 permalink: /blog/the-setup-2015/

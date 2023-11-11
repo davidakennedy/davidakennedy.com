@@ -7,4 +7,4 @@ tags:
   - Conferences
 ---
 
-{% image "./_src/assets/img/uploads/wcbalt2015-1.jpg", "WordCamp Baltimore 2015 conference badge with a cartoon crab in the center and the words David A. Kennedy, volunteer.", "WordCamp Baltimore 2015 conference badge." %}
+{% image "./wcbalt2015-1.jpg", "WordCamp Baltimore 2015 conference badge with a cartoon crab in the center and the words David A. Kennedy, volunteer.", "WordCamp Baltimore 2015 conference badge." %}

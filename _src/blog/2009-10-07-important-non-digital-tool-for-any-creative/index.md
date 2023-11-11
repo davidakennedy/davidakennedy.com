@@ -2,7 +2,7 @@
 title: The Most Important Non-Digital Tool for Any Creative
 description: A simple notebook may be the thing that keeps you sane in a crowded digital world.
 featuredimg: true
-img: ./_src/assets/img/uploads/mike-tinnion-3ym6i13Y9LU-unsplash.jpg
+img: ./mike-tinnion-3ym6i13Y9LU-unsplash.jpg
 imgalt: Black and silver retractable pen on blank notebook.
 date: 2009-10-07T22:14:29+00:00
 permalink: /blog/important-non-digital-tool-for-any-creative/

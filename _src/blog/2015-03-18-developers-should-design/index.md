@@ -2,7 +2,7 @@
 title: Developers Should Design
 description: Stretching your boundaries means growth.
 featuredimg: true
-img: ./_src/assets/img/uploads/circle-colorful-colors-2091.jpg
+img: ./circle-colorful-colors-2091.jpg
 imgalt: Colored pencils in a circle.
 date: 2015-03-18T21:41:58+00:00
 permalink: /blog/developers-should-design/

@@ -2,7 +2,7 @@
 title: "When's the Last Time You Pumped Up Your Creativity?"
 description: A few thoughts on how to nurture your creativity.
 featuredimg: true
-img: ./_src/assets/img/uploads/dragos-gontariu-54VAb3f1z6w-unsplash.jpg
+img: ./dragos-gontariu-54VAb3f1z6w-unsplash.jpg
 imgalt: Flat photography of paintings, which include streaks of yellow, pink, orange and blue.
 date: 2010-07-30T23:45:50+00:00
 permalink: /blog/whens-the-last-time-you-pumped-up-your-creativity/

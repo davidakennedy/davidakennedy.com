@@ -2,7 +2,7 @@
 title: "Accessibility Answers: How Do I Handle JavaScript and Accessibility"
 description: JavaScript isn't the enemy.
 featuredimg: true
-img: ./_src/assets/img/uploads/rawpixel-1057231-unsplash.jpg
+img: ./rawpixel-1057231-unsplash.jpg
 imgalt: Woman sitting and raising her hand beside another woman.
 date: 2015-04-08T23:12:04+00:00
 permalink: /blog/accessibility-answers-how-do-i-handle-javascript-and-accessibility/

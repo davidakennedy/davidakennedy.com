@@ -2,7 +2,7 @@
 title: The Most Important Ingredient to any Interactive Media Project
 description: You have to take people on an adventure.
 featuredimg: true
-img: ./_src/assets/img/uploads/the-new-york-public-library-yEauzeZU6xo-unsplash.jpg
+img: ./the-new-york-public-library-yEauzeZU6xo-unsplash.jpg
 imgalt: A close-up photo of Earth from outer space.
 date: 2010-06-30T11:23:45+00:00
 permalink: /blog/the-most-important-ingredient-to-any-interactive-media-project/

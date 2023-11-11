@@ -2,7 +2,7 @@
 title: The Why of WordPress Themes
 description: When to use different types of themes in WordPress.
 featuredimg: true
-img: ./_src/assets/img/uploads/free-to-use-sounds-zXn-zUztOhU-unsplash.jpg
+img: ./free-to-use-sounds-zXn-zUztOhU-unsplash.jpg
 imgalt: Red wrong way sign on road.
 date: 2012-06-12T10:30:34+00:00
 permalink: /blog/the-why-of-wordpress-themes/

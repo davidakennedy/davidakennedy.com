@@ -2,7 +2,7 @@
 title: "Posterous vs. Tumblr: How to Decide in Three Steps"
 description: Some advantages and disadvantages for the popular blogging services.
 featuredimg: true
-img: ./_src/assets/img/uploads/kate-townsend-hEC6zxdFF0M-unsplash.jpg
+img: ./kate-townsend-hEC6zxdFF0M-unsplash.jpg
 imgalt: Waiter serving beverages.
 date: 2010-07-28T11:39:22+00:00
 permalink: /blog/posterous-vs-tumblr-how-to-decide-in-three-steps/

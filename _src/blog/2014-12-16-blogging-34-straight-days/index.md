@@ -2,7 +2,7 @@
 title: What I Learned Blogging 34 Straight Days
 description: I've never blogged so much before.
 featuredimg: true
-img: ./_src/assets/img/uploads/keyboard-old-technology-2318.jpg
+img: ./keyboard-old-technology-2318.jpg
 imgalt: Antique typewriter.
 date: 2014-12-16T23:23:10+00:00
 permalink: /blog/blogging-34-straight-days/

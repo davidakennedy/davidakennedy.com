@@ -2,7 +2,7 @@
 title: "Here's My Media Diet"
 description: A bit about what I'm reading, watching, listening to, etc.
 featuredimg: true
-img: ./_src/assets/img/uploads/tim-mossholder-oTjFWTHDRZQ-unsplash.jpg
+img: ./tim-mossholder-oTjFWTHDRZQ-unsplash.jpg
 imgalt: Close-up photo of SPMTE color bars.
 date: 2010-08-07T14:16:06+00:00
 permalink: /blog/heres-my-media-diet/

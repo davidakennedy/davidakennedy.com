@@ -8,4 +8,4 @@ tags:
   - Work
 ---
 
-{% image "./_src/assets/img/uploads/grandmeetup2016-1.jpg", "Automattic Grand Meetup 2016 conference badge with red and white design and the words David A. Kennedy.", "Automattic Grand Meetup 2016 conference badge." %}
+{% image "./grandmeetup2016-1.jpg", "Automattic Grand Meetup 2016 conference badge with red and white design and the words David A. Kennedy.", "Automattic Grand Meetup 2016 conference badge." %}

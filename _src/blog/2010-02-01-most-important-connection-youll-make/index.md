@@ -2,7 +2,7 @@
 title: The Most Important Connection You'll Make
 description: Connect with your audience when using digital media, like it's the most important thing you'll do.
 featuredimg: true
-img: ./_src/assets/img/uploads/davide-ragusa-gcDwzUGuUoI-unsplash.jpg
+img: ./davide-ragusa-gcDwzUGuUoI-unsplash.jpg
 imgalt: A grayscale photo of many people sitting in chairs.
 date: 2010-02-01T21:43:28+00:00
 permalink: /blog/most-important-connection-youll-make/

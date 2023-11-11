@@ -2,7 +2,7 @@
 title: Can You Have Too Much Media in a Project?
 description: Here's why you can't have too much material when telling stories.
 featuredimg: true
-img: ./_src/assets/img/uploads/vincent-botta-wYD_wfifJVs-unsplash.jpg
+img: ./vincent-botta-wYD_wfifJVs-unsplash.jpg
 imgalt: Black and gray internal hard drive.
 date: 2010-01-17T21:21:16+00:00
 permalink: /blog/too-much-media-in-a-project/

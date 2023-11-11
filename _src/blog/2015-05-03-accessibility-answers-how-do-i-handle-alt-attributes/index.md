@@ -2,7 +2,7 @@
 title: "Accessibility Answers: How Do I Handle Alt Attributes"
 description: Writing good alt text takes careful consideration.
 featuredimg: true
-img: ./_src/assets/img/uploads/rawpixel-1057231-unsplash.jpg
+img: ./rawpixel-1057231-unsplash.jpg
 imgalt: Woman sitting and raising her hand beside another woman.
 date: 2015-05-03T23:58:17+00:00
 permalink: /blog/accessibility-answers-how-do-i-handle-alt-attributes/

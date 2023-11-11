@@ -30,6 +30,6 @@ Other
 - Look over data on customer sites.
 ```
 
-{% image "./_src/assets/img/uploads/todo-list-iterations-1.jpg", "Handwritten to do list showing most important task, meetings and other items." %}
+{% image "./todo-list-iterations-1.jpg", "Handwritten to do list showing most important task, meetings and other items." %}
 
 I think it's the physical act of writing the day's activities down rather than typing them that makes it work better. I'm a few weeks in, and this has helped me be and feel more productive than most anything else.

@@ -2,7 +2,7 @@
 title: My Reasons for a Social Media Shuffle
 description: I recently purged a lot of my social media profiles, circa 2010.
 featuredimg: true
-img: ./_src/assets/img/uploads/nick-karvounis-Txrdoeh5ros-unsplash.jpg
+img: ./nick-karvounis-Txrdoeh5ros-unsplash.jpg
 imgalt: Assorted cars parked during daytime.
 date: 2010-09-03T08:27:48+00:00
 permalink: /blog/my-reasons-for-a-social-media-shuffle/

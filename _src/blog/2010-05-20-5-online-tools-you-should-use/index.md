@@ -2,7 +2,7 @@
 title: Five Online Tools You Should Use
 description: A few of my favorite online tools, circa 2010.
 featuredimg: true
-img: ./_src/assets/img/uploads/todd-quackenbush-IClZBVw5W5A-unsplash.jpg
+img: ./todd-quackenbush-IClZBVw5W5A-unsplash.jpg
 imgalt: Clothes iron, hammer, axe, flashlight and pitcher on brown wooden table.
 date: 2010-05-20T07:58:06+00:00
 permalink: /blog/5-online-tools-you-should-use/

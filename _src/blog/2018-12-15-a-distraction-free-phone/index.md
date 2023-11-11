@@ -2,7 +2,7 @@
 title: A Distraction-Free Phone
 description: Being intentional.
 featuredimg: true
-img: ./_src/assets/img/uploads/robin-worrall-749755-unsplash.jpg
+img: ./robin-worrall-749755-unsplash.jpg
 imgalt: Several people looking down at mobile phones.
 date: 2018-12-15T13:09:04+00:00
 permalink: /blog/a-distraction-free-phone/

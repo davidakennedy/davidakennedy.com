@@ -2,7 +2,7 @@
 title: How to Finish Your Storytelling Project
 description: Some tips on how to finish a creative project when the fuel runs low.
 featuredimg: true
-img: ./_src/assets/img/uploads/kolleen-gladden-ij5_qCBpIVY-unsplash.jpg
+img: ./kolleen-gladden-ij5_qCBpIVY-unsplash.jpg
 imgalt: The finish line at a running track.
 date: 2010-01-29T12:34:43+00:00
 permalink: /blog/finish-your-storytelling-project/

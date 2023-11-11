@@ -2,7 +2,7 @@
 title: "Accessibility Answers: What Can I Do Now for Better Accessibility?"
 description: Make changes now for better accessibility.
 featuredimg: true
-img: ./_src/assets/img/uploads/rawpixel-1057231-unsplash.jpg
+img: ./rawpixel-1057231-unsplash.jpg
 imgalt: Woman sitting and raising her hand beside another woman.
 date: 2015-03-27T23:05:42+00:00
 permalink: /blog/accessibility-answers-what-can-i-do-now-for-better-accessibility/

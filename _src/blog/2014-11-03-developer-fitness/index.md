@@ -2,7 +2,7 @@
 title: Developer Fitness
 description: We have to keep our developer fitness level as high as we can.
 featuredimg: true
-img: ./_src/assets/img/uploads/black-and-white-field-jogger-1219.jpg
+img: ./black-and-white-field-jogger-1219.jpg
 imgalt: Joggers jogging in a field.
 date: 2014-11-03T11:00:53+00:00
 permalink: /blog/developer-fitness/

@@ -2,7 +2,7 @@
 title: Survive the Zombie Apocalypse with these Accessibility Resources
 description: Some of my favorite accessibility resources in a short list.
 featuredimg: true
-img: ./_src/assets/img/uploads/abandoned-building-high-rise-1524.jpg
+img: ./abandoned-building-high-rise-1524.jpg
 imgalt: Abandoned high-rise building with weeds.
 date: 2014-11-04T11:30:09+00:00
 permalink: /blog/favorite-accessibility-resources/

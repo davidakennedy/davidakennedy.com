@@ -3,7 +3,7 @@ title: How Should You Go About Managing Creative People?
 date: 2010-04-12T13:59:43+00:00
 description: Managing people almost always comes with new and unique challenges every day.
 featuredimg: true
-img: ./_src/assets/img/uploads/ben-pattinson-_Wo1Oq38tVU-unsplash.jpg
+img: ./ben-pattinson-_Wo1Oq38tVU-unsplash.jpg
 imgalt: Two swimming mallard ducks on still body of water.
 permalink: /blog/managing-creative-people/
 tags:

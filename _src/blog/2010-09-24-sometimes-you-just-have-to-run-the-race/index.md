@@ -2,7 +2,7 @@
 title: Sometimes You Just Have to Run the Race
 description: I'm joining The Arc of the United States, working on its website.
 featuredimg: true
-img: ./_src/assets/img/uploads/florian-glawogger-3mmmfrZ3S80-unsplash.jpg
+img: ./florian-glawogger-3mmmfrZ3S80-unsplash.jpg
 imgalt: Empty pathway in a forest, filled with fog.
 date: 2010-09-24T10:24:23+00:00
 permalink: /blog/sometimes-you-just-have-to-run-the-race/

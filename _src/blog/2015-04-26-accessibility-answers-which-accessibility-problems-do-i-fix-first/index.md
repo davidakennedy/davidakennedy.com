@@ -2,7 +2,7 @@
 title: "Accessibility Answers: Which Accessibility Problems Do I Fix First?"
 description: You have to start somewhere.
 featuredimg: true
-img: ./_src/assets/img/uploads/rawpixel-1057231-unsplash.jpg
+img: ./rawpixel-1057231-unsplash.jpg
 imgalt: Woman sitting and raising her hand beside another woman.
 date: 2015-04-26T23:25:18+00:00
 permalink: /blog/accessibility-answers-which-accessibility-problems-do-i-fix-first/
