@@ -9,6 +9,13 @@
   word-break: break-word;
 }
 
+input,
+button,
+textarea,
+select {
+  font: inherit;
+}
+
 /* Variables */
 :root {
   /* Colors: https://reasonable.work/colors/ */
@@ -104,7 +111,7 @@
 .stack > h4 + *,
 .stack > h5 + *,
 .stack > h6 + * {
-  margin-top: 0.5em;
+  margin-top: 0.25em;
 }
 
 /* Sidebar utility
@@ -201,4 +208,240 @@ blockquote cite {
   font-style: normal;
   font-weight: 700;
   margin-top: 1.5em;
+}
+
+pre {
+  border: 0.125em solid var(--color-gray-2);
+  border-radius: 0.1em;
+  font-family: var(--mono);
+  font-size: 0.9rem;
+  line-height: 1.2;
+  margin: 0.5em 0;
+  max-width: 100%;
+  overflow: auto;
+  padding: 1em;
+  white-space: pre-wrap;
+}
+
+code,
+kbd,
+var {
+  font-family: var(--mono);
+}
+
+abbr {
+  border-bottom: 1px dotted var(--color-gray-3);
+  cursor: help;
+}
+
+small {
+  font-size: 0.8rem;
+}
+
+table,
+th,
+td {
+  border: 0.05em solid var(--color-gray-2);
+}
+
+table {
+  border-collapse: separate;
+  border-spacing: 0;
+  border-width: 0.05em 0 0 0.05em;
+  padding: 0 !important;
+  table-layout: fixed;
+  /* Prevents HTML tables from becoming too wide */
+  width: 100%;
+}
+
+caption,
+th,
+td {
+  font-weight: normal;
+  text-align: left;
+}
+
+th {
+  font-weight: 700;
+}
+
+th,
+td {
+  border-width: 0 0.05em 0.05em 0;
+  padding: 0.25em;
+}
+
+hr {
+  background-color: var(--color-gray-2);
+  border: 0;
+  height: 0.1em;
+}
+
+ul,
+ol {
+  margin-left: 1.5em;
+  margin-top: 0;
+  padding: 0;
+}
+
+ul > li,
+ol > li {
+  margin-top: 0.75em;
+}
+
+li > ul,
+li > ol {
+  margin-bottom: 0;
+  margin-left: 1.5em;
+}
+
+figcaption {
+  font-size: 0.8rem;
+  margin-top: 0.5em;
+}
+
+img {
+  box-shadow: 0 0 0 0.1em var(--color-gray-1), 0 0 0 0.1em var(--color-gray-3);
+  display: block;
+  height: auto;
+  max-width: 100%;
+}
+
+.site-header img {
+  border-radius: 50%;
+}
+
+mark {
+  background-color: var(--color-orange-2);
+  border-bottom: 0.05em solid var(--color-orange-3);
+  border-top: 0.05em solid var(--color-orange-3);
+}
+
+a {
+  color: var(--color-gray-5);
+  position: relative;
+  text-decoration: underline;
+  text-decoration-color: var(--color-indigo-4);
+  text-decoration-skip-ink: auto;
+  text-decoration-thickness: 0.1em;
+}
+
+a:hover {
+  background-color: var(--color-indigo-4);
+  color: #fff;
+  outline: 0;
+  text-decoration: none;
+}
+
+a:focus {
+  background-color: var(--color-orange-4);
+  color: var(--color-white);
+  outline: 0.1em solid var(--color-orange-3);
+  outline-offset: 0.1em;
+  text-decoration: none;
+}
+
+a:active {
+  outline: 0;
+  top: 0.1em;
+}
+
+.skip-link {
+  font-size: 0.8rem;
+  font-weight: 700;
+  left: 1.5em;
+  padding: 0.5em;
+  position: absolute;
+  top: 1.5em;
+}
+
+.skip-link.focusable:focus {
+  position: absolute;
+}
+
+.image-link {
+  display: block;
+}
+
+.image-link:focus {
+  outline: 0.1em solid var(--color-orange-3);
+}
+
+[tabindex="-1"]:focus {
+  outline: 0;
+}
+
+/* Forms */
+label {
+  font-weight: 700;
+}
+
+input[type="text"],
+input[type="email"],
+input[type="search"],
+textarea {
+  background-color: inherit;
+  border: 0.1em solid var(--color-gray-3);
+  border-radius: 0.1em;
+  padding: 0.25em;
+  -webkit-appearance: none;
+}
+
+input[type="text"]:focus,
+input[type="email"]:focus,
+input[type="search"]:focus,
+textarea:focus {
+  border-color: var(--color-gray-4);
+  outline: 0.1em solid var(--color-orange-3);
+  outline-offset: 0.1em;
+}
+
+textarea {
+  padding-left: 0.25em;
+  width: 100%;
+}
+
+button,
+.button,
+input[type="button"],
+input[type="reset"],
+input[type="submit"] {
+  background-color: inherit;
+  border: 0.1em solid var(--color-indigo-4);
+  border-radius: 0.25em;
+  color: var(--color-gray-6);
+  cursor: pointer;
+  font-weight: 700;
+  padding: 0.25em 0.5em;
+  position: relative;
+  -webkit-appearance: none;
+}
+
+button:hover,
+.button:hover,
+input[type="button"]:hover,
+input[type="reset"]:hover,
+input[type="submit"]:hover {
+  background-color: var(--color-indigo-4);
+  color: var(--color-white);
+}
+
+button:active,
+.button:active,
+input[type="button"]:active,
+input[type="reset"]:active,
+input[type="submit"]:active {
+  top: 2px;
+}
+
+button:focus,
+.button:focus,
+input[type="button"]:focus,
+input[type="reset"]:focus,
+input[type="submit"]:focus {
+  background-color: var(--color-orange-4);
+  border-color: var(--color-orange-4);
+  color: var(--color-white);
+  outline: 0.1em solid var(--color-orange-4);
+  outline-offset: 0.1em;
 }
