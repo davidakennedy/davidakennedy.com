@@ -8,9 +8,11 @@
 <ol reversed class="post-list">
 {% for post in posts %}
   <li class="post h-entry{% if post.url == url %} postlist-item-active{% endif %}">
-    <a href="{{ post.url | url }}" class="post-link">
-      <h3 class="title p-name">{% if post.data.title %}{{ post.data.title }}{% else %}<code>{{ post.url }}</code>{% endif %}</h3>
-    </a>
+    <h3 class="title p-name">
+      <a href="{{ post.url | url }}" class="post-link">
+        {% if post.data.title %}{{ post.data.title }}{% else %}<code>{{ post.url }}</code>{% endif %}
+      </a>
+    </h3>
     <div class="meta">
       Published on
       <time class="date dt-published" datetime="{{ post.date | htmlDateString }}">{{ post.date | readableDate }}</time>
