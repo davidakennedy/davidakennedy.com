@@ -3,7 +3,7 @@ title: Projects
 description: Some projects that David A. Kennedy has created and worked on in the past.
 eleventyNavigation:
   key: Projects
-  order: 4
+  order: 3
 layout: page
 ---
 
