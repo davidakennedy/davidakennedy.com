@@ -62,10 +62,11 @@ select {
     "DejaVu Sans Mono", monospace;
 
   /* Space */
-  --space-small: 0.75em;
-  --space: 1.5em;
-  --space-large: 3em;
-  --space-xlarge: 4.5em;
+  --space-xsmall: 0.375rem;
+  --space-small: 0.75rem;
+  --space: 1.5rem;
+  --space-large: 3rem;
+  --space-xlarge: 4.5rem;
 
   /* Some styles */
   background-color: var(--color-white);
@@ -105,7 +106,7 @@ select {
 /* Stack utility
    every-layout.dev */
 .stack > * + * {
-  margin-top: var(--space, 1.5em);
+  margin-top: var(--space, 1.5rem);
 }
 
 .stack > h1 + *,
@@ -114,7 +115,7 @@ select {
 .stack > h4 + *,
 .stack > h5 + *,
 .stack > h6 + * {
-  margin-top: 0.25em;
+  margin-top: 0.25rem;
 }
 
 /* Sidebar utility
@@ -122,7 +123,7 @@ select {
 .with-sidebar {
   display: flex;
   flex-wrap: wrap;
-  gap: 0.5em;
+  gap: var(--space-xsmall);
 }
 
 .with-sidebar > :last-child {
@@ -146,17 +147,16 @@ select {
   margin-left: 0;
 }
 
-.nav a {
-  display: inline-block;
-  margin-right: 0.5em;
-}
-
 .nav li {
-  margin-top: 0;
+  margin: 0;
 }
 
-.nav-item-active a {
-  text-decoration: dotted;
+.nav a {
+  padding: var(--space-xsmall);
+}
+
+.nav-item-active > a {
+  font-weight: 700;
 }
 
 /* Elements */
@@ -201,9 +201,9 @@ figcaption {
 }
 
 blockquote {
-  border-left: 0.25em solid var(--color-gray-3);
+  border-left: 0.25rem solid var(--color-gray-3);
   font-style: italic;
-  padding: 0 0.5em;
+  padding: 0 var(--space-xsmall);
 }
 
 blockquote cite {
@@ -214,15 +214,15 @@ blockquote cite {
 }
 
 pre {
-  border: 0.125em solid var(--color-gray-2);
-  border-radius: 0.1em;
+  border: 0.125rem solid var(--color-gray-2);
+  border-radius: 0.1rem;
   font-family: var(--mono);
   font-size: 0.9rem;
   line-height: 1.2;
-  margin: 0.5em 0;
+  margin: var(--space-xsmall) 0;
   max-width: 40rem;
   overflow: auto;
-  padding: 1em;
+  padding: 1rem;
   white-space: pre-wrap;
 }
 
@@ -244,13 +244,13 @@ small {
 table,
 th,
 td {
-  border: 0.05em solid var(--color-gray-2);
+  border: 0.05rem solid var(--color-gray-2);
 }
 
 table {
   border-collapse: separate;
   border-spacing: 0;
-  border-width: 0.05em 0 0 0.05em;
+  border-width: 0.05rem 0 0 0.05rem;
   padding: 0 !important;
   table-layout: fixed;
   /* Prevents HTML tables from becoming too wide */
@@ -270,14 +270,14 @@ th {
 
 th,
 td {
-  border-width: 0 0.05em 0.05em 0;
-  padding: 0.25em;
+  border-width: 0 0.05rem 0.05rem 0;
+  padding: 0.25rem;
 }
 
 hr {
   background-color: var(--color-gray-2);
   border: 0;
-  height: 0.1em;
+  height: 0.1rem;
 }
 
 ul,
@@ -289,7 +289,7 @@ ol {
 
 ul > li,
 ol > li {
-  margin-top: 0.75em;
+  margin-top: var(--space-small);
 }
 
 li > ul,
@@ -300,11 +300,11 @@ li > ol {
 
 figcaption {
   font-size: 0.8rem;
-  margin-top: 0.5em;
+  margin-top: var(--space-xsmall);
 }
 
 img {
-  box-shadow: 0 0 0 0.1em var(--color-gray-1), 0 0 0 0.1em var(--color-gray-3);
+  box-shadow: 0 0 0 0.1rem var(--color-gray-1), 0 0 0 0.1rem var(--color-gray-3);
   display: block;
   height: auto;
   max-width: 100%;
@@ -316,8 +316,8 @@ img {
 
 mark {
   background-color: var(--color-orange-2);
-  border-bottom: 0.05em solid var(--color-orange-3);
-  border-top: 0.05em solid var(--color-orange-3);
+  border-bottom: 0.05rem solid var(--color-orange-3);
+  border-top: 0.05rem solid var(--color-orange-3);
 }
 
 a {
@@ -326,7 +326,7 @@ a {
   text-decoration: underline;
   text-decoration-color: var(--color-indigo-4);
   text-decoration-skip-ink: auto;
-  text-decoration-thickness: 0.1em;
+  text-decoration-thickness: 0.1rem;
 }
 
 a:hover {
@@ -339,21 +339,21 @@ a:hover {
 a:focus {
   background-color: var(--color-orange-4);
   color: var(--color-white);
-  outline: 0.1em solid var(--color-orange-3);
-  outline-offset: 0.1em;
+  outline: 0.1rem solid var(--color-orange-3);
+  outline-offset: 0.1rem;
   text-decoration: none;
 }
 
 a:active {
   outline: 0;
-  top: 0.1em;
+  top: 0.1rem;
 }
 
 .skip-link {
   font-size: 0.8rem;
   font-weight: 700;
   left: var(--space);
-  padding: 0.5em;
+  padding: var(--space-xsmall);
   position: absolute;
   top: var(--space);
 }
@@ -367,7 +367,7 @@ a:active {
 }
 
 .image-link:focus {
-  outline: 0.1em solid var(--color-orange-3);
+  outline: 0.1rem solid var(--color-orange-3);
 }
 
 [tabindex="-1"]:focus {
@@ -384,9 +384,9 @@ input[type="email"],
 input[type="search"],
 textarea {
   background-color: inherit;
-  border: 0.1em solid var(--color-gray-3);
-  border-radius: 0.1em;
-  padding: 0.25em;
+  border: 0.1rem solid var(--color-gray-3);
+  border-radius: 0.1rem;
+  padding: 0.25rem;
   -webkit-appearance: none;
 }
 
@@ -395,12 +395,12 @@ input[type="email"]:focus,
 input[type="search"]:focus,
 textarea:focus {
   border-color: var(--color-gray-4);
-  outline: 0.1em solid var(--color-orange-3);
-  outline-offset: 0.1em;
+  outline: 0.1rem solid var(--color-orange-3);
+  outline-offset: 0.1rem;
 }
 
 textarea {
-  padding-left: 0.25em;
+  padding-left: 0.25rem;
   width: 100%;
 }
 
@@ -410,12 +410,12 @@ input[type="button"],
 input[type="reset"],
 input[type="submit"] {
   background-color: inherit;
-  border: 0.1em solid var(--color-indigo-4);
-  border-radius: 0.25em;
+  border: 0.1rem solid var(--color-indigo-4);
+  border-radius: 0.25rem;
   color: var(--color-gray-6);
   cursor: pointer;
   font-weight: 700;
-  padding: 0.25em 0.5em;
+  padding: 0.25rem 0.5rem;
   position: relative;
   -webkit-appearance: none;
 }
@@ -445,8 +445,8 @@ input[type="submit"]:focus {
   background-color: var(--color-orange-4);
   border-color: var(--color-orange-4);
   color: var(--color-white);
-  outline: 0.1em solid var(--color-orange-4);
-  outline-offset: 0.1em;
+  outline: 0.1rem solid var(--color-orange-4);
+  outline-offset: 0.1rem;
 }
 
 /* Containers and spacing */
@@ -454,12 +454,25 @@ input[type="submit"]:focus {
   align-items: center;
   display: flex;
   justify-content: space-between;
-  padding-top: var(--space-xlarge);
+  margin: 0 auto;
+  max-width: 60rem;
+  padding: var(--space-xlarge) 0;
 }
 
 .site-title {
   align-items: center;
   display: flex;
+  padding: var(--space-xsmall);
+  text-decoration: none;
+}
+
+.site-title .name {
+  font-weight: 700;
+  padding-left: var(--space-xsmall);
+}
+
+.site-header nav a {
+  text-decoration: none;
 }
 
 .header img + *,
@@ -472,6 +485,12 @@ input[type="submit"]:focus {
   margin-left: auto;
   margin-right: auto;
   max-width: 36rem;
-  padding-left: 0.5rem;
-  padding-right: 0.5rem;
+  padding-left: var(--space-xsmall);
+  padding-right: var(--space-xsmall);
+}
+
+.site-footer {
+  margin: 0 auto;
+  max-width: 60rem;
+  padding: var(--space-xlarge) var(--space-xsmall);
 }
