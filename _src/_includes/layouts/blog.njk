@@ -18,8 +18,9 @@
       {% include "partials/signup-form.njk" %}
       {% set postlist = pagination.items %}
       {% include "partials/archive-post-list.njk" %}
+      <hr>
+      {% include "partials/pagination.njk" %}
     </div>
-    {% include "partials/pagination.njk" %}
   </div>
 {% endblock %}
 

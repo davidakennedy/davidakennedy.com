@@ -1,0 +1,61 @@
+/* Post Navigation */
+.pagination {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.content > .pagination {
+  padding-left: 0;
+  padding-right: 0;
+}
+
+.pagination .older-posts {
+  margin-right: auto;
+}
+
+.pagination .newer-posts {
+  margin-left: auto;
+}
+
+.pagination a {
+  display: inline-block;
+  padding: var(--space-xsmall);
+}
+
+.email-signup svg,
+.pagination svg {
+  vertical-align: middle;
+}
+
+/* Post list */
+.post-list {
+  list-style: none;
+  margin-left: 0;
+}
+
+.stack > .post-list {
+  margin-top: 0;
+}
+
+.post-list + .year-number {
+  margin-top: var(--space-large);
+}
+
+.year-number {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--space-xsmall);
+}
+
+.year-number .meta {
+  align-self: center;
+}
+
+.post-list > * + * {
+  margin-top: var(--space-large);
+}
+
+.post-list .post-excerpt {
+  margin-top: var(--space-small);
+}
