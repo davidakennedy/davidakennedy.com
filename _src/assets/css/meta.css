@@ -1,0 +1,9 @@
+.meta {
+  color: var(--color-gray-4);
+  font-size: 0.8rem;
+  font-style: italic;
+}
+
+.meta a {
+  color: var(--color-gray-4);
+}

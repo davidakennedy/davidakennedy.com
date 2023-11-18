@@ -495,7 +495,12 @@ input[type="submit"]:focus {
 }
 
 .site-footer {
+  font-size: 0.8rem;
   margin: 0 auto;
   max-width: 60rem;
   padding: var(--space-xlarge) var(--space-xsmall);
+}
+
+.site-footer > nav {
+  margin-top: var(--space-xsmall);
 }

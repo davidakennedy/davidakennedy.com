@@ -24,6 +24,7 @@
       {{ content | safe }}
       {# If we have more tags than just "posts" #}
       {% if tags.length > 1 %}
+      <hr>
         <p class="meta">
           {% set lastTag = tags | filterTagList | last %}
           <span class="tags">
