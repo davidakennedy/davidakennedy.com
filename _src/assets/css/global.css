@@ -78,6 +78,11 @@ select {
   line-height: 1.5;
 }
 
+body {
+  border-bottom: var(--space-small) solid var(--color-orange-2);
+  border-top: var(--space-small) solid var(--color-aquamarine-2);
+}
+
 /* Utilities */
 /* Accessibility utilities */
 .sr-only {

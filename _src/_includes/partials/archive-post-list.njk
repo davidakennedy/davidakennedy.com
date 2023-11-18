@@ -1,9 +1,9 @@
 {% for year, posts in postlist | groupByYear %}
 <h2>{{ year }}</h2>
   {% if (posts.length) > 1  %}
-  <div class="meta">({{ posts.length }} posts)</div>
+  <p class="meta">({{ posts.length }} posts)</p>
   {% else %}
-  <span class="meta">({{ posts.length }} post)</span>
+  <p class="meta">({{ posts.length }} post)</p>
   {% endif %}
 <ol reversed class="post-list">
 {% for post in posts %}
@@ -13,10 +13,10 @@
         {% if post.data.title %}{{ post.data.title }}{% else %}<code>{{ post.url }}</code>{% endif %}
       </a>
     </h3>
-    <div class="meta">
-      Published on
-      <time class="date dt-published" datetime="{{ post.date | htmlDateString }}">{{ post.date | readableDate }}</time>
-    </div>
+    <p class="meta">
+      <span class="date">Published on
+      <time class="date dt-published" datetime="{{ post.date | htmlDateString }}">{{ post.date | readableDate }}</time></span>
+    </p>
     {% if post.data.description %}
     <p class="post-excerpt">{{ post.data.description }}</p>
     {% endif %}
