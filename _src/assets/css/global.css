@@ -220,7 +220,7 @@ pre {
   font-size: 0.9rem;
   line-height: 1.2;
   margin: 0.5em 0;
-  max-width: 100%;
+  max-width: 40rem;
   overflow: auto;
   padding: 1em;
   white-space: pre-wrap;
@@ -447,4 +447,31 @@ input[type="submit"]:focus {
   color: var(--color-white);
   outline: 0.1em solid var(--color-orange-4);
   outline-offset: 0.1em;
+}
+
+/* Containers and spacing */
+.site-header {
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+  padding-top: var(--space-xlarge);
+}
+
+.site-title {
+  align-items: center;
+  display: flex;
+}
+
+.header img + *,
+.content {
+  margin-top: var(--space-small);
+}
+
+.header > *:not(img),
+.content > *:not(img) {
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 36rem;
+  padding-left: 0.5rem;
+  padding-right: 0.5rem;
 }
