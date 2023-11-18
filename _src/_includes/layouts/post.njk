@@ -32,8 +32,8 @@
               {% if tag != "posts" %}
                 {% set tagUrl %}/tag/{{ tag | slugify }}/{% endset %}
                 <a href="{{ tagUrl | url }}" class="tag p-category">{{ tag }}</a>{% if tag != lastTag %},&nbsp;{% endif %}
-                {%- endif -%}
-              {% endfor %}
+              {%- endif -%}
+            {% endfor %}
           </span>
         </p>
       {%- endif -%}
