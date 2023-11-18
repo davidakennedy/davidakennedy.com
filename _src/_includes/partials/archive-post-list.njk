@@ -1,7 +1,7 @@
 {% for year, posts in postlist | groupByYear %}
 <h2>{{ year }}</h2>
   {% if (posts.length) > 1  %}
-  <span class="meta">({{ posts.length }} posts)</span>
+  <div class="meta">({{ posts.length }} posts)</div>
   {% else %}
   <span class="meta">({{ posts.length }} post)</span>
   {% endif %}

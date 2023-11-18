@@ -62,7 +62,10 @@ select {
     "DejaVu Sans Mono", monospace;
 
   /* Space */
+  --space-small: 0.75em;
   --space: 1.5em;
+  --space-large: 3em;
+  --space-xlarge: 4.5em;
 
   /* Some styles */
   background-color: var(--color-white);
@@ -207,7 +210,7 @@ blockquote cite {
   display: block;
   font-style: normal;
   font-weight: 700;
-  margin-top: 1.5em;
+  margin-top: var(--space);
 }
 
 pre {
@@ -279,7 +282,7 @@ hr {
 
 ul,
 ol {
-  margin-left: 1.5em;
+  margin-left: var(--space);
   margin-top: 0;
   padding: 0;
 }
@@ -292,7 +295,7 @@ ol > li {
 li > ul,
 li > ol {
   margin-bottom: 0;
-  margin-left: 1.5em;
+  margin-left: var(--space);
 }
 
 figcaption {
@@ -349,10 +352,10 @@ a:active {
 .skip-link {
   font-size: 0.8rem;
   font-weight: 700;
-  left: 1.5em;
+  left: var(--space);
   padding: 0.5em;
   position: absolute;
-  top: 1.5em;
+  top: var(--space);
 }
 
 .skip-link.focusable:focus {
