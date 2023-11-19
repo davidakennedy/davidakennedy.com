@@ -149,7 +149,7 @@ body {
   flex-direction: row;
   flex-wrap: wrap;
   list-style: none;
-  margin-left: 0;
+  padding-left: 0;
 }
 
 .nav li {
@@ -287,9 +287,8 @@ hr {
 
 ul,
 ol {
-  margin-left: var(--space);
+  padding-left: var(--space);
   margin-top: 0;
-  padding: 0;
 }
 
 ul > li,
@@ -300,7 +299,7 @@ ol > li {
 li > ul,
 li > ol {
   margin-bottom: 0;
-  margin-left: var(--space);
+  padding-left: var(--space);
 }
 
 figcaption {
@@ -483,11 +482,24 @@ input[type="submit"]:focus {
 
 .header,
 .content {
+  padding-left: var(--space-xsmall);
+  padding-right: var(--space-xsmall);
+}
+
+.header > *:not(figure, img),
+.content > *:not(figure, img) {
   margin-left: auto;
   margin-right: auto;
   max-width: 36rem;
-  padding-left: var(--space-xsmall);
-  padding-right: var(--space-xsmall);
+}
+
+.header > figure,
+.header > img,
+.content > figure,
+.content > img {
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 40rem;
 }
 
 .site-footer {
