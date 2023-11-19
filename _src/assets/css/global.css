@@ -466,15 +466,10 @@ input[type="submit"]:focus {
 }
 
 .site-title {
-  align-items: center;
-  display: flex;
+  display: inline-block;
+  font-weight: 700;
   padding: var(--space-xsmall);
   text-decoration: none;
-}
-
-.site-title .name {
-  font-weight: 700;
-  padding-left: var(--space-xsmall);
 }
 
 .site-header nav a {
