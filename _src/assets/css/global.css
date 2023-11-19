@@ -19,46 +19,20 @@ select {
 /* Variables */
 :root {
   /* Colors: https://reasonable.work/colors/ */
-  /* white */
-  --color-white: #ffffff;
-
-  /* aquamarine */
-  --color-aquamarine-1: #daffef;
-  --color-aquamarine-2: #42ffc6;
-  --color-aquamarine-3: #009f78;
-  --color-aquamarine-4: #007f5f;
-  --color-aquamarine-5: #004734;
-  --color-aquamarine-6: #00281b;
-
-  /* gray */
-  --color-gray-1: #f6f6f6;
-  --color-gray-2: #e2e2e2;
-  --color-gray-3: #8b8b8b;
-  --color-gray-4: #6f6f6f;
-  --color-gray-5: #3e3e3e;
-  --color-gray-6: #222222;
-
-  /* indigo */
-  --color-indigo-1: #f3f3ff;
-  --color-indigo-2: #deddff;
-  --color-indigo-3: #657eff;
-  --color-indigo-4: #0061fc;
-  --color-indigo-5: #00328a;
-  --color-indigo-6: #001649;
-
-  /* orange */
-  --color-orange-1: #fff8f5;
-  --color-orange-2: #ffded1;
-  --color-orange-3: #fd4d00;
-  --color-orange-4: #cd3c00;
-  --color-orange-5: #752100;
-  --color-orange-6: #401600;
+  --color-background: #ffffff;
+  --color-text: #222222;
+  --color-decorative: #8b8b8b;
+  --color-light-text: #6f6f6f;
+  --color-accent-1: #ffded1;
+  --color-accent-2: #42ffc6;
+  --color-link: #0061fc;
+  --color-focus: #cd3c00;
 
   /* Fonts */
-  --serif: Charter, "Bitstream Charter", "Sitka Text", Georgia, serif;
-  --sans-serif: Avenir, Montserrat, Corbel, "URW Gothic", source-sans-pro,
+  --font-serif: Charter, "Bitstream Charter", "Sitka Text", Georgia, serif;
+  --font-sans-serif: Avenir, Montserrat, Corbel, "URW Gothic", source-sans-pro,
     sans-serif;
-  --mono: ui-monospace, "Cascadia Code", "Source Code Pro", Menlo, Consolas,
+  --font-mono: ui-monospace, "Cascadia Code", "Source Code Pro", Menlo, Consolas,
     "DejaVu Sans Mono", monospace;
 
   /* Space */
@@ -69,9 +43,9 @@ select {
   --space-xlarge: 4.5rem;
 
   /* Some styles */
-  background-color: var(--color-white);
-  color: var(--color-gray-6);
-  font-family: var(--serif);
+  background-color: var(--color-background);
+  color: var(--color-text);
+  font-family: var(--font-serif);
   font-size: 1.25rem;
   font-weight: 400;
   height: 100%;
@@ -79,8 +53,8 @@ select {
 }
 
 body {
-  border-bottom: var(--space-small) solid var(--color-orange-2);
-  border-top: var(--space-small) solid var(--color-aquamarine-2);
+  border-bottom: var(--space-small) solid var(--color-accent-2);
+  border-top: var(--space-small) solid var(--color-accent-1);
 }
 
 /* Utilities */
@@ -171,7 +145,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: var(--sans-serif);
+  font-family: var(--font-sans-serif);
   font-weight: 700;
   line-height: 1.2;
 }
@@ -202,11 +176,12 @@ h6 {
 }
 
 figcaption {
+  color: var(--color-light-text);
   font-style: italic;
 }
 
 blockquote {
-  border-left: 0.25rem solid var(--color-gray-3);
+  border-left: 0.25rem solid var(--color-decorative);
   font-style: italic;
   padding: 0 var(--space-xsmall);
 }
@@ -219,7 +194,7 @@ blockquote cite {
 }
 
 pre {
-  border: 0.125rem solid var(--color-gray-2);
+  border: 0.05rem solid var(--color-decorative);
   border-radius: 0.1rem;
   font-family: var(--mono);
   font-size: 0.9rem;
@@ -238,7 +213,7 @@ var {
 }
 
 abbr {
-  border-bottom: 1px dotted var(--color-gray-3);
+  border-bottom: 1px dotted var(--color-decorative);
   cursor: help;
 }
 
@@ -249,7 +224,7 @@ small {
 table,
 th,
 td {
-  border: 0.05rem solid var(--color-gray-2);
+  border: 0.05rem solid var(--color-decorative);
 }
 
 table {
@@ -280,9 +255,9 @@ td {
 }
 
 hr {
-  background-color: var(--color-gray-2);
+  background-color: var(--color-decorative);
   border: 0;
-  height: 0.1rem;
+  height: 0.05rem;
 }
 
 ul,
@@ -308,7 +283,7 @@ figcaption {
 }
 
 img {
-  box-shadow: 0 0 0 0.1rem var(--color-gray-1), 0 0 0 0.1rem var(--color-gray-3);
+  outline: 0.1rem solid var(--color-decorative);
   display: block;
   height: auto;
   max-width: 100%;
@@ -319,29 +294,29 @@ img {
 }
 
 mark {
-  background-color: var(--color-orange-2);
+  background-color: var(--color-accent-1);
 }
 
 a {
-  color: var(--color-gray-5);
+  color: var(--color-text);
   position: relative;
   text-decoration: underline;
-  text-decoration-color: var(--color-indigo-4);
+  text-decoration-color: var(--color-link);
   text-decoration-skip-ink: auto;
   text-decoration-thickness: 0.1rem;
 }
 
 a:hover {
-  background-color: var(--color-indigo-4);
-  color: #fff;
+  background-color: var(--color-link);
+  color: var(--color-background);
   outline: 0;
   text-decoration: none;
 }
 
 a:focus {
-  background-color: var(--color-orange-4);
-  color: var(--color-white);
-  outline: 0.1rem solid var(--color-orange-3);
+  background-color: var(--color-focus);
+  color: var(--color-background);
+  outline: 0.1rem solid var(--color-focus);
   outline-offset: 0.1rem;
   text-decoration: none;
 }
@@ -368,8 +343,12 @@ a:active {
   display: block;
 }
 
+.image-link:hover {
+  outline: 0.1rem solid var(--color-link);
+}
+
 .image-link:focus {
-  outline: 0.1rem solid var(--color-orange-3);
+  outline: 0.1rem solid var(--color-focus);
 }
 
 [tabindex="-1"]:focus {
@@ -386,7 +365,7 @@ input[type="email"],
 input[type="search"],
 textarea {
   background-color: inherit;
-  border: 0.1rem solid var(--color-gray-3);
+  border: 0.1rem solid var(--color-decorative);
   border-radius: 0.1rem;
   padding: 0.25rem;
   -webkit-appearance: none;
@@ -396,8 +375,8 @@ input[type="text"]:focus,
 input[type="email"]:focus,
 input[type="search"]:focus,
 textarea:focus {
-  border-color: var(--color-gray-4);
-  outline: 0.1rem solid var(--color-orange-3);
+  border-color: var(--color-light-text);
+  outline: 0.1rem solid var(--color-focus);
   outline-offset: 0.1rem;
 }
 
@@ -412,9 +391,9 @@ input[type="button"],
 input[type="reset"],
 input[type="submit"] {
   background-color: inherit;
-  border: 0.1rem solid var(--color-indigo-4);
+  border: 0.1rem solid var(--color-link);
   border-radius: 0.25rem;
-  color: var(--color-gray-6);
+  color: var(--color-text);
   cursor: pointer;
   font-weight: 700;
   padding: 0.25rem 0.5rem;
@@ -427,8 +406,8 @@ button:hover,
 input[type="button"]:hover,
 input[type="reset"]:hover,
 input[type="submit"]:hover {
-  background-color: var(--color-indigo-4);
-  color: var(--color-white);
+  background-color: var(--color-link);
+  color: var(--color-background);
 }
 
 button:active,
@@ -444,10 +423,10 @@ button:focus,
 input[type="button"]:focus,
 input[type="reset"]:focus,
 input[type="submit"]:focus {
-  background-color: var(--color-orange-4);
-  border-color: var(--color-orange-4);
-  color: var(--color-white);
-  outline: 0.1rem solid var(--color-orange-4);
+  background-color: var(--color-focus);
+  border-color: var(--color-focus);
+  color: var(--color-background);
+  outline: 0.1rem solid var(--color-focus);
   outline-offset: 0.1rem;
 }
 
@@ -455,7 +434,7 @@ input[type="submit"]:focus {
 .site-header {
   align-items: center;
   display: flex;
-  font-family: var(--sans-serif);
+  font-family: var(--font-sans-serif);
   justify-content: space-between;
   margin: 0 auto;
   max-width: 60rem;
@@ -509,4 +488,22 @@ input[type="submit"]:focus {
 
 .site-footer > nav {
   margin-top: var(--space-xsmall);
+}
+
+/* Going dark */
+@media (prefers-color-scheme: dark) {
+  :root {
+    /* Colors */
+    --color-background: #222222;
+    --color-text: #f6f6f6;
+    --color-decorative: #6f6f6f;
+    --color-light-text: #8b8b8b;
+    --color-link: #657eff;
+    --color-focus: #fd4d00;
+  }
+
+  mark,
+  mark > a {
+    color: var(--color-background);
+  }
 }
