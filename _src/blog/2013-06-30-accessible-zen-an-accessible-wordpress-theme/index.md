@@ -16,9 +16,7 @@ Accessibility is hard. It shouldn't have to be.
 
 That's why I'm proud to release [Accessible Zen](/projects/accessible-zen/), an accessible, minimalistic, readable and fully responsive [WordPress](http://wordpress.org/) theme. Inspired by Leo Babauta's [Zen Habits theme](http://zenhabits.net/theme/), Accessible Zen puts the focus on your content and nothing else, plus it has plenty of WordPress goodness built right in.
 
-<p class="callout">
-  Read more about <a href="/projects/accessible-zen/">Accessible Zen</a>, <a href="https://github.com/davidakennedy/accessible-zen">download the alpha version</a> or <a href="http://accessiblezen.davidakennedy.com">view the demo</a>.
-</p>
+<mark>Read more about <a href="/projects/accessible-zen/">Accessible Zen</a>, <a href="https://github.com/davidakennedy/accessible-zen">download the alpha version</a> or <a href="http://accessiblezen.davidakennedy.com">view the demo</a>.</mark>
 
 ## The Inspiration
 
@@ -44,6 +42,4 @@ I'm building another accessible theme as well with [the Cities project](/blog/jo
 
 I hope you enjoy the theme as much as I enjoy(ed) making it! Remember, accessibility is more about people than technology. Anyone can make the web more accessible. [Start learning how at WebAIM](http://webaim.org/).
 
-<p class="callout">
-  Read more about <a href="/projects/accessible-zen/">Accessible Zen</a>, <a href="https://github.com/davidakennedy/accessible-zen">download the alpha version</a> or <a href="http://accessiblezen.davidakennedy.com">view the demo</a>.
-</p>
+<mark>Read more about <a href="/projects/accessible-zen/">Accessible Zen</a>, <a href="https://github.com/davidakennedy/accessible-zen">download the alpha version</a> or <a href="http://accessiblezen.davidakennedy.com">view the demo</a>.</mark>

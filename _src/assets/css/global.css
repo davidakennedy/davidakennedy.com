@@ -320,8 +320,6 @@ img {
 
 mark {
   background-color: var(--color-orange-2);
-  border-bottom: 0.05rem solid var(--color-orange-3);
-  border-top: 0.05rem solid var(--color-orange-3);
 }
 
 a {

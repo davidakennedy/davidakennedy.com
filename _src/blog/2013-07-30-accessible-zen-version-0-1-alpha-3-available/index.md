@@ -30,6 +30,4 @@ Remember, I’m still in Alpha. That means it’s early in the game. I’m still
 
 I’d love to hear what you think! You can submit feedback on the [GitHub issues section](https://github.com/davidakennedy/accessible-zen/issues), or by emailing me at <me@davidakennedy.com>.
 
-<p class="callout">
-  Read more about <a href="/projects/accessible-zen/">Accessible Zen</a>, <a href="https://github.com/davidakennedy/accessible-zen">download the alpha version</a> or <a href="http://accessiblezen.davidakennedy.com">view the demo</a>.
-</p>
+<mark>Read more about <a href="/projects/accessible-zen/">Accessible Zen</a>, <a href="https://github.com/davidakennedy/accessible-zen">download the alpha version</a> or <a href="http://accessiblezen.davidakennedy.com">view the demo</a>.</mark>

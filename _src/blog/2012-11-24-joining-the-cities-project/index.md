@@ -18,6 +18,4 @@ It didn't take long for me to say yes and jump onto the project. It would have b
 
 We're in the beginning stages of it all, assembling teams and deciding on the goals of the themes. Stay tuned for more as the project develops.
 
-<p class="callout">
-  If you want to be a part of the project, <a href="mailto:me@davidakennedy.com">email me</a>, or <a href="http://twitter.com/DavidAKennedy">contact me on Twitter</a>. I'm looking for a designer for my team.
-</p>
+<mark>If you want to be a part of the project, <a href="mailto:me@davidakennedy.com">email me</a>, or <a href="http://twitter.com/DavidAKennedy">contact me on Twitter</a>. I'm looking for a designer for my team.</mark>

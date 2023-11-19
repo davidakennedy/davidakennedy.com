@@ -16,9 +16,7 @@ Most of the changes are minor, but I added one major feature: support for HTML5 
 
 The full changelog is below. Enjoy!
 
-<p class="callout">
-  Grab the theme in the <a href="http://wordpress.org/themes/accessible-zen">official theme directory</a>.
-</p>
+<mark>Grab the theme in the <a href="http://wordpress.org/themes/accessible-zen">official theme directory</a>.</mark>
 
 **June 20, 2014**
 

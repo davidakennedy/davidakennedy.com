@@ -13,9 +13,7 @@ I just released an update to [Accessible Zen](/projects/accessible-zen/), the fi
 
 Big thanks to Lutz Donnerhacke for the German translation added in this update. Speaking of translations, that's why I took so long to release this version. I tried to wait for translators to update files, based on the recent changes. But translators do their work out of the goodness of their hearts (Thank you!), and they didn't have the time to verify that the packaged translations work perfectly. So I just released. 🙂 If you speak French or German, you could help out Accessible Zen in a big way. Take the translation files for a spin and update them. Send them my way, and I'll release an update. The changelog is below for 1.1.4 and 1.1.5.
 
-<p class="callout">
-  Grab the theme in the <a href="http://wordpress.org/themes/accessible-zen">official theme directory</a>.
-</p>
+<mark>Grab the theme in the <a href="http://wordpress.org/themes/accessible-zen">official theme directory</a>.</mark>
 
 **April 12, 2015** Release: Version 1.1.5
 
