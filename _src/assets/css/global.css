@@ -202,7 +202,7 @@ pre {
   margin: var(--space-xsmall) 0;
   max-width: 40rem;
   overflow: auto;
-  padding: 1rem;
+  padding: var(--space-xsmall);
   white-space: pre-wrap;
 }
 
