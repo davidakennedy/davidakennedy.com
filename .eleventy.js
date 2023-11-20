@@ -140,6 +140,8 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy("_src/mstile-150x150.png");
   eleventyConfig.addPassthroughCopy("_src/safari-pinned-tab.svg");
   eleventyConfig.addPassthroughCopy("_src/site.webmanifest");
+  eleventyConfig.addPassthroughCopy("_src/_redirects");
+  eleventyConfig.addPassthroughCopy("_src/_headers");
 
   /* Markdown Overrides */
   let markdownLibrary = markdownIt({
