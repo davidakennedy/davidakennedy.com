@@ -8,31 +8,23 @@
   [plugins.inputs]
     cache_img = './assets/img/build'
 
-[[headers]]
-  for = "/*"
-  [headers.values]
-    Content-Security-Policy = "default-src 'self'; img-src 'self'; style-src 'self' 'unsafe-inline'; font-src 'self'; script-src 'self' 'sha256-D1ImZ4Cqr6YC2TgkMGJ4bhhahgO49sCYP+4eSrbdnuw=' 'sha256-P57CWBPw6DiofvJaxwjCYr0U1507SoLYBk9rxAwHikk=' 'sha256-ZVY9J+Wdi7FE6Y9os5V5MUWVTQjGihDY4/cSEWyQHmQ='; connect-src 'self'; worker-src 'self'; manifest-src 'self'; media-src 'self'; object-src 'none'; frame-src 'none'; frame-ancestors 'none';"
-    Permissions-Policy = '''
-      accelerometer=(),
-      ambient-light-sensor=(),
-      autoplay=(),
-      camera=(),
-      encrypted-media=(),
-      fullscreen=(),
-      geolocation=(),
-      gyroscope=(),
-      magnetometer=(),
-      microphone=(),
-      midi=(),
-      payment=(),
-      picture-in-picture=(),
-      speaker=(),
-      usb=(),
-      vibrate=(),
-      vr=()
-    '''
-    Referrer-Policy = "strict-origin-when-cross-origin"
-    Strict-Transport-Security = "max-age=2592000"
-    X-Content-Type-Options = "nosniff"
-    X-Frame-Options = "deny"
-    X-XSS-Protection = "1; mode=block"
+[[plugins]]
+  package = "netlify-plugin-csp-generator"
+  [plugins.inputs]
+    buildDir = "_site"
+    exclude = ["/assets/*"]
+  [plugins.inputs.policies]
+    defaultSrc = "'self'"
+    imgSrc = "'self'"
+    fontSrc = "'self'"
+    styleSrc = "'self'"
+    styleSrcElem = "'unsafe-hashes'"
+    scriptSrcElem = "'unsafe-hashes'"
+    connectSrc = "'self'"
+    workerSrc = "'self'"
+    manifestSrc = "'self'"
+    mediaSrc = "'self'"
+    objecrSrc = "'none'"
+    frameSrc = "'none'"
+    frameAncestors = "'none'"
+
