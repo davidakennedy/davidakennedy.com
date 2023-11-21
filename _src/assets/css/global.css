@@ -19,7 +19,7 @@ select {
 /* Variables */
 :root {
   /* Colors: https://reasonable.work/colors/ */
-  --color-background: #ffffff;
+  --color-background: #f6f6f6;
   --color-text: #222222;
   --color-decorative: #8b8b8b;
   --color-light-text: #6f6f6f;
