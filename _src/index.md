@@ -5,7 +5,7 @@ layout: home
 ---
 
 <div class="h-card">
-  <p class="p-note">Hi there! I'm <span class="p-name">David A. Kennedy</span>, but my friends call me <span class="p-nickname">DK</span>. I work as a Managing Staff Designer at <a href="https://adhoc.team/">Ad Hoc</a>, focusing on inclusive design, accessibility and people management. You can reach me <a class="u-email" href="mailto:me@davidakennedy.com">at the usual place</a> and find out more <a class="u-url u-uid" href="{{ '/' | url }}">about me on this site</a>.</p>
+  <p class="p-note">Hi there! I'm <span class="p-name">David A. Kennedy</span>, but my friends call me <span class="p-nickname">DK</span>. I work as a Manager of Design at <a href="https://adhoc.team/">Ad Hoc</a>, focusing on inclusive design, accessibility and people management. You can reach me <a class="u-email" href="mailto:me@davidakennedy.com">at the usual place</a> and find out more <a class="u-url u-uid" href="{{ '/' | url }}">about me on this site</a>.</p>
 </div>
 
 I'm an accessibility advocate who loves the open web and open source design and code. I curate a popular newsletter called [Accessibility Weekly](https://a11yweekly.com/). Before working on the web, I wrote words instead of code as a journalist.

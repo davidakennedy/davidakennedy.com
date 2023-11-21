@@ -97,26 +97,6 @@ body {
   margin-top: 0.25em;
 }
 
-/* Sidebar utility
-   every-layout.dev */
-.with-sidebar {
-  display: flex;
-  flex-wrap: wrap;
-  gap: var(--space-xsmall);
-}
-
-.with-sidebar > :last-child {
-  flex-basis: 33%;
-  flex-grow: 1;
-  margin-top: 0;
-}
-
-.with-sidebar > :first-child {
-  flex-basis: 0;
-  flex-grow: 999;
-  min-inline-size: 66%;
-}
-
 /* Navigation utility */
 .nav {
   display: flex;

@@ -10,7 +10,7 @@ imgalt: David A. Kennedy speaks on a stage in front of audience.
 layout: page
 ---
 
-I work as a Managing Staff Designer at [Ad Hoc](https://adhocteam.us/), focusing on inclusive design and accessibility.
+I work as a Manager of Design at [Ad Hoc](https://adhocteam.us/), focusing on inclusive design and accessibility.
 
 I’m an accessibility evangelist who loves the open web and open source code. I’ve contributed to [WordPress](https://wordpress.org/) and the WordPress community in the past. I've worked with great people at [Automattic](https://automattic.com/), [U.Group](https://u.group/), The [Consumer Financial Protection Bureau](http://www.consumerfinance.gov/) and [The Arc](http://www.thearc.org/) doing all sorts of web stuff. In another life, I use to write words instead of code as a journalist.
 

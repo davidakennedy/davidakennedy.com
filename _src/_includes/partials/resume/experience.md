@@ -1,6 +1,10 @@
 ## Experience
 
-### Managing Staff Designer, Accessibility, Ad Hoc, Remote — 5/22 – Present
+### Manager of Design, Accessibility, Ad Hoc, Remote — 11/23 – Present
+
+- New to this role; Updates coming soon.
+
+### Managing Staff Designer, Accessibility, Ad Hoc, Remote — 5/22 – 11/23
 
 - Managed designers with specialties in accessibility, responsible for performance reviews and helping them grow in their careers. Interview and hire new talent for accessibility and design roles.
 - Co-authored Veteran Affairs' first accessibility strategy for modernized VA.gov application teams. Collaboratively defined a mission, vision, and success metrics that centers disabled Veterans with 30-plus stakeholders.
@@ -48,4 +52,8 @@ Managed the national non-profit organization’s online presence, including its 
 
 ### Copy Associate, Graphik Dimensions, High Point, NC — 2/08– 7/09
 
+Wrote product descriptions, press releases, web site copy, scripts and other miscellaneous copy.
+
 ### Reporter/Copy Editor, The Observer Newspapers, New Smyrna Beach, FL — 2/06 – 11/07
+
+Covered a variety of beats as a reporter, including sports, the hospital and features. Also served as Editor when the paper turned into a weekly. Supervised staff of three, planned content, edited copy, wrote stories and designed three-section newspaper.
