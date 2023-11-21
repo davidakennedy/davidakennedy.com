@@ -1,4 +1,5 @@
 const path = require("path");
+const getImageSize = require("image-size");
 const image = require("@11ty/eleventy-img");
 
 module.exports = (eleventyConfig) => {
@@ -13,13 +14,21 @@ module.exports = (eleventyConfig) => {
   eleventyConfig.addAsyncShortcode(
     "image",
     async function imageShortcode(src, alt, caption) {
+      let defaultImageDimensions = getImageSize(
+        relativeToInputPath(this.page.inputPath, src)
+      );
+      let defaultImageWidth = defaultImageDimensions.width;
+      let widths;
+      defaultImageWidth < 800
+        ? (widths = ["auto"])
+        : (widths = [400, 800, 1600]);
       let metadata = await image(
         relativeToInputPath(this.page.inputPath, src),
         {
           // Fix paths
           urlPath: "/assets/media/",
           outputDir: path.join(eleventyConfig.dir.output, "assets/media"),
-          widths: [400, 800, 1600],
+          widths: widths,
           formats: ["jpeg"],
         }
       );
