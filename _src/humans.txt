@@ -33,6 +33,7 @@ https://davidakennedy.com
 
 - Libraries
   - Feather Icons (https://feathericons.com/)
+  - Reasonable Colors (https://reasonable.work/colors/)
 
 - Browsers
   - Chrome (https://www.google.com/chrome/)
