@@ -7,4 +7,4 @@ tags:
   - Conferences
 ---
 
-{% image "./adhoc-retreat2022-1.jpeg", "Ad Hoc Retreat 2022 conference badge, with green and white colors and the words David Kennedy.", "Ad Hoc Retreat 2022 conference badge." %}
+{% featuredimage "./adhoc-retreat2022-1.jpeg", "Ad Hoc Retreat 2022 conference badge, with green and white colors and the words David Kennedy.", "Ad Hoc Retreat 2022 conference badge." %}

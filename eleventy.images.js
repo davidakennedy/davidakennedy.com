@@ -50,4 +50,43 @@ module.exports = (eleventyConfig) => {
       }
     }
   );
+
+  // Image shortcode for eleventy-img
+  eleventyConfig.addAsyncShortcode(
+    "featuredimage",
+    async function featuredimageShortcode(src, alt, caption) {
+      let defaultImageDimensions = getImageSize(
+        relativeToInputPath(this.page.inputPath, src)
+      );
+      let defaultImageWidth = defaultImageDimensions.width;
+      let widths;
+      defaultImageWidth < 800
+        ? (widths = ["auto"])
+        : (widths = [400, 800, 1600]);
+      let metadata = await image(
+        relativeToInputPath(this.page.inputPath, src),
+        {
+          // Fix paths
+          urlPath: "/assets/media/",
+          outputDir: path.join(eleventyConfig.dir.output, "assets/media"),
+          widths: widths,
+          formats: ["jpeg"],
+        }
+      );
+
+      let imageAttributes = {
+        alt,
+        sizes: "800px",
+      };
+
+      if (caption !== undefined) {
+        return `<figure>${image.generateHTML(
+          metadata,
+          imageAttributes
+        )}<figcaption>${caption}</figcaption></figure>`;
+      } else {
+        return image.generateHTML(metadata, imageAttributes);
+      }
+    }
+  );
 };

@@ -1,12 +1,11 @@
 ---
 title: Accessible Zen
 description: Accessible Zen is an accessible, minimalistic, readable, and fully responsive WordPress theme by [David A. Kennedy.
-img: ./accessible-zen-screenshot.png
 layout: page
 ---
 
 <a class="image-link" href="http://accessiblezen.davidakennedy.com">
-  {% image "./accessible-zen-screenshot.png", "Accessible Zen demo." %}
+  {% featuredimage "./accessible-zen-screenshot.png", "Accessible Zen demo." %}
 </a>
 
 ## Intro

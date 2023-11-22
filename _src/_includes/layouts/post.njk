@@ -11,7 +11,7 @@
   <article class="post h-entry">
     <div class="header">
       {%- if featuredimg and img -%}
-        {% image img, imgalt %}
+        {% featuredimage img, imgalt %}
       {%- endif -%}
       {% set posttitle = title or renderData.title %}
       <h1 class="title p-name">{{ posttitle }}</h1>
