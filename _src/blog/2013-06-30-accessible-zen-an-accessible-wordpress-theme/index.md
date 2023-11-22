@@ -10,7 +10,7 @@ tags:
   - Work
 ---
 
-{% image "./accessible-zen-screenshot-0.png", "One column design, with white background, blue links and blue headers." %}
+{% featuredimage "./accessible-zen-screenshot-0.png", "One column design, with white background, blue links and blue headers." %}
 
 Accessibility is hard. It shouldn't have to be.
 

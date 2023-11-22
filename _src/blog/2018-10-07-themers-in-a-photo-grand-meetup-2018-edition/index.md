@@ -8,4 +8,4 @@ tags:
   - Automattic
 ---
 
-{% image "./grandmeetup2018-1.jpg", "A set of three photos, grouped together with people making funny faces and wearing funny hats." %}
+{% featuredimage "./grandmeetup2018-1.jpg", "A set of three photos, grouped together with people making funny faces and wearing funny hats." %}

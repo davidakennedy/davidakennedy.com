@@ -8,7 +8,7 @@ tags:
   - Personal
 ---
 
-{% image "./dave-at-crossfit.jpg", "", "Dave performs push presses during the 2013 CrossFit Games." %}
+{% featuredimage "./dave-at-crossfit.jpg", "", "Dave performs push presses during the 2013 CrossFit Games." %}
 
 I started [CrossFit](http://www.crossfit.com/) one year ago. I can't believe that much time has passed already, a sign that CrossFit has [stuck and changed me in a big way](/blog/number-34/).
 
