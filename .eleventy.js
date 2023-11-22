@@ -90,11 +90,6 @@ module.exports = function (eleventyConfig) {
   });
 
   // Development filters
-  // Adjusts image paths for certain images, like social cards
-  eleventyConfig.addFilter("imgPath", function (path) {
-    return path.replace("/_src", "");
-  });
-
   // Minify CSS
   async function minifyCSS(content) {
     if (this.type === "css") {
