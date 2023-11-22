@@ -4,7 +4,3 @@
   X-Content-Type-Options: nosniff
   X-Frame-Options: deny
   X-XSS-Protection: 1; mode=block
-
-  Permissions-Policy: accelerometer=(), ambient-light-sensor=(), autoplay=(), camera=(), encrypted-media=(), fullscreen=(), geolocation=(), gyroscope=(), magnetometer=(), microphone=(), midi=(), payment=(), picture-in-picture=(), speaker=(), usb=(), vibrate=(), vr=()
-
-# This part is handled by netlify-plugin-csp-generator

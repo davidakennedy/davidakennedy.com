@@ -7,25 +7,3 @@
   package = "netlify-plugin-11ty"
   [plugins.inputs]
     cache_img = './assets/img/build'
-
-[[plugins]]
-  package = "netlify-plugin-csp-generator"
-  [plugins.inputs]
-    buildDir = "_site"
-    exclude = ["/assets/*"]
-  [plugins.inputs.policies]
-    defaultSrc = "'self'"
-    imgSrc = "'self'"
-    fontSrc = "'self'"
-    styleSrc = "'unsafe-hashes'"
-    styleSrcElem = "'unsafe-hashes'"
-    scriptSrc = "'unsafe-hashes'"
-    scriptSrcElem = "'unsafe-hashes'"
-    connectSrc = "'self'"
-    workerSrc = "'self'"
-    manifestSrc = "'self'"
-    mediaSrc = "'self'"
-    objecrSrc = "'none'"
-    frameSrc = "'none'"
-    frameAncestors = "'none'"
-
