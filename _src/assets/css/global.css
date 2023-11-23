@@ -414,6 +414,7 @@ input[type="submit"]:focus {
 .site-header {
   align-items: center;
   display: flex;
+  flex-wrap: wrap;
   font-family: var(--font-sans-serif);
   justify-content: space-between;
   margin: 0 auto;
