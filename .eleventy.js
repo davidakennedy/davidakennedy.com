@@ -32,14 +32,14 @@ module.exports = function (eleventyConfig) {
 
   // Filters
   eleventyConfig.addFilter("readableDate", (dateObj) => {
-    return DateTime.fromJSDate(dateObj, { zone: "America/New_York" }).toFormat(
+    return DateTime.fromJSDate(dateObj, { zone: "utc" }).toFormat(
       "LLL dd yyyy"
     );
   });
 
   // https://html.spec.whatwg.org/multipage/common-microsyntaxes.html#valid-date-string
   eleventyConfig.addFilter("htmlDateString", (dateObj) => {
-    return DateTime.fromJSDate(dateObj, { zone: "America/New_York" }).toISO();
+    return DateTime.fromJSDate(dateObj, { zone: "utc" }).toISO();
   });
 
   // Get the first `n` elements of a collection.
