@@ -13,8 +13,7 @@
       {%- if featuredimg and img -%}
         {% featuredimage img, imgalt %}
       {%- endif -%}
-      {% set posttitle = title or renderData.title %}
-      <h1 class="title p-name">{{ posttitle }}</h1>
+      <h1 class="title p-name">{{ title }}</h1>
       <p class="meta">
         <span class="date"> Published on <time class="dt-published" datetime="{{ page.date | htmlDateString }}">{{ page.date | readableDate }}</time> <span class="author sr-only h-card p-author">by {{ metadata.author.name }}</span></span>
       </p>

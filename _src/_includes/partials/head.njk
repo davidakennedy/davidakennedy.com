@@ -1,17 +1,15 @@
 <head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>{{ renderData.title or title or metadata.title }} | {{ metadata.title }}</title>
-  {% include "partials/meta.njk" %}
-  {% include "partials/seo.njk" %}
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>{{ title or metadata.title }} | {{ metadata.title }}</title>
+  {% include "partials/meta.njk" %} {% include "partials/seo.njk" %}
   <!-- Styles -->
-  {%- css %}
-    {% include "_src/assets/css/global.css" %}
-    {% include "_src/assets/css/print.css" %}
-  {% endcss %}
-  {% if build.environment == "prod" %}
-    <style>{% getBundle "css" %}</style>
-  {% else %}
- 	<link rel="stylesheet" href="{% getBundleFileUrl "css" %}">
-  {%- endif %}
+  {%- css %} {% include "_src/assets/css/global.css" %} {% include
+  "_src/assets/css/print.css" %} {% endcss %} {% if build.environment == "prod"
+  %}
+  <style>
+    {% getBundle "css" %}
+  </style>
+  {% else %} <link rel="stylesheet" href="{% getBundleFileUrl "css" %}"> {%-
+  endif %}
 </head>

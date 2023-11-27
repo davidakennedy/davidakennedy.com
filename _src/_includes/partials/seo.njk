@@ -2,7 +2,7 @@
 {%- set isPost = layout == 'post' -%}
 
 {# Page-Specific #}
-<meta name="description" content="{{ renderData.description or description or metadata.description }}">
+<meta name="description" content="{{ description or metadata.description }}">
 <meta property="og:title" content="{{ title or metadata.title }}">
 <meta property="og:description" content="{{ description or metadata.description }}">
 <meta property="og:url" content="{{ absolutePageUrl }}">

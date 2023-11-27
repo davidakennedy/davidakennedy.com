@@ -9,8 +9,7 @@
       {%- if featuredimg and img -%}
         {% featuredimage img, imgalt %}
       {%- endif -%}
-      {% set pagetitle = title or renderData.title %}
-      <h1 class="title p-name">{{ pagetitle }}</h1>
+      <h1 class="title p-name">{{ title }}</h1>
     </div>
     <div class="content stack">
       {{ content | safe }}
