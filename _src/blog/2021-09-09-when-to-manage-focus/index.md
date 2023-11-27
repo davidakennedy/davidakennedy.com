@@ -6,7 +6,6 @@ permalink: /blog/when-to-manage-focus/
 tags:
   - Accessibility
   - Ad Hoc
-  - bestof
   - Selected Writing
   - Work
 ---
