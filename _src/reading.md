@@ -22,3 +22,4 @@ The list:
 7. _True Grit_ by Charles Portis
 8. _The Antidote: Happiness for People Who Can't Stand Positive Thinking_ by Oliver Burkeman
 9. _Jonathan Strange & Mr Norrell_ by Susanna Clarke
+10. _The Road_ by Cormac McCarthy
