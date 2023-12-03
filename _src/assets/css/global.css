@@ -176,7 +176,7 @@ blockquote cite {
 pre {
   border: 0.05em solid var(--color-decorative);
   border-radius: 0.1em;
-  font-family: var(--mono);
+  font-family: var(--font-mono);
   font-size: 0.9rem;
   line-height: 1.2;
   margin: var(--space-xsmall) 0;
@@ -189,7 +189,7 @@ pre {
 code,
 kbd,
 var {
-  font-family: var(--mono);
+  font-family: var(--font-mono);
 }
 
 abbr {
