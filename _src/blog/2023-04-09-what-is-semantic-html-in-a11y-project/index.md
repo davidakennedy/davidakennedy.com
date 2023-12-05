@@ -1,7 +1,7 @@
 ---
 title: What is Semantic HTML?
 description: Choose your elements wisely, friends.
-date: 2023-04-08T20:58:28+00:00
+date: 2023-04-09T00:58:28+00:00
 permalink: /blog/what-is-semantic-html-in-a11y-project/
 tags:
   - Accessibility

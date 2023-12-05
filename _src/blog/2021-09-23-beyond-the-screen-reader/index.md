@@ -1,7 +1,7 @@
 ---
 title: Beyond the Screen Reader
 description: There's more to accessibility than screen readers, but where do you go next?
-date: 2021-09-23T13:09:48+00:00
+date: 2021-09-23T17:09:48+00:00
 permalink: /blog/beyond-the-screen-reader/
 tags:
   - Accessibility

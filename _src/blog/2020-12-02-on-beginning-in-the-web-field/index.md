@@ -1,11 +1,11 @@
 ---
 title: On Beginning in the Web Field
 description: The important takeaways after a decade in the web field.
-date: 2020-12-01T20:58:13+00:00
+date: 2020-12-02T01:58:13+00:00
 permalink: /blog/on-beginning-in-the-web-field/
 tags:
-    - Learning
-    - Work
+  - Learning
+  - Work
 ---
 
 This year marks a decade since I started professionally making things on the web. When I saw this tweet from Manuel Matuzović [asking for advice for aspiring web developers/designers](https://twitter.com/mmatuzo/status/1312980673943285760), it got me thinking. What advice would I have?

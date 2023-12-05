@@ -1,7 +1,7 @@
 ---
 title: When to Manage Focus in an Accessible Way
 description: Don't drop the baton, as in don't let people lose their place in your digital experience.
-date: 2021-09-09T18:59:41+00:00
+date: 2021-09-09T22:59:41+00:00
 permalink: /blog/when-to-manage-focus/
 tags:
   - Accessibility

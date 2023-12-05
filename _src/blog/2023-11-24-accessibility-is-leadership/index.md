@@ -4,7 +4,7 @@ description: Establish the atmosphere.
 featuredimg: true
 img: ./viktorija-lankauskaite-5Wos7XmGOiI-unsplash.jpg
 imgalt: Red kite flying in a cloudy sky.
-date: 2023-11-24T14:53:01+00:00
+date: 2023-11-24T19:53:01+00:00
 permalink: /blog/accessibility-is-leadership/
 tags:
   - Accessibility

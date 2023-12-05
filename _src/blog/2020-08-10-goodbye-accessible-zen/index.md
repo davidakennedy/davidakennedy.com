@@ -1,7 +1,7 @@
 ---
 title: Goodbye Accessible Zen
 description: Letting an important side project go.
-date: 2020-08-09T21:18:48+00:00
+date: 2020-08-10T01:18:48+00:00
 permalink: /blog/goodbye-accessible-zen/
 tags:
   - Accessibility

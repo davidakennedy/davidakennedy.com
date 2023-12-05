@@ -1,7 +1,7 @@
 ---
 title: Ad Hoc Retreat 2022
 description: Finally get to meet my Ad Hoc colleagues in person.
-date: 2022-10-05T09:40:49+00:00
+date: 2022-10-05T14:40:49+00:00
 permalink: /blog/ad-hoc-retreat-2022/
 tags:
   - Conferences

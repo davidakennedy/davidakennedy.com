@@ -1,7 +1,7 @@
 ---
 title: Accessibility Weekly and Tracking
 description: One newsletter saying no to tracking.
-date: 2023-01-15T21:19:47+00:00
+date: 2023-01-16T02:19:47+00:00
 permalink: /blog/accessibility-weekly-and-tracking/
 tags:
   - Accessibility

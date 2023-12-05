@@ -1,7 +1,7 @@
 ---
 title: Designing for Web Accessibility in 60 Seconds
 description: It's all about asking good questions.
-date: 2022-05-11T20:33:51+00:00
+date: 2022-05-12T00:33:51+00:00
 permalink: /blog/accessible-design-in-60-seconds/
 tags:
   - Accessibility

@@ -1,7 +1,7 @@
 ---
 title: On Twitter
 description: Is this thing going to last?
-date: 2022-11-10T12:41:19+00:00
+date: 2022-11-10T17:41:19+00:00
 permalink: /blog/on-twitter/
 tags:
   - Personal

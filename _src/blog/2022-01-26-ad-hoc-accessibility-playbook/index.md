@@ -1,7 +1,7 @@
 ---
 title: Ad Hoc's Accessibility Playbook
 description: We have plays, and counterplays.
-date: 2022-01-25T20:33:07+00:00
+date: 2022-01-26T01:33:07+00:00
 permalink: /blog/ad-hoc-accessibility-playbook/
 tags:
   - Accessibility

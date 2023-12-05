@@ -1,7 +1,7 @@
 ---
 title: Site Design, Circa 2023
 description: Details around a new site design for davidakennedy.com, circa 2023.
-date: 2023-12-02T22:20:16+00:00
+date: 2023-12-03T03:20:16+00:00
 permalink: /blog/2023-redesign/
 tags:
   - Eleventy

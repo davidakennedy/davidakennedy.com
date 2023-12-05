@@ -1,7 +1,7 @@
 ---
 title: Accessibility and MVPs
 description: It's easier than you think.
-date: 2022-12-02T19:59:16+00:00
+date: 2022-12-03T00:59:16+00:00
 permalink: /blog/accessibility-and-mvps/
 tags:
   - Accessibility

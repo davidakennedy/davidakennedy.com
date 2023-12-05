@@ -1,7 +1,7 @@
 ---
 title: Remembering Accessible Joe
 description: Joe taught me so much by what he created.
-date: 2020-01-10T08:21:28+00:00
+date: 2020-01-10T13:21:28+00:00
 permalink: /blog/remembering-accessible-joe/
 tags:
   - Accessibility

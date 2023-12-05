@@ -1,7 +1,7 @@
 ---
 title: New Design, New Architecture
 description: Details around a new site design for davidakennedy.com, circa 2020.
-date: 2020-07-21T21:14:23+00:00
+date: 2020-07-22T01:14:23+00:00
 permalink: /blog/2020-redesign/
 tags:
   - Eleventy

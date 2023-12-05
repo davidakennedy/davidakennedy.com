@@ -1,7 +1,7 @@
 ---
 title: On Reading
 description: I made reading a habit, finally.
-date: 2021-09-30T19:17:06+00:00
+date: 2021-09-30T23:17:06+00:00
 permalink: /blog/on-reading/
 tags:
   - Personal

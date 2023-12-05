@@ -1,7 +1,7 @@
 ---
 title: Admire Actions
 description: It's about what people do.
-date: 2022-05-07T20:37:44+00:00
+date: 2022-05-08T00:37:44+00:00
 permalink: /blog/admire-actions/
 tags:
   - Personal

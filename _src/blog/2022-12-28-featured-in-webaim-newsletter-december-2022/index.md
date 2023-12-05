@@ -1,7 +1,7 @@
 ---
 title: Featured in WebAIM December 2022 Newsletter
 description: My post on accessibility and MVPs made it into one of my favorite newsletters.
-date: 2022-12-28T16:47:53+00:00
+date: 2022-12-28T21:47:53+00:00
 permalink: /blog/featured-in-webaim-newsletter-december-2022/
 tags:
   - Accessibility

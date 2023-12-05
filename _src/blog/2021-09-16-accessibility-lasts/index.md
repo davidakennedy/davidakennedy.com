@@ -1,10 +1,10 @@
 ---
 title: Accessibility Lasts
 description: If your digital work fades away, what keeps you doing the work?
-date: 2021-09-16T09:03:54+00:00
+date: 2021-09-16T13:03:54+00:00
 permalink: /blog/accessibility-lasts/
 tags:
-    - Accessibility
+  - Accessibility
 ---
 
 Digital experiences disappear.
