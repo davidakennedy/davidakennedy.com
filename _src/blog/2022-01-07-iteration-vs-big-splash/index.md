@@ -1,7 +1,7 @@
 ---
 title: Iteration vs. Big Splash
 description: Take it one step at a time. With a plan.
-date: 2022-01-06T20:57:14+00:00
+date: 2022-01-07T01:57:14+00:00
 permalink: /blog/iteration-vs-big-splash/
 tags:
   - Product Management
