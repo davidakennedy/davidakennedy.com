@@ -55,6 +55,7 @@ select {
 body {
   border-bottom: var(--space-small) solid var(--color-accent-1);
   border-top: var(--space-small) solid var(--color-accent-2);
+  min-height: 100vh;
 }
 
 /* Utilities */
