@@ -52,6 +52,7 @@ module.exports = (eleventyConfig) => {
   );
 
   // Image shortcode for eleventy-img
+  // Does not lazy load since image is at top of page
   eleventyConfig.addAsyncShortcode(
     "featuredimage",
     async function featuredimageShortcode(src, alt, caption) {
