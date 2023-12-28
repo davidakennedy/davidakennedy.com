@@ -5,7 +5,7 @@
   "locale": "en_US",
   "feed": {
     "subtitle": "Inclusive Design, Open Source and Life.",
-    "filename": "index.xml",
+    "filename": "atom.xml",
     "path": "/feed/",
     "url": "https://davidakennedy.com/feed/",
     "id": "https://davidakennedy.com/"
