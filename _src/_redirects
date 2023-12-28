@@ -14,4 +14,4 @@ https://www.accessiblezen.davidakennedy.com/* https://davidakennedy.com/projects
 https://davidakennedy.netlify.app/* https://davidakennedy.com 301
 
 # Better feed URL
-/feed/ /feed/index.xml 200!
+/feed/ /feed/atom.xml 200!
