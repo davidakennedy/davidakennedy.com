@@ -2,26 +2,26 @@
 /:year/:month/:day/:slug/  /blog/:slug 301
 
 # Redirect some old subdomains
-https://wpthemes.davidakennedy.com https://davidakennedy.com/projects/accessible-zen/ 301
+https://wpthemes.davidakennedy.com https://davidakennedy.com/projects/accessible-zen/ 301!
 
-https://wpthemes.davidakennedy.com/* https://davidakennedy.com/projects/accessible-zen/ 301
+https://wpthemes.davidakennedy.com/* https://davidakennedy.com/projects/accessible-zen/ 301!
 
-https://www.wpthemes.davidakennedy.com https://davidakennedy.com/projects/accessible-zen/ 301
+https://www.wpthemes.davidakennedy.com https://davidakennedy.com/projects/accessible-zen/ 301!
 
-https://www.wpthemes.davidakennedy.com/* https://davidakennedy.com/projects/accessible-zen/ 301
+https://www.wpthemes.davidakennedy.com/* https://davidakennedy.com/projects/accessible-zen/ 301!
 
-https://accessiblezen.davidakennedy.com https://davidakennedy.com/projects/accessible-zen/ 301
+https://accessiblezen.davidakennedy.com https://davidakennedy.com/projects/accessible-zen/ 301!
 
-https://accessiblezen.davidakennedy.com/* https://davidakennedy.com/projects/accessible-zen/ 301
+https://accessiblezen.davidakennedy.com/* https://davidakennedy.com/projects/accessible-zen/ 301!
 
-https://www.accessiblezen.davidakennedy.com https://davidakennedy.com/projects/accessible-zen/ 301
+https://www.accessiblezen.davidakennedy.com https://davidakennedy.com/projects/accessible-zen/ 301!
 
-https://www.accessiblezen.davidakennedy.com/* https://davidakennedy.com/projects/accessible-zen/ 301
+https://www.accessiblezen.davidakennedy.com/* https://davidakennedy.com/projects/accessible-zen/ 301!
 
 # Redirect Netlify subdomain
-https://davidakennedy.netlify.app https://davidakennedy.com 301
+https://davidakennedy.netlify.app https://davidakennedy.com 301!
 
-https://davidakennedy.netlify.app/* https://davidakennedy.com 301
+https://davidakennedy.netlify.app/* https://davidakennedy.com 301!
 
 # Better feed URL
 /feed/ /feed/atom.xml 200!
