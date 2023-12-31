@@ -119,6 +119,11 @@ body {
   font-weight: 700;
 }
 
+/* Intro utility */
+.intro {
+  font-size: 1.1rem;
+}
+
 /* Elements */
 h1,
 h2,
