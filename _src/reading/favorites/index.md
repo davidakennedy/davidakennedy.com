@@ -31,6 +31,7 @@ A list of my favorite books, gathered in one place. I mark a book a favorite if 
 - _Midnight Rising: John Brown and the Raid That Sparked the Civil War_ by Tony Horwitz
 - _Four Thousand Weeks: Time Management for Mortals_ by Oliver Burkeman
 - _How to Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking – for Students, Academics and Nonfiction Book Writers_ by Sönke Ahrens
+- _And There Was Light: Abraham Lincoln and the American Struggle_ by Jon Meacham
 
 ## Fiction
 
