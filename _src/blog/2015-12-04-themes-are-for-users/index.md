@@ -1,7 +1,7 @@
 ---
 title: Themes are for Users
 description: A blog post adaption of my 2015 WordCamp U.S. talk about WordPress themes.
-date: 2015-12-04T09:06:11+00:00
+date: 2015-12-04T11:30:00+00:00
 permalink: /blog/themes-are-for-users/
 tags:
   - WordPress
