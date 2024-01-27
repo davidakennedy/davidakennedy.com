@@ -15,7 +15,7 @@ I [set a few goals at the beginning of 2011](/blog/new-year-new-goals-2011/). I 
 > 3. Blog more.
 > 4. Learn more PHP.
 
-So how did I do? I [launched a new site in May](/blog/dk-wordpress-theme-3-0/), right on par with what I wanted to create. I didn't quite build a site in Drupal or Joomla, but [re-skinned a site using Blackbaud NetCommunity](/projects/the-arc-new-brand/). Not bad. I wrote 42 posts this year, about 10 less than last year, even though it feels like I wrote more. I'm definitely more comfortable with PHP, thanks to a few WordPress projects.
+So how did I do? I [launched a new site in May](/blog/dk-wordpress-theme-3-0/), right on par with what I wanted to create. I didn't quite build a site in Drupal or Joomla, but re-skinned a site using Blackbaud NetCommunity. Not bad. I wrote 42 posts this year, about 10 less than last year, even though it feels like I wrote more. I'm definitely more comfortable with PHP, thanks to a few WordPress projects.
 
 The new year has me thinking about what goals to set for this year.
 

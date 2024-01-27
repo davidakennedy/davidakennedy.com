@@ -30,7 +30,7 @@ Karl Groves has written about [quality problems related to accessibility](http:/
 
 Marcy Sutton's [A11y Wins blog](https://a11ywins.tumblr.com/) has great examples of paying attention to quality.
 
-**Hypothesis number two (related to one)**: Most accessibility challenges come down to three factors: decisions, people and details. I [wrote about this in the past](/blog/practicing-web-accessibility-differently/) in a series I called [Everyday Accessibility](/blog/everyday-accessibility/). We won't make all the right decisions. People won't always know enough about how to design or build an accessible experience. Details come and go so fast in projects that we may not pay attention to enough of them. These factors help drive quality.
+**Hypothesis number two (related to one)**: Most accessibility challenges come down to three factors: decisions, people and details. I [wrote about this in the past](/blog/practicing-web-accessibility-differently/) in a series I called [Everyday Accessibility](/tag/everyday-accessibility/). We won't make all the right decisions. People won't always know enough about how to design or build an accessible experience. Details come and go so fast in projects that we may not pay attention to enough of them. These factors help drive quality.
 
 Let's focus on making the concrete a bit more level every time way lay a new slab. Anyone can make the Web more accessible one change at a time.
 

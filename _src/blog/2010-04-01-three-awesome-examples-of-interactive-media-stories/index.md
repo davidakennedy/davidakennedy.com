@@ -14,7 +14,7 @@ Personally, I'm working on several big projects as I approach graduation from my
 
 Here's three examples I discovered recently and why they've inspired me.
 
-## [100 Tweets](http://9elements.com/io/projects/html5/canvas/) by [9Elements](http://9elements.com/en.html)
+## [100 Tweets](http://9elements.com/io/projects/html5/canvas/) by [9Elements](http://9elements.com)
 
 This site uses HTML5 and Javascript to display 100 tweets about HTML5 in a particle-like way. It has audio and plenty of animation, which make it pretty immersive and something you just want to click on.
 

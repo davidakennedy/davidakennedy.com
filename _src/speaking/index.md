@@ -29,7 +29,7 @@ No speaking engagements.
 ## 2017
 
 - **Picking the Right Theme**: Triad WordPress Meetup Group; October 11, 2017; Greensboro, NC. [Presentation slides for Picking the Right Theme](/assets/talks/pickingtherighttheme.pdf).
-- **What I Learned from Premium Themes**: WordCamp Raleigh; April 22, 2017; Raleigh, NC. [Presentation slides for What I Learned from Premium Themes](/assets/talks/2017/04/wcral2017.pdf); [View What I Learned from Premium Themes talk](https://wordpress.tv/2017/06/22/david-a-kennedy-what-ive-learned-from-premium-themes/).
+- **What I Learned from Premium Themes**: WordCamp Raleigh; April 22, 2017; Raleigh, NC. [Presentation slides for What I Learned from Premium Themes](/assets/talks/wcral2017.pdf); [View What I Learned from Premium Themes talk](https://wordpress.tv/2017/06/22/david-a-kennedy-what-ive-learned-from-premium-themes/).
 
 ## 2016
 
