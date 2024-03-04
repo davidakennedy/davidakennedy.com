@@ -13,4 +13,5 @@ You can also see what I read in past years, at least when I began keeping track 
 
 The list:
 
-Just getting started for 2024.
+1. _The Fellowship of the Ring_ by J.R.R. Tolkien
+2. _The Uninhabitable Earth: Life After Warming_ by David Wallace-Wells
