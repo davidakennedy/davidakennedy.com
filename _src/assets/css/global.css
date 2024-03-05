@@ -46,7 +46,7 @@ select {
   background-color: var(--color-background);
   color: var(--color-text);
   font-family: var(--font-serif);
-  font-size: 1.25rem;
+  font-size: clamp(1rem, 0.917rem + 0.417vw, 1.25rem);
   font-weight: 400;
   height: 100%;
   line-height: 1.5;
