@@ -11,11 +11,11 @@ tags:
 
 I refreshed the design of this site recently, focusing more on simplicity and performance.
 
-While it's not radically different from the [previous design, launched in 2020](/blog/2020-redesign/), I wanted to share what I tinkered with and the rationale behind it. I began exploring the [Kirby content management system](http://getkirby.com) (CMS), but stuck with my current [Eleventy](http://11ty.dev) plus [Netlify](https://www.netlify.com) setup for good reason.
+While it's not radically different from the [previous design, launched in 2020](/blog/2020-redesign/), I wanted to share what I tinkered with and the rationale behind it. I began exploring [Kirby](http://getkirby.com), but stuck with my current [Eleventy](http://11ty.dev) plus [Netlify](https://www.netlify.com) setup for good reason.
 
 ## Exploring Kirby
 
-Kirby has a ton of upside if you want a full-featured CMS. It:
+Kirby has a ton of upside if you want a full-featured content management system CMS. It:
 
 - Runs on simple technology (PHP).
 - Allows you to write in Markdown.
@@ -42,7 +42,7 @@ Inspired by Kirby, I decided to tweak my Eleventy setup to work better for me. I
 I made adjustments to make content creation simpler and the site faster:
 
 - Since the last major redesign in 2020, I had switched fonts to Merriweather, which I love. I ditched it in favor of a combination of system fonts for better performance. Plus, I think they work well across different operating systems.
-- I added more touches of color. I'll admit that I'm not great at infusing personality into my designs and I tend to like a high contrast, minimalist aesthetic. But I discovered [Reasonable Colors](https://reasonable.work/colors/), and love how flexible and access this color system can be.
+- I added more touches of color. I'll admit that I'm not great at infusing personality into my designs and I tend to like a high contrast, minimalist aesthetic. But I discovered [Reasonable Colors](https://reasonable.work/colors/), and love how flexible and accessible this color system can be.
 - I moved images to be inside the same folders as the content it pairs with. That means all my images aren't in one main folder, making it easier to manage images and other related linked content.
 - I removed old cruft from my code and fixed typos. This, along with the font switch, [means a faster site](https://lighthouse-metrics.com/lighthouse/checks/50141906-e9d0-469b-b4a1-ea2ff3fdfc0a).
 
