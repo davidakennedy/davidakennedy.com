@@ -21,7 +21,8 @@ select {
   /* Colors: https://reasonable.work/colors/ */
   --color-background: #f6f6f6;
   --color-text: #222222;
-  --color-decorative: #8b8b8b;
+  --color-decorative: #e2e2e2;
+  --color-uie: #8b8b8b;
   --color-light-text: #6f6f6f;
   --color-accent-1: #ffded1;
   --color-accent-2: #42ffc6;
@@ -167,7 +168,7 @@ figcaption {
 }
 
 blockquote {
-  border-left: 0.25em solid var(--color-decorative);
+  border-left: 0.25em solid var(--color-uie);
   font-style: italic;
   padding: 0 var(--space-xsmall);
 }
@@ -199,7 +200,7 @@ var {
 }
 
 abbr {
-  border-bottom: 1px dotted var(--color-decorative);
+  border-bottom: 1px dotted var(--color-uie);
   cursor: help;
 }
 
@@ -351,7 +352,7 @@ input[type="email"],
 input[type="search"],
 textarea {
   background-color: inherit;
-  border: 0.1em solid var(--color-decorative);
+  border: 0.1em solid var(--color-uie);
   border-radius: 0.1em;
   padding: 0.25em;
   -webkit-appearance: none;
@@ -484,7 +485,8 @@ input[type="submit"]:focus {
     /* Colors */
     --color-background: #222222;
     --color-text: #f6f6f6;
-    --color-decorative: #6f6f6f;
+    --color-decorative: #3e3e3e;
+    --color-uie: #6f6f6f;
     --color-light-text: #8b8b8b;
     --color-link: #657eff;
     --color-focus: #fd4d00;
