@@ -187,7 +187,6 @@ pre {
   font-size: 0.9rem;
   line-height: 1.2;
   margin: var(--space-xsmall) 0;
-  max-width: 40rem;
   overflow: auto;
   padding: var(--space-xsmall);
   white-space: pre-wrap;
@@ -425,7 +424,7 @@ input[type="submit"]:focus {
   font-family: var(--font-sans-serif);
   justify-content: space-between;
   margin: 0 auto;
-  max-width: 60rem;
+  max-width: 40rem;
   padding: var(--space-xlarge) 0;
 }
 
@@ -471,7 +470,7 @@ input[type="submit"]:focus {
 .site-footer {
   font-size: 0.8rem;
   margin: 0 auto;
-  max-width: 60rem;
+  max-width: 40rem;
   padding: var(--space-xlarge) var(--space-xsmall);
 }
 
