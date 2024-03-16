@@ -35,8 +35,6 @@ Ben Frain talks about many of the same points in a [post about Nova](https://ben
 
 I’ve enjoyed using Nova for six months and I plan on sticking with it. I still lean on VS Code at work because it’s open source, doesn’t cost any money and comes recommended by my IT department. It will be interesting to see the two evolve.
 
----
-
 Related posts about my text editor history:
 
 - [Atom editor](/blog/atom-editor/)
