@@ -30,27 +30,25 @@ select {
   --color-focus: #cd3c00;
 
   /* Fonts */
-  --font-serif: Charter, "Bitstream Charter", "Sitka Text", Georgia, serif;
-  --font-sans-serif: Avenir, Montserrat, Corbel, "URW Gothic", source-sans-pro,
-    sans-serif;
+  --font-sans-serif: system-ui, sans-serif;
   --font-mono: ui-monospace, "Cascadia Code", "Source Code Pro", Menlo, Consolas,
     "DejaVu Sans Mono", monospace;
 
   /* Space */
-  --space-xsmall: 0.375em;
-  --space-small: 0.75em;
-  --space: 1.5em;
-  --space-large: 3em;
-  --space-xlarge: 4.5em;
+  --space-xsmall: 0.3625em;
+  --space-small: 0.725em;
+  --space: 1.45em;
+  --space-large: 2.9em;
+  --space-xlarge: 4.35em;
 
   /* Some styles */
   background-color: var(--color-background);
   color: var(--color-text);
-  font-family: var(--font-serif);
-  font-size: clamp(1rem, 0.917rem + 0.417vw, 1.25rem);
+  font-family: var(--font-sans-serif);
+  font-size: clamp(1rem, 0.688rem + 1.563vw, 1.25rem);
   font-weight: 400;
   height: 100%;
-  line-height: 1.5;
+  line-height: 1.45;
 }
 
 body {
@@ -132,34 +130,34 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: var(--font-sans-serif);
   font-weight: 700;
   line-height: 1.2;
 }
 
 h1 {
-  font-size: 2rem;
+  font-size: 1.5rem;
 }
 
 h2 {
-  font-size: 1.7rem;
-}
-
-h3 {
-  font-size: 1.4rem;
-}
-
-h4 {
   font-size: 1.2rem;
 }
 
-h5 {
+h3 {
   font-size: 1.1rem;
 }
 
-h6 {
+h4 {
   font-size: 1rem;
+  letter-spacing: 0.06em;
   text-transform: uppercase;
+}
+
+h5 {
+  font-size: inherit;
+}
+
+h6 {
+  font-size: inherit;
 }
 
 figcaption {
@@ -421,7 +419,6 @@ input[type="submit"]:focus {
   align-items: center;
   display: flex;
   flex-wrap: wrap;
-  font-family: var(--font-sans-serif);
   justify-content: space-between;
   margin: 0 auto;
   max-width: 40rem;
