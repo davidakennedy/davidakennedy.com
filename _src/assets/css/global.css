@@ -35,11 +35,11 @@ select {
     "DejaVu Sans Mono", monospace;
 
   /* Space */
-  --space-xsmall: 0.3625em;
-  --space-small: 0.725em;
-  --space: 1.45em;
-  --space-large: 2.9em;
-  --space-xlarge: 4.35em;
+  --space-xsmall: 0.35em;
+  --space-small: 0.7em;
+  --space: 1.4em;
+  --space-large: 2.8em;
+  --space-xlarge: 4.2em;
 
   /* Some styles */
   background-color: var(--color-background);
@@ -48,7 +48,7 @@ select {
   font-size: clamp(1rem, 0.688rem + 1.563vw, 1.25rem);
   font-weight: 400;
   height: 100%;
-  line-height: 1.45;
+  line-height: 1.4;
 }
 
 body {
@@ -85,7 +85,7 @@ body {
 /* Stack utility
    every-layout.dev */
 .stack > * + * {
-  margin-top: var(--space, 1.45em);
+  margin-top: var(--space, 1.4em);
 }
 
 .stack > h1 + *,
