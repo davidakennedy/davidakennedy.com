@@ -468,15 +468,16 @@ input[type="submit"]:focus {
   font-size: 0.8rem;
   margin: 0 auto;
   max-width: 40rem;
-  padding: var(--space-xlarge) var(--space-xsmall);
+  padding: var(--space-xlarge) 0;
 }
 
 .site-footer > nav {
   margin-top: var(--space-xsmall);
+  padding-left: 0.0875em;
 }
 
 .site-footer > p {
-  padding-left: var(--space-xsmall);
+  padding-left: 0.4375em;
 }
 
 /* Going dark */
