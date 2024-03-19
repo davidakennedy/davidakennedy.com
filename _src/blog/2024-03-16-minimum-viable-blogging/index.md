@@ -9,7 +9,7 @@ tags:
 
 No one has nailed the minimal blogging platform yet.
 
-A few recent entires have sprung up, and I’m [watching the space](https://buttondown.email/ownyourweb/archive/issue-05/) to see how they develop. I can’t help it, as I love seeing how web publishing tools evolve. It takes a lot to make an [easy website possible](/blog/easy-websites/) . I appreciate the speed, simplicity and customizability of static site generators, but miss typing into a simple text editor on the web. I [moved to Eleventy a few years ago](/blog/2020-redesign/) and [toyed with Kirby](/blog/2023-redesign/).
+A few recent entires have sprung up, and I’m [watching the space](https://buttondown.email/ownyourweb/archive/issue-05/) to see how they develop. I can’t help it, as I love seeing how web publishing tools evolve. It takes a lot to make an [easy website possible](/blog/easy-websites/). I appreciate the speed, simplicity and customizability of static site generators, but miss typing into a simple text editor on the web. I [moved to Eleventy a few years ago](/blog/2020-redesign/) and [toyed with Kirby](/blog/2023-redesign/).
 
 I thought it would be fun to share what I’d want in a minimal viable blogging platform:
 
