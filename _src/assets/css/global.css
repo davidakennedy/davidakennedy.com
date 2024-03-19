@@ -85,7 +85,7 @@ body {
 /* Stack utility
    every-layout.dev */
 .stack > * + * {
-  margin-top: var(--space, 1.5em);
+  margin-top: var(--space, 1.45em);
 }
 
 .stack > h1 + *,
@@ -94,7 +94,7 @@ body {
 .stack > h4 + *,
 .stack > h5 + *,
 .stack > h6 + * {
-  margin-top: 0.25em;
+  margin-top: 0.5em;
 }
 
 /* Navigation utility */
