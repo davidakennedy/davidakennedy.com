@@ -26,7 +26,7 @@
         <p class="meta">
           {% set lastTag = tags | filterTagList | last %}
           <span class="tags">
-            Tagged&nbsp;
+            Tagged
             {% for tag in tags | filterTagList %}
               {% if tag != "posts" %}
                 {% set tagUrl %}/tag/{{ tag | slugify }}/{% endset %}
