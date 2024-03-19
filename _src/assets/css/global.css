@@ -475,6 +475,10 @@ input[type="submit"]:focus {
   margin-top: var(--space-xsmall);
 }
 
+.site-footer > p {
+  padding-left: var(--space-xsmall);
+}
+
 /* Going dark */
 @media (prefers-color-scheme: dark) {
   :root {
