@@ -1,6 +1,6 @@
 ---
 title: Featured in WebAIM March 2023 Newsletter
-description: Another post makes the webAIM newsletter.
+description: Another post makes the WebAIM newsletter.
 date: 2023-04-09T00:46:06+00:00
 permalink: /blog/featured-in-webaim-newsletter-march-2023/
 tags:
