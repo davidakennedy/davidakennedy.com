@@ -1,6 +1,6 @@
 ---
-title: Why I Love Working with the web
-description: The Web represents this giant book that we're all writing and learning from.
+title: Why I Love Working with the Web
+description: The web represents this giant book that we're all writing and learning from.
 date: 2016-01-22T00:15:15+00:00
 permalink: /blog/why-i-love-working-with-the-web/
 tags:
