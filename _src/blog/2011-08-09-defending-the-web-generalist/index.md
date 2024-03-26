@@ -1,5 +1,5 @@
 ---
-title: Defending the Web Generalist
+title: Defending the web Generalist
 description: I'm definitely biased here because I'm a generalist.
 date: 2011-08-09T23:15:03+00:00
 permalink: /blog/defending-the-web-generalist/

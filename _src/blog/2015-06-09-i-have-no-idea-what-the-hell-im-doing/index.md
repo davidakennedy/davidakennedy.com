@@ -8,6 +8,6 @@ tags:
   - Web Design
 ---
 
-Brad Frost talks about dealing with the uncertainty of the future on the Web as a designer or developer in [I Have No Idea What The Hell I'm Doing](https://www.youtube.com/watch?v=TzZuvEL6Lss).
+Brad Frost talks about dealing with the uncertainty of the future on the web as a designer or developer in [I Have No Idea What The Hell I'm Doing](https://www.youtube.com/watch?v=TzZuvEL6Lss).
 
 If you need it, there's a transcript on [Brad's site](http://bradfrost.com/blog/post/i-have-no-idea-what-the-hell-i-am-doing/).

@@ -17,4 +17,4 @@ We didn't solve everything in one day, but we had [lots of ideas](https://hackpa
 
 It's easy to jump into any problem thinking you need to bring a new solution. With a newer, but established project like News for Betty, the creators had already formed a solid base to an existing problem. Sometimes you just need to give something support, a nudge in a new direction or a different way of thinking, and maybe a few pull requests. 🙂
 
-This is especially true on the Web where thousands of worthy projects need more accessibility attention. What have you helped today?
+This is especially true on the web where thousands of worthy projects need more accessibility attention. What have you helped today?

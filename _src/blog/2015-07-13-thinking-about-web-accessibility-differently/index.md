@@ -1,6 +1,6 @@
 ---
 title: Thinking About Web Accessibility Differently
-description: You already have what it takes to make the Web accessible.
+description: You already have what it takes to make the web accessible.
 date: 2015-07-13T14:53:01+00:00
 permalink: /blog/thinking-about-web-accessibility-differently/
 tags:
@@ -17,7 +17,7 @@ Most people can't define it. When you point a UXer, designer, developer, project
 
 This creates a negative mindset from the very beginning and blocks progress in a very real way. This has to stop. Accessibility isn't just a legal mandate or list of requirements. It's really about people. You.
 
-You already have what it takes to make the Web accessible. Yes, really. No matter how much you know about web accessibility, you can make the Web a better place for everyone. In today’s world of evolving web standards, emerging best practices and a growing number of connected digital devices, the most important part of the puzzle is you. You, the web user. You, the project manager. You, the user experience designer. You, the web designer. You, the web developer.
+You already have what it takes to make the web accessible. Yes, really. No matter how much you know about web accessibility, you can make the web a better place for everyone. In today’s world of evolving web standards, emerging best practices and a growing number of connected digital devices, the most important part of the puzzle is you. You, the web user. You, the project manager. You, the user experience designer. You, the web designer. You, the web developer.
 
 ## What Accessibility Really Means
 
@@ -34,6 +34,6 @@ You need to:
 - **favor pragmatism over perfection**: Focus on creating solutions to accessibility problems and not just on the problem itself. Aim to show each other the balance between pushing boundaries and following established principles. You may make compromises along the way, but don’t sacrifice your design vision. Accessibility is just another design constraint.
 - **contribute to the accessibility body of knowledge**: The Web flourishes most when its people, processes, tools and systems are open. Welcome that. Share your ideas, your barriers, your processes and your code – even when they may not fit neatly into a case study or showcase. Examples and experimentation inform progress.
 
-You can help make web accessibility a reality, and easier for everyone who creates on and uses the Web. You know what to do next.
+You can help make web accessibility a reality, and easier for everyone who creates on and uses the web. You know what to do next.
 
 _This is the first in a three-part series on [everyday accessibility](/tag/everyday-accessibility)._

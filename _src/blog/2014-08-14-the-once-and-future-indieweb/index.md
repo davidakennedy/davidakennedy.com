@@ -7,6 +7,6 @@ tags:
   - Open Web
 ---
 
-Tantek Çelik on [why we became fascinated with silos and what we can do to take the Web back](https://www.youtube.com/watch?v=FNr0JNwsLy8).
+Tantek Çelik on [why we became fascinated with silos and what we can do to take the web back](https://www.youtube.com/watch?v=FNr0JNwsLy8).
 
 Via [Jeremy Keith](http://adactio.com/links/7290/).

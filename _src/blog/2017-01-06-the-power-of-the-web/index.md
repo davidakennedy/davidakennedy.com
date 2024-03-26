@@ -1,6 +1,6 @@
 ---
 title: The Power of the Web
-description: "Progressive enhancement, like most principles on the Web doesn't have an always-optimal approach."
+description: "Progressive enhancement, like most principles on the web doesn't have an always-optimal approach."
 date: 2017-01-06T21:35:47+00:00
 permalink: /blog/the-power-of-the-web/
 tags:
@@ -20,6 +20,6 @@ The purpose was to offer an explanation for the PE discussion's dynamic: how it'
 
 I can understand why Korr makes his main point. The discussion around some topics in the web world do go in circles, and get contentious. This happens in the accessibility community too.
 
-Progressive enhancement, like most principles on the Web doesn't have an always-optimal approach. To succeed with it depends on your users and your project. A site can have okay accessibility and still deliver a passable experience to users with disabilities. A project can do a decent job with performance, and still be production ready. The Web is messy. It moves fast and slow. Think of how fast responsive design took hold. Now, remember what a monumental change happened when images hit the Web in Mosaic. But we're still trying to figure out to best deliver those images responsibly today. The Web is a fragile environment. The entire thing relies on connections, which can be broken, interrupted or suboptimal. Progressive enhancement just helps you think critically about how to handle the variables. That way, your users don't have to worry about them.
+Progressive enhancement, like most principles on the web doesn't have an always-optimal approach. To succeed with it depends on your users and your project. A site can have okay accessibility and still deliver a passable experience to users with disabilities. A project can do a decent job with performance, and still be production ready. The Web is messy. It moves fast and slow. Think of how fast responsive design took hold. Now, remember what a monumental change happened when images hit the web in Mosaic. But we're still trying to figure out to best deliver those images responsibly today. The Web is a fragile environment. The entire thing relies on connections, which can be broken, interrupted or suboptimal. Progressive enhancement just helps you think critically about how to handle the variables. That way, your users don't have to worry about them.
 
-The power of the Web lies in its millions of different connections. All powered by people somewhere in the world. That provides all the fuel needed for a difference of opinion now and then. The circular conversations don't matter as much as the acknowledgment that many paths to success exist when we hear each other out. We just need to stay open to new ideas and not get too caught up in semantics.
+The power of the web lies in its millions of different connections. All powered by people somewhere in the world. That provides all the fuel needed for a difference of opinion now and then. The circular conversations don't matter as much as the acknowledgment that many paths to success exist when we hear each other out. We just need to stay open to new ideas and not get too caught up in semantics.

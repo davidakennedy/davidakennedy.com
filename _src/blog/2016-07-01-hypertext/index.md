@@ -8,4 +8,4 @@ tags:
   - Open Web
 ---
 
-Jeremy Keith gave a talk recently on [hypertext](https://vimeo.com/172794545) that covers the history of the Internet and the Web. It's a fascinating look at the strengths and weaknesses of the world's largest system of knowledge.
+Jeremy Keith gave a talk recently on [hypertext](https://vimeo.com/172794545) that covers the history of the Internet and the web. It's a fascinating look at the strengths and weaknesses of the world's largest system of knowledge.

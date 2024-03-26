@@ -13,4 +13,4 @@ tags:
 > <cite>Remy Sharp</cite>
 > In [What is React](https://remysharp.com/2016/08/15/what-is-react)?
 
-I really like this thinking. Frameworks and techniques on the Web are ephemeral, so the _what_ doesn't matter as much as _how_ or _why_.
+I really like this thinking. Frameworks and techniques on the web are ephemeral, so the _what_ doesn't matter as much as _how_ or _why_.

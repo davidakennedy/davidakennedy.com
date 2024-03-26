@@ -11,4 +11,4 @@ tags:
 
 [WordPress 4.1](https://wordpress.org/news/2014/12/dinah/), dubbed "Dinah," came out today. It features a new default theme, Twenty Fifteen, and many other cool features and improvements.
 
-I contributed a handful of patches to help with Twenty Fifteen's accessibility, and its accessibility-ready tag. I'm excited to start seeing it on sites around the Web.
+I contributed a handful of patches to help with Twenty Fifteen's accessibility, and its accessibility-ready tag. I'm excited to start seeing it on sites around the web.

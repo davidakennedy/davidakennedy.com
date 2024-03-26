@@ -7,4 +7,4 @@ tags:
   - Technology
 ---
 
-I didn't know that the Librarian of Congress holds a lifetime appointment, so the fact that this next one would be the [first after the birth of the Web](http://www.theatlantic.com/technology/archive/2015/06/hiring-the-first-librarian-of-congress-for-the-internet-age/396038/?single_page=true) is very interesting.
+I didn't know that the Librarian of Congress holds a lifetime appointment, so the fact that this next one would be the [first after the birth of the web](http://www.theatlantic.com/technology/archive/2015/06/hiring-the-first-librarian-of-congress-for-the-internet-age/396038/?single_page=true) is very interesting.

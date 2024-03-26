@@ -22,7 +22,7 @@ Yes, working on the web can challenge even the most seasoned web worker these da
 > My answer is always the same: not really. The actual truth of the matter, as ever, is more nuanced.
 > <cite>Matt Gemmell</cite> [Confessions of an Ex-Developer](http://mattgemmell.com/confessions-of-an-ex-developer/), in response to Ed's piece and Marco's piece.
 
-I think about it a bit differently. I like the Web's uncertainty. I don't mind that it splinters off into a million different directions, often with new ones every day. I work on the Web because of its universality.
+I think about it a bit differently. I like the web's uncertainty. I don't mind that it splinters off into a million different directions, often with new ones every day. I work on the web because of its universality.
 
 That universality leads to a lot of choices. That's all. Learning something new, integrating it into your project and choosing what you think is a "stable" work environment is up to you. It's your choice.
 

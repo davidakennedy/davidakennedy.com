@@ -9,7 +9,7 @@ tags:
 
 When I [tweeted this](https://twitter.com/DavidAKennedy/status/479991228239736832) awhile back:
 
-> If web designers and developers put as much energy into accessibility as they do building "frameworks," the Web would be a lot better off.
+> If web designers and developers put as much energy into accessibility as they do building "frameworks," the web would be a lot better off.
 
 [One response](https://twitter.com/woodwardjd/status/479992364392792064) really got my mind turning:
 

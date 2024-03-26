@@ -10,7 +10,7 @@ tags:
   - Accessibility
 ---
 
-WebAIM recently released a report about how [accessibility errors permeate the Web](https://webaim.org/projects/million/). The report states, &#8220;the results paint a rather dismal picture of the current state of web accessibility.&#8221;
+WebAIM recently released a report about how [accessibility errors permeate the web](https://webaim.org/projects/million/). The report states, &#8220;the results paint a rather dismal picture of the current state of web accessibility.&#8221;
 
 If you've ever tested sites for accessibility, the results may not surprise you. I can tell you in my own work, I see a lot of the same mistakes repeated. Depressing, indeed.
 
@@ -32,6 +32,6 @@ Marcy Sutton's [A11y Wins blog](https://a11ywins.tumblr.com/) has great examples
 
 **Hypothesis number two (related to one)**: Most accessibility challenges come down to three factors: decisions, people and details. I [wrote about this in the past](/blog/practicing-web-accessibility-differently/) in a series I called [Everyday Accessibility](/tag/everyday-accessibility/). We won't make all the right decisions. People won't always know enough about how to design or build an accessible experience. Details come and go so fast in projects that we may not pay attention to enough of them. These factors help drive quality.
 
-Let's focus on making the concrete a bit more level every time way lay a new slab. Anyone can make the Web more accessible one change at a time.
+Let's focus on making the concrete a bit more level every time way lay a new slab. Anyone can make the web more accessible one change at a time.
 
 _Image courtesy of [Mahdis Mousavi](https://unsplash.com/photos/5BrLjgDAd-c)._

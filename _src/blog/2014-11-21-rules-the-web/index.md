@@ -7,4 +7,4 @@ tags:
   - Open Web
 ---
 
-Paul Ford describes the Web this way in [The Group That Rules the Web](http://www.newyorker.com/tech/elements/group-rules-web): "The Web, which used to be a place you went to get things, is now also a place to do things."
+Paul Ford describes the web this way in [The Group That Rules the Web](http://www.newyorker.com/tech/elements/group-rules-web): "The Web, which used to be a place you went to get things, is now also a place to do things."

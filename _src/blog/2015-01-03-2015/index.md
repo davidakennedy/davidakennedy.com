@@ -35,7 +35,7 @@ In other news, I had a year I won't soon forget. My wife and I had our first chi
 
 ## This Year
 
-I have two goals that I want to form habits around. First, I want to make more progress on that book about accessibility. To do that, I have to keep writing. **So I want to average at least eight posts a month on my blog, with two of them being centered on accessibility in some way.** I believe I'll create some positive side effects with this too. So much of the Web and the conversation in accessibility centers on JavaScript, so I bet I can up my skills there.
+I have two goals that I want to form habits around. First, I want to make more progress on that book about accessibility. To do that, I have to keep writing. **So I want to average at least eight posts a month on my blog, with two of them being centered on accessibility in some way.** I believe I'll create some positive side effects with this too. So much of the web and the conversation in accessibility centers on JavaScript, so I bet I can up my skills there.
 
 Second, I want to lay the foundation for a new hobby. One that doesn't involve a computer screen. Thanks to a comment from a friend, I'm going to try cooking. Over the past six months, I've started making breakfast more for my family on weekends. I've made omelets mostly, so I want to try new recipes. **I'll aim to try one new recipe a month**. It can be any meal, but it will probably be breakfast, since that's my favorite meal of the day. 🙂
 

@@ -9,7 +9,7 @@ tags:
   - Work
 ---
 
-We shipped! [Twenty Seventeen, along with WordPress 4.7](https://wordpress.org/news/2016/12/vaughan/), hit the Web yesterday. We shipped not just any default theme, but one that gives users a home page like no other default theme. We made something amazing that literally millions of people will use and learn from.
+We shipped! [Twenty Seventeen, along with WordPress 4.7](https://wordpress.org/news/2016/12/vaughan/), hit the web yesterday. We shipped not just any default theme, but one that gives users a home page like no other default theme. We made something amazing that literally millions of people will use and learn from.
 
 At times, I'd go to bed worried about how to tackle a problem, but then I'd wake up and you all had it solved. Every day, you taught me something new and demanded my best. I can't thank you enough.
 

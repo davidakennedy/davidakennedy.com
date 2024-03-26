@@ -29,7 +29,7 @@ You come into accessibility with an open mind. But deep down, you're scared. You
 
 Accessibility is a design constraint. Treat it like one. I don't mean that in a negative way, but in the sense that a constraint forces us to push boundaries and think ahead. Approach accessibility like any other constraint in your process. For example: selecting colors that invoke a certain emotion for a brand or creating a layout that will prompt a specific action from users. These limitations represent problems you have to think about throughout your process to reach the best solution for your users. Accessibility is no different.
 
-I need to see accessibility for what it is too. That means, like everything else on the Web, I need to embrace its fluidity. It can't be perfect, but it can improve incrementally with each release. Better than before is always better than perfect.
+I need to see accessibility for what it is too. That means, like everything else on the web, I need to embrace its fluidity. It can't be perfect, but it can improve incrementally with each release. Better than before is always better than perfect.
 
 Let's get out of the tunnel together.
 

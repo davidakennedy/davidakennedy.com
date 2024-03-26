@@ -8,4 +8,4 @@ tags:
   - Web Development
 ---
 
-A few days ago, I linked to an excellent post from Jeremy Keith where he talked about what [attracted him to the Web](/blog/web-what-is-it-good-for/). Chris Wilson touches on similar subjects in [The Web is not Poor Man’s Native](http://cwilso.com/2015/05/29/the-web-is-not-poor-mans-native/), diving into some of the Web's advantages and disadvantages in its current state.
+A few days ago, I linked to an excellent post from Jeremy Keith where he talked about what [attracted him to the web](/blog/web-what-is-it-good-for/). Chris Wilson touches on similar subjects in [The Web is not Poor Man’s Native](http://cwilso.com/2015/05/29/the-web-is-not-poor-mans-native/), diving into some of the web's advantages and disadvantages in its current state.

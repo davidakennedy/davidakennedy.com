@@ -24,7 +24,7 @@ The priorities I decided to aim at this year skew more toward objectives. They'r
 
 **Professional**: Thanks to a new professional growth focus at Automattic, all our designers wrote [mission statements](https://www.fastcompany.com/3026791/personal-mission-statements-of-5-famous-ceos-and-why-you-should-write-one-too). Mine is:
 
-_David Kennedy works to make the Web fast, accessible and beautiful. He brings empathy and persistence to tackle problems customers and colleagues face that block their path to the future_.
+_David Kennedy works to make the web fast, accessible and beautiful. He brings empathy and persistence to tackle problems customers and colleagues face that block their path to the future_.
 
 I'm looking forward to focusing on the craft of those areas, and helping others grow there too.
 

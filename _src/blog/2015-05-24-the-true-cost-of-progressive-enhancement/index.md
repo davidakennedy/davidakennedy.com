@@ -8,4 +8,4 @@ tags:
   - JavaScript
 ---
 
-I stumbled across this fantastic post today about the [cost of progressive enhancement](http://blog.easy-designs.net/archives/the-true-cost-of-progressive-enhancement/) by Aaron Gustafson. Published in 2013, it's as relevant as ever, especially considering the fast-paced world of the Web and the increasing reliance on JavaScript.
+I stumbled across this fantastic post today about the [cost of progressive enhancement](http://blog.easy-designs.net/archives/the-true-cost-of-progressive-enhancement/) by Aaron Gustafson. Published in 2013, it's as relevant as ever, especially considering the fast-paced world of the web and the increasing reliance on JavaScript.

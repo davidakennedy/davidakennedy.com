@@ -12,4 +12,4 @@ tags:
 >
 > This goes back to what many have been stating as of late: performance is a cultural problem.
 
-Tim Kadlec in [Choosing Performance](http://timkadlec.com/2015/05/choosing-performance/) on why the Web is slow.
+Tim Kadlec in [Choosing Performance](http://timkadlec.com/2015/05/choosing-performance/) on why the web is slow.

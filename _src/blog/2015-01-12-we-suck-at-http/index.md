@@ -7,4 +7,4 @@ tags:
   - Open Web
 ---
 
-I enjoyed this post about how [we suck at HTTP](http://gadgetopia.com/post/9236?retitle). Ever since I started reading and learning more about the [IndieWeb](https://indiewebcamp.com/) movement, the inner workings of the Web are really interesting.
+I enjoyed this post about how [we suck at HTTP](http://gadgetopia.com/post/9236?retitle). Ever since I started reading and learning more about the [IndieWeb](https://indiewebcamp.com/) movement, the inner workings of the web are really interesting.

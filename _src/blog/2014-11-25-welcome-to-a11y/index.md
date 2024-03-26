@@ -20,7 +20,7 @@ Oh, you may not know what a11y means. That stands for accessibility – 11 lette
 
 ## Expanding the Body of Knowledge
 
-The accessibility community needs a body of knowledge that the Web community can rely on for correct information plus design and code samples that evolve along with the Web. **We need your help knowing what makes sense, what questions you have and what solutions work best for the busy web worker**.
+The accessibility community needs a body of knowledge that the web community can rely on for correct information plus design and code samples that evolve along with the web. **We need your help knowing what makes sense, what questions you have and what solutions work best for the busy web worker**.
 
 ## Conflicting Opinions
 
@@ -36,9 +36,9 @@ Read some of the popular accessibility email lists, blogs or Twitter, and you'll
 
 ## Going Faster into the Unknown
 
-Much of the Web fails when it comes to accessibility. I'm not talking about advanced techniques, but basic foundations like keyboard accessibility. Trying to find cutting-edge examples of methods like using ARIA _well_ to power a JavaScrript-based web application is even harder. We should not see this as a frustration, but opportunity. **We need you to help us lay the groundwork for a more accessible Web**. If you want to design what's never been designed and write code that's never been written, you've found the right niche.
+Much of the web fails when it comes to accessibility. I'm not talking about advanced techniques, but basic foundations like keyboard accessibility. Trying to find cutting-edge examples of methods like using ARIA _well_ to power a JavaScrript-based web application is even harder. We should not see this as a frustration, but opportunity. **We need you to help us lay the groundwork for a more accessible Web**. If you want to design what's never been designed and write code that's never been written, you've found the right niche.
 
-You've found a place where what you do can make the Web work everywhere for everyone. We look forward to getting to know you. Welcome to A11y.
+You've found a place where what you do can make the web work everywhere for everyone. We look forward to getting to know you. Welcome to A11y.
 
 Yours in accessibility,  
 Dave

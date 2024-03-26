@@ -9,4 +9,4 @@ tags:
   - Open Web
 ---
 
-Eric Meyer talks about the universality of the Web in [This Web App Best Viewed By Someone Else](https://www.youtube.com/watch?v=r38al1w-h4k). This is a talk worth watching if you're into the history of the Web, its future and making it truly ubiquitous.
+Eric Meyer talks about the universality of the web in [This Web App Best Viewed By Someone Else](https://www.youtube.com/watch?v=r38al1w-h4k). This is a talk worth watching if you're into the history of the web, its future and making it truly ubiquitous.

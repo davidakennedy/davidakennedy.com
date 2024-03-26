@@ -1,5 +1,5 @@
 ---
-title: On Beginning in the Web Field
+title: On Beginning in the web Field
 description: The important takeaways after a decade in the web field.
 date: 2020-12-02T01:58:13+00:00
 permalink: /blog/on-beginning-in-the-web-field/

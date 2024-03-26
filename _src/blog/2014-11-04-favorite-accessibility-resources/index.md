@@ -10,7 +10,7 @@ tags:
   - Accessibility
 ---
 
-So I gave this post an extreme title, but imagine this. Much of the Web goes down and for whatever reason, you can only access a handful of resources to help you create accessible websites. Which ones rise to the top?
+So I gave this post an extreme title, but imagine this. Much of the web goes down and for whatever reason, you can only access a handful of resources to help you create accessible websites. Which ones rise to the top?
 
 I created a [huge list of resources recently](http://a11y.me/), and Steve Faulkner at The Paciello Group [posted his favorites](http://www.paciellogroup.com/blog/2014/10/accessibility-testing-tools-updated/). But if I had to narrow down the list, here are the six resources I would use to "survive" and still create accessible sites.
 
@@ -23,6 +23,6 @@ I created a [huge list of resources recently](http://a11y.me/), and Steve Faulkn
 5. **[The Color Contrast Analyzer](http://www.paciellogroup.com/resources/contrastanalyser/)**: I use a few different color analysis tools, but if I had to pick one in the absence of the rest, this is it. Maintained by the staff at the Paciello Group, one of my favorite features allows you to test colors that have opacity.
 6. **[Screen Reader](https://www.apple.com/accessibility/osx/voiceover/)**: It doesn't really matter which one, but I would want one. I would pick Voiceover, on a Mac, since it's the one I'm most familiar with.
 
-Good luck avoiding those zombies and keeping the Web accessible!
+Good luck avoiding those zombies and keeping the web accessible!
 
 _Image courtesy of [Pexels.com](http://www.pexels.com/photo/1524/)._

@@ -25,7 +25,7 @@ Here's what I would want to do that are similar to his ideas:
 
 - Manage the organization's flagship social media accounts, reader comments and other reader-submitted content.
 - Monitor new technology and teach staff workshops on social media and other new tools that may improve engagement. Help staff determine the best tools to use for different projects.
-- Hold regular workshops for readers and community organizations to encourage new and continued reader-submitted material. Identify the potential regular and occasional correspondents for the Web site.
+- Hold regular workshops for readers and community organizations to encourage new and continued reader-submitted material. Identify the potential regular and occasional correspondents for the website.
 - Serve as the point of contact for readers and be the steward for conversations about the voiceofsandiego.org and its stories.
 
 And I'd also like to:
