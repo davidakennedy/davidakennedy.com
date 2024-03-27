@@ -9,6 +9,6 @@ tags:
 ---
 
 > Seth Godin didn't become a brilliant blogger overnight. It took him years of relentlessly trying to master what he was passionate about. And you can do to!
-> <cite>_Source: </em>[QuickSprout.com](http://www.quicksprout.com/2012/04/05/10-lessons-seth-godin-can-teach-you-about-blogging/)_.</cite>
+> <cite>_Source: [QuickSprout.com](http://www.quicksprout.com/2012/04/05/10-lessons-seth-godin-can-teach-you-about-blogging/)_.</cite>
 
 These are good blogging tips, and better writing tips.

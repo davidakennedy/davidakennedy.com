@@ -3,12 +3,12 @@ title: Journalism Lives just Launched
 description: I launched a new blog about interactivity and the news industry.
 date: 2010-08-03T18:17:09+00:00
 permalink: /blog/journalism-lives-just-launched/
-categories:
-  - Work
 tags:
   - Blogging
   - Journalism
+  - Work
 ---
+
 You may have noticed a [recent update I sent out via Twitter](http://twitter.com/DavidAKennedy/status/20175541986).
 
 [Steve Earley](http://stephencearley.com/) and I just launched a [new blog focused on how interactivity is helping and can help the news industry](http://journalismlives.com/its-alive-journalism-lives). Both Steve and I love blogging, have a deep passion for the future of the news and wanted to join the larger debate surrounding journalism's ongoing evolution, so starting this blog just made sense. We were lucky to have [quite a few supporters already](http://www.backtype.com/page/journalismlives.com%2Fits-alive-journalism-lives/conversations).

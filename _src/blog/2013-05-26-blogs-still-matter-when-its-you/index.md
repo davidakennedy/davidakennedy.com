@@ -17,13 +17,13 @@ Blogs (or whatever they get called in the future) still matter because they give
 
 What does that mean? It means:
 
-  * you publish on your own domain.
-  * you freely control your content (you can export, import, use other technologies in an interoperable way).
-  * you're not attached to specific features of a platform.
-  * you focus on creation, not the way you create.
+- you publish on your own domain.
+- you freely control your content (you can export, import, use other technologies in an interoperable way).
+- you're not attached to specific features of a platform.
+- you focus on creation, not the way you create.
 
 [Yahoo bought Tumblr](http://allthingsd.com/20130520/yahoos-mayer-and-new-york-mayor-bloomberg-announces-new-office-in-times-square/), not for the technology, but the content and audience. Of course, the brand, domain and people who created it matter too. It will be interesting to watch and see if David Karp can keep [Tumblr's original vision](http://www.marco.org/2013/05/20/one-person-product) in tact as he moves forward with Yahoo. We haven't figured out the perfect mix of proprietary and open source, independent versus funded yet, or even if there is one, but the [evolution is happening](http://ma.tt/2013/05/yahooblr/). Will Tumblr let its users continue to be themselves? We'll see.
 
-There's no shortage of new blogging platforms, like [Ghost](http://tryghost.org/) and [Jekyll](http://jekyllrb.com/), or ones that offer a new take on extinct platforms, like [Posthaven](https://posthaven.com/). They'll keep coming. But it doesn't matter if you can post from email, reblog, see all those animated GIFs in a dashboard or &#8220;Like&#8221; a post. Just tell us your story.
+There's no shortage of new blogging platforms, like [Ghost](http://tryghost.org/) and [Jekyll](http://jekyllrb.com/), or ones that offer a new take on extinct platforms, like [Posthaven](https://posthaven.com/). They'll keep coming. But it doesn't matter if you can post from email, reblog, see all those animated GIFs in a dashboard or "Like" a post. Just tell us your story.
 
 Just create, keep what you create close to your heart and publish it on something that empowers you and gives you control.

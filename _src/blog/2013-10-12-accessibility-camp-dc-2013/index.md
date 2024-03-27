@@ -5,9 +5,9 @@ date: 2013-10-12T02:48:06+00:00
 permalink: /blog/accessibility-camp-dc-2013/
 tags:
   - Accessibility
-  - Accessible WordPress Theming
   - Accessible Zen
   - WordPress
+  - WordPress Theming
   - Work
 ---
 

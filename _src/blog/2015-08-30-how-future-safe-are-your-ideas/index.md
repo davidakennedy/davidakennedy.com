@@ -5,7 +5,6 @@ date: 2015-08-30T23:17:53+00:00
 permalink: /blog/how-future-safe-are-your-ideas/
 tags:
   - Blogging
-
   - Open Web
 ---
 

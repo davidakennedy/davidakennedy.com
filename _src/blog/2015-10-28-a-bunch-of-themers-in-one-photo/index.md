@@ -4,7 +4,6 @@ description: My team takes good, silly photos.
 date: 2015-10-28T20:54:45+00:00
 permalink: /blog/a-bunch-of-themers-in-one-photo/
 tags:
-  - a8cgm
   - Automattic
   - Work
 ---

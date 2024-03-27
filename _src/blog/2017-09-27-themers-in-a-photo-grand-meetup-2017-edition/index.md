@@ -4,7 +4,6 @@ description: Another visit to the mountains of Canada.
 date: 2017-09-27T21:46:48+00:00
 permalink: /blog/themers-in-a-photo-grand-meetup-2017-edition/
 tags:
-  - a8cgm
   - Automattic
   - Work
 ---

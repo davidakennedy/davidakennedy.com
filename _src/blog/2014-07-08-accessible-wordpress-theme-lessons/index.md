@@ -5,7 +5,6 @@ date: 2014-07-08T10:00:47+00:00
 permalink: /blog/accessible-wordpress-theme-lessons/
 tags:
   - Accessibility
-  - Accessible WordPress Theming
   - Accessible Zen
   - WordPress
   - WordPress Theming

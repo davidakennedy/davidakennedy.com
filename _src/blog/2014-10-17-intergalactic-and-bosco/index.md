@@ -5,7 +5,8 @@ date: 2014-10-17T10:00:00+00:00
 permalink: /blog/intergalactic-and-bosco/
 tags:
   - Accessibility
-  - Accessible WordPress Theming
+  - WordPress
+  - WordPress Theming
   - Work
 ---
 

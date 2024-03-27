@@ -4,7 +4,6 @@ description: A few photos from a walk around Park City, Utah.
 date: 2015-10-26T12:38:20+00:00
 permalink: /blog/park-city-utah/
 tags:
-  - a8cgm
   - Automattic
   - Work
 ---

@@ -5,7 +5,6 @@ date: 2015-10-16T10:21:40+00:00
 permalink: /blog/just-blog/
 tags:
   - Blogging
-  - Creativity
   - Writing
 ---
 

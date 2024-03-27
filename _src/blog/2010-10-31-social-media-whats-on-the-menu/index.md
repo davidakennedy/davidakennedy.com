@@ -4,7 +4,6 @@ description: I took part in a panrl about social media in the nonprofit space.
 date: 2010-10-31T14:29:09+00:00
 permalink: /blog/social-media-whats-on-the-menu/
 tags:
-  - AUCD
   - Social Media
   - Work
 ---

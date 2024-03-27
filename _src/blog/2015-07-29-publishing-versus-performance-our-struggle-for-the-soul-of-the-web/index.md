@@ -4,7 +4,6 @@ description: Give us more cooperation, experimentation, failure and patience.
 date: 2015-07-29T22:15:39+00:00
 permalink: /blog/publishing-versus-performance-our-struggle-for-the-soul-of-the-web/
 tags:
-  - Advertising
   - Journalism
   - Open Web
 ---

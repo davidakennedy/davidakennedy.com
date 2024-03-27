@@ -4,7 +4,6 @@ description: What a silly team.
 date: 2016-09-22T18:05:31+00:00
 permalink: /blog/themers-in-a-photo-grand-meetup-2016/
 tags:
-  - a8cgm
   - Automattic
 ---
 

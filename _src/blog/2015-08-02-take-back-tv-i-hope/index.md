@@ -3,7 +3,7 @@ title: Take Back TV – I Hope
 description: I really just want ESPN alone.
 date: 2015-08-02T23:06:56+00:00
 permalink: /blog/take-back-tv-i-hope/
-categories:
+tags:
   - Personal
 ---
 

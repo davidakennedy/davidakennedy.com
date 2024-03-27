@@ -4,7 +4,6 @@ description: One long hike.
 date: 2016-09-22T17:57:36+00:00
 permalink: /blog/skywalk-trail-on-rainbow-mountain/
 tags:
-  - a8cgm
   - Automattic
   - Work
 ---

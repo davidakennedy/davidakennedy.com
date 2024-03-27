@@ -5,7 +5,6 @@ date: 2015-10-17T16:55:57+00:00
 permalink: /blog/the-holly-trail-at-canyons-resort/
 tags:
   - Automattic
-  - a8cgm
   - Work
 ---
 

@@ -4,7 +4,6 @@ description: The basis for a lightning talk on accessible WordPress theming.
 date: 2013-08-13T08:02:09+00:00
 permalink: /blog/quick-wins-for-accessible-wordpress-themes/
 tags:
-  - Accessible WordPress Theming
   - WordPress
   - WordPress Theming
   - WordPressDC
