@@ -5,7 +5,6 @@ date: 2014-09-10T10:30:56+00:00
 permalink: /blog/answer-this/
 tags:
   - Accessibility
-  - Civil Rights
   - Web Standards
 ---
 

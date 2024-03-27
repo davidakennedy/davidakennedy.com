@@ -4,7 +4,6 @@ description: The change starts with listening.
 date: 2016-06-27T23:58:32+00:00
 permalink: /blog/pulse/
 tags:
-  - Civil Rights
   - Personal
 ---
 

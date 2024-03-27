@@ -4,7 +4,6 @@ description: Would you have the same courage?
 date: 2015-03-08T23:57:05+00:00
 permalink: /blog/before-his-time-harry-t-moore/
 tags:
-  - Civil Rights
   - Personal
 ---
 
