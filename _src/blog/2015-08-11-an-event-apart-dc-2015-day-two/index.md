@@ -5,7 +5,6 @@ date: 2015-08-11T22:16:45+00:00
 permalink: /blog/an-event-apart-dc-2015-day-two/
 tags:
   - Front End Development
-  - User Experience
   - Web Design
 ---
 

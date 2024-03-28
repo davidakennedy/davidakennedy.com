@@ -10,7 +10,6 @@ tags:
   - Accessibility
   - bestof
   - Front End Development
-  - Web Development
 ---
 
 You want to make your website more accessible, but you don't know where to start. If you have 60 seconds, I can help.

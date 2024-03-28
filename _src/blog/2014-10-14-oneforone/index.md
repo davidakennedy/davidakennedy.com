@@ -4,7 +4,7 @@ description: Who inspires you?
 date: 2014-10-14T10:00:00+00:00
 permalink: /blog/oneforone/
 tags:
-  - Diversity
+  - Open Source
 ---
 
 Finding people who truly inspire you can be hard these days. Much less, _real_ people who you might meet in your field that come from diverse backgrounds.

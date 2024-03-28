@@ -4,7 +4,6 @@ description: Should you use WordPress? This post helps you decide.
 date: 2010-06-18T08:09:08+00:00
 permalink: /blog/to-use-wordpress-or-to-not-use-wordpress/
 tags:
-  - Content Management Systems
   - WordPress
 ---
 

@@ -5,7 +5,6 @@ date: 2014-11-11T11:30:19+00:00
 permalink: /blog/tedx-videos-and-captions/
 tags:
   - Accessibility
-  - Disability
 ---
 
 Haben Girma, a lawyer and disability rights advocate, gave a great talk at TEDx Baltimore about [disabilities and the power of access](https://www.youtube.com/watch?v=Mvoj-ku8zk0). In it, she told the story of her college days and eating at the cafeteria. As a deaf-blind student, she had to push for the staff to send her the menus ahead of time so she could know what to eat. Her quote sums up how transforming access can be:

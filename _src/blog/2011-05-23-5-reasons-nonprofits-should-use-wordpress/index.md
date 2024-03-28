@@ -4,7 +4,6 @@ description: Low cost isn't the only reason.
 date: 2011-05-23T13:30:18+00:00
 permalink: /blog/5-reasons-nonprofits-should-use-wordpress/
 tags:
-  - Content Management Systems
   - WordPress
 ---
 

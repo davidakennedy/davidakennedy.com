@@ -6,7 +6,6 @@ permalink: /blog/reactjs-for-stupid-people/
 tags:
   - Front End Development
   - JavaScript
-  - ReactJS
 ---
 
 Andrew Ray writes a post about ReactJS [filled with the things he wishes someone told him](http://blog.andrewray.me/reactjs-for-stupid-people/) before he started using it.

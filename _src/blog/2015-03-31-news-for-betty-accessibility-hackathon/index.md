@@ -7,7 +7,6 @@ tags:
   - Accessibility
   - Front End Development
   - Journalism
-  - News for Betty
   - Work
 ---
 

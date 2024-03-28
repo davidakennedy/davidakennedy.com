@@ -7,8 +7,7 @@ imgalt: Pink petaled flowers blooms near white, picket fence.
 date: 2010-03-06T23:00:13+00:00
 permalink: /blog/new-media-education/
 tags:
-  - Education
-  - Online Privacy
+  - Privacy
 ---
 
 The common praise given to the Internet: anyone can express their voice to millions of potential users, readers and listeners.

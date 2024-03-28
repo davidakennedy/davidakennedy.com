@@ -4,7 +4,7 @@ description: Not good, not good.
 date: 2015-03-11T22:19:49+00:00
 permalink: /blog/in-florida-officials-ban-the-term-climate-change/
 tags:
-  - Climate Change
+  - Personal
 ---
 
 In my home state, [officials have systematically banned the term climate change and other similar phrases](http://www.miamiherald.com/news/state/florida/article12983720.html).

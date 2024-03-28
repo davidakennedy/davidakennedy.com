@@ -4,7 +4,6 @@ description: Of course this is a possible decision.
 date: 2012-01-11T22:41:29+00:00
 permalink: /blog/sometimes-wordpress-isnt-the-right-choice/
 tags:
-  - Content Management Systems
   - WordPress
 ---
 

@@ -6,6 +6,7 @@ permalink: /blog/accessibility-weekly-2021-refresh/
 tags:
   - Accessibility
   - Accessibility Weekly
+  - Eleventy
   - Work
 ---
 

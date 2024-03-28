@@ -9,7 +9,6 @@ permalink: /blog/accessibility-answers-what-can-i-do-now-for-better-accessibilit
 tags:
   - Accessibility
   - Accessibility Answers
-  - Front End Development
 ---
 
 _When I give presentations on accessibility, I often get one or two questions I've fielded before. I've collected a handful for an ongoing series of posts with my answers. I hope it helps you understand accessibility better._

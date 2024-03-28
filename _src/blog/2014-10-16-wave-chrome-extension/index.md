@@ -5,7 +5,6 @@ date: 2014-10-16T10:00:00+00:00
 permalink: /blog/wave-chrome-extension/
 tags:
   - Accessibility
-  - Front End Development
 ---
 
 Recently, WebAIM [announced it would release a Chrome extension version of Wave](http://webaim.org/blog/webaims-15th-bday/), its popular web accessibility testing tool. Wave has a popular [Firefox add-on](http://wave.webaim.org/toolbar/) and [web version](http://wave.webaim.org), both tools that have always proved indispensable in my accessibility testing.

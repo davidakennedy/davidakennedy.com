@@ -5,7 +5,6 @@ date: 2019-02-03T10:43:40+00:00
 permalink: /blog/inclusive-design-whose-opportunity-is-it/
 tags:
   - Accessibility
-  - Design
   - Selected Writing
 ---
 

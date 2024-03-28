@@ -4,8 +4,6 @@ description: The leaders of WordPress and Drupal chat.
 date: 2011-10-16T14:52:29+00:00
 permalink: /blog/wordpress-vs-drupal/
 tags:
-  - Content Management Systems
-
   - WordPress
 ---
 

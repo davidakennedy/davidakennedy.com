@@ -4,7 +4,6 @@ description: Let's see how this goes.
 date: 2013-05-13T21:49:04+00:00
 permalink: /blog/so-long-gmail/
 tags:
-  - Email
   - Personal
 ---
 

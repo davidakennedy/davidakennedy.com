@@ -6,7 +6,6 @@ permalink: /blog/good-coding-habits-for-accessibility/
 tags:
   - Accessibility
   - Front End Development
-  - Web Development
 ---
 
 WordPress Accessibility team member Joe Dolson wrote a post on [Good Coding Habits for Accessibility](https://www.joedolson.com/2014/10/good-coding-habits-accessibility/), based on a presentation he gave for WordCamp San Fransisco 2014.

@@ -7,7 +7,6 @@ imgalt: Monitor showing WordPress PHP programming.
 date: 2010-07-02T22:34:53+00:00
 permalink: /blog/31-resources-for-powering-a-website-with-wordpress/
 tags:
-  - Content Management Systems
   - WordPress
 ---
 
