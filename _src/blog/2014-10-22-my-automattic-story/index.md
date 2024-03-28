@@ -7,7 +7,6 @@ imgalt: A corner of a road on the Blue Ridge Parkway.
 date: 2014-10-22T10:30:00+00:00
 permalink: /blog/my-automattic-story/
 tags:
-  - a8cstory
   - Automattic
   - WordPress
   - Work
