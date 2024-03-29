@@ -4,7 +4,6 @@ description: What is it that I do?
 date: 2015-04-28T23:59:04+00:00
 permalink: /blog/explaining-web-design/
 tags:
-  - Open Web
   - Personal
   - Web Design
 ---

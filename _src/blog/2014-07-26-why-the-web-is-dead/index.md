@@ -1,5 +1,5 @@
 ---
-title: Why the web is Dead
+title: Why the Web is Dead
 description: Maybe apps are all hype?
 date: 2014-07-26T01:00:33+00:00
 permalink: /blog/why-the-web-is-dead/

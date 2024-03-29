@@ -7,7 +7,6 @@ tags:
   - Accessibility
   - Open Web
   - Web Performance
-  - Web Standards
 ---
 
 Bruce Lawson gave a keynote talk recently at Velocity Conference in Amsterdam called [Ensuring a High Performing Web for the Next Billion People](https://www.youtube.com/watch?v=f6As5HEkG5E) that you should watch. He's written a [blog post discussing the talk a bit](http://www.brucelawson.co.uk/2015/ensuring-a-high-performing-web-for-the-next-billion-people/) if you'd like more information.

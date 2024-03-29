@@ -7,6 +7,6 @@ tags:
   - Open Web
 ---
 
-Strong Bad tries to warn Homestar of impending doom of a [dying Flash](https://www.youtube.com/watch?v=L0nuQ5o2DYU).
+Strong Bad tries to warn Homestar of the impending doom of a [dying Flash](https://www.youtube.com/watch?v=L0nuQ5o2DYU).
 
 This may be my favorite Homestar Runner yet.
