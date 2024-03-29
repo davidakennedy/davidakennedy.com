@@ -12,7 +12,7 @@ tags:
 
 I make and think about [WordPress themes](https://wordpress.com/themes) all day with the [WordPress.com Theme Team](https://themeshaper.com/). They control the appearance of a WordPress website, and it's a heck of a fun job. Most of the time.
 
-What I often hear from customers who use our products: &#8220;I just want to get it to look how I see it in my head.&#8221; Or something similar. People have a vision, and unfortunately, some levels of customization in WordPress can be hard without advanced knowledge or coding expertise. So ultimately, I can come away from many of these conversations and support tickets feeling like I've failed my customers. That's true to some degree, of course. But how do you keep moving forward, releasing something better for people, if all you see is the negative?
+What I often hear from customers who use our products: "I just want to get it to look how I see it in my head." Or something similar. People have a vision, and unfortunately, some levels of customization in WordPress can be hard without advanced knowledge or coding expertise. So ultimately, I can come away from many of these conversations and support tickets feeling like I've failed my customers. That's true to some degree, of course. But how do you keep moving forward, releasing something better for people, if all you see is the negative?
 
 You can't. I want to share some tips on how to stay positive when your product can cause customers pain.
 

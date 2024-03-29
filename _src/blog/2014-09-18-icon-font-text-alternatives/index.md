@@ -32,7 +32,7 @@ This is a link. It has no link text. We've essentially done what's equal to putt
 
 - The link uses only icon fonts inside the `<a>`, but icon fonts are not announced by screen readers.
 - The `title` attribute may be intended for screen readers, but it's not announced by default by screen readers either, and it's really only useful for users with a mouse. See this post for [more info on the `title` attribute](http://www.paciellogroup.com/blog/2013/01/using-the-html-title-attribute-updated/).
-- When a screen reader announces these links, it says: &#8220;Link&#8221;, which isn't descriptive and doesn't tell the user what the link does or where it goes.
+- When a screen reader announces these links, it says: "Link", which isn't descriptive and doesn't tell the user what the link does or where it goes.
 
 _**Bummer. But wait!**_
 

@@ -7,7 +7,7 @@ tags:
   - Open Web
 ---
 
-Free services litter the web. The web is built on &#8220;free&#8221; after all.
+Free services litter the web. The web is built on "free" after all.
 
 Gmail, Facebook, Twitter and the like all give services away, supplementing it with advertising and account upgrades. That's called [freemium](http://en.wikipedia.org/wiki/Freemium). I use to be totally opposed to paying for things like that. Friends upgraded their [Flickr](http://flickr.com/) accounts. Not me. I switched to [Posterous](http://posterous.com/).
 

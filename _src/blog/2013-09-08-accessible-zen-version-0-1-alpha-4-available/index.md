@@ -25,7 +25,7 @@ You can find out more on the [Github repository](https://github.com/davidakenned
 
 ## Next
 
-We're careening toward the first, and likely, [only Beta release](https://github.com/davidakennedy/accessible-zen/issues/milestones). Right now, I plan to just add how-to documentation for the next release. I hope that the Beta turns into the first &#8220;official&#8221; release, but I may need to make adjustments or fix bugs. We're a bit closer to having a new accessible-ready theme in the [Themes Directory](http://wordpress.org/themes/)!
+We're careening toward the first, and likely, [only Beta release](https://github.com/davidakennedy/accessible-zen/issues/milestones). Right now, I plan to just add how-to documentation for the next release. I hope that the Beta turns into the first "official" release, but I may need to make adjustments or fix bugs. We're a bit closer to having a new accessible-ready theme in the [Themes Directory](http://wordpress.org/themes/)!
 
 Remember, I’m still in Alpha. That means it’s early in the game. I’m still developing the theme and I really don’t recommend that you run it on a production site — set up a test site just to play with it.
 

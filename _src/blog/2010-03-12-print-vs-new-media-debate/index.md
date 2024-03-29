@@ -11,11 +11,11 @@ Newspapers have dominated the news lately.
 
 And not for reporting the news, but for being the news. The industry continues to struggle amid declining ad revenues and dwindling audiences.
 
-Last week [Tech Crunch's](http://techcrunch.com/) [Erick Schonfeld](http://techcrunch.com/author/tcerick/) posted an article about a conversation he had Marc Andreessen, the man who invented Mosaic, the first widely used web browser. In the post, [Andreessen advises media companies to &#8220;burn the boats](http://techcrunch.com/2010/03/06/andreessen-media-burn-boats/),&#8221; so to speak and abandon their print products.
+Last week [Tech Crunch's](http://techcrunch.com/) [Erick Schonfeld](http://techcrunch.com/author/tcerick/) posted an article about a conversation he had Marc Andreessen, the man who invented Mosaic, the first widely used web browser. In the post, [Andreessen advises media companies to "burn the boats](http://techcrunch.com/2010/03/06/andreessen-media-burn-boats/)," so to speak and abandon their print products.
 
 Embrace the web. Fully. Before it's too late and other information competitors have the media industry beat.
 
-Today, Schonfeld wrote a follow-up post to his &#8220;Burn the Boats&#8221; article. In it, he [compared media companies and some journalists to dinosaurs happily munching on plants (advertising) instead of evolving](http://techcrunch.com/2010/03/12/newsosaurs-extinction/).
+Today, Schonfeld wrote a follow-up post to his "Burn the Boats" article. In it, he [compared media companies and some journalists to dinosaurs happily munching on plants (advertising) instead of evolving](http://techcrunch.com/2010/03/12/newsosaurs-extinction/).
 
 The two posts have generated a lot of conversation. And for good reason. The debate here is a lively one, and worth reading for anyone interested in how technology will continue to shape newspapers, and the type of storytelling they practice.
 

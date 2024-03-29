@@ -17,7 +17,7 @@ And with the iPad, it's clear Jobs and company at Apple are up to something.
 
 However, if the iPad takes off, and other competitors step forward, how many different platforms will newspapers, magazines and book publishers have to create content for? What the iPad and other tools like it could create is a system of closed systems.
 
-Scholar [Jonanthan Zittrain](http://futureoftheinternet.org/ "The Future of the Internet") speaks to this in his book, [_The Future of the Internet and How to Stop It_](http://www.amazon.com/gp/product/0300124872?ie=UTF8&tag=jonatzittr-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=030012487 "The Future of the Internet--And How to Stop It"). The iPad is an example of a tethered device. &#8220;It's the kind of device that requires special programming knowledge and approval of the device's creator (Apple).
+Scholar [Jonanthan Zittrain](http://futureoftheinternet.org/ "The Future of the Internet") speaks to this in his book, [_The Future of the Internet and How to Stop It_](http://www.amazon.com/gp/product/0300124872?ie=UTF8&tag=jonatzittr-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=030012487 "The Future of the Internet--And How to Stop It"). The iPad is an example of a tethered device. "It's the kind of device that requires special programming knowledge and approval of the device's creator (Apple).
 
 He and I have nothing against things like the iPad, iPhone, Kindle and Tivo. They are great and have led to some exciting things.
 

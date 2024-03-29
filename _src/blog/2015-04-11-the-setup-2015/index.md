@@ -31,6 +31,6 @@ When working on front end development, I use a mix of all the big browsers: Chro
 
 ## What would be your dream setup?
 
-I bought my 11-inch Macbook Air less than six months ago, but I seriously considered getting something with a flavor of Linux on it. The thought of having a more &#8220;free&#8221; machine entices me. I looked at a few machines, but [couldn't get over the hump](/blog/taking-control-of-your-computing-life/) of not having everything tied together in one ecosystem via Apple. So I'd love an open machine that does that just as well. Oh, and less software. Why do I need all this? 🙂
+I bought my 11-inch Macbook Air less than six months ago, but I seriously considered getting something with a flavor of Linux on it. The thought of having a more "free" machine entices me. I looked at a few machines, but [couldn't get over the hump](/blog/taking-control-of-your-computing-life/) of not having everything tied together in one ecosystem via Apple. So I'd love an open machine that does that just as well. Oh, and less software. Why do I need all this? 🙂
 
 _Image courtesy of [Pexels.com](http://www.pexels.com/photo/1936/)._

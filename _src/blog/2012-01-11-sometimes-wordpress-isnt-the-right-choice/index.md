@@ -29,7 +29,7 @@ Wait, what? That's sacrilegious for me to write a headline like that!
 > 14. n-to-n content sharing
 > 15. Reporting"
 
-As one of the commenters [points out – there is no perfect CMS](http://www.wptavern.com/some-orgnizations-and-wordpress-just-dont-mix#comment-17354). Each user's needs differ vastly – especially enterprise clients. And as John James Jacoby says, [Gallagher's &#8220;they&#8221; are us](http://www.wptavern.com/some-orgnizations-and-wordpress-just-dont-mix#comment-17386). We can change the course of WordPress in a number of ways to make it more like the perfect content management system. You just can't say that about proprietary systems.
+As one of the commenters [points out – there is no perfect CMS](http://www.wptavern.com/some-orgnizations-and-wordpress-just-dont-mix#comment-17354). Each user's needs differ vastly – especially enterprise clients. And as John James Jacoby says, [Gallagher's "they" are us](http://www.wptavern.com/some-orgnizations-and-wordpress-just-dont-mix#comment-17386). We can change the course of WordPress in a number of ways to make it more like the perfect content management system. You just can't say that about proprietary systems.
 
 Some of the proprietary systems do some of the things that Gallagher wants better, but none of them handles the user experience or ease of installation/updates better than WordPress. That's something to remember. WordPress has nailed that pretty well, and can continue to build on it.
 

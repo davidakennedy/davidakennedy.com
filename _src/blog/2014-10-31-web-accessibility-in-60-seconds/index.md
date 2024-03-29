@@ -19,7 +19,7 @@ Recently, I gave a presentation on [how to test for web accessibility with free 
 ## Focus on the Basics
 
 1. Install the [Wave Toolbar or Chrome Extension](http://wave.webaim.org).
-2. Use Wave to check your page structure using its &#8220;Outline&#8221; feature. Do you have a [reasonable heading structure?](http://webaim.org/techniques/semanticstructure/)
+2. Use Wave to check your page structure using its "Outline" feature. Do you have a [reasonable heading structure?](http://webaim.org/techniques/semanticstructure/)
 3. Next, also using Wave, turn off CSS. Does your [linear source order](http://webaim.org/techniques/screenreader/#linearization) make sense?
 4. Again, with Wave, test for any errors. Your images should have [alt attributes](http://webaim.org/techniques/alttext/) ([icon fonts too](/blog/icon-font-text-alternatives/)). Your clickable elements should be [links or buttons](http://webaim.org/techniques/keyboard/#problems) and your form elements [should have labels](http://webaim.org/techniques/forms/#labels).
 5. Next, test for [keyboard accessibility](http://webaim.org/techniques/keyboard/) by tabbing through your page or application. Can you get to everything with just a keyboard. Visually, can you see where you are on the page?

@@ -10,13 +10,13 @@ tags:
   - Accessibility
 ---
 
-WebAIM recently released a report about how [accessibility errors permeate the web](https://webaim.org/projects/million/). The report states, &#8220;the results paint a rather dismal picture of the current state of web accessibility.&#8221;
+WebAIM recently released a report about how [accessibility errors permeate the web](https://webaim.org/projects/million/). The report states, "the results paint a rather dismal picture of the current state of web accessibility."
 
 If you've ever tested sites for accessibility, the results may not surprise you. I can tell you in my own work, I see a lot of the same mistakes repeated. Depressing, indeed.
 
 Eric Bailey [wrote about the results eloquently](https://ericwbailey.design/writing/2019-03-05-fighting-uphill.html). He compared inaccessible websites to structurally unsound bridges. Would you use a bridge with possible known faults? No. Yet, we ask people to do this every day with inaccessible sites.
 
-Ethan Marcotte [issued a call to action in his post](https://ethanmarcotte.com/wrote/the-web-we-broke/) about the results. He asked us to ask ourselves, &#8220;_What’s _**one thing**_ I wish I understood better about accessibility?_&#8221; He even recommended my own [Accessibility Weekly](https://a11yweekly.com/) as a way to learn. That question rattles around in my brain constantly. So much so, I wrote [a few blog posts](/tag/accessibility-answers/) about questions I get around the topic.
+Ethan Marcotte [issued a call to action in his post](https://ethanmarcotte.com/wrote/the-web-we-broke/) about the results. He asked us to ask ourselves, "_What’s _**one thing**_ I wish I understood better about accessibility?_" He even recommended my own [Accessibility Weekly](https://a11yweekly.com/) as a way to learn. That question rattles around in my brain constantly. So much so, I wrote [a few blog posts](/tag/accessibility-answers/) about questions I get around the topic.
 
 But one of the questions that I keep coming back to the most?
 

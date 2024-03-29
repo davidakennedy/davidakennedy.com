@@ -28,7 +28,7 @@ _David Kennedy works to make the web fast, accessible and beautiful. He brings e
 
 I'm looking forward to focusing on the craft of those areas, and helping others grow there too.
 
-**Personal**: I want to find better balance in how I approach the things that require my attention and energy. I did a poor job of finding space from pressing matters in 2018. I let challenges consume me rather than me consuming the challenge. I read a [few](https://maketimebook.com/) [books](https://gregmckeown.com/book/) to help with that, and have one exercise (spending 30 minutes doing nothing) to help here. I want to make &#8220;doing nothing&#8221; a stronger habit so I can gain clarity faster.
+**Personal**: I want to find better balance in how I approach the things that require my attention and energy. I did a poor job of finding space from pressing matters in 2018. I let challenges consume me rather than me consuming the challenge. I read a [few](https://maketimebook.com/) [books](https://gregmckeown.com/book/) to help with that, and have one exercise (spending 30 minutes doing nothing) to help here. I want to make "doing nothing" a stronger habit so I can gain clarity faster.
 
 Happy New Year! Let's do this.
 

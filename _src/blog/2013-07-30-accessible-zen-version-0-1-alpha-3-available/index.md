@@ -19,7 +19,7 @@ You can find out more on the [Github repository](https://github.com/davidakenned
 - Add [category and tag templates](https://github.com/davidakennedy/accessible-zen/issues/24).
 - Add [custom taxonomy support for archive page titles](https://github.com/davidakennedy/accessible-zen/issues/23).
 - Add [post type support for archive page titles](https://github.com/davidakennedy/accessible-zen/issues/22).
-- Add [&#8220;show more posts option&#8221;](https://github.com/davidakennedy/accessible-zen/issues/21) on Front Page Template.
+- Add ["show more posts option"](https://github.com/davidakennedy/accessible-zen/issues/21) on Front Page Template.
 - Make [functions more pluggable](https://github.com/davidakennedy/accessible-zen/issues/20) and easier for child theme support.
 
 ## Next
