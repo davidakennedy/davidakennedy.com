@@ -5,7 +5,6 @@ date: 2015-05-21T23:23:45+00:00
 permalink: /blog/happy-global-accessibility-awareness-day-2015/
 tags:
   - Accessibility
-  - GAAD
 ---
 
 Today marks Global Accessibility Awareness Day, an event that started in 2011 and has grown ever since.

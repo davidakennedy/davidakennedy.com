@@ -4,7 +4,6 @@ description: This changes everything.
 date: 2017-11-10T23:50:44+00:00
 permalink: /blog/the-promise-of-gutenberg-themes-as-more-design-less-baggage/
 tags:
-  - Gutenberg
   - Selected Writing
   - WordPress
   - WordPress Theming

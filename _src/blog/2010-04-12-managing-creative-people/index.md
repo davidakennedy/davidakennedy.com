@@ -7,7 +7,7 @@ img: ./ben-pattinson-_Wo1Oq38tVU-unsplash.jpg
 imgalt: Two swimming mallard ducks on still body of water.
 permalink: /blog/managing-creative-people/
 tags:
-  - Management
+  - Leadership
 ---
 
 Managing people almost always comes with new and unique challenges every day.

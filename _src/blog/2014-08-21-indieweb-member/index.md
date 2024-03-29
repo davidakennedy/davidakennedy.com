@@ -4,7 +4,6 @@ description: Tinkering with taking control of all the things.
 date: 2014-08-21T11:00:32+00:00
 permalink: /blog/indieweb-member/
 tags:
-  - IndieWeb
   - Open Web
   - Personal
 ---

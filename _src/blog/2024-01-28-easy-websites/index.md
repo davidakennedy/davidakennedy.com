@@ -4,7 +4,7 @@ description: Someone, please ditch the heavy interfaces.
 date: 2024-01-28T02:15:26+00:00
 permalink: /blog/easy-websites/
 tags:
-  - IndieWeb
+  - Open Web
 ---
 
 Giles Turnbull in [Let’s make the indie web easier](https://gilest.org/indie-easy.html):

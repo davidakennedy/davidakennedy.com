@@ -7,7 +7,7 @@ imgalt: Abacus with red, yellow, green and blue counters.
 date: 2010-09-07T13:06:24+00:00
 permalink: /blog/3-ways-to-always-learn-in-the-digital-world/
 tags:
-  - Learning
+  - Journalism
 ---
 
 Yesterday, [Steve Earley](http://twitter.com/stephencearley) and I crafted a post on [Journalism Lives](http://journalismlives.com/) about the [evolving nature of journalism jobs](http://journalismlives.com/labor-day-survey-the-changing-face-of-journal). The Labor Day post has proved popular with plenty of people viewing it and retweeting it.
