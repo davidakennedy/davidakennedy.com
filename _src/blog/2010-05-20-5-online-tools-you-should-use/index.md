@@ -8,7 +8,6 @@ date: 2010-05-20T07:58:06+00:00
 permalink: /blog/5-online-tools-you-should-use/
 tags:
   - Elon iMedia
-  - Online Tools
 ---
 
 Today is a big day. In 12 short hours, I'll have walked across the stage at [Elon University](http://www.elon.edu/) and received my master's degree in interactive media with 35 talented and creative people.

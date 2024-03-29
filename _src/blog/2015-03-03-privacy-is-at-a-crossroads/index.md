@@ -4,7 +4,7 @@ description: Which road will we take?
 date: 2015-03-03T22:36:15+00:00
 permalink: /blog/privacy-is-at-a-crossroads/
 tags:
-  - Online Privacy
+  - Privacy
   - Open Web
 ---
 
