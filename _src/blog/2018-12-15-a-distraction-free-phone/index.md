@@ -7,7 +7,6 @@ imgalt: Several people looking down at mobile phones.
 date: 2018-12-15T13:09:04+00:00
 permalink: /blog/a-distraction-free-phone/
 tags:
-  - Minimalist Living
   - Personal
 ---
 

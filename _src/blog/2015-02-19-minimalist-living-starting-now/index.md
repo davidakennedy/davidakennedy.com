@@ -4,7 +4,6 @@ description: On to simple living.
 date: 2015-02-19T22:46:41+00:00
 permalink: /blog/minimalist-living-starting-now/
 tags:
-  - Minimalist Living
   - Personal
 ---
 

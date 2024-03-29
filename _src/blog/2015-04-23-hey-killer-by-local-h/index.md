@@ -4,7 +4,6 @@ description: Bringing back the fun.
 date: 2015-04-23T22:59:45+00:00
 permalink: /blog/hey-killer-by-local-h/
 tags:
-  - Music
   - Personal
 ---
 

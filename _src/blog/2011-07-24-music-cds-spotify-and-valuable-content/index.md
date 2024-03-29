@@ -4,7 +4,6 @@ description: Trying out this Spotify thing.
 date: 2011-07-24T14:38:14+00:00
 permalink: /blog/music-cds-spotify-and-valuable-content/
 tags:
-  - Music
   - Personal
 ---
 

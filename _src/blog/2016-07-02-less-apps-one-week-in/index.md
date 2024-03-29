@@ -4,8 +4,8 @@ description: Sticking with web apps.
 date: 2016-07-02T13:43:16+00:00
 permalink: /blog/less-apps-one-week-in/
 tags:
-  - Minimalist Living
   - Open Web
+  - Personal
 ---
 
 A week ago, I came to the realization that I'd hit [app overload](/blog/app-overload/). So I took action.

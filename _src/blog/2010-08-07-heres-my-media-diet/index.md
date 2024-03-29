@@ -7,11 +7,7 @@ imgalt: Close-up photo of SPMTE color bars.
 date: 2010-08-07T14:16:06+00:00
 permalink: /blog/heres-my-media-diet/
 tags:
-  - Media
-  - Movies
-  - Music
   - Personal
-  - Reading
 ---
 
 We know that media consumption habits have changed and evolved tremendously.

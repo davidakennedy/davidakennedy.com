@@ -4,11 +4,10 @@ description: "What if you hadn't seen someone for a year. How would you answer w
 date: 2016-07-28T22:45:58+00:00
 permalink: /blog/now/
 tags:
-  - Minimalist Living
   - Personal
 ---
 
-I stumbled across a cool project about [now pages](http://nownownow.com), thanks to cheking out [Melanie Richards' site](http://melanie-richards.com/now/). You focus the content around one conversation starter:
+I stumbled across a cool project about [now pages](http://nownownow.com), thanks to checking out [Melanie Richards' site](http://melanie-richards.com/now/). You focus the content around one conversation starter:
 
 > Think of what you’d tell a friend you hadn’t seen in a year.
 

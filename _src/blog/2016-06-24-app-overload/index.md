@@ -4,8 +4,8 @@ description: Trying to start over with apps.
 date: 2016-06-24T09:13:15+00:00
 permalink: /blog/app-overload/
 tags:
-  - Minimalist Living
   - Open Web
+  - Personal
 ---
 
 I've hit app overload.

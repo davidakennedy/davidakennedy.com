@@ -4,7 +4,6 @@ description: Great news for the open web.
 date: 2015-02-26T21:03:53+00:00
 permalink: /blog/fcc-votes-for-net-neutrality/
 tags:
-  - Network Neutrality
   - Open Web
 ---
 
