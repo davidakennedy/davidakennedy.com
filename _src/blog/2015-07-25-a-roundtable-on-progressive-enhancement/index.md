@@ -4,6 +4,7 @@ description: "Let's talk about responsible JavaScript."
 date: 2015-07-25T22:33:55+00:00
 permalink: /blog/a-roundtable-on-progressive-enhancement/
 tags:
+  - Front End Development
   - JavaScript
 ---
 

@@ -5,7 +5,7 @@ date: 2014-11-20T13:30:00+00:00
 permalink: /blog/keep-it-accessible-responsive/
 tags:
   - Accessibility
-  - Web Standards
+  - Web Design
 ---
 
 Thanks to a few [tweets from Russell Heimlich](https://twitter.com/kingkool68/status/534386847888474113), I ran across Luke Wroblewski's [notes on Jeremy Keith's An Event Apart Chicago 2012 talk](http://www.lukew.com/ff/entry.asp?1616). These lines have stayed with me:

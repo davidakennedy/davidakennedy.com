@@ -4,6 +4,7 @@ description: Let's talk about our decisions.
 date: 2014-11-02T11:00:00+00:00
 permalink: /blog/stop-breaking-the-web/
 tags:
+  - Front End Development
   - JavaScript
 ---
 

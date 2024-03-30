@@ -6,7 +6,6 @@ permalink: /blog/feature-misuse/
 tags:
   - Accessibility
   - HTML
-  - Web Standards
 ---
 
 Karl Groves in a [post about HTML5, Longdesc and accessibility](http://www.karlgroves.com/2014/08/24/feature-misuse-feature-uselessness/):

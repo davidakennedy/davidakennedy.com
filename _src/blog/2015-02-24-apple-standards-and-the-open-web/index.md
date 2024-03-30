@@ -5,7 +5,6 @@ date: 2015-02-24T22:28:03+00:00
 permalink: /blog/apple-standards-and-the-open-web/
 tags:
   - Open Web
-  - Web Standards
 ---
 
 [Pointer Events have become a W3C recommendation](http://www.w3.org/blog/news/archives/4430?pk_campaign=feed&pk_kwd=pointer-events-is-a-w3c-recommendation), but it's not all good news as Tim Kadlec points out in [Apple's Web?](http://www.timkadlec.com/2015/02/apples-web/)

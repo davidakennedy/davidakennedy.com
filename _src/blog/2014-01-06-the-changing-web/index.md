@@ -6,7 +6,6 @@ permalink: /blog/the-changing-web/
 tags:
   - Open Web
   - Web Design
-  - Web Standards
 ---
 
 > Fascinatingly, to me, anyway, while many of us prefer to concentrate on design, content, and experience, **it continues to be necessary to remind our work comrades (or inform younguns) about web standards, accessibility, and progressive enhancement**. When a site like Facebook stops functioning when a script forgets to load, that is a failure of education and understanding, and all of us have a stake in reaching out to our fellow developers to make sure that, in addition to the new fancy tricks they’ve mastered, they also learn the basics of web standards, without which our whole shared system implodes.

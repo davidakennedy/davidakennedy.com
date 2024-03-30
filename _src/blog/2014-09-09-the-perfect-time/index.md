@@ -5,7 +5,6 @@ description: How making things accessible can lead to breakthroughs.
 permalink: /blog/the-perfect-time/
 tags:
   - Accessibility
-  - Web Standards
 ---
 
 I love this talk by [David Berman](https://www.davidberman.com/) on the [current state of making things accessible and how it can lead to breakthroughs](https://www.youtube.com/watch?v=blp83MOfilE). Some quotes I like:

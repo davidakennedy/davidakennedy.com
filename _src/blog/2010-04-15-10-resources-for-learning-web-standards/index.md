@@ -7,7 +7,7 @@ imgalt: Colored computer code on a black screen.
 date: 2010-04-15T11:45:10+00:00
 permalink: /blog/10-resources-for-learning-web-standards/
 tags:
-  - Web Standards
+  - Open Web
 ---
 
 If you're a new web designer, multimedia storyteller or interactive media professional, here's a short list of resources that will help you learn more about web standards.

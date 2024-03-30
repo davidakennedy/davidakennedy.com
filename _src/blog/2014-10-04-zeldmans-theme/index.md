@@ -4,8 +4,8 @@ description: Zeldman using one of the default WordPress themes.
 date: 2014-10-04T23:22:15+00:00
 permalink: /blog/zeldmans-theme/
 tags:
-  - Web Standards
   - WordPress
+  - WordPress Theming
 ---
 
 > Zeldman.com uses a theme I helped make for WordPress.<br /> > <cite>Lance Willett</cite>

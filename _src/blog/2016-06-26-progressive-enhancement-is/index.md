@@ -4,13 +4,10 @@ description: Progressive enhancement is quality.
 date: 2016-06-26T20:42:07+00:00
 permalink: /blog/progressive-enhancement-is/
 tags:
-  - Web Development
-  - Web Performance
-  - Web Standards
+  - Front End Development
 ---
 
 Everyone has a definition for progressive enhancement these days, and many often misunderstand the concept. I like Scott Jehl's [thoughts on the principle](https://twitter.com/scottjehl/status/745278900826214401):
-
 
 > Progressive Enhancement is less “but what if JavaScript is disabled?”, more “can our core services be more tolerant of everyday conditions”
 
