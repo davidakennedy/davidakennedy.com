@@ -5,7 +5,7 @@ date: 2016-08-02T23:20:07+00:00
 permalink: /blog/hidden-expectations/
 tags:
   - Accessibility
-  - Security
+  - Web Security
   - User Experience
   - Web Performance
 ---

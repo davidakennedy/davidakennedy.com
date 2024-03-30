@@ -4,7 +4,7 @@ description: Control is a good thing.
 date: 2015-02-27T15:15:00+00:00
 permalink: /blog/taking-control-of-your-computing-life/
 tags:
-  - Privacy
+  - Web Privacy
   - Personal
 ---
 
