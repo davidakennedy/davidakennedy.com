@@ -5,7 +5,7 @@ date: 2017-01-06T21:35:47+00:00
 permalink: /blog/the-power-of-the-web/
 tags:
   - JavaScript
-  - Web Development
+  - Front End Development
 ---
 
 The web has never been a place of purity. Yet people often want to turn it into that.

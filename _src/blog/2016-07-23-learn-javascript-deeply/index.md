@@ -5,7 +5,7 @@ date: 2016-07-23T22:18:39+00:00
 permalink: /blog/learn-javascript-deeply/
 tags:
   - JavaScript
-  - Web Development
+  - Front End Development
 ---
 
 At WordCamp U.S. 2015, Matt Mullenweg [set a goal for everyone in the community](http://wordpress.tv/2015/12/07/matt-mullenweg-state-of-the-word-2015/): Learn JavaScript deeply. But how does one do that?

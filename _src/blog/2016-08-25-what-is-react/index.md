@@ -5,7 +5,7 @@ date: 2016-08-25T17:07:21+00:00
 permalink: /blog/what-is-react/
 tags:
   - JavaScript
-  - Web Development
+  - Front End Development
 ---
 
 > What I want to know is: what should I be taking away from React into my own continued evolution as a web developer?
