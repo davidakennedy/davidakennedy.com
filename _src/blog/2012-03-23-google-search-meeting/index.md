@@ -4,7 +4,6 @@ description: I'm feeling lucky.
 date: 2012-03-23T17:32:00+00:00
 permalink: /blog/google-search-meeting/
 tags:
-  - Search Engine Marketing
   - SEO
 ---
 

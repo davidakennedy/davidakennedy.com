@@ -4,7 +4,6 @@ description: My latest site redesign, using a WordPress child theme.
 date: 2011-05-21T22:45:22+00:00
 permalink: /blog/dk-wordpress-theme-3-0/
 tags:
-  - Personal
   - Site Design
   - WordPress
 ---

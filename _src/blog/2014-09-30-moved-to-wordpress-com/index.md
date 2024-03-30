@@ -4,7 +4,6 @@ description: Moving house around here.
 date: 2014-09-30T17:59:39+00:00
 permalink: /blog/moved-to-wordpress-com/
 tags:
-  - Personal
   - Site Design
   - WordPress
 ---

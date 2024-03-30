@@ -5,7 +5,6 @@ date: 2013-07-22T20:18:29+00:00
 permalink: /blog/hello-accessible-zen/
 tags:
   - Accessible Zen
-  - Personal
   - Site Design
 ---
 
