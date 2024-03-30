@@ -5,7 +5,6 @@ date: 2015-04-19T14:25:07+00:00
 permalink: /blog/accessibility-is-not-an-edge-case/
 tags:
   - Accessibility
-  - Front End Development
   - Web Design
 ---
 
