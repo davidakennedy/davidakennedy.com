@@ -5,7 +5,6 @@ date: 2010-02-12T12:04:56+00:00
 permalink: /blog/social-media-and-storytelling-are-alike/
 tags:
   - Social Media
-  - Storytelling
 ---
 
 Stop tweeting and facebooking for a minute, will you? Yes, it's popular and the love of many.

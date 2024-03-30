@@ -8,8 +8,6 @@ date: 2010-07-28T11:39:22+00:00
 permalink: /blog/posterous-vs-tumblr-how-to-decide-in-three-steps/
 tags:
   - Blogging
-  - Social Media
-  - Web Content
 ---
 
 Choosing a blogging platform is like going to a new restaurant: you want to try something new, but you don't want to commit to something that won't be that good, and end up with a bad taste in your mouth. Plus, the choices remain endless.

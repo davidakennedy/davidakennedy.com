@@ -4,7 +4,7 @@ description: Revise your work, then do it again.
 date: 2010-02-07T21:30:27+00:00
 permalink: /blog/why-every-story-needs-a-revision/
 tags:
-  - Storytelling
+  - Creativity
 ---
 
 We all create stories that need help. A lot of help. Major revision help.

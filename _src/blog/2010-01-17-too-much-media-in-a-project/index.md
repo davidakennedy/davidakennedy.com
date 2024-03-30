@@ -9,7 +9,6 @@ permalink: /blog/too-much-media-in-a-project/
 tags:
   - Elon iMedia
   - London 2010
-  - Storytelling
 ---
 
 After a first day of [beneficial chaos](/blog/why-chaos-can-make-a-storytelling-project-work/), my classmates and I dominated the second day of content gathering in London on one of [Elon iMedia's](http://www.elon.edu/e-web/academics/communications/interactive_media/) project for public good.

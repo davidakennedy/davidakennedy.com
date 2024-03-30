@@ -7,7 +7,7 @@ imgalt: A grayscale photo of many people sitting in chairs.
 date: 2010-02-01T21:43:28+00:00
 permalink: /blog/most-important-connection-youll-make/
 tags:
-  - Storytelling
+  - Web Design
 ---
 
 Websites have become a more important aspect of multimedia storytelling than ever before.
@@ -34,6 +34,6 @@ In interactive media, it's all about choice. We usually give our audience plenty
 
 Don't forget to give your audience a choice to be passive. Maybe they just want to soak it up and enjoy what you have to offer.
 
-Your audience isn't just your audience. In today's evolving World Wide Web, they are audience architects, building something special along with you. Don't get too fancy on them.
+Your audience isn't just your audience. In today's evolving web, they are audience architects, building something special along with you. Don't get too fancy on them.
 
 _Image by [Ravide Ragusa](https://unsplash.com/photos/gcDwzUGuUoI)._

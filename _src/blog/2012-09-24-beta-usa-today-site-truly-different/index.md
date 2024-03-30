@@ -5,7 +5,6 @@ date: 2012-09-24T21:45:33+00:00
 permalink: /blog/beta-usa-today-site-truly-different/
 tags:
   - Journalism
-  - Storytelling
 ---
 
 The new [USA Today Beta website](http://beta.usatoday.com/) marries a the content and navigation of a traditional news website with the look and feel of a bleeding-edge news app. Poynter has the [details of the new site](http://www.poynter.org/how-tos/newsgathering-storytelling/visual-voice/188575/usa-today-innovates-with-horizontal-experience-information-layers-on-new-website/) and an [interview with its designers](http://www.poynter.org/how-tos/newsgathering-storytelling/visual-voice/188996/usa-today-new-web-design/).

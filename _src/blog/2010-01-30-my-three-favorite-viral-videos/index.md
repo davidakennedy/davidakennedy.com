@@ -4,7 +4,7 @@ description: Some favorite viral videos.
 date: 2010-01-30T12:04:07+00:00
 permalink: /blog/my-three-favorite-viral-videos/
 tags:
-  - Storytelling
+  - Social Media
 ---
 
 Videos have become a bigger part of the world wide web.

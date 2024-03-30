@@ -4,7 +4,7 @@ description: What's the Kindle Fire like? Solid.
 date: 2012-01-30T10:00:50+00:00
 permalink: /blog/one-month-with-the-kindle-fire/
 tags:
-  - Technology
+  - Reading
 ---
 
 If you had asked my co-workers before the holiday season which tablet I might buy, they would have all put money on the Apple iPad. After all, I'm the only one in the office with the iMac, and I've brought up Steve Jobs at a few staff meetings.

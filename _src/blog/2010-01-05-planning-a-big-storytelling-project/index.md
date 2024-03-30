@@ -9,7 +9,6 @@ permalink: /blog/planning-a-big-storytelling-project/
 tags:
   - Elon iMedia
   - London 2010
-  - Storytelling
 ---
 
 Planning any large, group project can prove daunting.

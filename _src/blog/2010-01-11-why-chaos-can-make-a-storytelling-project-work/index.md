@@ -9,7 +9,6 @@ permalink: /blog/why-chaos-can-make-a-storytelling-project-work/
 tags:
   - Elon iMedia
   - London 2010
-  - Storytelling
 ---
 
 Sometimes chaos can be the best thing for a big project.

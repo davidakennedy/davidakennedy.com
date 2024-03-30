@@ -5,7 +5,6 @@ date: 2010-04-01T10:31:46+00:00
 permalink: /blog/three-awesome-examples-of-interactive-media-stories/
 tags:
   - Journalism
-  - Storytelling
 ---
 
 When it comes to creating interactive media experiences and websites, finding inspiration is paramount.

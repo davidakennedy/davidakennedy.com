@@ -7,7 +7,8 @@ imgalt: A close-up photo of Earth from outer space.
 date: 2010-06-30T11:23:45+00:00
 permalink: /blog/the-most-important-ingredient-to-any-interactive-media-project/
 tags:
-  - Storytelling
+  - Journalism
+  - Web Design
 ---
 
 I once wanted nothing more than to fly.
