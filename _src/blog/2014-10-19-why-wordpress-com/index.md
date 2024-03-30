@@ -4,7 +4,7 @@ description: How's switching to WordPress.com a few weeks after the switch.
 date: 2014-10-19T23:05:00+00:00
 permalink: /blog/why-wordpress-com/
 tags:
-  - Personal
+  - Site Design
   - WordPress
 ---
 

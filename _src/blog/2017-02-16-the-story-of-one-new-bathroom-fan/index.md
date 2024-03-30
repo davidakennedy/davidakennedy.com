@@ -4,7 +4,6 @@ description: It has a happy ending.
 date: 2017-02-16T10:19:43+00:00
 permalink: /blog/the-story-of-one-new-bathroom-fan/
 tags:
-  - Pamlico Drive
   - Personal
 ---
 

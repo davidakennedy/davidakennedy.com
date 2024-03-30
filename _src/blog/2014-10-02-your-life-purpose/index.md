@@ -4,6 +4,7 @@ description: It's more about taking action than anything.
 date: 2014-10-02T13:15:00+00:00
 permalink: /blog/your-life-purpose/
 tags:
+  - Life Lessons
   - Personal
 ---
 

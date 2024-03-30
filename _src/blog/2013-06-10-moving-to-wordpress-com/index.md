@@ -4,7 +4,7 @@ description: Thinking of making a big hosting move.
 date: 2013-06-10T22:19:00+00:00
 permalink: /blog/moving-to-wordpress-com/
 tags:
-  - Personal
+  - Site Design
   - WordPress
 ---
 

@@ -5,7 +5,6 @@ date: 2017-02-01T23:49:50+00:00
 permalink: /blog/jan-20-2017/
 tags:
   - Personal
-  - Politics
 ---
 
 [So this happened](http://www.npr.org/2017/01/20/510746700/donald-trump-sworn-in-as-the-45th-president-of-the-united-states). Plus, a lot more since, of course.

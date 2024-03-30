@@ -5,7 +5,6 @@ date: 2017-01-18T21:17:04+00:00
 permalink: /blog/i-quit-coffee/
 tags:
   - Personal
-  - Personal Experiments
 ---
 
 Okay, so that's not entirely true. I just drink decaf now.
