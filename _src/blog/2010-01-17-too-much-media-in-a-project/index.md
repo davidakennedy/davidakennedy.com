@@ -9,7 +9,6 @@ permalink: /blog/too-much-media-in-a-project/
 tags:
   - Elon iMedia
   - London 2010
-  - Project Management
   - Storytelling
 ---
 

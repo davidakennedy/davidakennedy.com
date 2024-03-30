@@ -9,7 +9,6 @@ permalink: /blog/going-with-the-flow-on-a-storytelling-project/
 tags:
   - Elon iMedia
   - London 2010
-  - Project Management
   - Storytelling
 ---
 

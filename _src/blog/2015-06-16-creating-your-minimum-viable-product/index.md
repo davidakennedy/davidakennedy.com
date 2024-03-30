@@ -4,7 +4,7 @@ description: "It's usually easier than you think it might be."
 date: 2015-06-16T22:10:07+00:00
 permalink: /blog/creating-your-minimum-viable-product/
 tags:
-  - Project Management
+  - Product Management
 ---
 
 > Keep it small, keep it lean and keep it simple. The needs of the customer are often simpler than the solutions presented.

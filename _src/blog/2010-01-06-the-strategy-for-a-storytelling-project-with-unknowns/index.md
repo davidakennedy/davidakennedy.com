@@ -9,7 +9,6 @@ permalink: /blog/the-strategy-for-a-storytelling-project-with-unknowns/
 tags:
   - Elon iMedia
   - London 2010
-  - Project Management
   - Storytelling
 ---
 

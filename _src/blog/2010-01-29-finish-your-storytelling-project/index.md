@@ -7,7 +7,6 @@ imgalt: The finish line at a running track.
 date: 2010-01-29T12:34:43+00:00
 permalink: /blog/finish-your-storytelling-project/
 tags:
-  - Project Management
   - Storytelling
 ---
 

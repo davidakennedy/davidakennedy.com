@@ -9,7 +9,6 @@ permalink: /blog/planning-a-big-storytelling-project/
 tags:
   - Elon iMedia
   - London 2010
-  - Project Management
   - Storytelling
 ---
 
