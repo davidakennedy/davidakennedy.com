@@ -6,7 +6,7 @@ permalink: /blog/responsive-design-where-do-we-go-from-here/
 tags:
   - Accessibility
   - Open Web
-  - Responsive Web Design
+  - Web Design
 ---
 
 > Accessibility is about providing good experiences for everyone, regardless of physical or mental abilities, gender, race, or language. It recognizes that we all have special needs—physical limitations, bandwidth limitations, device limitations—that may require us to experience the same interface in different ways.

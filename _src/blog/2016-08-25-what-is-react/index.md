@@ -5,7 +5,6 @@ date: 2016-08-25T17:07:21+00:00
 permalink: /blog/what-is-react/
 tags:
   - JavaScript
-  - ReactJS
   - Web Development
 ---
 

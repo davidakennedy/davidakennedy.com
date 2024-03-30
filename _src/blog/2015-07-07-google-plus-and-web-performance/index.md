@@ -4,7 +4,7 @@ description: Watch your CSS size.
 date: 2015-07-07T20:43:55+00:00
 permalink: /blog/google-plus-and-web-performance/
 tags:
-  - Responsive Web Design
+  - Web Design
   - Web Performance
 ---
 

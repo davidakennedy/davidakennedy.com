@@ -4,7 +4,6 @@ description: I still remember when I first read about it.
 date: 2015-04-06T21:12:40+00:00
 permalink: /blog/responsive-web-design-is-five/
 tags:
-  - Responsive Web Design
   - Web Design
 ---
 
