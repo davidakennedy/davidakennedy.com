@@ -4,6 +4,7 @@ description: "One of my favorite Cities: Skylines streamers."
 date: 2015-03-16T23:56:04+00:00
 permalink: /blog/cities-skylines-tips-and-tricks-from-skye-storme/
 tags:
+  - Personal
   - Video Games
 ---
 

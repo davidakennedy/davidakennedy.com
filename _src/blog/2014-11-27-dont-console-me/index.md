@@ -4,6 +4,7 @@ description: I'm oddicially a PC gamer now.
 date: 2014-11-27T19:02:11+00:00
 permalink: /blog/dont-console-me/
 tags:
+  - Personal
   - Video Games
 ---
 

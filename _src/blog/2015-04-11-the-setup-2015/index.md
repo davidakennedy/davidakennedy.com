@@ -8,7 +8,6 @@ date: 2015-04-11T18:14:37+00:00
 permalink: /blog/the-setup-2015/
 tags:
   - Personal
-  - The Setup
 ---
 
 I knew [The Setup](http://usesthis.com) existed, but in the last few days I enjoyed pouring over a number of the interviews. I thought it would be fun to write my own, and update it every year or so to see how it changes.
