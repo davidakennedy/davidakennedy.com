@@ -15,3 +15,6 @@ The list:
 
 1. _The Fellowship of the Ring_ by J.R.R. Tolkien
 2. _The Uninhabitable Earth: Life After Warming_ by David Wallace-Wells
+3. _Burn Book: A Tech Love Story_ by Kara Swisher
+4. _How to Write One Song: Loving the Things We Create and How They Love Us Back_ by Jeff Tweedy
+5. _The Rise of Theodore Roosevelt_ by Edmund Morris
