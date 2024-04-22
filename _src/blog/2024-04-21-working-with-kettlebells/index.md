@@ -4,8 +4,8 @@ description:
 date: 2024-04-22T00:34:48+00:00
 permalink: /blog/working-with-kettlebells/
 tags:
-  - Personal
   - Kettlebells
+  - Personal
 ---
 
 Kettlebells appeal to me because of their simplicity and scalability.
