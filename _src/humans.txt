@@ -34,6 +34,7 @@ https://davidakennedy.com
 - Libraries
   - Feather Icons (https://feathericons.com/)
   - Reasonable Colors (https://reasonable.work/colors/)
+  - Source Serif (https://adobe-fonts.github.io/source-serif/)
 
 - Browsers
   - Chrome (https://www.google.com/chrome/)
@@ -44,6 +45,6 @@ https://davidakennedy.com
 
 - Software and Services
   - MacOS (http://www.apple.com/macos/sierra/)
-  - VS Code (https://code.visualstudio.com/)
+  - Nova (https://nova.app)
   - Windows 10 (https://www.microsoft.com/en-us/windows)
   - NVDA (http://www.nvaccess.org/)
