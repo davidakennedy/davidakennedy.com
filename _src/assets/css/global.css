@@ -1,3 +1,24 @@
+/* Fonts */
+@font-face {
+  font-display: swap;
+  font-family: "Source Serif";
+  src: url("/assets/fonts/source-serif4-subset-vf.woff2")
+    format("woff2-variations");
+  font-stretch: 75% 125%;
+  font-style: normal;
+  font-weight: 125 950;
+}
+
+@font-face {
+  font-display: swap;
+  font-family: "Source Serif";
+  src: url("/assets/fonts/source-serif4-italic-subset-vf.woff2")
+    format("woff2-variations");
+  font-stretch: 75% 125%;
+  font-style: italic;
+  font-weight: 125 950;
+}
+
 /* Reset-ish */
 *,
 :after,
@@ -30,8 +51,9 @@ select {
   --color-focus: #cd3c00;
 
   /* Fonts */
-  --font-sans-serif: system-ui, sans-serif;
-  --font-mono: ui-monospace, "Cascadia Code", "Source Code Pro", Menlo, Consolas,
+  --font-headings: "Source Serif", serif;
+  --font-body: "Source Serif", serif;
+  --font-code: ui-monospace, "Cascadia Code", "Source Code Pro", Menlo, Consolas,
     "DejaVu Sans Mono", monospace;
 
   /* Space */
@@ -44,7 +66,7 @@ select {
   /* Some styles */
   background-color: var(--color-background);
   color: var(--color-text);
-  font-family: var(--font-sans-serif);
+  font-family: var(--font-body);
   font-size: clamp(1rem, 0.688rem + 1.563vw, 1.25rem);
   font-weight: 400;
   height: 100%;
@@ -130,7 +152,8 @@ h3,
 h4,
 h5,
 h6 {
-  font-weight: 700;
+  font-family: var(--font-headings);
+  font-weight: 800;
   line-height: 1.2;
 }
 
@@ -181,7 +204,7 @@ blockquote cite {
 pre {
   border: 0.05em solid var(--color-decorative);
   border-radius: 0.1em;
-  font-family: var(--font-mono);
+  font-family: var(--font-code);
   font-size: 0.9rem;
   line-height: 1.2;
   margin: var(--space-xsmall) 0;
@@ -193,7 +216,7 @@ pre {
 code,
 kbd,
 var {
-  font-family: var(--font-mono);
+  font-family: var(--font-code);
 }
 
 abbr {
@@ -312,7 +335,7 @@ a:active {
 
 .skip-link {
   font-size: 0.8rem;
-  font-weight: 700;
+  font-weight: 600;
   left: var(--space);
   padding: var(--space-xsmall);
   position: absolute;
@@ -341,7 +364,7 @@ a:active {
 
 /* Forms */
 label {
-  font-weight: 700;
+  font-weight: 600;
 }
 
 input[type="text"],
@@ -379,7 +402,7 @@ input[type="submit"] {
   border-radius: 0.25em;
   color: var(--color-text);
   cursor: pointer;
-  font-weight: 700;
+  font-weight: 600;
   padding: 0.25em 0.5em;
   position: relative;
   -webkit-appearance: none;
@@ -427,7 +450,7 @@ input[type="submit"]:focus {
 
 .site-title {
   display: inline-block;
-  font-weight: 700;
+  font-weight: 600;
   padding: var(--space-xsmall);
   text-decoration: none;
 }
