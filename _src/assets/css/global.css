@@ -51,8 +51,9 @@ select {
   --color-focus: #cd3c00;
 
   /* Fonts */
-  --font-headings: "Source Serif", serif;
-  --font-body: "Source Serif", serif;
+  --font-headings: "Source Serif", Charter, "Bitstream Charter", "Sitka Text",
+    serif;
+  --font-body: "Source Serif", Charter, "Bitstream Charter", "Sitka Text", serif;
   --font-code: ui-monospace, "Cascadia Code", "Source Code Pro", Menlo, Consolas,
     "DejaVu Sans Mono", monospace;
 
