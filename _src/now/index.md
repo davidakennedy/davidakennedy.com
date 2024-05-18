@@ -9,17 +9,10 @@ A page detailing what I'm focused on at the moment. I'll update it when things c
 
 I'm currently:
 
-## Work
-
-In February, I transitioned to a new team within the Department of Veteran Affairs while at Ad Hoc. I'm still plugging away as a UX designer, but now working with the team that handles healthcare applications for Veterans and caregivers. It's rewarding work. I'm also still pitching in on accessibility efforts and managing and mentoring other designers.
-
-## Hobbies
-
-I'm still reading a lot, as it's my main hobby. This year, I'll finish fewer books because I'm trying to read more real words through physical books and ebooks. I even joined a book club where I get a new physical book each month.
-
-## Hopes and Dreams
-
-I'd like to start on one more hobby that isn't connected to a screen and form a habit around it. Like finally picking up the guitar more regularly, or getting back to writing some haikus, which I started doing during the pandemic.
+- still warming up after joining a new team at Ad Hoc, working on Benefit Tools for Veterans at the Department of Veteran Affairs. I'm back to focusing on accessibility work. I'm also managing more people, which has been fun and challenging.
+- reading at a steady pace, but still haven't returned to physical books like I wanted.
+- doing a lot of kettlebell workouts and enjoying the heck out of it. I'm alternating between two major workouts, and it's both challenging and flexible for the time I have available.
+- forever working through Zelda: Tears of the Kingdom. Such a fun game!
 
 ---
 
