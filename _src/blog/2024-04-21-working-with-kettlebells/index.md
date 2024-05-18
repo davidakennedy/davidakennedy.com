@@ -1,6 +1,6 @@
 ---
 title: Working with Kettlebells
-description:
+description: I found my perfect workout tool.
 date: 2024-04-22T00:34:48+00:00
 permalink: /blog/working-with-kettlebells/
 tags:
