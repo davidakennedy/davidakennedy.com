@@ -1,24 +1,3 @@
-/* Fonts */
-@font-face {
-  font-display: swap;
-  font-family: "Source Serif";
-  src: url("/assets/fonts/source-serif4-subset-vf.woff2")
-    format("woff2-variations");
-  font-stretch: 75% 125%;
-  font-style: normal;
-  font-weight: 125 950;
-}
-
-@font-face {
-  font-display: swap;
-  font-family: "Source Serif";
-  src: url("/assets/fonts/source-serif4-italic-subset-vf.woff2")
-    format("woff2-variations");
-  font-stretch: 75% 125%;
-  font-style: italic;
-  font-weight: 125 950;
-}
-
 /* Reset-ish */
 *,
 :after,
@@ -51,9 +30,10 @@ select {
   --color-focus: #cd3c00;
 
   /* Fonts */
-  --font-headings: "Source Serif", Charter, "Bitstream Charter", "Sitka Text",
+  --font-headings: "Iowan Old Style", "Palatino Linotype", "URW Palladio L",
+    P052, serif;
+  --font-body: "Iowan Old Style", "Palatino Linotype", "URW Palladio L", P052,
     serif;
-  --font-body: "Source Serif", Charter, "Bitstream Charter", "Sitka Text", serif;
   --font-code: ui-monospace, "Cascadia Code", "Source Code Pro", Menlo, Consolas,
     "DejaVu Sans Mono", monospace;
 
