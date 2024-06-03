@@ -24,10 +24,9 @@ select {
   --color-decorative: #e2e2e2;
   --color-uie: #8b8b8b;
   --color-light-text: #6f6f6f;
-  --color-accent-1: #ffded1;
-  --color-accent-2: #42ffc6;
+  --color-accent: #c6e0ff;
   --color-link: #0061fc;
-  --color-focus: #cd3c00;
+  --color-focus: #00328a;
 
   /* Fonts */
   --font-headings: "Iowan Old Style", "Palatino Linotype", "URW Palladio L",
@@ -55,8 +54,6 @@ select {
 }
 
 body {
-  border-bottom: var(--space-small) solid var(--color-accent-1);
-  border-top: var(--space-small) solid var(--color-accent-2);
   min-height: 100vh;
 }
 
@@ -278,7 +275,7 @@ img {
 }
 
 mark {
-  background-color: var(--color-accent-1);
+  background-color: var(--color-accent);
 }
 
 a {
@@ -487,11 +484,7 @@ input[type="submit"]:focus {
     --color-uie: #6f6f6f;
     --color-light-text: #8b8b8b;
     --color-link: #657eff;
-    --color-focus: #fd4d00;
-  }
-
-  mark,
-  mark > a {
-    color: var(--color-background);
+    --color-accent: #00328a;
+    --color-focus: #deddff;
   }
 }
