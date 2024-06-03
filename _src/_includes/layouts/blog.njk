@@ -9,10 +9,8 @@
 
 {% block content %}
   <div class="archive">
-    <div class="header">
-      <h1 class="title p-name">{{ title }}</h1>
-    </div>
     <div class="content stack">
+      <h1 class="title p-name">{{ title }}</h1>
       {{ content | safe }}
       {% include "partials/signup-form.njk" %}
       {% set postlist = pagination.items %}

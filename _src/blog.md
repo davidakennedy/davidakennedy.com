@@ -5,9 +5,6 @@ pagination:
   data: collections.posts
   size: 10
   reverse: true
-eleventyNavigation:
-  key: Blog
-  order: 2
 layout: blog
 permalink: blog/{% if pagination.pageNumber > 0 %}{{ pagination.pageNumber + 1 }}/{% endif %}index.html
 ---

@@ -277,10 +277,6 @@ img {
   max-width: 100%;
 }
 
-.site-header img {
-  border-radius: 50%;
-}
-
 mark {
   background-color: var(--color-accent-1);
 }
@@ -420,10 +416,6 @@ input[type="submit"]:focus {
 
 /* Containers and spacing */
 .site-header {
-  align-items: center;
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: space-between;
   margin: 0 auto;
   max-width: 40rem;
   padding: var(--space-xlarge) 0;
@@ -431,6 +423,7 @@ input[type="submit"]:focus {
 
 .site-title {
   display: inline-block;
+  font-size: 0.8rem;
   font-weight: 600;
   padding: var(--space-xsmall);
   text-decoration: none;

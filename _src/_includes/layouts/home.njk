@@ -5,13 +5,11 @@
 
 {% block content %}
   <div class="home-page">
-    <div class="header">
+    <div class="content stack">
       {%- if featuredimg and img -%}
         {% featuredimage img, imgalt %}
       {%- endif -%}
       <h1 class="title p-name">{{ title }}</h1>
-    </div>
-    <div class="content stack">
       {{ content | safe }}
     </div>
   </div>
