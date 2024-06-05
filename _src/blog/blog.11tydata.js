@@ -1,0 +1,6 @@
+module.exports = {
+  tags: ["posts"],
+  permalink:
+    "blog/{% if slug %}{{ slug }}{% else %}{{ title | slugify }}{% endif %}/",
+  layout: "post",
+};
