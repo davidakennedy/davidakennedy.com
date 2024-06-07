@@ -419,15 +419,22 @@ input[type="submit"]:focus {
 }
 
 .site-title {
-  display: inline-block;
   font-size: 0.8rem;
   font-weight: 600;
   padding: var(--space-xsmall);
-  text-decoration: none;
 }
 
-.site-header nav a {
-  text-decoration: none;
+.site-breadcrumbs li:first-child {
+  font-weight: 600;
+}
+
+.site-breadcrumbs {
+  font-size: 0.8rem;
+}
+
+.site-breadcrumbs li:not(:last-child)::after {
+  margin: 0 var(--space-xsmall);
+  content: "/";
 }
 
 .header img + *,

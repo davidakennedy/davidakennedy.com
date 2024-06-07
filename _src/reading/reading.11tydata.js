@@ -2,9 +2,9 @@ module.exports = {
   eleventyComputed: {
     eleventyNavigation: {
       key: (data) => data.title,
-      parent: (data) => "Haikus",
+      parent: (data) => "Reading",
     },
   },
   layout: "page",
-  tags: ["haikus"],
+  tags: ["readinglists"],
 };

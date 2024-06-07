@@ -1,6 +1,9 @@
 ---
 title: Now
 description: What David A. Kennedy is up to right now.
+eleventyNavigation:
+  key: Now
+  parent: Just Call Me DK
 date: git Last Modified
 layout: page
 ---

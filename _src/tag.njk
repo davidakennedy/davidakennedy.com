@@ -5,8 +5,7 @@ pagination:
   alias: tag
   filter:
     - all
-    - articles
-    - notes
+    - posts
     - bestof
     - haikus
     - readinglists
@@ -14,6 +13,9 @@ pagination:
   addAllPagesToCollections: true
 eleventyComputed:
   title: Tagged “{{ tag }}”
+  eleventyNavigation:
+    key: Tagged “{{ tag }}”
+    parent: Tags
 layout: page
 permalink: /tag/{{ tag | slugify }}/
 ---

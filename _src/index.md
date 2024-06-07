@@ -1,6 +1,10 @@
 ---
 title: Just Call Me DK
 description: The website for David A. Kennedy, a designer and accessibility advocate.
+eleventyNavigation:
+  key: Just Call Me DK
+  parent: ""
+  title: David A. Kennedy
 layout: home
 ---
 

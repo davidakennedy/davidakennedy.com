@@ -1,3 +1,14 @@
-<p>
-  <a href="{{ '/' | url }}" class="site-title">{{ metadata.title }}</a>
-</p>
+{% set navBreadcrumbs = collections.all | eleventyNavigationBreadcrumb(eleventyNavigation.key, { includeSelf: true }) %}
+{% if navBreadcrumbs.length > 0 %}
+  <nav class="site-breadcrumbs" aria-label="Breadcrumbs">
+    <ul class="nav">
+      {% for crumb in navBreadcrumbs %}
+        {% if page.url === crumb.url %}
+          <li><a aria-current="page" href="{{ crumb.url | url }}">{{ crumb.title }}</a></li>
+        {%- else -%}
+          <li><a href="{{ crumb.url | url }}">{{ crumb.title }}</a></li>
+        {%- endif -%}
+      {% endfor %}
+    </ul>
+  </nav>
+{% endif %}

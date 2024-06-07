@@ -1,6 +1,9 @@
 ---
 title: Accessibility Statement
 description: How davidakennedy.com approaches accessibility.
+eleventyNavigation:
+  key: Accessibility Statement
+  parent: Just Call Me DK
 layout: page
 ---
 

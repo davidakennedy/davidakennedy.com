@@ -1,6 +1,9 @@
 ---
 title: Blog
 description: Where David A. Kennedy goes to write.
+eleventyNavigation:
+  key: Blog
+  parent: Just Call Me DK
 pagination:
   data: collections.posts
   size: 10

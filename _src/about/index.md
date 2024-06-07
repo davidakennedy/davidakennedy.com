@@ -1,6 +1,9 @@
 ---
 title: About
 description: Find out more about David A. Kennedy's career in web design and accessibility.
+eleventyNavigation:
+  key: About
+  parent: Just Call Me DK
 featuredimg: true
 img: ./david-kennedy-change2019-1.jpg
 imgalt: David A. Kennedy speaks on a stage in front of audience.

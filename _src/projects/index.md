@@ -1,6 +1,9 @@
 ---
 title: Projects
 description: Some projects that David A. Kennedy has created and worked on in the past.
+eleventyNavigation:
+  key: Projects
+  parent: Just Call Me DK
 layout: page
 ---
 

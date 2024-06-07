@@ -1,6 +1,9 @@
 ---
 title: Speaking
 description: A list of David A. Kennedy's past speaking engagements.
+eleventyNavigation:
+  key: Speaking
+  parent: Just Call Me DK
 layout: page
 ---
 
