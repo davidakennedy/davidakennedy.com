@@ -437,26 +437,17 @@ input[type="submit"]:focus {
   content: "/";
 }
 
-.header img + *,
-.content {
-  margin-top: var(--space-small);
-}
-
-.header,
 .content {
   padding-left: var(--space-xsmall);
   padding-right: var(--space-xsmall);
 }
 
-.header > *:not(figure, img),
 .content > *:not(figure, img) {
   margin-left: auto;
   margin-right: auto;
   max-width: 36rem;
 }
 
-.header > figure,
-.header > img,
 .content > figure,
 .content > img {
   margin-left: auto;

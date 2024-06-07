@@ -7,3 +7,7 @@
 .meta a {
   color: var(--color-light-text);
 }
+
+.title + .meta {
+  margin-top: var(--space-xsmall);
+}
