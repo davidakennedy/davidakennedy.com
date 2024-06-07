@@ -1,6 +1,6 @@
 {% extends 'layouts/base.njk' %}
 {% block header %}
-  {% include "partials/header.njk" %}
+  {% include "partials/breadcrumbs.njk" %}
 {% endblock %}
 
 {% block content %}
@@ -16,5 +16,7 @@
 {% endblock %}
 
 {% block footer %}
-  {% include "partials/footer.njk" %}
+  {% include "partials/site-navigation.njk" %}
+  {% include "partials/copyright.njk" %}
+  {% include "partials/site-info-navigation.njk" %}
 {% endblock %}
