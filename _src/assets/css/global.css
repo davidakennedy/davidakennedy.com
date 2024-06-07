@@ -463,8 +463,9 @@ input[type="submit"]:focus {
   padding: var(--space-xlarge) 0;
 }
 
-.site-footer > p {
-  margin: var(--space-small) 0;
+.site-footer > p,
+.site-footer > .site-info-navigation {
+  margin-top: var(--space);
 }
 
 .site-footer > nav {
