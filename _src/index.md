@@ -14,6 +14,10 @@ layout: home
 
 I'm an accessibility advocate who loves the open web and open source design and code. I curate a popular newsletter called [Accessibility Weekly](https://a11yweekly.com/). Before working on the web, I wrote words instead of code as a journalist.
 
+<div class="container stack">
+
+{% renderTemplate "md" %}
+
 ## What I Do as a Designer
 
 I have more than a decade of design and front-end development experience, spanning non-profits, start-ups and government agencies. The connecting line in my work has been a knack for understanding where people are coming from, running toward "sticky" problems and having an accessibility-first mindset.
@@ -30,6 +34,10 @@ I approach my work through a few principles:
 - Creating inclusive and accessible experiences
 - Helping people level up
 - Building healthy teams and cultures that foster growth
+
+{% endrenderTemplate %}
+
+</div>
 
 ## Writing Highlights
 

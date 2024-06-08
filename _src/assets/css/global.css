@@ -447,10 +447,16 @@ input[type="submit"]:focus {
   padding-right: var(--space-xsmall);
 }
 
-.content > *:not(figure, img) {
+.content > *:not(figure, img, .container),
+.container > * {
   margin-left: auto;
   margin-right: auto;
   max-width: 36rem;
+}
+
+.container {
+  background-color: var(--color-decorative);
+  padding: var(--space-small) 0;
 }
 
 .content > figure,
@@ -459,6 +465,15 @@ input[type="submit"]:focus {
   margin-right: auto;
   max-width: 40rem;
   width: 100%;
+}
+
+.container {
+  left: 50%;
+  margin-left: -50vw;
+  margin-right: -50vw;
+  position: relative;
+  right: 50%;
+  width: 100vw;
 }
 
 .site-footer {
