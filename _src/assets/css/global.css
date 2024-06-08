@@ -413,7 +413,6 @@ input[type="submit"]:focus {
 
 /* Containers and spacing */
 .site-header {
-  border-bottom: 1px solid var(--color-decorative);
   margin: 0 auto;
   max-width: 40rem;
   padding: var(--space-large) 0;
@@ -447,33 +446,19 @@ input[type="submit"]:focus {
   padding-right: var(--space-xsmall);
 }
 
-.content > *:not(figure, img, .container),
-.container > * {
+.content > *:not(figure, img, hr) {
   margin-left: auto;
   margin-right: auto;
   max-width: 36rem;
 }
 
-.container {
-  background-color: var(--color-decorative);
-  padding: var(--space-small) 0;
-}
-
 .content > figure,
-.content > img {
+.content > img,
+.content > hr {
   margin-left: auto;
   margin-right: auto;
   max-width: 40rem;
   width: 100%;
-}
-
-.container {
-  left: 50%;
-  margin-left: -50vw;
-  margin-right: -50vw;
-  position: relative;
-  right: 50%;
-  width: 100vw;
 }
 
 .site-footer {
