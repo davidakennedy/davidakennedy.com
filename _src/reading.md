@@ -3,7 +3,7 @@ title: Reading
 description: What David A. Kennedy is reading.
 eleventyNavigation:
   key: Reading
-  parent: Just Call Me DK
+  parent: Home
 layout: page
 ---
 

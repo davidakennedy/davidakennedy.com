@@ -3,7 +3,7 @@ title: Offline
 description: View pages on davidakennedy.com when you're offline.
 eleventyNavigation:
   key: Offline
-  parent: Just Call Me DK
+  parent: Home
 layout: page
 ---
 

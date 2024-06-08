@@ -3,7 +3,7 @@ title: Colophon
 description: Details about how David A. Kennedy's personal website was made.
 eleventyNavigation:
   key: Colophon
-  parent: Just Call Me DK
+  parent: Home
 layout: page
 ---
 

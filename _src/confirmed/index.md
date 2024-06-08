@@ -3,7 +3,7 @@ title: All Confirmed
 description: You're the best for signing up.
 eleventyNavigation:
   key: All Confirmed
-  parent: Just Call Me DK
+  parent: Home
 layout: page
 ---
 

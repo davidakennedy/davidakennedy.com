@@ -3,7 +3,7 @@ title: Contact
 description: Contact David A. Kennedy.
 eleventyNavigation:
   key: Contact
-  parent: Just Call Me DK
+  parent: Home
 layout: page
 ---
 

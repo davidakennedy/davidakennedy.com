@@ -3,7 +3,7 @@ title: Haikus
 description: A collection of haikus by David A. Kennedy.
 eleventyNavigation:
   key: Haikus
-  parent: Just Call Me DK
+  parent: Home
 layout: page
 ---
 

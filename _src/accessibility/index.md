@@ -3,7 +3,7 @@ title: Accessibility Statement
 description: How davidakennedy.com approaches accessibility.
 eleventyNavigation:
   key: Accessibility Statement
-  parent: Just Call Me DK
+  parent: Home
 layout: page
 ---
 

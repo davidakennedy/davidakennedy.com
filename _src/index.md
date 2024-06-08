@@ -1,8 +1,8 @@
 ---
-title: Just Call Me DK
+title: Just Call Me DK. I'm a design leader focused on user experience, inclusive design and people management.
 description: The website for David A. Kennedy, a designer and accessibility advocate.
 eleventyNavigation:
-  key: Just Call Me DK
+  key: Home
   parent: ""
   title: David A. Kennedy
 layout: home

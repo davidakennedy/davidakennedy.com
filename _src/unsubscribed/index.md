@@ -3,7 +3,7 @@ title: You Have Been Unsubscribed
 description: You're the best for reading.
 eleventyNavigation:
   key: You Have Been Unsubscribed
-  parent: Just Call Me DK
+  parent: Home
 layout: page
 ---
 

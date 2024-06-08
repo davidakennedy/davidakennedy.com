@@ -2,7 +2,7 @@
 title: Thank You for Subscribing
 eleventyNavigation:
   key: Thank You for Subscribing
-  parent: Just Call Me DK
+  parent: Home
 description: You're the best for signing up.
 layout: page
 ---

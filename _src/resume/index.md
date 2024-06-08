@@ -3,7 +3,7 @@ title: David A. Kennedy's Résumé
 description: David A. Kennedy's résumé.
 eleventyNavigation:
   key: David A. Kennedy's Résumé
-  parent: Just Call Me DK
+  parent: Home
   title: Résumé
 layout: page
 ---
