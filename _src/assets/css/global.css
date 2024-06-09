@@ -37,11 +37,11 @@ select {
     "DejaVu Sans Mono", monospace;
 
   /* Space */
-  --space-xsmall: 0.35em;
-  --space-small: 0.7em;
-  --space: 1.4em;
-  --space-large: 2.8em;
-  --space-xlarge: 4.2em;
+  --space-xsmall: 0.35rem;
+  --space-small: 0.7rem;
+  --space: 1.4rem;
+  --space-large: 2.8rem;
+  --space-xlarge: 4.2rem;
 
   /* Some styles */
   background-color: var(--color-background);
@@ -85,7 +85,7 @@ body {
 /* Stack utility
    every-layout.dev */
 .stack > * + * {
-  margin-top: var(--space, 1.4em);
+  margin-top: var(--space, 1.4rem);
 }
 
 .stack > h1 + *,
@@ -94,7 +94,7 @@ body {
 .stack > h4 + *,
 .stack > h5 + *,
 .stack > h6 + * {
-  margin-top: 0.5em;
+  margin-top: 0.5rem;
 }
 
 /* Navigation utility */
@@ -236,7 +236,7 @@ th {
 th,
 td {
   border-width: 0 0.05em 0.05em 0;
-  padding: 0.25em;
+  padding: 0.25rem;
 }
 
 hr {
@@ -348,7 +348,7 @@ textarea {
   background-color: inherit;
   border: 0.1em solid var(--color-uie);
   border-radius: 0.1em;
-  padding: 0.25em;
+  padding: 0.25rem;
   -webkit-appearance: none;
 }
 
@@ -362,7 +362,7 @@ textarea:focus {
 }
 
 textarea {
-  padding-left: 0.25em;
+  padding-left: 0.25rem;
   width: 100%;
 }
 
@@ -377,7 +377,7 @@ input[type="submit"] {
   color: var(--color-text);
   cursor: pointer;
   font-weight: 600;
-  padding: 0.25em 0.5em;
+  padding: 0.25rem 0.5rem;
   position: relative;
   -webkit-appearance: none;
 }
@@ -475,12 +475,12 @@ input[type="submit"]:focus {
 
 .site-footer > nav {
   font-size: 0.8rem;
-  padding-left: 0.0875em;
+  padding-left: 0.0875rem;
 }
 
 .site-footer > p {
   font-size: 0.8rem;
-  padding-left: 0.4375em;
+  padding-left: 0.4375rem;
 }
 
 /* Going dark */
