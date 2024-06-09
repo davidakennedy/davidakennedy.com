@@ -9,10 +9,12 @@ layout: home
 ---
 
 <div class="h-card">
-  <p class="p-note intro">Hi there! I'm <span class="p-name">David A. Kennedy</span>, but my friends call me <span class="p-nickname">DK</span>. I work as a Manager of Design at <a href="https://adhoc.team/">Ad Hoc</a>, focusing on inclusive design, accessibility and people management. You can reach me <a class="u-email" href="mailto:me@davidakennedy.com">at the usual place</a> and find out more <a class="u-url u-uid" href="{{ '/' | url }}">about me on this site</a>.</p>
+  <p class="p-note intro">Hi there! I'm <a class="u-url u-uid" href="{{ '/' | url }}"><span class="p-name">David A. Kennedy</span></a>, but my friends call me <span class="p-nickname">DK</span>. I work as a Manager of Design at <a href="https://adhoc.team/">Ad Hoc</a>, focusing on creating inclusive experiences, and helping designers grow. You can reach me <a class="u-email" href="mailto:me@davidakennedy.com">at the usual place</a>.</p>
 </div>
 
 I'm an accessibility advocate who loves the open web and open source design and code. I curate a popular newsletter called [Accessibility Weekly](https://a11yweekly.com/). Before working on the web, I wrote words instead of code as a journalist.
+
+<mark><a href="{{ '/about/' | url }}">Find out more about me</a>.</mark>
 
 <hr>
 
@@ -33,6 +35,8 @@ I approach my work through a few principles:
 - Helping people level up
 - Building healthy teams and cultures that foster growth
 
+<mark><a href="{{ '/projects/' | url }}">Learn more about my side projects</a>.</mark>
+
 <hr>
 
 ## Writing Highlights
@@ -46,3 +50,5 @@ If that's not enough, here are some of the latest posts form my blog.
 
 {% set posts = collections.posts | head(-5) | reverse %}
 {% include "partials/post-list.njk" %}
+
+<mark><a href="{{ '/blog/' | url }}">Read more posts on the blog</a>.</mark>
