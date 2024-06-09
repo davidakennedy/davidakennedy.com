@@ -123,6 +123,25 @@ module.exports = function (eleventyConfig) {
     return startYear + " - " + new Date().getFullYear();
   });
 
+  // Print build time
+  // https://www.aleksandrhovhannisyan.com/blog/eleventy-build-info/
+  eleventyConfig.addGlobalData("buildInfo", () => {
+    const now = new Date();
+    const timeZone = "UTC";
+    const buildTime = new Intl.DateTimeFormat("en-US", {
+      dateStyle: "full",
+      timeStyle: "short",
+      timeZone,
+    }).format(now);
+
+    return {
+      time: {
+        raw: now.toISOString(),
+        formatted: `${buildTime} ${timeZone}`,
+      },
+    };
+  });
+
   // Pass these directories through.
   eleventyConfig.addPassthroughCopy("_src/assets");
   eleventyConfig.addPassthroughCopy("_src/robots.txt");
