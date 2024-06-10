@@ -2,15 +2,22 @@
   <link rel="preload" href="/assets/fonts/source-serif4-subset-vf.woff2" as="font" type="font/woff2" crossorigin>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  {% if layout == "home" %}
+  <title>The Website of {{ metadata.title }}</title>
+  {% else %}
   <title>{{ title or metadata.title }} | {{ metadata.title }}</title>
-  {% include "partials/meta.njk" %} {% include "partials/seo.njk" %}
+  {% endif %}
+  {% include "partials/meta.njk" %}
+  {% include "partials/seo.njk" %}
   <!-- Styles -->
-  {%- css %} {% include "_src/assets/css/global.css" %} {% include
-  "_src/assets/css/print.css" %} {% endcss %} {% if build.environment == "prod"
-  %}
+  {% css %}
+    {% include "_src/assets/css/global.css" %}
+    {% include "_src/assets/css/print.css" %}
+  {% endcss %}
+  {% if build.environment == "prod" %}
   <style>
     {% getBundle "css" %}
   </style>
-  {% else %} <link rel="stylesheet" href="{% getBundleFileUrl "css" %}"> {%-
-  endif %}
+  {% else %} <link rel="stylesheet" href="{% getBundleFileUrl "css" %}">
+  {% endif %}
 </head>
