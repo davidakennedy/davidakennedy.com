@@ -7,15 +7,23 @@ eleventyNavigation:
 layout: page
 ---
 
+I keep a small collection of side projects going to help me learn and grow.
+
 ## A11y Weekly
 
 Accessibility Weekly is a weekly dose of web accessibility to help you bring it into your every day work.
 
-[View the Accessibility Weekly site](http://a11yweekly.com).
+<mark><a href="http://a11yweekly.com">Visit the Accessibility Weekly site</a>.</mark>
+
+<hr>
 
 ## Accessibility and Me
 
-A11y.me is an evolving list of the best resources in web accessibility. View the [Accessibility and Me site](http://a11y.me) or [view the project on GitHub](https://github.com/davidakennedy/a11y.me).
+A11y.me is an evolving list of the best resources in web accessibility. You can [check out the project on GitHub](https://github.com/davidakennedy/a11y.me).
+
+<mark><a href="http://a11y.me">Visit the Accessibility and Me site</a>.</mark>
+
+<hr>
 
 ## Other Projects
 
