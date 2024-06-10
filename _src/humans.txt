@@ -34,7 +34,7 @@ https://davidakennedy.com
 - Libraries
   - Feather Icons (https://feathericons.com/)
   - Reasonable Colors (https://reasonable.work/colors/)
-  - Source Serif (https://adobe-fonts.github.io/source-serif/)
+  - Old style fonts, courtesy of Modern Font Stacks: (https://github.com/system-fonts/modern-font-stacks#old-style).
 
 - Browsers
   - Chrome (https://www.google.com/chrome/)
