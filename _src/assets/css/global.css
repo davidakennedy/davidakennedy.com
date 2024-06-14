@@ -473,6 +473,10 @@ input[type="submit"]:focus {
   margin-top: var(--space);
 }
 
+.site-footer > p + p {
+  margin-top: var(--space-xsmall);
+}
+
 .site-footer > nav {
   font-size: 0.8rem;
   padding-left: 0.0875rem;
