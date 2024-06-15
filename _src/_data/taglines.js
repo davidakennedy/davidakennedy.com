@@ -1,8 +1,8 @@
 module.exports = {
   phrases: [
     "Probably eating a taco.",
-    "Go Gators!",
-    "The best cookie is peanut butter.",
+    "Watching basketball.",
+    "Peanut butter and jelly isn't just for kids.",
     "Too many books to read.",
     "Trust the process.",
   ],
