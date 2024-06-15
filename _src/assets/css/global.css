@@ -487,6 +487,11 @@ input[type="submit"]:focus {
   padding-left: 0.4375rem;
 }
 
+.tagline {
+  font-size: 0.7rem;
+  text-align: center;
+}
+
 /* Going dark */
 @media (prefers-color-scheme: dark) {
   :root {

@@ -142,6 +142,11 @@ module.exports = function (eleventyConfig) {
     };
   });
 
+  // Used to grab a random array in a data file: taglines.js
+  eleventyConfig.addFilter("randomItem", (arr) => {
+    return arr[Math.floor(Math.random() * arr.length)];
+  });
+
   // Pass these directories through.
   eleventyConfig.addPassthroughCopy("_src/assets");
   eleventyConfig.addPassthroughCopy("_src/robots.txt");
