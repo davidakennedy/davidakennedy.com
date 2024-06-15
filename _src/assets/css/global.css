@@ -482,7 +482,7 @@ input[type="submit"]:focus {
   padding-left: 0.0875rem;
 }
 
-.site-footer > p {
+.site-footer > p(:not(.tagline)) {
   font-size: 0.8rem;
   padding-left: 0.4375rem;
 }
