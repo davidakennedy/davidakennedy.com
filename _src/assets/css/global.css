@@ -468,8 +468,8 @@ input[type="submit"]:focus {
   padding: var(--space-large) 0;
 }
 
-.site-footer > p,
-.site-footer > .site-info-navigation {
+.site-footer > * {
+  font-size: 0.8rem;
   margin-top: var(--space);
 }
 
@@ -477,14 +477,8 @@ input[type="submit"]:focus {
   margin-top: var(--space-xsmall);
 }
 
-.site-footer > nav {
-  font-size: 0.8rem;
-  padding-left: 0.0875rem;
-}
-
-.site-footer > p(:not(.tagline)) {
-  font-size: 0.8rem;
-  padding-left: 0.4375rem;
+.site-footer > *:not(nav, p.tagline) {
+  padding-left: 0.35rem;
 }
 
 .tagline {
