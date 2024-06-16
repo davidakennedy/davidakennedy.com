@@ -268,7 +268,7 @@ figcaption {
 }
 
 img {
-  outline: 0.1em solid var(--color-decorative);
+  box-shadow: 0 8px 6px -6px var(--color-uie);
   display: block;
   height: auto;
   max-width: 100%;
