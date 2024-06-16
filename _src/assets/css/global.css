@@ -441,11 +441,6 @@ input[type="submit"]:focus {
   padding: var(--space-large) 0;
 }
 
-.content {
-  padding-left: var(--space-xsmall);
-  padding-right: var(--space-xsmall);
-}
-
 .content > *:not(figure, img, hr) {
   margin-left: auto;
   margin-right: auto;
