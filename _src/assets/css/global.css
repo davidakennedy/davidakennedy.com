@@ -253,6 +253,7 @@ ol {
 
 ul > li,
 ol > li {
+  list-style-position: inside;
   margin-top: var(--space-small);
 }
 
