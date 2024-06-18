@@ -21,3 +21,5 @@ The list:
 3. _Burn Book: A Tech Love Story_ by Kara Swisher
 4. _How to Write One Song: Loving the Things We Create and How They Love Us Back_ by Jeff Tweedy
 5. _The Rise of Theodore Roosevelt_ by Edmund Morris
+6. _Focus: The Hidden Driver of Excellence_ by Daniel Goleman
+7. _Why We're Polorized_ by Ezra Klein
