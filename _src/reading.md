@@ -23,3 +23,6 @@ The list:
 5. _The Rise of Theodore Roosevelt_ by Edmund Morris
 6. _Focus: The Hidden Driver of Excellence_ by Daniel Goleman
 7. _Why We're Polorized_ by Ezra Klein
+8. _Chip War: The Fight for the World's Most Critical Technology_ by Chris Miller
+9. _Supercommunicators: How to Unlock the Secret Language of Connection_ by Charles Duhigg
+10. _Prequel: An American Fight Against Fascism_ by Rachel Maddow
