@@ -24,9 +24,10 @@ select {
   --color-decorative: #e2e2e2;
   --color-uie: #8b8b8b;
   --color-light-text: #6f6f6f;
-  --color-accent: #c6e0ff;
+  --color-accent: #e2e2e2;
   --color-link: #0061fc;
-  --color-focus: #00328a;
+  --color-focus: #ffe53e;
+  --color-visited: #794aff;
 
   /* Fonts */
   --font-headings: "Iowan Old Style", "Palatino Linotype", "URW Palladio L",
@@ -288,18 +289,22 @@ a {
   text-decoration-thickness: 0.1em;
 }
 
-a:hover {
-  background-color: var(--color-link);
-  color: var(--color-background);
-  outline: 0;
-  text-decoration: none;
+a:visited {
+  text-decoration-color: var(--color-visited);
 }
 
 a:focus {
   background-color: var(--color-focus);
-  color: var(--color-background);
-  outline: 0.1em solid var(--color-focus);
+  color: var(--color-text);
+  outline: 0.1em solid var(--color-text);
   outline-offset: 0.1em;
+  text-decoration: none;
+}
+
+a:hover {
+  background-color: var(--color-link);
+  color: var(--color-background);
+  outline: 0;
   text-decoration: none;
 }
 
@@ -330,7 +335,7 @@ a:active {
 }
 
 .image-link:focus {
-  outline: 0.1em solid var(--color-focus);
+  outline: 0.1em solid var(--color-text);
 }
 
 [tabindex="-1"]:focus {
@@ -357,9 +362,10 @@ input[type="text"]:focus,
 input[type="email"]:focus,
 input[type="search"]:focus,
 textarea:focus {
-  border-color: var(--color-light-text);
-  outline: 0.1em solid var(--color-focus);
-  outline-offset: 0.1em;
+  border-color: var(--color-background);
+  box-shadow: inset 0 0 0 0.1em var(--color-focus);
+  outline: 0.1em solid var(--color-text);
+  outline-offset: 0;
 }
 
 textarea {
@@ -407,8 +413,8 @@ input[type="reset"]:focus,
 input[type="submit"]:focus {
   background-color: var(--color-focus);
   border-color: var(--color-focus);
-  color: var(--color-background);
-  outline: 0.1em solid var(--color-focus);
+  color: var(--color-text);
+  outline: 0.1em solid var(--color-text);
   outline-offset: 0.1em;
 }
 
@@ -492,8 +498,17 @@ input[type="submit"]:focus {
     --color-decorative: #3e3e3e;
     --color-uie: #6f6f6f;
     --color-light-text: #8b8b8b;
+    --color-accent: #3e3e3e;
     --color-link: #657eff;
-    --color-accent: #00328a;
-    --color-focus: #deddff;
+    --color-visited: #9b70ff;
+  }
+
+  a:focus,
+  button:focus,
+  .button:focus,
+  input[type="button"]:focus,
+  input[type="reset"]:focus,
+  input[type="submit"]:focus {
+    color: var(--color-background);
   }
 }
