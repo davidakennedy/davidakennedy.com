@@ -46,7 +46,7 @@ Speaking of words, I've collected a few of my [favorite posts I've written elsew
 {% set posts = collections.bestof | reverse %}
 {% include "partials/post-list.njk" %}
 
-If that's not enough, here are some of the latest posts form my blog.
+If that's not enough, here are some of the latest posts from my blog.
 
 {% set posts = collections.posts | head(-5) | reverse %}
 {% include "partials/post-list.njk" %}
