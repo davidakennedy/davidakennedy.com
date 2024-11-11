@@ -1,8 +1,8 @@
-const path = require("path");
-const getImageSize = require("image-size");
-const image = require("@11ty/eleventy-img");
+import path from "path";
+import getImageSize from "image-size";
+import image from "@11ty/eleventy-img";
 
-module.exports = (eleventyConfig) => {
+export default function (eleventyConfig) {
   function relativeToInputPath(inputPath, relativeFilePath) {
     let split = inputPath.split("/");
     split.pop();
@@ -90,4 +90,4 @@ module.exports = (eleventyConfig) => {
       }
     }
   );
-};
+}

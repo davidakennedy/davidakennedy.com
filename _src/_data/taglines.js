@@ -1,4 +1,4 @@
-module.exports = {
+export default {
   phrases: [
     "Forever trying to get my dog and cat to cuddle.",
     "Too many books to read.",

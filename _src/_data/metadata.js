@@ -1,4 +1,4 @@
-module.exports = {
+export default {
   title: "David A. Kennedy",
   url: "https://davidakennedy.com/",
   description:

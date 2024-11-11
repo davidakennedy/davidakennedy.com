@@ -2,6 +2,7 @@
   "name": "davidakennedy.com",
   "version": "1.0.0",
   "description": "David A. Kennedy's personal website.",
+  "type": "module",
   "scripts": {
     "build": "ELEVENTY_ENV=prod npx @11ty/eleventy",
     "serve": "ELEVENTY_ENV=dev npx @11ty/eleventy --serve",
@@ -22,10 +23,10 @@
   },
   "homepage": "https://github.com/davidakennedy/davidakennedy.com#readme",
   "devDependencies": {
-    "@11ty/eleventy": "^2.0.0",
-    "@11ty/eleventy-img": "^3.0.0",
+    "@11ty/eleventy": "^3.0.0",
+    "@11ty/eleventy-img": "^5.0.0",
     "@11ty/eleventy-navigation": "^0.3.5",
-    "@11ty/eleventy-plugin-rss": "^1.2.0",
+    "@11ty/eleventy-plugin-rss": "^2.0.2",
     "@11ty/eleventy-plugin-syntaxhighlight": "^5.0.0",
     "clean-css": "^5.3.1",
     "html-minifier": "^4.0.0",

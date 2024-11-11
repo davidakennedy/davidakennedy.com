@@ -7,9 +7,9 @@ eleventyNavigation:
 layout: page
 ---
 {% block content %}
-  {% if collections.tagList %}
+  {% if collections %}
     <ul>
-      {% for tag in collections.tagList | sort( false, false) %}
+      {% for tag in collections | getKeys | filterTagList | sort( false, false) %}
       {% set tagUrl %}/tag/{{ tag | slugify }}/{% endset %}
         <li>
           <a href="{{ tagUrl | url }}" class="tag">{{ tag }}</a>

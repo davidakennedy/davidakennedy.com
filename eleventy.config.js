@@ -1,25 +1,57 @@
 // Requirements.
-const { DateTime } = require("luxon");
-const pluginRss = require("@11ty/eleventy-plugin-rss");
-const pluginSyntaxHighlight = require("@11ty/eleventy-plugin-syntaxhighlight");
-const eleventyNavigationPlugin = require("@11ty/eleventy-navigation");
-const pluginImages = require("./eleventy.images.js");
-const { EleventyRenderPlugin } = require("@11ty/eleventy");
-const { EleventyHtmlBasePlugin } = require("@11ty/eleventy");
-const markdownIt = require("markdown-it");
-const bundlerPlugin = require("@11ty/eleventy-plugin-bundle");
-const CleanCSS = require("clean-css");
-const htmlmin = require("html-minifier");
+import { DateTime } from "luxon";
+import { feedPlugin } from "@11ty/eleventy-plugin-rss";
+import pluginSyntaxHighlight from "@11ty/eleventy-plugin-syntaxhighlight";
+import pluginNavigation from "@11ty/eleventy-navigation";
+import pluginImages from "./eleventy.images.js";
+import { EleventyRenderPlugin } from "@11ty/eleventy";
+import { EleventyHtmlBasePlugin } from "@11ty/eleventy";
+import markdownIt from "markdown-it";
+import CleanCSS from "clean-css";
+import htmlmin from "html-minifier";
+import UpgradeHelper from "@11ty/eleventy-upgrade-help";
 
 // Configuration and plugins.
-module.exports = function (eleventyConfig) {
-  eleventyConfig.addPlugin(pluginRss);
-  eleventyConfig.addPlugin(pluginSyntaxHighlight);
-  eleventyConfig.addPlugin(eleventyNavigationPlugin);
+export default function (eleventyConfig) {
+  eleventyConfig.addPlugin(feedPlugin, {
+    type: "atom", // or "rss", "json"
+    outputPath: "/feed/feed.xml",
+    stylesheet: "pretty-atom-feed.xsl",
+    collection: {
+      name: "posts",
+      limit: 10,
+    },
+    metadata: {
+      language: "en",
+      title: "David A. Kennedy",
+      subtitle: "Inclusive Design, Open Source and Life.",
+      base: "https://davidakennedy.com/",
+      author: {
+        name: "David A. Kennedy",
+      },
+    },
+  });
+  eleventyConfig.addPlugin(pluginSyntaxHighlight, {
+    preAttributes: { tabindex: 0 },
+  });
+  eleventyConfig.addPlugin(pluginNavigation);
   eleventyConfig.addPlugin(pluginImages);
   eleventyConfig.addPlugin(EleventyRenderPlugin);
   eleventyConfig.addPlugin(EleventyHtmlBasePlugin);
+  eleventyConfig.addPlugin(UpgradeHelper);
   eleventyConfig.setDataDeepMerge(true);
+
+  eleventyConfig.addBundle("css", {
+    transforms: [
+      async function minifyCSS(content) {
+        if (this.type === "css") {
+          return new CleanCSS({ sourceMap: true }).minify(content).styles;
+        }
+
+        return content;
+      },
+    ],
+  });
 
   // Our layouts.
   eleventyConfig.addLayoutAlias("base", "layouts/base.njk");
@@ -31,19 +63,23 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addLayoutAlias("resume", "layouts/resume.njk");
 
   // Filters
-  eleventyConfig.addFilter("readableDate", (dateObj) => {
-    return DateTime.fromJSDate(dateObj, { zone: "utc" }).toFormat(
-      "LLLL dd yyyy"
+  eleventyConfig.addFilter("readableDate", (dateObj, format, zone) => {
+    // Formatting tokens for Luxon: https://moment.github.io/luxon/#/formatting?id=table-of-tokens
+    return DateTime.fromJSDate(dateObj, { zone: zone || "utc" }).toFormat(
+      format || "LLLL dd yyyy"
     );
   });
 
-  // https://html.spec.whatwg.org/multipage/common-microsyntaxes.html#valid-date-string
   eleventyConfig.addFilter("htmlDateString", (dateObj) => {
-    return DateTime.fromJSDate(dateObj, { zone: "utc" }).toISO();
+    // dateObj input: https://html.spec.whatwg.org/multipage/common-microsyntaxes.html#valid-date-string
+    return DateTime.fromJSDate(dateObj, { zone: "utc" }).toFormat("yyyy-LL-dd");
   });
 
   // Get the first `n` elements of a collection.
   eleventyConfig.addFilter("head", (array, n) => {
+    if (!Array.isArray(array) || array.length === 0) {
+      return [];
+    }
     if (n < 0) {
       return array.slice(n);
     }
@@ -52,25 +88,16 @@ module.exports = function (eleventyConfig) {
   });
 
   // Filter out certain tags from lists
-  function filterTagList(tags) {
+  eleventyConfig.addFilter("filterTagList", function filterTagList(tags) {
     return (tags || []).filter(
       (tag) =>
-        ["all", "post", "posts", "bestof", "haikus", "readinglists"].indexOf(
-          tag
-        ) === -1
+        ["all", "posts", "bestof", "haikus", "readinglists"].indexOf(tag) === -1
     );
-  }
+  });
 
-  eleventyConfig.addFilter("filterTagList", filterTagList);
-
-  // Create an array (collection) of all tags
-  eleventyConfig.addCollection("tagList", function (collection) {
-    let tagSet = new Set();
-    collection.getAll().forEach((item) => {
-      (item.data.tags || []).forEach((tag) => tagSet.add(tag));
-    });
-
-    return filterTagList([...tagSet]);
+  // Return the keys used in an object
+  eleventyConfig.addFilter("getKeys", (target) => {
+    return Object.keys(target);
   });
 
   // Group posts by year
@@ -92,19 +119,6 @@ module.exports = function (eleventyConfig) {
   });
 
   // Development filters
-  // Minify CSS
-  async function minifyCSS(content) {
-    if (this.type === "css") {
-      return new CleanCSS({ sourceMap: true }).minify(content).styles;
-    }
-
-    return content;
-  }
-
-  eleventyConfig.addPlugin(bundlerPlugin, {
-    transforms: [minifyCSS],
-  });
-
   // Minify HTML
   eleventyConfig.addTransform("htmlmin", function (content, outputPath) {
     if (process.env.ELEVENTY_ENV === "prod" && outputPath.endsWith(".html")) {
@@ -193,4 +207,4 @@ module.exports = function (eleventyConfig) {
       output: "_site",
     },
   };
-};
+}
