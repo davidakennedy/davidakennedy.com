@@ -1,9 +1,3 @@
 [build]
   publish = "_site"
   command = "npm run build"
-
-# Plugins
-[[plugins]]
-  package = "netlify-plugin-11ty"
-  [plugins.inputs]
-    cache_img = './assets/media'
