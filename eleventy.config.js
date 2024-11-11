@@ -37,7 +37,6 @@ export default function (eleventyConfig) {
   eleventyConfig.addPlugin(pluginImages);
   eleventyConfig.addPlugin(EleventyRenderPlugin);
   eleventyConfig.addPlugin(EleventyHtmlBasePlugin);
-  eleventyConfig.addPlugin(UpgradeHelper);
   eleventyConfig.setDataDeepMerge(true);
 
   eleventyConfig.addBundle("css", {
