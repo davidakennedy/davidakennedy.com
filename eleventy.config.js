@@ -9,7 +9,6 @@ import { EleventyHtmlBasePlugin } from "@11ty/eleventy";
 import markdownIt from "markdown-it";
 import CleanCSS from "clean-css";
 import htmlmin from "html-minifier";
-import UpgradeHelper from "@11ty/eleventy-upgrade-help";
 
 // Configuration and plugins.
 export default function (eleventyConfig) {
