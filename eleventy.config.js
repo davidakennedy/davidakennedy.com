@@ -175,6 +175,7 @@ export default function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy("_src/site.webmanifest");
   eleventyConfig.addPassthroughCopy("_src/_redirects");
   eleventyConfig.addPassthroughCopy("_src/_headers");
+  eleventyConfig.addPassthroughCopy("_src/feed/pretty-atom-feed.xsl");
 
   /* Markdown Overrides */
   let markdownLibrary = markdownIt({
