@@ -14,7 +14,7 @@ import htmlmin from "html-minifier";
 export default function (eleventyConfig) {
   eleventyConfig.addPlugin(feedPlugin, {
     type: "atom", // or "rss", "json"
-    outputPath: "/feed/feed.xml",
+    outputPath: "/feed/atom.xml",
     stylesheet: "pretty-atom-feed.xsl",
     collection: {
       name: "posts",
