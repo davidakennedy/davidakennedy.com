@@ -464,6 +464,11 @@ input[type="submit"]:focus {
   width: 100%;
 }
 
+.content img {
+  margin-left: auto;
+  margin-right: auto;
+}
+
 .site-footer {
   border-top: 1px solid var(--color-decorative);
   margin: 0 auto;
