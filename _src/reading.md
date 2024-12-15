@@ -26,3 +26,5 @@ The list:
 8. _Chip War: The Fight for the World's Most Critical Technology_ by Chris Miller
 9. _Supercommunicators: How to Unlock the Secret Language of Connection_ by Charles Duhigg
 10. _Prequel: An American Fight Against Fascism_ by Rachel Maddow
+11. _Mating in Captivity_ by Esther Perel
+12. _The Algebra of Wealth: A Simple Formula for Financial Security_ by Scott Galloway
