@@ -28,3 +28,4 @@ The list:
 10. _Prequel: An American Fight Against Fascism_ by Rachel Maddow
 11. _Mating in Captivity_ by Esther Perel
 12. _The Algebra of Wealth: A Simple Formula for Financial Security_ by Scott Galloway
+13. _A Court of Thorns and Roses_ by Sarah J. Maas
