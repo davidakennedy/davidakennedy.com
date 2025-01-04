@@ -1,6 +1,7 @@
 ---
 title: Reading in 2017
 description: What David A. Kennedy read in 2017.
+date: 2017-12-31T23:30:00+00:00
 ---
 
 A page detailing what I read in 2017. Any must-read recommendations will have a heart &hearts; next to them. That means I could see myself reading it again. Other books may be worth reading, but I may not get as much value out of rereads.

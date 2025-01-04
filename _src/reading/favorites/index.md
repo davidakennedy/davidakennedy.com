@@ -1,6 +1,7 @@
 ---
 title: Favorite Books
 description: David A. Kennedy's favorite books.
+date: 2017-12-31T23:25:00+00:00
 ---
 
 A list of my favorite books, gathered in one place. I mark a book a favorite if I could see myself reading it again.
