@@ -28,7 +28,7 @@ You can be curious and challenge your own assumptions without asking questions i
 
 For those who do accessibility work:
 
-## Getting the Basics Right
+## Get the Basics Right
 
 The majority of the accessibility work that happens on a regular basis falls into getting the basics right. Diving into accessibility can prove intimidating because it can be both technical and contextual. Much of the basics end up with straightforward answers though. If you spend time on nailing the basics, you’re ahead of 80 percent of the designers out there.
 
