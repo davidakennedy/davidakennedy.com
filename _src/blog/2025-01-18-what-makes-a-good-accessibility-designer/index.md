@@ -37,7 +37,6 @@ The majority of the accessibility work that happens on a regular basis falls int
 Accessibility work has two main goals:
 
 1. Make the interface work for the widest possible audience, starting with people with disabilities.
-
 2. Make the interface better than before.
 
 That’s how I’ve approached the work in the decade-plus I’ve done it. If you aim for perfection, nothing may happen that makes an impact. The second point helps you skirt the desire and tendency to make your changes perfect. Remember, accessibility is another design constraint. And constraints often lead to compromises and that’s expected.
