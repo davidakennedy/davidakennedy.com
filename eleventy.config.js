@@ -135,25 +135,6 @@ export default function (eleventyConfig) {
     return startYear + " - " + new Date().getFullYear();
   });
 
-  // Print build time
-  // https://www.aleksandrhovhannisyan.com/blog/eleventy-build-info/
-  eleventyConfig.addGlobalData("buildInfo", () => {
-    const now = new Date();
-    const timeZone = "UTC";
-    const buildTime = new Intl.DateTimeFormat("en-US", {
-      dateStyle: "full",
-      timeStyle: "short",
-      timeZone,
-    }).format(now);
-
-    return {
-      time: {
-        raw: now.toISOString(),
-        formatted: `${buildTime} ${timeZone}`,
-      },
-    };
-  });
-
   // Used to grab a random array in a data file: taglines.js
   eleventyConfig.addFilter("randomItem", (arr) => {
     return arr[Math.floor(Math.random() * arr.length)];
