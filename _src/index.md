@@ -52,3 +52,13 @@ If that's not enough, here are some of the latest posts from my blog.
 {% include "partials/post-list.njk" %}
 
 <mark><a href="{{ '/blog/' | url }}">Read more posts on the blog</a>.</mark>
+
+<hr>
+
+## Now
+
+I'm currently:
+
+- Contributing more to the design system at work. My latest project involved improving focus styles for better accessibility.
+- Taking guitar lessons, learning small parts of songs like _Free Falling_ and _Sweet Home Alabama_.
+- Slinging kettlebells around even more. I can finally perform a few new movements and have started working them into my routine.

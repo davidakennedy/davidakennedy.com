@@ -9,6 +9,7 @@ import { EleventyHtmlBasePlugin } from "@11ty/eleventy";
 import markdownIt from "markdown-it";
 import CleanCSS from "clean-css";
 import htmlmin from "html-minifier";
+import mdAnchor from "markdown-it-anchor";
 
 // Configuration and plugins.
 export default function (eleventyConfig) {
@@ -164,7 +165,7 @@ export default function (eleventyConfig) {
     breaks: true,
     typographer: true,
     quotes: "“”‘’",
-  });
+  }).use(mdAnchor, {});
   eleventyConfig.setLibrary("md", markdownLibrary);
 
   return {

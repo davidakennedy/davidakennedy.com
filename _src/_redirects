@@ -25,3 +25,6 @@ https://davidakennedy.netlify.app/* https://davidakennedy.com 301!
 
 # Better feed URL
 /feed/ /feed/atom.xml 200!
+
+# Now content on home page
+/now/ /#now 301!
