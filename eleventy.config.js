@@ -8,6 +8,7 @@ import { EleventyRenderPlugin } from "@11ty/eleventy";
 import { EleventyHtmlBasePlugin } from "@11ty/eleventy";
 import markdownIt from "markdown-it";
 import CleanCSS from "clean-css";
+import { minify } from "terser";
 import htmlmin from "html-minifier-terser";
 import mdAnchor from "markdown-it-anchor";
 
@@ -129,6 +130,22 @@ export default function (eleventyConfig) {
       });
       return minified;
     }
+    return content;
+  });
+
+  // Minify JS files
+  eleventyConfig.addTransform("jsmin", async function (content, outputPath) {
+    if (
+      process.env.ELEVENTY_ENV === "prod" &&
+      (this.page.outputPath || "").endsWith(".js")
+    ) {
+      const minified = await minify(content, {});
+      return minified.code;
+
+      return minified;
+    }
+
+    // If not an HTML output, return content as-is
     return content;
   });
 
