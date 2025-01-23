@@ -8,7 +8,7 @@ import { EleventyRenderPlugin } from "@11ty/eleventy";
 import { EleventyHtmlBasePlugin } from "@11ty/eleventy";
 import markdownIt from "markdown-it";
 import CleanCSS from "clean-css";
-import htmlmin from "html-minifier";
+import htmlmin from "html-minifier-terser";
 import mdAnchor from "markdown-it-anchor";
 
 // Configuration and plugins.
@@ -122,13 +122,19 @@ export default function (eleventyConfig) {
   eleventyConfig.addTransform("htmlmin", function (content, outputPath) {
     if (process.env.ELEVENTY_ENV === "prod" && outputPath.endsWith(".html")) {
       let minified = htmlmin.minify(content, {
-        useShortDoctype: true,
-        removeComments: true,
         collapseWhitespace: true,
+        removeComments: true,
+        useShortDoctype: true,
+        minifyJS: true,
       });
       return minified;
     }
     return content;
+  });
+
+  // Minify JSON for Schema.org
+  eleventyConfig.addFilter("jsonmin", function (code) {
+    return JSON.stringify(JSON.parse(code));
   });
 
   // Get current year for copyright.
