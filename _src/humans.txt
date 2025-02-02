@@ -34,17 +34,18 @@ https://davidakennedy.com
 - Libraries
   - Feather Icons (https://feathericons.com/)
   - Reasonable Colors (https://reasonable.work/colors/)
-  - Old style fonts, courtesy of Modern Font Stacks: (https://github.com/system-fonts/modern-font-stacks#old-style).
+  - Source Sans (https://github.com/adobe-fonts/source-sans)
+  - Source Serif (https://github.com/adobe-fonts/source-serif)
 
 - Browsers
   - Chrome (https://www.google.com/chrome/)
   - Edge (https://www.microsoft.com/en-us/windows/microsoft-edge)
   - Firefox (https://www.mozilla.org/en-US/firefox/new/)
   - Safari (http://www.apple.com/safari/)
-  - Opera (http://www.opera.com/)
 
 - Software and Services
-  - MacOS (http://www.apple.com/macos/sierra/)
-  - Nova (https://nova.app)
+  - MacOS (http://www.apple.com/macos/)
   - Windows 10 (https://www.microsoft.com/en-us/windows)
+  - Nova (https://nova.app)
   - NVDA (http://www.nvaccess.org/)
+  - Google Webfonts Helper (https://gwfh.mranftl.com/fonts)
