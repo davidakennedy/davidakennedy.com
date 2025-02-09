@@ -10,7 +10,7 @@ tags:
 
 Putting your work out into the world can intimidate even the most creative and confident of artists. You do that when you blog, but many fail to put it on the same scale as writing a novel or painting a landscape, for example. Why is it so hard to just blog? A number of reasons come to mind, and I've encountered most of them during my career as a writer and my hobby as a blogger. I wanted to share some advice to help make hitting the publish button easier.
 
-{% image "./photo-1441260038675-7329ab4cc264.jpeg", "Jellyfish." %}
+![Jellyfish.](./photo-1441260038675-7329ab4cc264.jpeg)
 
 ## Consume What Inspires You
 
@@ -23,7 +23,7 @@ A writer's quote about this that I love:
 > “The greatest part of a writer’s time is spent in reading, in order to write; a man will turn over half a library to make one book.”
 > <cite>– Samuel Johnson</cite>
 
-{% image "./photo-1441716844725-09cedc13a4e7.jpeg", "Man overlooking canyon." %}
+![Man overlooking canyon.](./photo-1441716844725-09cedc13a4e7.jpeg)
 
 ## Blogging Helps You Process
 
@@ -34,7 +34,7 @@ A writer's thoughts on this topic:
 > "Writers live twice."
 > <cite>– Natalie Goldberg</cite>
 
-{% image "./421174c4.jpeg", "Curvy road with fog." %}
+![Curvy road with fog.](./421174c4.jpeg)
 
 ## Start Over Now and Then
 
@@ -45,7 +45,7 @@ As a writer once said:
 > "The road to hell is paved with works-in-progress."
 > <cite>– Philip Roth</cite>
 
-{% image "./photo-1430763474775-bd6e332eb415.jpeg", "Blowfish." %}
+![Blowfish.](./photo-1430763474775-bd6e332eb415.jpeg)
 
 ## Be You
 

@@ -8,8 +8,8 @@ tags:
   - Work
 ---
 
-{% image "./grandmeetup2015-2.jpg", "", "Purple flowers on cliff overlooking Canyons Resort." %}
-{% image "./grandmeetup2015-3.jpg", "", "Holly Trail overlooking hills." %}
-{% image "./grandmeetup2015-4.jpg", "", "Holly Trail at Canyons Resort." %}
+![Purple flowers on cliff overlooking Canyons Resort.](./grandmeetup2015-2.jpg)
+![Holly Trail with a curvy dirt path, overlooking hills.](./grandmeetup2015-3.jpg)
+![Holly Trail at Canyons Resort, overlooking a grassy field with mountains in the background.](./grandmeetup2015-4.jpg)
 
 A few photos from my hike yesterday of the Holly Trail at the Canyons Resort in Park City, Utah.

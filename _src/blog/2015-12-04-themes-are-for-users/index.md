@@ -14,7 +14,7 @@ I love themes because they're central to the WordPress experience. After they in
 
 ## Meet Michelle
 
-{% image "./22543493511_0ba6a83b35_o.jpg", "Michelle, a black woman with glasses, wearing a leather jacket.", "[Source](http://www.wocintechchat.com/blog/wocintechphotos)." %}
+![Michelle, a black woman with glasses, wearing a leather jacket.](./22543493511_0ba6a83b35_o.jpg)
 
 Meet Michelle. She wants to build a website to showcase the creativity that goes into her handmade purses and handbag accessories. She's a full-time college student in her second year studying fashion marketing and management. She works part time at the school library and enjoys reading, photography and rowing as hobbies. She's 20 years-old, maintains a 3.6 grade point average and is goal oriented. She's interested in photo blogging about her creative process and building a community of followers on her blog. She's fairly tech-savvy, owns an iPhone 5s and Chromebook. She loves browsing Etsy for pattern ideas, symbols and other neat inspiration that could adorn her handbags.
 
@@ -121,3 +121,5 @@ As you move through your theming process:
 - After theming: Ask yourself what you've learned. Iterate.
 
 My favorite thing on the Internet is clicking on a link and landing on a personal site, customized by the author. A good WordPress theme can open up a new world to those using it, and in turn, reveal something unique about the site's owner to the world. A theme can become the centerpiece to someone's story. That can't happen without all of us making better WordPress themes. Themes that just work for users like Michelle. Let's build them.
+
+_Images from [WOCinTechChat](http://www.wocintechchat.com/blog/wocintechphotos)._
