@@ -8,6 +8,6 @@ tags:
   - Work
 ---
 
-{% featuredimage "./3-9-core-contributors.jpg", "", "That's my name in the Core Contributors list for WordPress 3.9." %}
+<img src="./3-9-core-contributors.jpg" alt="David A. Kennedy's name in the Core Contributors list for WordPress 3.9." loading="eager" decoding="sync"/>
 
 I helped out with [Ticket #27590](https://core.trac.wordpress.org/ticket/27590), helping fix a simple form field/label issue. It feels great to contribute to WordPress in a new way!

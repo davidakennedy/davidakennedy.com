@@ -11,7 +11,7 @@
   <article class="post h-entry">
     <div class="content e-content stack">
       {%- if featuredimg and img -%}
-        {% featuredimage img, imgalt %}
+        <img src="{{img}}" alt="{{imgalt}}"/>
       {%- endif -%}
       <h1 class="title p-name">{{ title }}</h1>
       <p class="meta">

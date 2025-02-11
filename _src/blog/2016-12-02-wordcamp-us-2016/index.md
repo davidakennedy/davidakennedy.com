@@ -7,4 +7,4 @@ tags:
   - Conferences
 ---
 
-{% featuredimage "./wcus2016-1.jpg", "WordCamp US 2016 conference badge with red, white and blue design, stars, leafs and the words David A. Kennedy.", "WordCamp US 2016 conference badge." %}
+<img src="./wcus2016-1.jpg" alt="WordCamp US 2016 conference badge with red, white and blue design, stars, leafs and the words David A. Kennedy, WordCamp US 2016." loading="eager" decoding="sync"/>

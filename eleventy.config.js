@@ -3,7 +3,7 @@ import { DateTime } from "luxon";
 import { feedPlugin } from "@11ty/eleventy-plugin-rss";
 import pluginSyntaxHighlight from "@11ty/eleventy-plugin-syntaxhighlight";
 import pluginNavigation from "@11ty/eleventy-navigation";
-import pluginImages from "./eleventy.images.js";
+import { eleventyImageTransformPlugin } from "@11ty/eleventy-img";
 import { EleventyRenderPlugin } from "@11ty/eleventy";
 import { EleventyHtmlBasePlugin } from "@11ty/eleventy";
 import markdownIt from "markdown-it";
@@ -36,7 +36,21 @@ export default function (eleventyConfig) {
     preAttributes: { tabindex: 0 },
   });
   eleventyConfig.addPlugin(pluginNavigation);
-  eleventyConfig.addPlugin(pluginImages);
+  eleventyConfig.addPlugin(eleventyImageTransformPlugin, {
+    extensions: "html",
+    // output image formats
+    formats: ["webp", "jpeg"],
+
+    // output image widths
+    widths: [400, 800],
+
+    // optional, attributes assigned on <img> nodes override these values
+    defaultAttributes: {
+      decoding: "async",
+      loading: "lazy",
+      sizes: "800px",
+    },
+  });
   eleventyConfig.addPlugin(EleventyRenderPlugin);
   eleventyConfig.addPlugin(EleventyHtmlBasePlugin);
   eleventyConfig.setDataDeepMerge(true);

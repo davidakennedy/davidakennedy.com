@@ -8,7 +8,7 @@ layout: page
 ---
 
 <a class="image-link" href="http://accessiblezen.davidakennedy.com">
-  {% featuredimage "./accessible-zen-screenshot.png", "Accessible Zen demo." %}
+  <img src="./accessible-zen-screenshot.png" alt="Accessible Zen demo." loading="eager" decoding="sync"/>
 </a>
 
 ## Intro

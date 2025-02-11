@@ -7,6 +7,6 @@ tags:
   - Personal
 ---
 
-{% featuredimage "./nemo1.jpg", "", "Hi, I'm Nemo." %}
+<img src="./nemo1.jpg" alt="Small, blond Chihuahua climbing on someone's chest, looking up at the camera." loading="eager" decoding="sync"/>
 
 Today, I had to say goodbye to my buddy, Nemo. I'll miss his happy screeches and nose nuzzles. Thanks for being an awesome dog, buddy!

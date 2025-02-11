@@ -7,4 +7,4 @@ tags:
   - Conferences
 ---
 
-{% featuredimage "./wcus2015-1.jpg", "WordCamp US 2015 and Community Summit conference badges, both with rectangular designs, WordPress logos and the words David A. Kennedy.", "WordCamp US 2015 and Community Summit conference badges." %}
+<img src="./wcus2015-1.jpg" alt="WordCamp US 2015 and Community Summit conference badges, both with rectangular designs, WordPress logos and the words David A. Kennedy, WordCamp US 2015 and Community Summit." loading="eager" decoding="sync"/>
