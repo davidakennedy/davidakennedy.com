@@ -8,7 +8,7 @@
     <div class="content stack">
       {%- if featuredimg and img -%}
         <figure>
-          <img src="{{img}}" alt="{{imgalt}}"/>
+          <img src="{{img}}" alt="{{imgalt}}" loading="eager" decoding="sync"/>
         </figure>
       {%- endif -%}
       <h1 class="title p-name">{{ title }}</h1>
