@@ -7,4 +7,4 @@ tags:
   - Conferences
 ---
 
-<img src="./grandmeetup2017-1.jpg" alt="Automattic Grand Meetup conference badge with avatar, mountains in background and the words David A. Kennedy, Automattic Grand Meetup 2017." loading="eager" decoding="sync"/>
+<figure><img src="./grandmeetup2017-1.jpg" alt="Automattic Grand Meetup conference badge with avatar, mountains in background and the words David A. Kennedy, Automattic Grand Meetup 2017." loading="eager" decoding="sync"/></figure>

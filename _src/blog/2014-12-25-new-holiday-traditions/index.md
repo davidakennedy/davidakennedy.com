@@ -15,5 +15,7 @@ Today, we started a few new traditions for the holidays as a family.
 Hopefully, we can keep these traditions going no matter where we are on Christmas day. We may have to start the cookie baking earlier for future visits from Santa for the kiddo.
 
 ![Peanut butter cookies on a plate.](./holidays2014-1.jpg)
+
 ![Chocolate chocolate chip cookies on a baking sheet.](./holidays2014-2.jpg)
+
 ![Pumpkin pie in a pie dish.](./holidays2014-3.jpg)

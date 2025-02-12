@@ -7,4 +7,4 @@ tags:
   - Conferences
 ---
 
-<img src="./wceu2017-1.jpg" alt="WordCamp Europe 2017 and Community Summit conference badges with black and white design and the words David A. Kennedy, WordCamp Europe 2017 and Community Summit." loading="eager" decoding="sync"/>
+<figure><img src="./wceu2017-1.jpg" alt="WordCamp Europe 2017 and Community Summit conference badges with black and white design and the words David A. Kennedy, WordCamp Europe 2017 and Community Summit." loading="eager" decoding="sync"/></figure>

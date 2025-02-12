@@ -10,7 +10,7 @@ tags:
   - Work
 ---
 
-<img src="./accessible-zen-screenshot-0.png" alt="One column design, with white background, blue links and blue headers." loading="eager" decoding="sync"/>
+<figure><img src="./accessible-zen-screenshot-0.png" alt="One column design, with white background, blue links and blue headers." loading="eager" decoding="sync"/></figure>
 
 Accessibility is hard. It shouldn't have to be.
 

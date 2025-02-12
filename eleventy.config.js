@@ -11,6 +11,7 @@ import CleanCSS from "clean-css";
 import { minify } from "terser";
 import htmlmin from "html-minifier-terser";
 import mdAnchor from "markdown-it-anchor";
+import implicitFigures from "markdown-it-image-figures";
 
 // Configuration and plugins.
 export default function (eleventyConfig) {
@@ -202,7 +203,9 @@ export default function (eleventyConfig) {
     breaks: true,
     typographer: true,
     quotes: "“”‘’",
-  }).use(mdAnchor, {});
+  })
+    .use(mdAnchor, {})
+    .use(implicitFigures, {});
   eleventyConfig.setLibrary("md", markdownLibrary);
 
   return {

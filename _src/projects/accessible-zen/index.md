@@ -8,7 +8,7 @@ layout: page
 ---
 
 <a class="image-link" href="http://accessiblezen.davidakennedy.com">
-  <img src="./accessible-zen-screenshot.png" alt="Accessible Zen demo." loading="eager" decoding="sync"/>
+  <figure><img src="./accessible-zen-screenshot.png" alt="Accessible Zen demo." loading="eager" decoding="sync"/></figure>
 </a>
 
 ## Intro

@@ -7,7 +7,9 @@
   <div class="home-page">
     <div class="content stack">
       {%- if featuredimg and img -%}
-        <img src="{{img}}" alt="{{imgalt}}"/>
+        <figure>
+          <img src="{{img}}" alt="{{imgalt}}"/>
+        </figure>
       {%- endif -%}
       <h1 class="title p-name">{{ title }}</h1>
       {{ content | safe }}

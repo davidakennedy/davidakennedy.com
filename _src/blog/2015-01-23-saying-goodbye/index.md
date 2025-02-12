@@ -7,6 +7,6 @@ tags:
   - Personal
 ---
 
-<img src="./nemo1.jpg" alt="Small, blond Chihuahua climbing on someone's chest, looking up at the camera." loading="eager" decoding="sync"/>
+<figure><img src="./nemo1.jpg" alt="Small, blond Chihuahua climbing on someone's chest, looking up at the camera." loading="eager" decoding="sync"/></figure>
 
 Today, I had to say goodbye to my buddy, Nemo. I'll miss his happy screeches and nose nuzzles. Thanks for being an awesome dog, buddy!

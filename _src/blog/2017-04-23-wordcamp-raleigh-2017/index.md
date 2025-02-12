@@ -7,4 +7,4 @@ tags:
   - Conferences
 ---
 
-<img src="./wcraleigh2017-1.jpg" alt="WordCamp Raleigh 2017 conference badge with green background and white type with the words David A. Kennedy, WordCamp Raleigh 2017." loading="eager" decoding="sync"/>
+<figure><img src="./wcraleigh2017-1.jpg" alt="WordCamp Raleigh 2017 conference badge with green background and white type with the words David A. Kennedy, WordCamp Raleigh 2017." loading="eager" decoding="sync"/></figure>

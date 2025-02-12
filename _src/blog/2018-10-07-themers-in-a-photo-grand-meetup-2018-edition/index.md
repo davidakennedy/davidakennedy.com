@@ -7,4 +7,4 @@ tags:
   - Automattic
 ---
 
-<img src="./grandmeetup2018-1.jpg" alt="A set of three photos, grouped together with people making funny faces and wearing funny hats." loading="eager" decoding="sync"/>
+<figure><img src="./grandmeetup2018-1.jpg" alt="A set of three photos, grouped together with people making funny faces and wearing funny hats." loading="eager" decoding="sync"/></figure>

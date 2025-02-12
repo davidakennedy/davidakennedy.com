@@ -17,10 +17,13 @@ Sadly, I didn't take as many photos as I normally do. My phone started acting up
 I'm excited to get the projects we worked on launched soon. I'm more excited for the future of our team. It comes with some changes, but I think those will work out in the end.
 
 ![Many different types of pottery, including mugs, robots, containers and more, painted and ready to be fired.](./theam-montreal2017-2.jpg)
+
 ![A small ceramic robot, painted with a red heart on its chest and blue eyes, ready to be fired.](./theam-montreal2017-3.jpg)
 
 We went to a few activities as a team, including a spoken story event, painting ceramics and more. As much as I love my work, I love my team even more.
 
 ![Eight members of the Theme Team, plus Ian Stewart, standing in front of a fountain.](./theam-montreal2017-4.jpg)
+
 ![Several members of the Theme Team, backs turned in front of a fountain.](./theam-montreal2017-5.jpg)
+
 ![Eight members of the Theme Team standing in front of a fountain.](./theam-montreal2017-6.jpg)

@@ -10,7 +10,7 @@ tags:
   - Work
 ---
 
-<img src="./twentyseventeen-commit.png" alt="Screenshot showing the initial commit of Twenty Seventeen." loading="eager" decoding="sync"/>
+<figure><img src="./twentyseventeen-commit.png" alt="Screenshot showing the initial commit of Twenty Seventeen." loading="eager" decoding="sync"/></figure>
 
 Last night, I made my [first commit to WordPress](https://core.trac.wordpress.org/changeset/38833/)!
 
