@@ -16,4 +16,4 @@ You can also see what I read in past years, at least when I began keeping track 
 
 The list:
 
-Just getting started for 2025.
+1. _A Court of Mist and Fury_ by Sarah J. Maas
