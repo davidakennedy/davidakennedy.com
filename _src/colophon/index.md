@@ -19,4 +19,6 @@ The site is built on [11ty](https://www.11ty.dev/), which runs on top of [Node.j
 
 You can find more details in the [humans.txt]({{ '/humans.txt' | url }}) file for the site. You can also [find the source code on GitHub](https://github.com/davidakennedy/davidakennedy.com).
 
+This site uses no artificial intelligence and does not track you.
+
 {% include "partials/a11ywebring.njk" %}
