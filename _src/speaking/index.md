@@ -9,6 +9,14 @@ layout: page
 
 I love talking about the web and have spoken at a number of events and conferences. My primary topics include WordPress and accessibility. See the listing below for past engagements and slides.
 
+## 2024
+
+No speaking engagements.
+
+## 2023
+
+No speaking engagements.
+
 ## 2022
 
 - **Accessibility Beyond Compliance: Centering Disabled People in Government Technology**: Code for America Summit 2022; May, 2022; Remote. [YouTube video of the talk from the Code For America Summit](https://www.youtube.com/watch?v=mTN9Zg48JRw). I helped colleagues prepare for this panel discussion on accessibility within the government space by providing content feedback. I also moderated the chat during the panel. Super proud of the panel the team put together.
