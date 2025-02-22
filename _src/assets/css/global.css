@@ -9,10 +9,11 @@
   word-break: break-word;
 }
 
+body,
 input,
 button,
-textarea,
-select {
+select,
+textarea {
   font: inherit;
 }
 
@@ -82,7 +83,6 @@ select {
   background-color: var(--color-background);
   color: var(--color-text);
   font-family: var(--font-body);
-  font-size: clamp(1rem, 0.688rem + 1.563vw, 1.25rem);
   font-weight: 400;
   height: 100%;
   line-height: 1.4;
@@ -90,6 +90,16 @@ select {
 
 body {
   min-height: 100vh;
+}
+
+@media (min-width: 37.5rem) {
+  body,
+  input,
+  button,
+  select,
+  textarea {
+    font-size: 125%;
+  }
 }
 
 /* Utilities */
@@ -155,7 +165,7 @@ body {
 
 /* Intro utility */
 .intro {
-  font-size: 1.1rem;
+  font-size: 125%;
 }
 
 /* Elements */
@@ -171,19 +181,19 @@ h6 {
 }
 
 h1 {
-  font-size: 1.6rem;
+  font-size: 150%;
 }
 
 h2 {
-  font-size: 1.4rem;
+  font-size: 130%;
 }
 
 h3 {
-  font-size: 1.2rem;
+  font-size: 120%;
 }
 
 h4 {
-  font-size: 1.1rem;
+  font-size: 110%;
   letter-spacing: 0.06em;
   text-transform: uppercase;
 }
@@ -218,7 +228,7 @@ pre {
   border: 0.05em solid var(--color-decorative);
   border-radius: 0.1em;
   font-family: var(--font-code);
-  font-size: 0.9rem;
+  font-size: 87.5%;
   line-height: 1.2;
   margin: var(--space-xsmall) 0;
   overflow: auto;
@@ -238,7 +248,7 @@ abbr {
 }
 
 small {
-  font-size: 0.8rem;
+  font-size: 87.5%;
 }
 
 table,
@@ -299,7 +309,7 @@ li > ol {
 }
 
 figcaption {
-  font-size: 0.8rem;
+  font-size: 87.5%;
   margin-top: var(--space-xsmall);
 }
 
@@ -347,8 +357,8 @@ a:active {
 }
 
 .skip-link {
-  font-size: 0.8rem;
-  font-weight: 600;
+  font-size: 87.5%;
+  font-weight: 700;
   left: var(--space);
   padding: var(--space-xsmall);
   position: absolute;
@@ -377,7 +387,7 @@ a:active {
 
 /* Forms */
 label {
-  font-weight: 600;
+  font-weight: 700;
 }
 
 input[type="text"],
@@ -416,7 +426,7 @@ input[type="submit"] {
   border-radius: 0.25em;
   color: var(--color-text);
   cursor: pointer;
-  font-weight: 600;
+  font-weight: 700;
   padding: 0.25rem 0.5rem;
   position: relative;
   -webkit-appearance: none;
@@ -454,22 +464,22 @@ input[type="submit"]:focus {
 /* Containers and spacing */
 .site-header {
   margin: 0 auto;
-  max-width: 40rem;
+  max-width: 50rem;
   padding: var(--space-large) 0;
 }
 
 .site-title {
-  font-size: 0.8rem;
-  font-weight: 600;
+  font-size: 87.5%;
+  font-weight: 700;
   padding: var(--space-xsmall);
 }
 
 .site-breadcrumbs li:first-child {
-  font-weight: 600;
+  font-weight: 700;
 }
 
 .site-breadcrumbs {
-  font-size: 0.8rem;
+  font-size: 87.5%;
 }
 
 .site-breadcrumbs li:not(:last-child)::after {
@@ -484,7 +494,7 @@ input[type="submit"]:focus {
 .content > *:not(figure, hr) {
   margin-left: auto;
   margin-right: auto;
-  max-width: 36rem;
+  max-width: 45rem;
   padding: 0 var(--space-xsmall);
 }
 
@@ -492,7 +502,7 @@ input[type="submit"]:focus {
 .content > hr {
   margin-left: auto;
   margin-right: auto;
-  max-width: 40rem;
+  max-width: 50rem;
   width: 100%;
 }
 
@@ -504,12 +514,12 @@ input[type="submit"]:focus {
 .site-footer {
   border-top: 1px solid var(--color-decorative);
   margin: 0 auto;
-  max-width: 40rem;
+  max-width: 50rem;
   padding: var(--space-large) 0;
 }
 
 .site-footer > * {
-  font-size: 0.8rem;
+  font-size: 87.5%;
   margin-top: var(--space);
 }
 
@@ -522,7 +532,6 @@ input[type="submit"]:focus {
 }
 
 .tagline {
-  font-size: 0.7rem;
   text-align: center;
 }
 
