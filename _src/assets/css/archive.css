@@ -39,13 +39,13 @@
 }
 
 .post-list + .year-number {
-  margin-top: var(--space-xxlarge);
+  margin-top: var(--space-xxxxlarge);
 }
 
 .year-number {
   display: flex;
   flex-wrap: wrap;
-  gap: var(--space-xsmall);
+  gap: var(--space-xxxxsmall);
 }
 
 .year-number .meta {
@@ -53,9 +53,9 @@
 }
 
 .post-list > * + * {
-  margin-top: var(--space-xlarge);
+  margin-top: var(--space-xxlarge);
 }
 
 .post-list .post-excerpt {
-  margin-top: var(--space-small);
+  margin-top: var(--space-xsmall);
 }

@@ -29,8 +29,8 @@ pre[class*="language-"] {
 
 /* Code blocks */
 pre[class*="language-"] {
-  padding: var(--space-xsmall);
-  margin: var(--space-xsmall) 0;
+  padding: var(--space-xxsmall);
+  margin: var(--space-xxsmall) 0;
   overflow: auto;
   border-radius: 0.3em;
 }
