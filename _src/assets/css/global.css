@@ -73,11 +73,13 @@ textarea {
     "DejaVu Sans Mono", monospace;
 
   /* Space */
-  --space-xsmall: 0.35rem;
-  --space-small: 0.7rem;
-  --space: 1.4rem;
-  --space-large: 2.8rem;
-  --space-xlarge: 4.2rem;
+  --space-xxsmall: 0.25rem;
+  --space-xsmall: 0.5rem;
+  --space-small: 1rem;
+  --space: 1.5rem;
+  --space-large: 2rem;
+  --space-xlarge: 2.5rem;
+  --space-xxlarge: 3rem;
 
   /* Some styles */
   background-color: var(--color-background);
@@ -85,7 +87,7 @@ textarea {
   font-family: var(--font-body);
   font-weight: 400;
   height: 100%;
-  line-height: 1.4;
+  line-height: 1.5;
 }
 
 body {
@@ -93,11 +95,7 @@ body {
 }
 
 @media (min-width: 37.5rem) {
-  body,
-  input,
-  button,
-  select,
-  textarea {
+  body {
     font-size: 125%;
   }
 }
@@ -130,7 +128,7 @@ body {
 /* Stack utility
    every-layout.dev */
 .stack > * + * {
-  margin-top: var(--space, 1.4rem);
+  margin-top: var(--space, 1.5rem);
 }
 
 .stack > h1 + *,
@@ -386,10 +384,6 @@ a:active {
 }
 
 /* Forms */
-label {
-  font-weight: 700;
-}
-
 input[type="text"],
 input[type="email"],
 input[type="search"],
@@ -426,7 +420,6 @@ input[type="submit"] {
   border-radius: 0.25em;
   color: var(--color-text);
   cursor: pointer;
-  font-weight: 700;
   padding: 0.25rem 0.5rem;
   position: relative;
   -webkit-appearance: none;
@@ -465,7 +458,7 @@ input[type="submit"]:focus {
 .site-header {
   margin: 0 auto;
   max-width: 50rem;
-  padding: var(--space-large) 0;
+  padding: var(--space-xlarge) 0 var(--space-large) 0;
 }
 
 .site-title {
@@ -513,13 +506,13 @@ input[type="submit"]:focus {
 
 .site-footer {
   border-top: 1px solid var(--color-decorative);
+  font-size: 87.5%;
   margin: 0 auto;
   max-width: 50rem;
-  padding: var(--space-large) 0;
+  padding: var(--space-large) 0 var(--space-xlarge) 0;
 }
 
-.site-footer > * {
-  font-size: 87.5%;
+.site-footer > *:not(:first-child) {
   margin-top: var(--space);
 }
 

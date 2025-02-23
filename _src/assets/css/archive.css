@@ -20,7 +20,7 @@
 
 .pagination a {
   display: inline-block;
-  padding: var(--space-xsmall);
+  padding: var(--space-xxsmall);
 }
 
 .email-signup svg,
@@ -39,7 +39,7 @@
 }
 
 .post-list + .year-number {
-  margin-top: var(--space-large);
+  margin-top: var(--space-xxlarge);
 }
 
 .year-number {
@@ -53,7 +53,7 @@
 }
 
 .post-list > * + * {
-  margin-top: var(--space-large);
+  margin-top: var(--space-xlarge);
 }
 
 .post-list .post-excerpt {
