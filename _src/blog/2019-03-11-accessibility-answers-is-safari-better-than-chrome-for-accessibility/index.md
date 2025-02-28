@@ -28,6 +28,6 @@ All valid questions, but in today's "modern web" most browsers are comparable wh
 
 This post from [Maxability on screen reader and browser combinations](http://www.maxability.co.in/2017/02/screen-reader-and-browser-combination-for-accessibility/) has more information. And if you want some [survey data on screen reader usage](https://webaim.org/projects/screenreadersurvey7/), WebAIM has puts together some on a regular basis.
 
-Follow the series [Accessibility Answers](/tag/accessibility-answers/). Ask me a question via my [contact form](/contact/) or [Twiter](https://twitter.com/DavidAKennedy).
+Follow the series [Accessibility Answers](/tags/accessibility-answers/). Ask me a question via my [contact form](/contact/) or [Twiter](https://twitter.com/DavidAKennedy).
 
 _Image by [rawpixel](https://unsplash.com/photos/Gx_o9dbqf34t)._

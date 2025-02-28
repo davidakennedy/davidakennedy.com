@@ -8,4 +8,4 @@ tags:
   - Work
 ---
 
-WebAIM featured one of my latest posts in its [July 2015 Newsletter](http://webaim.org/newsletter/2015/july). Check it out or read the post, [Practicing Web Accessibility Differently](/blog/practicing-web-accessibility-differently/). I'm excited to see it in front of a wider audience because it's part of a series I wrote called [Everyday Accessibility](/tag/everyday-accessibility/) that I'm really proud of.
+WebAIM featured one of my latest posts in its [July 2015 Newsletter](http://webaim.org/newsletter/2015/july). Check it out or read the post, [Practicing Web Accessibility Differently](/blog/practicing-web-accessibility-differently/). I'm excited to see it in front of a wider audience because it's part of a series I wrote called [Everyday Accessibility](/tags/everyday-accessibility/) that I'm really proud of.

@@ -8,7 +8,7 @@ tags:
   - Site Design
 ---
 
-I put a new coat of paint on my site this past weekend. If you follow me on Twitter, it may look familiar. It's my [Accessible Zen WordPress Theme](/projects/accessible-zen/), something I've worked on a lot recently and have been [writing about on my blog](/tag/accessible-zen/).
+I put a new coat of paint on my site this past weekend. If you follow me on Twitter, it may look familiar. It's my [Accessible Zen WordPress Theme](/projects/accessible-zen/), something I've worked on a lot recently and have been [writing about on my blog](/tags/accessible-zen/).
 
 I know. I know. It hasn't been that long since [my last redesign](/blog/new-look-same-feel/). But here's the thing. I had to put this theme on my site. That's how much I like it! 🙂 Plus, it's a way for me to "eat my own dog food" as they say. If it's good enough for the WordPress community I'm building it for, it's good enough for me. It's also helped me squash a few more bugs in the theme.
 

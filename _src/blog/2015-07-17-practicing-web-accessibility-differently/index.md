@@ -9,7 +9,7 @@ tags:
   - Everyday Accessibility
 ---
 
-_This is the third in a three-part series on [everyday accessibility](/tag/everyday-accessibility)._
+_This is the third in a three-part series on [everyday accessibility](/tags/everyday-accessibility)._
 
 We make tasks, obstacles and goals harder than they are because we fear the unknown. Accessibility is no different, but you can change that perception by shining light on the unknown each day. With what you ask? What you already know.
 
@@ -61,4 +61,4 @@ The truth in this extends beyond users. Often we, the people who design and buil
 
 At each turning point, you should ask yourself, “How is this going to work?” Start the conversation with yourself and others. There are no bad questions or answers. Only the ones that never get asked or voiced. Accessibility is something you can do every day.
 
-_This is the third in a three-part series on [everyday accessibility](/tag/everyday-accessibility). Much of the content for this post came from a guest post I wrote for Digital Gov called [Accessibility Is (Not) Scary](http://www.digitalgov.gov/2015/02/20/accessibility-is-not-scary-2/)._
+_This is the third in a three-part series on [everyday accessibility](/tags/everyday-accessibility). Much of the content for this post came from a guest post I wrote for Digital Gov called [Accessibility Is (Not) Scary](http://www.digitalgov.gov/2015/02/20/accessibility-is-not-scary-2/)._

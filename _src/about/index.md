@@ -23,7 +23,7 @@ You can learn more about my professional experience by visiting my [Linkedin pro
 - [Now](/#now)
 - [Résumé](/resume/)
 - [Speaking](/speaking/)
-- [Selected Writing](/tag/selected-writing/)
+- [Selected Writing](/tags/selected-writing/)
 - [Reading](/reading/)
 - [Haikus](/haikus/)
 - [On GitHub](https://github.com/davidakennedy)

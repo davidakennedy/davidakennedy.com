@@ -76,6 +76,6 @@ If you want more explanation, check out the [W3C's alt decision tree](http://www
 
 All images should have an alt attribute, even if it's empty or null, like: `alt=""`.
 
-Follow the series [Accessibility Answers](/tag/accessibility-answers/). Ask me a question via my [contact page](/contact/) or [Twiter](https://twitter.com/DavidAKennedy).
+Follow the series [Accessibility Answers](/tags/accessibility-answers/). Ask me a question via my [contact page](/contact/) or [Twiter](https://twitter.com/DavidAKennedy).
 
 _Image by [rawpixel](https://unsplash.com/photos/Gx_o9dbqf34t)._

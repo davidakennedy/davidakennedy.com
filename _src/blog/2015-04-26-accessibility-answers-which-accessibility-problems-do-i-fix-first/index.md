@@ -25,6 +25,6 @@ That area of focus could be keyboard accessibility, adding missing labels or wha
 
 Further reading: [You Don’t have Accessibility Problems, You have Quality Problems](http://www.karlgroves.com/2015/01/01/you-dont-have-accessibility-problems-you-have-quality-problems/)
 
-Follow the series [Accessibility Answers](http://davidakennedy.com/tag/accessibility-answers/). Ask me a question via my [contact page](/contact/) or [Twiter](https://twitter.com/DavidAKennedy).
+Follow the series [Accessibility Answers](http://davidakennedy.com/tags/accessibility-answers/). Ask me a question via my [contact page](/contact/) or [Twiter](https://twitter.com/DavidAKennedy).
 
 _Image by [rawpixel](https://unsplash.com/photos/Gx_o9dbqf34t)._

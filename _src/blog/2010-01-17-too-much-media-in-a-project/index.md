@@ -38,6 +38,6 @@ Here's the strategy we're taking on our London project:
 
 These three simple steps have helped guide us and keep the amount of media we have from overwhelming us. That lets us concentrate on the important part of the project – the story.
 
-To follow my journey in London, and the creative project my classmates and I produce, be sure to check this blog regularly. You can explore all the [posts about London 2010 here](/tag/london-2010/). Also, please follow me on [Twitter](http://twitter.com/DavidAKennedy).
+To follow my journey in London, and the creative project my classmates and I produce, be sure to check this blog regularly. You can explore all the [posts about London 2010 here](/tags/london-2010/). Also, please follow me on [Twitter](http://twitter.com/DavidAKennedy).
 
 _Image by [Vincent Botta](https://unsplash.com/photos/wYD_wfifJVs)._

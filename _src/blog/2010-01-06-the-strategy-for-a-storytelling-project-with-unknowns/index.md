@@ -27,4 +27,4 @@ I like that approach – for any big storytelling project.
 
 You'll never know all the details. So plan all that is possible and be ready to be flexible.
 
-To follow my journey in London, and the creative project my classmates and I produce, be sure to check this blog regularly. You can explore all the [posts about London 2010 here](/tag/london-2010/). Also, please follow me on [Twitter](http://twitter.com/DavidAKennedy).
+To follow my journey in London, and the creative project my classmates and I produce, be sure to check this blog regularly. You can explore all the [posts about London 2010 here](/tags/london-2010/). Also, please follow me on [Twitter](http://twitter.com/DavidAKennedy).

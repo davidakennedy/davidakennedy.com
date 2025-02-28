@@ -1,5 +1,5 @@
 # Better blog urls
-/:year/:month/:day/:slug/  /blog/:slug 301
+/:year/:month/:day/:slug/  /blog/:slug/ 301!
 
 # Redirect some old subdomains
 https://wpthemes.davidakennedy.com https://davidakennedy.com/projects/accessible-zen/ 301!
@@ -28,3 +28,6 @@ https://davidakennedy.netlify.app/* https://davidakennedy.com 301!
 
 # Now content on home page
 /now/ /#now 301!
+
+# Better tag urls
+/tag/:tag/  /tags/:tag/ 301!

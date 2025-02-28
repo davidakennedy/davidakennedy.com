@@ -41,7 +41,7 @@ I approach my work through a few principles:
 
 ## Writing Highlights
 
-Speaking of words, I've collected a few of my [favorite posts I've written elsewhere](/tag/selected-writing/). You might enjoy reading them or my favorites from this site.
+Speaking of words, I've collected a few of my [favorite posts I've written elsewhere](/tags/selected-writing/). You might enjoy reading them or my favorites from this site.
 
 {% set posts = collections.bestof | reverse %}
 {% include "partials/post-list.njk" %}

@@ -10,7 +10,7 @@ tags:
   - Work
 ---
 
-I'm really proud of how [Accessible Zen has evolved](/tag/accessible-zen/) in the last few months. Today it reaches another important milestone: it's first beta release.
+I'm really proud of how [Accessible Zen has evolved](/tags/accessible-zen/) in the last few months. Today it reaches another important milestone: it's first beta release.
 
 The first beta release gets thorough documentation, which you can [check out in the Github repository](https://github.com/davidakennedy/accessible-zen/blob/master/accessible-zen-documentation.txt).
 

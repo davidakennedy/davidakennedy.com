@@ -31,4 +31,4 @@ Go with this strategy:
 
 It's a simple strategy, but one that can help you accomplish anything.
 
-To follow my journey in London, and the creative project my classmates and I produce, be sure to check this blog regularly. You can explore all the [posts about London 2010 here](/tag/london-2010/). Also, please follow me on [Twitter](http://twitter.com/DavidAKennedy).
+To follow my journey in London, and the creative project my classmates and I produce, be sure to check this blog regularly. You can explore all the [posts about London 2010 here](/tags/london-2010/). Also, please follow me on [Twitter](http://twitter.com/DavidAKennedy).

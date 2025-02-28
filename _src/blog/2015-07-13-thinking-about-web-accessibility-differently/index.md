@@ -9,7 +9,7 @@ tags:
   - Everyday Accessibility
 ---
 
-_This is the first in a three-part series on [everyday accessibility](/tag/everyday-accessibility)._
+_This is the first in a three-part series on [everyday accessibility](/tags/everyday-accessibility)._
 
 Accessibility is hard. It shouldn't be.
 
@@ -36,4 +36,4 @@ You need to:
 
 You can help make web accessibility a reality, and easier for everyone who creates on and uses the web. You know what to do next.
 
-_This is the first in a three-part series on [everyday accessibility](/tag/everyday-accessibility)._
+_This is the first in a three-part series on [everyday accessibility](/tags/everyday-accessibility)._

@@ -16,7 +16,7 @@ If you've ever tested sites for accessibility, the results may not surprise you.
 
 Eric Bailey [wrote about the results eloquently](https://ericwbailey.design/writing/2019-03-05-fighting-uphill.html). He compared inaccessible websites to structurally unsound bridges. Would you use a bridge with possible known faults? No. Yet, we ask people to do this every day with inaccessible sites.
 
-Ethan Marcotte [issued a call to action in his post](https://ethanmarcotte.com/wrote/the-web-we-broke/) about the results. He asked us to ask ourselves, "_What’s _**one thing**_ I wish I understood better about accessibility?_" He even recommended my own [Accessibility Weekly](https://a11yweekly.com/) as a way to learn. That question rattles around in my brain constantly. So much so, I wrote [a few blog posts](/tag/accessibility-answers/) about questions I get around the topic.
+Ethan Marcotte [issued a call to action in his post](https://ethanmarcotte.com/wrote/the-web-we-broke/) about the results. He asked us to ask ourselves, "_What’s _**one thing**_ I wish I understood better about accessibility?_" He even recommended my own [Accessibility Weekly](https://a11yweekly.com/) as a way to learn. That question rattles around in my brain constantly. So much so, I wrote [a few blog posts](/tags/accessibility-answers/) about questions I get around the topic.
 
 But one of the questions that I keep coming back to the most?
 
@@ -30,7 +30,7 @@ Karl Groves has written about [quality problems related to accessibility](http:/
 
 Marcy Sutton's [A11y Wins blog](https://a11ywins.tumblr.com/) has great examples of paying attention to quality.
 
-**Hypothesis number two (related to one)**: Most accessibility challenges come down to three factors: decisions, people and details. I [wrote about this in the past](/blog/practicing-web-accessibility-differently/) in a series I called [Everyday Accessibility](/tag/everyday-accessibility/). We won't make all the right decisions. People won't always know enough about how to design or build an accessible experience. Details come and go so fast in projects that we may not pay attention to enough of them. These factors help drive quality.
+**Hypothesis number two (related to one)**: Most accessibility challenges come down to three factors: decisions, people and details. I [wrote about this in the past](/blog/practicing-web-accessibility-differently/) in a series I called [Everyday Accessibility](/tags/everyday-accessibility/). We won't make all the right decisions. People won't always know enough about how to design or build an accessible experience. Details come and go so fast in projects that we may not pay attention to enough of them. These factors help drive quality.
 
 Let's focus on making the concrete a bit more level every time way lay a new slab. Anyone can make the web more accessible one change at a time.
 

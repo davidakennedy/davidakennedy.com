@@ -9,7 +9,7 @@ tags:
   - Everyday Accessibility
 ---
 
-_This is the second in a three-part series on [everyday accessibility](/tag/everyday-accessibility)._
+_This is the second in a three-part series on [everyday accessibility](/tags/everyday-accessibility)._
 
 No one wants to talk about accessibility. At least not in an open, honest way.
 
@@ -29,4 +29,4 @@ Accessibility carries the same fluidity as the web. Web accessibility is progres
 
 Our words can set expectations, deliver inspiration and provide a foundation for action. Let's talk about accessibility in a way that isn't so black and white and still. Instead, let's talk about it as something always in motion, full of chances, twists and turns. The progress of where that all goes belongs to us.
 
-_This is the second in a three-part series on [everyday accessibility](/tag/everyday-accessibility)._
+_This is the second in a three-part series on [everyday accessibility](/tags/everyday-accessibility)._
