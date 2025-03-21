@@ -4,7 +4,6 @@ description: The website for David A. Kennedy, a designer and accessibility advo
 eleventyNavigation:
   key: Home
   parent: ""
-  title: David A. Kennedy
 layout: home
 ---
 

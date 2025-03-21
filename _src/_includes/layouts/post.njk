@@ -4,7 +4,8 @@
   {% include "_src/assets/css/syntax.css" %}
 {% endcss %}
 {% block header %}
-  {% include "partials/breadcrumbs.njk" %}
+  {% include "partials/site-title.njk" %}
+  {% include "partials/site-navigation.njk" %}
 {% endblock %}
 
 {% block content %}
@@ -40,7 +41,6 @@
 {% endblock %}
 
 {% block footer %}
-  {% include "partials/site-navigation.njk" %}
   {% include "partials/copyright.njk" %}
   {% include "partials/site-info-navigation.njk" %}
   {% include "partials/tagline.njk" %}

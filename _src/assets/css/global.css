@@ -161,10 +161,6 @@ body {
   padding: var(--space-xxsmall);
 }
 
-.nav-item-active > a {
-  font-weight: 700;
-}
-
 /* Intro utility */
 .intro {
   font-size: 125%;
@@ -460,28 +456,25 @@ input[type="submit"]:focus {
 
 /* Containers and spacing */
 .site-header {
+  align-items: center;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
   margin: 0 auto;
   max-width: 50rem;
   padding: var(--space-xxxxlarge) 0 var(--space-xlarge) 0;
 }
 
-.site-title {
+.site-title,
+.site-navigation a {
+  display: inline-block;
   font-size: 87.5%;
   font-weight: 700;
   padding: var(--space-xxsmall);
 }
 
-.site-breadcrumbs li:first-child {
-  font-weight: 700;
-}
-
-.site-breadcrumbs {
-  font-size: 87.5%;
-}
-
-.site-breadcrumbs li:not(:last-child)::after {
-  margin: 0 var(--space-xxxxsmall);
-  content: "/";
+.site-navigation svg {
+  vertical-align: middle;
 }
 
 .site-content {
