@@ -14,3 +14,5 @@ You can also see what I read in past years, at least when I began keeping track 
 The list:
 
 1. _A Court of Mist and Fury_ by Sarah J. Maas
+2. _Small Things Like These_ by Claire Keegan
+3. _All Systems Red_ by Martha Wells
