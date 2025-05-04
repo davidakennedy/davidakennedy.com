@@ -1,9 +1,6 @@
 ---
 title: Contact
 description: Contact David A. Kennedy.
-eleventyNavigation:
-  key: Contact
-  parent: Home
 layout: page
 ---
 

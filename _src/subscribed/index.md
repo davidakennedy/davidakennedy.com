@@ -1,8 +1,5 @@
 ---
 title: Thank You for Subscribing
-eleventyNavigation:
-  key: Thank You for Subscribing
-  parent: Home
 description: You're the best for signing up.
 layout: page
 ---

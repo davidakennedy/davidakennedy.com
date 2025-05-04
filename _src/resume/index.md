@@ -1,9 +1,6 @@
 ---
 title: Résumé
 description: David A. Kennedy's résumé.
-eleventyNavigation:
-  key: Résumé
-  parent: Home
 layout: page
 ---
 

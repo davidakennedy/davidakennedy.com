@@ -1,9 +1,6 @@
 ---
 title: Offline
 description: View pages on davidakennedy.com when you're offline.
-eleventyNavigation:
-  key: Offline
-  parent: Home
 layout: page
 ---
 

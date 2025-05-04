@@ -3,7 +3,7 @@ title: Blog
 description: Where David A. Kennedy goes to write.
 eleventyNavigation:
   key: Blog
-  parent: Home
+  order: 2
 pagination:
   data: collections.posts
   size: 10

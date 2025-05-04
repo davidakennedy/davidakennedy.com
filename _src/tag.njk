@@ -13,9 +13,6 @@ pagination:
   addAllPagesToCollections: true
 eleventyComputed:
   title: Tagged “{{ tag }}”
-  eleventyNavigation:
-    key: Tagged “{{ tag }}”
-    parent: Tags
 layout: page
 permalink: /tags/{{ tag | slugify }}/
 ---

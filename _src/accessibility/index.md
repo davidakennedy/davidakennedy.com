@@ -1,9 +1,6 @@
 ---
 title: Accessibility Statement
 description: How davidakennedy.com approaches accessibility.
-eleventyNavigation:
-  key: Accessibility Statement
-  parent: Home
 layout: page
 ---
 

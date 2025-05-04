@@ -1,9 +1,6 @@
 ---
 title: Haikus
 description: A collection of haikus by David A. Kennedy.
-eleventyNavigation:
-  key: Haikus
-  parent: Home
 layout: page
 ---
 

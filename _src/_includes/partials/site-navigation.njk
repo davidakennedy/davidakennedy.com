@@ -1,10 +1,14 @@
-{% set navLinks = collections.all | eleventyNavigationBreadcrumb(eleventyNavigation.key) %}
+{% set navLinks = collections.all | eleventyNavigation %}
 {% if navLinks.length > 0 %}
-  <nav class="site-navigation" aria-label="Site">
-    {% for crumb in navLinks | head(-1) %}
-      <a href="{{ crumb.url | url }}" class="site-navigation-link">
-        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-arrow-up-left"><line x1="17" y1="17" x2="7" y2="7"></line><polyline points="7 17 7 7 17 7"></polyline></svg>Back to {{ crumb.title }}
-      </a>
-    {% endfor %}
+  <nav>
+    <ul class="nav">
+    {%- for entry in navLinks %}
+      <li class="nav-item">
+        <a href="{{ entry.url }}"{% if entry.url == page.url %} aria-current="page"{% endif %}>
+          {{ entry.title }}
+        </a>
+      </li>
+    {%- endfor %}
+    </ul>
   </nav>
 {% endif %}

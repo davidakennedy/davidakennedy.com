@@ -1,9 +1,6 @@
 ---
 title: Speaking
 description: A list of David A. Kennedy's past speaking engagements.
-eleventyNavigation:
-  key: Speaking
-  parent: Home
 layout: page
 ---
 
