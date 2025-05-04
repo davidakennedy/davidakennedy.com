@@ -38,3 +38,5 @@ A page detailing what I read in 2020. Any must-read recommendations will have a 
 26. _The Little Book of Hygge: The Danish Way to Live Well_ by Meik Wiking
 27. _In Praise of Slowness: Challenging the Cult of Speed_ by Carl Honoré
 28. _The Fifth Season_ by N.K. Jemisin
+
+[Back to Reading](/reading/)

@@ -52,3 +52,5 @@ A page detailing what I read in 2021. Any must-read recommendations will have a 
 40. &hearts; _Exhalation_ by Ted Chiang
 41. _The Appalachian Trail: A Biography_ by Philip D'Anieri
 42. _Bored and Brilliant: How Spacing Out Can Unlock Your Most Productive & Creative Self_ by Manoush Zomorodi
+
+[Back to Reading](/reading/)

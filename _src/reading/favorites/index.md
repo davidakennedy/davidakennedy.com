@@ -52,3 +52,5 @@ A list of my favorite books, gathered in one place. I mark a book a favorite if 
 - _The Underground Railroad_ by Colson Whitehead
 - _The Nickel Boys_ by Colson Whitehead
 - _Lincoln in the Bardo_ by George Saunders
+
+[Back to Reading](/reading/)

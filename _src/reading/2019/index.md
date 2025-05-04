@@ -45,3 +45,5 @@ A page detailing what I read in 2019. Any must-read recommendations will have a 
 33. &hearts; _Sword of Destiny_ by Andrzej Sapkowski
 34. _Blood of Elves_ by Andrzej Sapkowski
 35. _The Time of Contempt_ by Andrzej Sapkowski
+
+[Back to Reading](/reading/)

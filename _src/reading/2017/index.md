@@ -19,3 +19,5 @@ A page detailing what I read in 2017. Any must-read recommendations will have a 
 7. _ReWork_ by Jason Fried and David Heinemeier Hansson
 8. &hearts; _Adaptive Web Design: Crafting Rich Experiences with Progressive Enhancement_ by Aaron Gustafson
 9. _Grit: The Power of Passion and Perseverance_ by Angela Duckworth
+
+[Back to Reading](/reading/)

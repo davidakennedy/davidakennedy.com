@@ -51,3 +51,5 @@ A page detailing what I read in 2022. Any must-read recommendations will have a 
 39. &hearts; _Lincoln in the Bardo_ by George Saunders
 40. _Do Nothing: How to Break Away from Overworking, Overdoing, and Underliving_ by Celeste Headlee
 41. _The Paris Dressmaker_ by Kristy Cambron
+
+[Back to Reading](/reading/)
