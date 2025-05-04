@@ -32,3 +32,5 @@ A page detailing what I read in 2018. Any must-read recommendations will have a 
 20. _How to Write Short: Word Craft for Fast Times_ by Roy Peter Clark
 21. _The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change_ by Stephen R. Covey
 22. _Leadership: In Turbulent Times_ by Doris Kearns Goodwin
+
+[Back to Reading](/reading/)
