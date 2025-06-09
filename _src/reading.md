@@ -16,3 +16,6 @@ The list:
 1. _A Court of Mist and Fury_ by Sarah J. Maas
 2. _Small Things Like These_ by Claire Keegan
 3. _All Systems Red_ by Martha Wells
+4. _Artificial Condition_ by Martha Wells
+5. _Neverwhere_ by Neil Gaiman
+6. _The Subtle Art of Not Giving a F\*ck: A Counterintuitive Approach to Living a Good Life_ by Mark Manson
