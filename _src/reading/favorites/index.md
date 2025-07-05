@@ -14,9 +14,11 @@ A list of my favorite books, gathered in one place. I mark a book a favorite if 
 - _Inspired: How to Create Tech Products Customers Love_ by Marty Cagan
 - _Deep Work: Rules for Focused Success in a Distracted World_ by Cal Newport
 - _Mismatch: How Inclusion Shapes Design_ by Kat Holmes
+- _Adaptive Web Design: Crafting Rich Experiences with Progressive Enhancement_ by Aaron Gustafson
 
 ## Nonfiction
 
+- _Leadership in Turbulent Times_ by Doris Kearns Goodwin
 - _Team of Rivals: The Political Genius of Abraham Lincoln_ by Doris Kearns Goodwin
 - _Silence: In the Age of Noise_ by Erling Kagge
 - _Essentialism: The Disciplined Pursuit of Less_ by Greg McKeown

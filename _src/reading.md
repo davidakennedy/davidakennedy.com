@@ -19,3 +19,7 @@ The list:
 4. _Artificial Condition_ by Martha Wells
 5. _Neverwhere_ by Neil Gaiman
 6. _The Subtle Art of Not Giving a F\*ck: A Counterintuitive Approach to Living a Good Life_ by Mark Manson
+7. _Original Sin: President Biden's Decline, Its Cover-Up, and His Disastrous Choice to Run Again_ by Jake Tapper and Alex Thompson
+8. _Abundance_ by Ezra Klein and Derek Thompson
+9. _Rogue Protocol_ by Martha Wells
+10. _Exit Strategy_ by Martha Wells
