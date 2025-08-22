@@ -23,3 +23,7 @@ The list:
 8. _Abundance_ by Ezra Klein and Derek Thompson
 9. _Rogue Protocol_ by Martha Wells
 10. _Exit Strategy_ by Martha Wells
+11. _Network Effect_ by Martha Wells
+12. _The Personal MBA_ by Josh Kaufman
+13. _Fugitive Telemetry_ by Martha Wells
+14. _The Elements of Reading, Writing ... and Life_ by Joe Moran
