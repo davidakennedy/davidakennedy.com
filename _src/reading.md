@@ -27,3 +27,7 @@ The list:
 12. _The Personal MBA_ by Josh Kaufman
 13. _Fugitive Telemetry_ by Martha Wells
 14. _The Elements of Reading, Writing ... and Life_ by Joe Moran
+15. _System Collapse_ by Martha Wells
+16. _The Sirens' Call: How Attention Became the World's Most Endangered Resource_ by Chris Hayes
+17. _Just Enough Research: 2024 Edition_ by Erika Hall
+18. _The Situation Room: The Inside Story of Presidents in Crisis_ by George Stephanopoulos
