@@ -31,3 +31,6 @@ The list:
 16. _The Sirens' Call: How Attention Became the World's Most Endangered Resource_ by Chris Hayes
 17. _Just Enough Research: 2024 Edition_ by Erika Hall
 18. _The Situation Room: The Inside Story of Presidents in Crisis_ by George Stephanopoulos
+19. _Endurance: Shackleton's Incredible Voyage_ by Alfred Lansing
+20. _On Tyranny: Twenty Lessons from the Twentieth Century_ by Timothy Snyder
+21. _A Court of Wings and Ruin_ by Sarah J. Maas
