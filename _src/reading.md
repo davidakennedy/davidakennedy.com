@@ -34,3 +34,4 @@ The list:
 19. _Endurance: Shackleton's Incredible Voyage_ by Alfred Lansing
 20. _On Tyranny: Twenty Lessons from the Twentieth Century_ by Timothy Snyder
 21. _A Court of Wings and Ruin_ by Sarah J. Maas
+22. _Win Every Argument: The Art of Debating, Persuading, and Public Speaking_ by Mehdi Hasan
