@@ -354,6 +354,7 @@ a:active {
 
 .skip-link.focusable:focus {
   position: absolute;
+  z-index: 1;
 }
 
 .image-link {
