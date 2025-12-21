@@ -3,18 +3,11 @@
 :after,
 :before {
   box-sizing: border-box;
+  font: inherit;
   margin: 0;
   padding: 0;
   color: inherit;
   word-break: break-word;
-}
-
-body,
-input,
-button,
-select,
-textarea {
-  font: inherit;
 }
 
 /* Fonts */
@@ -66,10 +59,12 @@ textarea {
   --color-visited: #794aff;
 
   /* Fonts */
-  --font-headings: "Source Serif 4", "Iowan Old Style", "Palatino Linotype",
-    "URW Palladio L", P052, serif;
+  --font-headings:
+    "Source Serif 4", "Iowan Old Style", "Palatino Linotype", "URW Palladio L",
+    P052, serif;
   --font-body: "Source Sans 3", system-ui, sans-serif;
-  --font-code: ui-monospace, "Cascadia Code", "Source Code Pro", Menlo, Consolas,
+  --font-code:
+    ui-monospace, "Cascadia Code", "Source Code Pro", Menlo, Consolas,
     "DejaVu Sans Mono", monospace;
 
   /* Space */
@@ -151,10 +146,6 @@ body {
   flex-wrap: wrap;
   list-style: none;
   padding-left: 0;
-}
-
-.nav li {
-  margin: 0;
 }
 
 .nav a {
@@ -288,21 +279,19 @@ hr {
   height: 0.05em;
 }
 
-ul,
-ol {
+ul:not([class]),
+ol:not([class]) {
   padding-left: var(--space);
-  margin-top: 0;
 }
 
-ul > li,
-ol > li {
+ul > li:not([class]),
+ol > li:not([class]) {
   list-style-position: inside;
   margin-top: var(--space-xxsmall);
 }
 
-li > ul,
-li > ol {
-  margin-bottom: 0;
+li > ul:not([class]),
+li > ol:not([class]) {
   padding-left: var(--space);
 }
 
@@ -411,7 +400,6 @@ textarea {
 }
 
 button,
-.button,
 input[type="button"],
 input[type="reset"],
 input[type="submit"] {
@@ -426,7 +414,6 @@ input[type="submit"] {
 }
 
 button:hover,
-.button:hover,
 input[type="button"]:hover,
 input[type="reset"]:hover,
 input[type="submit"]:hover {
@@ -435,7 +422,6 @@ input[type="submit"]:hover {
 }
 
 button:active,
-.button:active,
 input[type="button"]:active,
 input[type="reset"]:active,
 input[type="submit"]:active {
@@ -443,7 +429,6 @@ input[type="submit"]:active {
 }
 
 button:focus,
-.button:focus,
 input[type="button"]:focus,
 input[type="reset"]:focus,
 input[type="submit"]:focus {
@@ -471,10 +456,6 @@ input[type="submit"]:focus {
   font-size: 87.5%;
   font-weight: 700;
   padding: var(--space-xxsmall);
-}
-
-.site-navigation svg {
-  vertical-align: middle;
 }
 
 .site-content {
@@ -513,12 +494,8 @@ input[type="submit"]:focus {
   margin-top: var(--space);
 }
 
-.site-footer > *:not(nav, p.tagline) {
+.site-footer > *:not(nav) {
   padding-left: var(--space-xxsmall);
-}
-
-.tagline {
-  text-align: center;
 }
 
 /* Going dark */
