@@ -3,11 +3,18 @@
 :after,
 :before {
   box-sizing: border-box;
-  font: inherit;
   margin: 0;
   padding: 0;
   color: inherit;
   word-break: break-word;
+}
+
+body,
+input,
+button,
+select,
+textarea {
+  font: inherit;
 }
 
 /* Fonts */
