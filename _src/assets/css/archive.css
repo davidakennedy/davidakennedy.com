@@ -38,6 +38,10 @@
   align-self: center;
 }
 
+.year-number + .post-list {
+  margin-top: var(--space-xxsmall);
+}
+
 .post-list > * + * {
   margin-top: var(--space-xxlarge);
 }
