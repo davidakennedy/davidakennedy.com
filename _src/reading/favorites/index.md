@@ -35,6 +35,7 @@ A list of my favorite books, gathered in one place. I mark a book a favorite if 
 - _Four Thousand Weeks: Time Management for Mortals_ by Oliver Burkeman
 - _How to Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking – for Students, Academics and Nonfiction Book Writers_ by Sönke Ahrens
 - _And There Was Light: Abraham Lincoln and the American Struggle_ by Jon Meacham
+- _Meditations for Mortals: Four Weeks to Embrace Your Limitations and Make Time for What Counts_ by Oliver Burkeman
 
 ## Fiction
 

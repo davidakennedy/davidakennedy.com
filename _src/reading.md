@@ -13,4 +13,5 @@ You can also see what I read in past years, at least when I began keeping track 
 
 The list:
 
-Just starting off for 2026.
+1. _These Truths: A History of the United States_ by Jill Lepore
+2. &hearts; _Meditations for Mortals: Four Weeks to Embrace Your Limitations and Make Time for What Counts_ by Oliver Burkeman
