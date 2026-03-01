@@ -15,3 +15,4 @@ The list:
 
 1. _These Truths: A History of the United States_ by Jill Lepore
 2. &hearts; _Meditations for Mortals: Four Weeks to Embrace Your Limitations and Make Time for What Counts_ by Oliver Burkeman
+3. &hearts; _Slow Productivity: The Lost Art of Accomplishment Without Burnout_ by Cal Newport
