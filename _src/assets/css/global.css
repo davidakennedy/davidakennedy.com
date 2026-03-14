@@ -282,7 +282,7 @@ td {
 
 hr {
   background-color: var(--color-decorative);
-  border: 0;
+  border: none;
   height: 0.05em;
 }
 
@@ -454,8 +454,8 @@ input[type="submit"]:focus {
   flex-wrap: wrap;
   justify-content: space-between;
   margin: 0 auto;
-  max-width: 60rem;
-  padding: var(--space-xxxxlarge) 0 var(--space-xlarge) 0;
+  max-width: 45rem;
+  padding: var(--space-xxxxlarge) var(--space-xxsmall) var(--space-xlarge);
 }
 
 .site-title,
@@ -467,35 +467,21 @@ input[type="submit"]:focus {
 }
 
 .site-content {
-  padding: var(--space-xlarge) 0;
-}
-
-.content > *:not(figure, hr) {
-  margin-left: auto;
-  margin-right: auto;
+  margin: 0 auto;
   max-width: 45rem;
-  padding: 0 var(--space-xxsmall);
+  padding: var(--space-xlarge) var(--space-xxsmall);;
 }
 
-.content > figure,
-.content > hr {
-  margin-left: auto;
-  margin-right: auto;
-  max-width: 50rem;
-  width: 100%;
-}
-
-.content img {
-  margin-left: auto;
-  margin-right: auto;
+.content > * {
+  max-width: 70ch;
 }
 
 .site-footer {
   border-top: 1px solid var(--color-decorative);
   font-size: 87.5%;
   margin: 0 auto;
-  max-width: 60rem;
-  padding: var(--space-xlarge) 0 var(--space-xxxxlarge) 0;
+  max-width: 45rem;
+  padding: var(--space-xlarge) var(--space-xxsmall); var(--space-xxxxlarge);
 }
 
 .site-footer > *:not(:first-child) {
