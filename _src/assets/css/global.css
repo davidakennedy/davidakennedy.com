@@ -469,7 +469,7 @@ input[type="submit"]:focus {
 .site-content {
   margin: 0 auto;
   max-width: 45rem;
-  padding: var(--space-xlarge) var(--space-xxsmall);;
+  padding: var(--space-xlarge) var(--space-xxsmall);
 }
 
 .content > * {
@@ -477,11 +477,10 @@ input[type="submit"]:focus {
 }
 
 .site-footer {
-  border-top: 1px solid var(--color-decorative);
   font-size: 87.5%;
   margin: 0 auto;
   max-width: 45rem;
-  padding: var(--space-xlarge) var(--space-xxsmall); var(--space-xxxxlarge);
+  padding: var(--space-xlarge) var(--space-xxsmall) var(--space-xxxxlarge);
 }
 
 .site-footer > *:not(:first-child) {

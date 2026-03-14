@@ -18,7 +18,9 @@
 {% endblock %}
 
 {% block footer %}
-  {% include "partials/copyright.njk" %}
   {% include "partials/site-info-navigation.njk" %}
-  {% include "partials/tagline.njk" %}
+  <p>
+    {% include "partials/copyright.njk" %}
+    {% include "partials/tagline.njk" %}
+  </p>
 {% endblock %}
