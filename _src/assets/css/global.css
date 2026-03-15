@@ -294,8 +294,8 @@ ol:not([class]) {
   padding-left: var(--space);
 }
 
-ul > li:not([class]),
-ol > li:not([class]) {
+ul > li + li:not([class]),
+ol > li + li:not([class]) {
   margin-top: var(--space-xxxsmall);
 }
 
@@ -349,12 +349,6 @@ a:hover {
 a:active {
   outline: 0;
   top: 0.1em;
-}
-
-.skip {
-  margin-bottom: var(--space-small);
-  margin-top: var(--space);
-  text-align: center;
 }
 
 .skip-link {
@@ -447,6 +441,12 @@ input[type="submit"]:focus {
 }
 
 /* Containers and spacing */
+.skip {
+  margin-bottom: var(--space-small);
+  margin-top: var(--space);
+  text-align: center;
+}
+
 .site-header {
   align-items: center;
   display: flex;
