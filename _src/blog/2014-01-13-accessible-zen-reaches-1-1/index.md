@@ -38,4 +38,4 @@ You can read about all the updates below.
 - Update Genericons to version 3.0.2.
 - Move changelog to separate file.
 
-<mark><a href="http://wordpress.org/themes/accessible-zen">Download Accessible Zen</a> or <a href="http://wordpress.org/support/view/theme-reviews/accessible-zen">write a theme review</a>.</mark>
+[Download Accessible Zen](http://wordpress.org/themes/accessible-zen) or [write a theme review](http://wordpress.org/support/view/theme-reviews/accessible-zen).

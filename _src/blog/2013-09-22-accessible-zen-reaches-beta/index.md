@@ -32,4 +32,4 @@ I’d love to hear what you think! You can submit feedback on the [GitHub issue
 
 This is an Beta release. That means it's close to finished, but not quite there yet. I'm still developing the theme and I really don’t recommend that you run it on a production site — set up a test site just to play with it.
 
-<mark>Read more about <a href="/projects/accessible-zen/">Accessible Zen</a>, <a href="https://github.com/davidakennedy/accessible-zen">download the beta version</a> or <a href="http://accessiblezen.davidakennedy.com">view the demo</a>.</mark>
+Read more about [Accessible Zen](/projects/accessible-zen/), [download the beta version](https://github.com/davidakennedy/accessible-zen) or [view the demo](http://accessiblezen.davidakennedy.com).

@@ -11,7 +11,7 @@ tags:
 
 I just released version 1.2 of [Accessible Zen](/projects/accessible-zen/). It's the first update in a year, and features some bug fixes and improvements. The biggest improvement includes the use of WordPress.org language packs.
 
-<mark>Grab the theme in the <a href="http://wordpress.org/themes/accessible-zen">official theme directory</a>.</mark>
+Grab the theme in the [official theme directory](http://wordpress.org/themes/accessible-zen).
 
 For full details, see the changelog below:
 

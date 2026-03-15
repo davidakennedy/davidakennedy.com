@@ -34,4 +34,4 @@ And I have more accessible WordPress themes coming via the [Cities project](/blo
 
 I've hit 1.0, but I still would love to hear what you think! You can submit feedback on the [Github issues section](https://github.com/davidakennedy/Accessible-Zen/issues), or by emailing me at <me@davidakennedy.com>.
 
-<mark>Read more about <a href="/projects/accessible-zen/">Accessible Zen</a>, <a href="https://github.com/davidakennedy/accessible-zen">download the latest version</a> or <a href="http://accessiblezen.davidakennedy.com">view the demo</a>.</mark>
+Read more about [Accessible Zen](/projects/accessible-zen/), [download the latest version](https://github.com/davidakennedy/accessible-zen) or [view the demo](http://accessiblezen.davidakennedy.com).

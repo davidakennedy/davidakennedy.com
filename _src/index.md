@@ -10,7 +10,7 @@ layout: home
 
 I'm an accessibility advocate who loves the open web and open source design and code. I curate a popular newsletter called [Accessibility Weekly](https://a11yweekly.com/). Before working on the web, I wrote words instead of code as a journalist.
 
-<mark><a href="{{ '/about/' | url }}">Find out more about me</a>.</mark>
+[Find out more about me](/about/).
 
 <hr>
 
@@ -31,7 +31,7 @@ I approach my work through a few principles:
 - Helping people level up
 - Building healthy teams and cultures that foster growth
 
-<mark><a href="{{ '/projects/' | url }}">Learn more about my side projects</a>.</mark>
+[Learn more about my side projects](/projects/)
 
 <hr>
 
@@ -47,7 +47,7 @@ If that's not enough, here are some of the latest posts from my blog.
 {% set posts = collections.posts | head(-5) | reverse %}
 {% include "partials/post-list.njk" %}
 
-<mark><a href="{{ '/blog/' | url }}">Read more posts on the blog</a>.</mark>
+[Read more posts on the blog](/blog/).
 
 <hr>
 

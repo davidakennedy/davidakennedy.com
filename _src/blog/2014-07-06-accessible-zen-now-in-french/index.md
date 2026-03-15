@@ -14,7 +14,7 @@ Accessible Zen now comes packaged with a French translation, plus starter files 
 
 The changelog is below.
 
-<mark>Grab the theme in the <a href="http://wordpress.org/themes/accessible-zen">official theme directory</a>.</mark>
+Grab the theme in the [official theme directory](http://wordpress.org/themes/accessible-zen).
 
 **July 1, 2014**
 

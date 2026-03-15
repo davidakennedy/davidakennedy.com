@@ -13,7 +13,7 @@ I keep a small collection of side projects going to help me learn and grow.
 
 Accessibility Weekly is a weekly dose of web accessibility to help you bring it into your every day work.
 
-<mark><a href="http://a11yweekly.com">Visit the Accessibility Weekly site</a>.</mark>
+[Visit the Accessibility Weekly site](http://a11yweekly.com).
 
 <hr>
 
@@ -21,7 +21,7 @@ Accessibility Weekly is a weekly dose of web accessibility to help you bring it 
 
 A11y.me is an evolving list of the best resources in web accessibility. You can [check out the project on GitHub](https://github.com/davidakennedy/a11y.me).
 
-<mark><a href="http://a11y.me">Visit the Accessibility and Me site</a>.</mark>
+[Visit the Accessibility and Me site](http://a11y.me).
 
 <hr>
 
