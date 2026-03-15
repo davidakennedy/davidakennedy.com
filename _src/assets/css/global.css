@@ -288,6 +288,7 @@ hr {
 
 ul:not([class]),
 ol:not([class]) {
+  list-style-type: circle;
   padding-left: var(--space);
 }
 
