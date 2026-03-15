@@ -281,9 +281,11 @@ td {
 }
 
 hr {
-  background-color: var(--color-decorative);
+  background-color: var(--color-text);
   border: none;
-  height: 0.05em;
+  height: 0.1em;
+  margin: auto;
+  width: 16px;
 }
 
 ul:not([class]),
