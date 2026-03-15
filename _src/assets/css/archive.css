@@ -10,6 +10,14 @@
   padding: var(--space-xxsmall);
 }
 
+.older-posts a {
+  right: var(--space-xxsmall);
+}
+
+.newer-posts a {
+  left: var(--space-xxsmall);
+}
+
 .email-signup svg,
 .pagination svg {
   vertical-align: middle;
