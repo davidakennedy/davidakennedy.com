@@ -339,8 +339,7 @@ a:focus {
 }
 
 a:hover {
-  background-color: var(--color-link);
-  color: var(--color-background);
+  color: var(--color-link);
   outline: 0;
   text-decoration: none;
 }
