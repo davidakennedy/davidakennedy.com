@@ -455,7 +455,7 @@ input[type="submit"]:focus {
   justify-content: space-between;
   margin: 0 auto;
   max-width: 45rem;
-  padding: var(--space-xxxxlarge) var(--space-xxsmall) var(--space-xlarge);
+  padding: var(--space-xxxxlarge) 0 var(--space-xlarge);
 }
 
 .site-title,
@@ -480,7 +480,7 @@ input[type="submit"]:focus {
   font-size: 87.5%;
   margin: 0 auto;
   max-width: 45rem;
-  padding: var(--space-xlarge) var(--space-xxsmall) var(--space-xxxxlarge);
+  padding: var(--space-xlarge) 0 var(--space-xxxxlarge);
 }
 
 .site-footer > *:not(:first-child) {
@@ -488,7 +488,7 @@ input[type="submit"]:focus {
 }
 
 .site-footer > *:not(nav) {
-  padding-left: var(--space-xxsmall);
+  padding: 0 var(--space-xxsmall);
 }
 
 /* Going dark */
