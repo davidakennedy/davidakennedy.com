@@ -281,7 +281,7 @@ td {
 }
 
 hr {
-  background-color: var(--color-text);
+  background-color: var(--color-uie);
   border: none;
   height: 0.1em;
   margin: auto;
@@ -351,18 +351,16 @@ a:active {
   top: 0.1em;
 }
 
-.skip-link {
-  font-size: 87.5%;
-  font-weight: 700;
-  left: var(--space);
-  padding: var(--space-xxsmall);
-  position: absolute;
-  top: var(--space);
+.skip {
+  margin-bottom: var(--space-small);
+  margin-top: var(--space);
+  text-align: center;
 }
 
-.skip-link.focusable:focus {
-  position: absolute;
-  z-index: 1;
+.skip-link {
+  display: inline-block;
+  font-size: 75%;
+  padding: var(--space-xxsmall);
 }
 
 .image-link {
