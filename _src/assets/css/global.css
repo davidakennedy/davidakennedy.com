@@ -293,8 +293,7 @@ ol:not([class]) {
 
 ul > li:not([class]),
 ol > li:not([class]) {
-  list-style-position: inside;
-  margin-top: var(--space-xxsmall);
+  margin-top: var(--space-xxxsmall);
 }
 
 li > ul:not([class]),
