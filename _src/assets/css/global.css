@@ -87,6 +87,10 @@ textarea {
   --space-xxxlarge: 2.5rem;
   --space-xxxxlarge: 2.75rem;
   --space-xxxxxlarge: 3rem;
+  --space-xxxxxxlarge: 3.25rem;
+  --space-xxxxxxxlarge: 3.5rem;
+  --space-xxxxxxxxlarge: 3.75rem;
+  --space-xxxxxxxxxlarge: 4rem;
 
   /* Some styles */
   background-color: var(--color-background);
@@ -193,6 +197,15 @@ h5 {
 
 h6 {
   font-size: inherit;
+}
+
+.stack > * + h1,
+.stack > * + h2,
+.stack > * + h3,
+.stack > * + h4,
+.stack > * + h5,
+.stack > * + h6 {
+  margin-top: var(--space-xxxxxlarge);
 }
 
 figcaption {
