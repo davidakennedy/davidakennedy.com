@@ -22,9 +22,9 @@
 {% endblock %}
 
 {% block footer %}
-  {% include "partials/site-info-navigation.njk" %}
   <p>
     {% include "partials/copyright.njk" %}
     {% include "partials/tagline.njk" %}
   </p>
+  <a href="{{ '/feed/' | url }}">RSS</a>
 {% endblock %}

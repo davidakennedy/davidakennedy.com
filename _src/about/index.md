@@ -28,5 +28,7 @@ You can learn more about my professional experience by visiting my [Linkedin pro
 - [Haikus](/haikus/)
 - [On GitHub](https://github.com/davidakennedy)
 - [On CodePen](https://codepen.io/davidakennedy)
+- [Colophon](/colophon/)
+- [Accessibility Statement](/accessibility/)
 
 <small>[_Image courtesy of Fluxx Studios_](https://www.flickr.com/gp/fluxxstudios/8a31AC).</small>
