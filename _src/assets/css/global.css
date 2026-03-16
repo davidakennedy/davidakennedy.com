@@ -86,6 +86,7 @@ textarea {
   --space-xxlarge: 2.25rem;
   --space-xxxlarge: 2.5rem;
   --space-xxxxlarge: 2.75rem;
+  --space-xxxxxlarge: 3rem;
 
   /* Some styles */
   background-color: var(--color-background);
@@ -135,15 +136,6 @@ body {
    every-layout.dev */
 .stack > * + * {
   margin-top: var(--space, 1.5rem);
-}
-
-.stack > h1 + *,
-.stack > h2 + *,
-.stack > h3 + *,
-.stack > h4 + *,
-.stack > h5 + *,
-.stack > h6 + * {
-  margin-top: var(--space-small);
 }
 
 /* Navigation utility */
@@ -492,7 +484,7 @@ input[type="submit"]:focus {
 
 /* A few one-offs */
 .home-page .stack > .title + div {
-  margin-top: var(--space-large);
+  margin-top: var(--space-xxxxxlarge);
 }
 
 /* Going dark */

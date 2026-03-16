@@ -12,8 +12,6 @@ I'm an accessibility advocate who loves the open web and open source design and 
 
 [Find out more about me](/about/).
 
-<hr>
-
 ## What I Do as a Designer
 
 I have more than a decade of design and front-end development experience, spanning non-profits, start-ups and government agencies. The connecting line in my work has been a knack for understanding where people are coming from, running toward "sticky" problems and having an accessibility-first mindset.
@@ -33,8 +31,6 @@ I approach my work through a few principles:
 
 [Learn more about my side projects](/projects/)
 
-<hr>
-
 ## Writing Highlights
 
 Speaking of words, I've collected a few of my [favorite posts I've written elsewhere](/tags/selected-writing/). You might enjoy reading them or my favorites from this site.
@@ -48,8 +44,6 @@ If that's not enough, here are some of the latest posts from my blog.
 {% include "partials/post-list.njk" %}
 
 [Read more posts on the blog](/blog/).
-
-<hr>
 
 ## Now
 
