@@ -143,7 +143,7 @@ body {
 .stack > h4 + *,
 .stack > h5 + *,
 .stack > h6 + * {
-  margin-top: 0.5rem;
+  margin-top: var(--space-small);
 }
 
 /* Navigation utility */
@@ -162,6 +162,7 @@ body {
 /* Intro utility */
 .intro {
   font-size: 125%;
+  line-height: 1.4;
 }
 
 /* Elements */
@@ -488,6 +489,11 @@ input[type="submit"]:focus {
 
 .site-footer > *:not(nav) {
   padding: 0 var(--space-xxsmall);
+}
+
+/* A few one-offs */
+.home-page .stack > .title + div {
+  margin-top: var(--space-large);
 }
 
 /* Going dark */
