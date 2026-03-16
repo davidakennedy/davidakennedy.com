@@ -461,7 +461,6 @@ input[type="submit"]:focus {
 .site-title,
 .site-navigation a {
   display: inline-block;
-  font-size: 87.5%;
   font-weight: 700;
   padding: var(--space-xxsmall);
 }
