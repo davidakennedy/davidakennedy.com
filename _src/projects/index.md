@@ -15,15 +15,11 @@ Accessibility Weekly is a weekly dose of web accessibility to help you bring it 
 
 [Visit the Accessibility Weekly site](http://a11yweekly.com).
 
-<hr>
-
 ## Accessibility and Me
 
 A11y.me is an evolving list of the best resources in web accessibility. You can [check out the project on GitHub](https://github.com/davidakennedy/a11y.me).
 
 [Visit the Accessibility and Me site](http://a11y.me).
-
-<hr>
 
 ## Other Projects
 
