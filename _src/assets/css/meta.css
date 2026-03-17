@@ -9,7 +9,7 @@
 }
 
 .title + .meta {
-  margin-top: var(--space-xxxxsmall);
+  margin-top: var(--space-xxxsmall);
 }
 
 .blog-link svg {

@@ -28,32 +28,24 @@
   list-style: none;
 }
 
-.stack > .post-list {
-  margin-top: 0;
-}
-
-.post-list + .year-number {
-  margin-top: var(--space-xxxxlarge);
-}
-
 .year-number {
   display: flex;
   flex-wrap: wrap;
-  gap: var(--space-xxxxsmall);
+  gap: var(--space-xxxxxsmall);
 }
 
 .year-number .meta {
   align-self: center;
 }
 
-.year-number + .post-list {
-  margin-top: var(--space-xxsmall);
+.post-list > * + * {
+  margin-top: var(--space-xxxxxlarge);
 }
 
-.post-list > * + * {
-  margin-top: var(--space-xxlarge);
+.post-list + .year-number {
+  margin-top: var(--space-xxxxxxxlarge);
 }
 
 .post-list .post-excerpt {
-  margin-top: var(--space-xsmall);
+  margin-top: var(--space-xxxsmall);
 }
