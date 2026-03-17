@@ -1,6 +1,6 @@
 {% set navLinks = collections.all | eleventyNavigation %}
 {% if navLinks.length > 0 %}
-  <nav>
+  <nav class="site-navigation">
     <ul class="nav">
     {%- for entry in navLinks %}
       <li class="nav-item">
