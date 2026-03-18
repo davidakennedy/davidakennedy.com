@@ -325,7 +325,8 @@ mark {
   background-color: var(--color-accent);
 }
 
-a {
+a,
+a:link {
   color: var(--color-text);
   position: relative;
   text-decoration: underline;
@@ -338,14 +339,6 @@ a:visited {
   text-decoration-color: var(--color-visited);
 }
 
-a:focus {
-  background-color: var(--color-focus);
-  color: var(--color-text);
-  outline: 0.1em solid var(--color-text);
-  outline-offset: 0.1em;
-  text-decoration: none;
-}
-
 a:hover {
   color: var(--color-link);
   outline: 0;
@@ -353,8 +346,17 @@ a:hover {
 }
 
 a:active {
+  color: var(--color-text);
   outline: 0;
   top: 0.1em;
+}
+
+a:focus {
+  background-color: var(--color-focus);
+  color: var(--color-text);
+  outline: 0.1em solid var(--color-text);
+  outline-offset: 0.1em;
+  text-decoration: none;
 }
 
 .skip-link {
