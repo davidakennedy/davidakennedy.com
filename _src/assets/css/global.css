@@ -473,7 +473,7 @@ input[type="submit"]:focus {
 .site-content {
   margin: 0 auto;
   max-width: 45rem;
-  padding: var(--space-xlarge) var(--space-xxsmall);
+  padding: var(--space-xlarge) var(--space-xxsmall) var(--space-xxxxxxxxxlarge);
 }
 
 .content > * {
