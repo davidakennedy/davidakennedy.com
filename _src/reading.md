@@ -19,3 +19,5 @@ The list:
 4. _Life After Cars_ by Sarah Goodyear, Doug Gordon, Aaron Naparstek
 5. _Every Drop of Blood_ by Edward Achorn
 6. _Platform Decay_ by Martha Wells
+7. _Effortless Outfits: The Men's Guide to Matching Clothes for Powerful Impression in Personal and Professional Life_ by Robert van Tongeren
+8. _The Dog of the South_ by Charles Portis
