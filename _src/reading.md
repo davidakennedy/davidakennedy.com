@@ -21,3 +21,4 @@ The list:
 6. _Platform Decay_ by Martha Wells
 7. _Effortless Outfits: The Men's Guide to Matching Clothes for Powerful Impression in Personal and Professional Life_ by Robert van Tongeren
 8. _The Dog of the South_ by Charles Portis
+9. _Inside the Box_ by David Epstein
